@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course": "BUS334",
   "period": "2026-TSD",
-  "reviewed_at": "2026-10-07T12:22:24.400329+04:00",
+  "reviewed_at": "2026-10-07T13:09:03.572349+04:00",
   "allowed_states": [
     "предложено",
     "согласовано",
@@ -24,7 +24,7 @@
           "value": "2026-11-19 13:00 Asia/Dubai",
           "source_label": "Moodle API timestamp",
           "checked_at": "2026-10-07",
-          "source_path": "Correspondence/2026-10-07_lms-check.json"
+          "source_path": "Correspondence/2026-10-07_followup-lms-check.json"
         }
       ],
       "evidence": [
@@ -38,6 +38,12 @@
           "date": "2026-10-07",
           "note": "Прочитаны актуальные портал, срок и доступный статус. ",
           "path": "Correspondence/2026-10-07_lms-check.json",
+          "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Повторная проверка Moodle: срок 19 ноября 13:00 Dubai, grading notgraded; числовой оценки нет.",
+          "path": "Correspondence/2026-10-07_followup-lms-check.json",
           "source": ""
         }
       ],
@@ -56,7 +62,7 @@
           "value": "2026-09-20 19:59 Asia/Dubai",
           "source_label": "Moodle API timestamp",
           "checked_at": "2026-10-07",
-          "source_path": "Correspondence/2026-10-07_lms-check.json"
+          "source_path": "Correspondence/2026-10-07_followup-lms-check.json"
         }
       ],
       "evidence": [
@@ -77,6 +83,12 @@
           "note": "Прочитаны актуальные портал, срок и доступный статус. Submission submitted; grading graded. ",
           "path": "Correspondence/2026-10-07_lms-check.json",
           "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Повторная проверка Moodle: submitted, graded, 15/20; feedback доступен.",
+          "path": "Correspondence/2026-10-07_followup-lms-check.json",
+          "source": ""
         }
       ],
       "unknown": "Новых требований к пересдаче или замене анкеты в полученном feedback нет; устные уточнения не проверены.",
@@ -85,7 +97,7 @@
       "grade": {
         "value": 15,
         "maximum": 20,
-        "source_path": "Correspondence/2026-10-07_lms-check.json",
+        "source_path": "Correspondence/2026-10-07_followup-lms-check.json",
         "checked_at": "2026-10-07"
       }
     },
@@ -93,14 +105,14 @@
       "id": "A3",
       "title": "Data Collection & Preliminary Analysis, 30%",
       "status": "предложено",
-      "next_action": "Подтвердить состав группы и общую анкету перед сбором ответов.",
-      "detail": "Сбор данных и ответы респондентов в проверенных файлах не подтверждены.",
+      "next_action": "Согласовать с Nikita, Khushal, Vishal и Irzakov тему и общую анкету из 20 вопросов с учётом feedback A2; затем собрать минимум 15 полных ответов лично.",
+      "detail": "Состав группы утверждён Ashok Mitra 4 октября. Тема Faiaz — grocery store для студентов Murdoch Dubai; выбор этой темы всей группой ещё не подтверждён. По Unit Outline общая анкета включает 20 вопросов, каждый собирает минимум 15 полных ответов; анализ и отчёт A3 выполняются и оцениваются индивидуально. Сбор данных и ответы респондентов не подтверждены.",
       "deadlines": [
         {
           "value": "2026-10-25 19:59 Asia/Dubai",
           "source_label": "Moodle API timestamp",
           "checked_at": "2026-10-07",
-          "source_path": "Correspondence/2026-10-07_lms-check.json"
+          "source_path": "Correspondence/2026-10-07_followup-lms-check.json"
         }
       ],
       "evidence": [
@@ -115,9 +127,27 @@
           "note": "Прочитаны актуальные портал, срок и доступный статус. ",
           "path": "Correspondence/2026-10-07_lms-check.json",
           "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Повторная проверка Moodle: срок 25 октября 19:59 Dubai, статус new, загруженных файлов нет.",
+          "path": "Correspondence/2026-10-07_followup-lms-check.json",
+          "source": ""
+        },
+        {
+          "date": "2026-10-04",
+          "note": "Ashok Mitra утвердил Group 1 (четверг): Faiaz, Nikita, Khushal, Vishal, Irzakov; письмо прочитано 7 октября.",
+          "path": "Correspondence/2026-10-04_finalised-groups.md",
+          "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Локальный Unit Outline, §4.2.3: общая анкета 20 вопросов, минимум 15 полных ответов на человека, индивидуальный анализ и отчёт.",
+          "path": "Materials/UnitOutline/00_UNIT_OUTLINE_BUS334_TSD2026.md",
+          "source": ""
         }
       ],
-      "unknown": "В LMS 7 октября только группы потока/посещаемости; команды для оцениваемой групповой A4 не установлены. Данные ещё не предоставлены.",
+      "unknown": "Общая тема, анкета, роли и фактический сбор данных не подтверждены. API показывает только группы потока/посещаемости; утверждённый письмом состав команды этим не отменяется.",
       "show_on_overview": true,
       "correction": ""
     },
@@ -140,9 +170,21 @@
           "note": "Прочитаны актуальные портал, срок и доступный статус. ",
           "path": "Correspondence/2026-10-07_lms-check.json",
           "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Повторная проверка Moodle: due отсутствует, team_status new, team_group_id 0.",
+          "path": "Correspondence/2026-10-07_followup-lms-check.json",
+          "source": ""
+        },
+        {
+          "date": "2026-10-04",
+          "note": "Ashok Mitra утвердил Group 1 (четверг): Faiaz, Nikita, Khushal, Vishal, Irzakov; письмо прочитано 7 октября.",
+          "path": "Correspondence/2026-10-04_finalised-groups.md",
+          "source": ""
         }
       ],
-      "unknown": "В API 7 октября due отсутствует; дата выступления и состав команды остаются неизвестными.",
+      "unknown": "Дата выступления остаётся неизвестной; due в API отсутствует. Команда для последующих заданий утверждена письмом 4 октября, но её регистрация в портале A4 не подтверждена (team_group_id 0).",
       "show_on_overview": false,
       "correction": ""
     },
@@ -151,13 +193,13 @@
       "title": "Peer Evaluation",
       "status": "предложено",
       "next_action": "Проверить актуальное время и требования отдельного портала.",
-      "detail": "Снимок указывает календарный день, точное время в основной записи отсутствует.",
+      "detail": "Отдельный индивидуальный портал Peer Evaluation; точный срок получен из Moodle timestamp.",
       "deadlines": [
         {
           "value": "2026-11-28 19:55 Asia/Dubai",
           "source_label": "Moodle API timestamp",
           "checked_at": "2026-10-07",
-          "source_path": "Correspondence/2026-10-07_lms-check.json"
+          "source_path": "Correspondence/2026-10-07_followup-lms-check.json"
         }
       ],
       "evidence": [
@@ -171,6 +213,12 @@
           "date": "2026-10-07",
           "note": "Прочитаны актуальные портал, срок и доступный статус. ",
           "path": "Correspondence/2026-10-07_lms-check.json",
+          "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Повторная проверка Moodle: срок 28 ноября 19:55 Dubai, статус new, загруженных файлов нет.",
+          "path": "Correspondence/2026-10-07_followup-lms-check.json",
           "source": ""
         }
       ],

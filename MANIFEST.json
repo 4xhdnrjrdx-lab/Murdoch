@@ -23,8 +23,8 @@
     },
     {
       "path": "ACCESS_STATUS.json",
-      "bytes": 2865,
-      "sha256": "4cff9614c7d1c3d0de2a94137dec7e587767fd59c19a41508388a855a470f1f5",
+      "bytes": 3478,
+      "sha256": "8b899017b2da8c3a7f3b697030fee003177a6188d8979daa677f0f4b86ff3398",
       "storage": "git"
     },
     {
@@ -2351,14 +2351,26 @@
     },
     {
       "path": "BUS334/2026-TSD/CONTEXT.md",
-      "bytes": 2418,
-      "sha256": "f326c743698b59f6af085ba018d09f26c6a2de57f4fdd69ea87b425c7fff5f9e",
+      "bytes": 3098,
+      "sha256": "4807d8a4cd2895dd48c24a867118ba236bb5062bbb569fbdcea108c5f74a9cbd",
       "storage": "git"
     },
     {
       "path": "BUS334/2026-TSD/Correspondence/2026-09-19_turnitin-receipt.md",
       "bytes": 942,
       "sha256": "ca021e7e17b15664afd6d00266bb43738ec47cd86c3b2ab504c270e600b1ee27",
+      "storage": "git"
+    },
+    {
+      "path": "BUS334/2026-TSD/Correspondence/2026-10-04_finalised-groups.md",
+      "bytes": 1374,
+      "sha256": "3b78a31cf863c0b80d4911d2a31249449e29f3c27d91171108a5faf2efd3ee29",
+      "storage": "git"
+    },
+    {
+      "path": "BUS334/2026-TSD/Correspondence/2026-10-07_followup-lms-check.json",
+      "bytes": 7441,
+      "sha256": "2d1265a07bacb9e119252a50cb9575143b662113a2339b388cd6689ee6110c2d",
       "storage": "git"
     },
     {
@@ -2369,14 +2381,14 @@
     },
     {
       "path": "BUS334/2026-TSD/Correspondence/README.md",
-      "bytes": 387,
-      "sha256": "36ffbe4fa1fc8a7eeeb26631247275a29a25d19b553bbe189380f25a9122e7a7",
+      "bytes": 596,
+      "sha256": "cd6fc0466ec7a1a93e8e959d1c6bff03b4cebabc97bd248c254b63d01e4fbf63",
       "storage": "git"
     },
     {
       "path": "BUS334/2026-TSD/HISTORY.md",
-      "bytes": 1182,
-      "sha256": "0bf055c9ee6481d2c174eeb9a89d747bb70f54b8a918806528ebc0fa818cf302",
+      "bytes": 2102,
+      "sha256": "ed9623fa85aefe0606e68db6fd047ff9c928a6b431cbb65193693a8a48efc5c0",
       "storage": "git"
     },
     {
@@ -2657,20 +2669,20 @@
     },
     {
       "path": "BUS334/2026-TSD/TASKS.json",
-      "bytes": 7866,
-      "sha256": "ea9cade5ef4e2d2a5c4e15eb3a14e0f38ed1fcbd4eca636f693f54d0009370a4",
+      "bytes": 11210,
+      "sha256": "48a790ae90581579c81675aec3677f090562255370fdec6e26b3172acc1c606f",
       "storage": "git"
     },
     {
       "path": "BUS334/2026-TSD/TASKS.md",
-      "bytes": 5747,
-      "sha256": "a2859aafe1212b69f773143b0bdb7839cf7819799658164a533e526fab1b76ab",
+      "bytes": 8391,
+      "sha256": "3414b2821edd8507ada4f15d12566a6c5f4e309e3ea30656b28116b459a640b4",
       "storage": "git"
     },
     {
       "path": "BUS334/2026-TSD/TEAM.md",
-      "bytes": 1074,
-      "sha256": "1d692e90049f9acac404c21635b6a57145de2c1051e2c3c50ddaf8b73d24a4bf",
+      "bytes": 1649,
+      "sha256": "9e12d4d6a12064dbb62fad170513be27f02d0f75039b1c91410a553e108cdac4",
       "storage": "git"
     },
     {
@@ -3131,8 +3143,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4524,
-      "sha256": "3cc9d893bad5393bfe0f3606564ff99151c669d77f210c83cd1395247177a3fb",
+      "bytes": 4643,
+      "sha256": "41c7b067acfb41ab6e08f3b3a7adc93ef21e24fa9a9378706d54b241544e0720",
       "storage": "git"
     },
     {
@@ -3202,6 +3214,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 533,
-  "total_bytes": 445747943
+  "file_count": 535,
+  "total_bytes": 445765862
 }

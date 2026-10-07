@@ -14,18 +14,24 @@
           "WhatsApp"
         ],
         "evidence": "BUS230/2026-TSD/Correspondence/2026-10-07_continuation-check.json"
+      },
+      "BUS334": {
+        "checked_at": "2026-10-07T13:09:03.572349+04:00",
+        "scope": "Gmail forwarded university mail since 15 September: BUS334 / BUS 334 / Business Analytics; Ashok Mitra sender search; receipt and finalised-groups email bodies read",
+        "result": "4 October finalised group confirmed: Faiaz, Nikita, Khushal, Vishal, Irzakov. Full university Outlook and WhatsApp not checked.",
+        "evidence": "BUS334/2026-TSD/Correspondence/2026-10-04_finalised-groups.md"
       }
     }
   },
   "lms": {
-    "checked_at": "2026-10-07T12:22:24.400329+04:00",
+    "checked_at": "2026-10-07T13:07:45.813958+04:00",
     "result": "ok",
-    "operation": "core_webservice_get_site_info and subsequent read-only course checks",
+    "operation": "Latest check: BUS334 read-only course contents, assignments, own submissions, grades, own groups and news forums; other course checks preserved in last_success_by_course",
     "last_success_by_course": {
       "BUS219": "2026-10-07T12:22:24.400329+04:00",
       "BUS225": "2026-10-07T12:22:24.400329+04:00",
       "BUS230": "2026-10-07T13:05:17.617533+04:00",
-      "BUS334": "2026-10-07T12:22:24.400329+04:00"
+      "BUS334": "2026-10-07T13:07:45.813958+04:00"
     },
     "token_expiry": "unknown",
     "successful_account_check": {
@@ -41,7 +47,7 @@
       "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-07_lms-check.json",
       "BUS225": "BUS225/2026-TSD/Correspondence/2026-10-07_lms-check.json",
       "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-07_continuation-check.json",
-      "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-07_lms-check.json"
+      "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-07_followup-lms-check.json"
     }
   },
   "secret_storage": {

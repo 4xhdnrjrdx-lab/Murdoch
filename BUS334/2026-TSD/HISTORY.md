@@ -8,3 +8,6 @@
 Основания событий и ссылки: [TASKS.md](TASKS.md), [TEAM.md](TEAM.md), [CONTEXT.md](CONTEXT.md), [Correspondence](Correspondence/README.md). История старых решений сохранена в материалах и архивных записях.
 
 - 2026-10-07: после обновления токена повторно прочитаны LMS, собственные группы, сдачи и доступные оценки; источник Correspondence/2026-10-07_lms-check.json.
+
+- 2026-10-07: при продолжении BUS334 найдено и прочитано письмо Ashok Mitra от 4 октября об окончательном составе Group 1: Faiaz, Nikita, Khushal, Vishal, Irzakov. TEAM и следующие действия исправлены по этому подтверждению; роли, общая анкета и сбор данных неизвестны. Источник: [выписка письма](Correspondence/2026-10-04_finalised-groups.md).
+- 2026-10-07: повторно проверены Moodle и пересланная университетская почта Gmail. A2 15/20, A3 до 25 октября 19:59 Dubai, A4 без точной даты; новых news announcements нет. Источник: [проверка LMS](Correspondence/2026-10-07_followup-lms-check.json). Полный Outlook и WhatsApp не охвачены.

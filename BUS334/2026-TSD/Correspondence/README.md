@@ -5,3 +5,6 @@
 - [2026-09-19_turnitin-receipt.md](2026-09-19_turnitin-receipt.md)
 
 - [Свежая проверка Moodle 7 октября](2026-10-07_lms-check.json)
+
+- [Утверждённая группа — письмо 4 октября](2026-10-04_finalised-groups.md)
+- [Повторная проверка Moodle 7 октября](2026-10-07_followup-lms-check.json)
