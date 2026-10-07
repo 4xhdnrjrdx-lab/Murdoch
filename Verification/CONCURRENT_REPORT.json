@@ -1,0 +1,14 @@
+{
+  "checked_at": "2026-10-07 Asia/Dubai",
+  "result": "PASS",
+  "remote": "disposable local bare remote, not production main",
+  "clones": 2,
+  "cases": [
+    "foreign shared-tree edits block publisher without overwrite",
+    "stale remote blocks uncommitted publication without overwrite",
+    "course branch merges with updated main, keeps both courses",
+    "regenerated manifest and fresh final clone pass verify"
+  ],
+  "test_directory": "/var/folders/10/3ffx0y4n14l57q_ysrmc8m6w0000gn/T/murdoch-concurrent-_9djlpwv",
+  "verification": "PASS: 514 files, 205220742 bytes; SHA-256, scope, sources, links, states and secret scan"
+}

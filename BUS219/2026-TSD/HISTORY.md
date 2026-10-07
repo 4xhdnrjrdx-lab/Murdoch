@@ -8,3 +8,5 @@
 Основания событий и ссылки: [TASKS.md](TASKS.md), [TEAM.md](TEAM.md), [CONTEXT.md](CONTEXT.md), [Correspondence](Correspondence/README.md). История старых решений сохранена в материалах и архивных записях.
 
 - 2026-10-07: прочитаны строки Dubai ISC в расписании и Exam Aids; источник в TASKS.json.
+
+- 2026-10-07: после обновления токена повторно прочитаны LMS, собственные группы, сдачи и доступные оценки; источник Correspondence/2026-10-07_lms-check.json.

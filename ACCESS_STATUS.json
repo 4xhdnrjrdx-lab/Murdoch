@@ -5,20 +5,39 @@
     "result": "Прочитаны подтверждения Turnitin, письма преподавателей и уведомление о расписании экзаменов. WhatsApp и полный университетский Outlook этой проверкой не охвачены."
   },
   "lms": {
-    "checked_at": "2026-10-07 Asia/Dubai",
-    "result": "invalidtoken",
-    "operation": "core_webservice_get_site_info, read-only",
+    "checked_at": "2026-10-07T12:22:24.400329+04:00",
+    "result": "ok",
+    "operation": "core_webservice_get_site_info and subsequent read-only course checks",
     "last_success_by_course": {
-      "BUS219": "2026-09-19",
-      "BUS225": "2026-09-30",
-      "BUS230": "2026-09-19; group screenshot 2026-09-23",
-      "BUS334": "2026-09-19"
+      "BUS219": "2026-10-07T12:22:24.400329+04:00",
+      "BUS225": "2026-10-07T12:22:24.400329+04:00",
+      "BUS230": "2026-10-07T12:22:24.400329+04:00",
+      "BUS334": "2026-10-07T12:22:24.400329+04:00"
+    },
+    "token_expiry": "unknown",
+    "successful_account_check": {
+      "userid": 257560
+    },
+    "course_access": {
+      "BUS219": true,
+      "BUS225": true,
+      "BUS230": true,
+      "BUS334": true
+    },
+    "evidence": {
+      "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-07_lms-check.json",
+      "BUS225": "BUS225/2026-TSD/Correspondence/2026-10-07_lms-check.json",
+      "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-07_lms-check.json",
+      "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-07_lms-check.json"
     }
   },
   "secret_storage": {
     "selected_at": "2026-10-07",
     "location": "Apple Passwords, iCloud synchronization",
-    "new_token_saved_and_verified": false
+    "new_token_saved_and_verified": true,
+    "user_action": "completed",
+    "confirmed_on_iphone": true,
+    "confirmed_by": "User message 2026-10-07: saved in Apple Passwords, checked on iPhone, configure performed, check access ok"
   },
   "github": {
     "repository": "4xhdnrjrdx-lab/Murdoch",

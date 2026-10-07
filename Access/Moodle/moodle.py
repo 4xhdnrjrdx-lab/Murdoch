@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Murdoch Moodle: explicit read operations, external secrets, no network on import."""
-import argparse,getpass,json,os,re,sys,urllib.parse,urllib.request,urllib.error
+import argparse,base64,getpass,json,os,re,sys,urllib.parse,urllib.request,urllib.error
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[2]
 BASE='https://moodleprod.murdoch.edu.au'
@@ -11,7 +11,12 @@ class NoRedirect(urllib.request.HTTPRedirectHandler):
  def redirect_request(self,*args,**kw):raise MoodleError('redirect_blocked')
 class Client:
  def __init__(self,token_file=None):
-  self.token_file=Path(token_file or os.environ.get('MOODLE_TOKEN_FILE',ROOT/'.secrets/moodle.token')).expanduser()
+  config_path=ROOT/'Access/Moodle/config.json'
+  try: config=json.loads(config_path.read_text()) if config_path.exists() else {}
+  except (OSError,ValueError):raise MoodleError('invalid_local_config') from None
+  value=token_file or os.environ.get('MOODLE_TOKEN_FILE') or config.get('token_file') or ROOT/'.secrets/moodle.token'
+  self.token_file=Path(value).expanduser()
+  if not self.token_file.is_absolute():self.token_file=ROOT/self.token_file
   self.opener=urllib.request.build_opener(NoRedirect())
  def _token(self):
   try:t=self.token_file.read_text().strip()
@@ -46,9 +51,23 @@ class Client:
   except MoodleError:tmp.unlink(missing_ok=True);raise
   except (urllib.error.URLError,OSError):tmp.unlink(missing_ok=True);raise MoodleError('file_download_error') from None
 
-def configure(path):
+def decode_mobile_location(value):
+ u=urllib.parse.urlsplit(value.strip())
+ if u.scheme!='moodlemobile':raise MoodleError('invalid_mobile_callback')
+ encoded=urllib.parse.parse_qs(u.query).get('token',[None])[0]
+ if not encoded and u.netloc.startswith('token='):encoded=urllib.parse.unquote(u.netloc[6:]+u.path)
+ if not encoded:raise MoodleError('invalid_mobile_callback')
+ try:
+  fields=base64.b64decode(encoded+'='*(-len(encoded)%4),validate=True).decode().split(':::')
+ except (ValueError,UnicodeError):raise MoodleError('invalid_mobile_callback') from None
+ if len(fields)<2 or not re.fullmatch(r'[A-Za-z0-9_-]{20,256}',fields[1]):raise MoodleError('invalid_mobile_callback')
+ return fields[1]
+
+def configure(path,mobile=False):
+ if not sys.stdin.isatty():raise MoodleError('interactive_terminal_required')
  p=Path(path).expanduser();p.parent.mkdir(parents=True,exist_ok=True,mode=0o700)
- t=getpass.getpass('Moodle token (hidden; retrieve from Apple Passwords): ').strip()
+ value=getpass.getpass('Mobile Location callback (hidden): ' if mobile else 'Moodle token (hidden; retrieve from Apple Passwords): ').strip()
+ t=decode_mobile_location(value) if mobile else value
  if not re.fullmatch(r'[A-Za-z0-9_-]{20,256}',t):raise MoodleError('invalid_local_token_format')
  # Check it before replacing any working key. Temporary key remains outside tracked files.
  tmp=p.with_name(p.name+'.new');fd=os.open(tmp,os.O_WRONLY|os.O_CREAT|os.O_TRUNC,0o600)
@@ -60,15 +79,14 @@ def configure(path):
  finally:tmp.unlink(missing_ok=True)
 
 def main():
- ap=argparse.ArgumentParser();ap.add_argument('command',choices=['check','configure','download-bus230-videos']);ap.add_argument('--token-file');args=ap.parse_args()
+ ap=argparse.ArgumentParser();ap.add_argument('command',choices=['check','configure','configure-mobile','download-bus230-videos']);ap.add_argument('--token-file');args=ap.parse_args()
  client=Client(args.token_file)
  try:
-  if args.command=='configure':configure(client.token_file)
+  if args.command in {'configure','configure-mobile'}:configure(client.token_file,mobile=args.command=='configure-mobile')
   elif args.command=='check':print(json.dumps({'access':'ok','userid':client.call('core_webservice_get_site_info').get('userid')},ensure_ascii=False))
   else:
    client.call('core_webservice_get_site_info')
-   source=ROOT/'BUS230/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/course_contents.json'
-   for section in json.loads(source.read_text()):
+   for section in client.call('core_course_get_contents',{'courseid':31305}):
     for mod in section.get('modules',[]):
      for f in mod.get('contents',[]):
       if f.get('mimetype','').startswith('video/'):

@@ -3,5 +3,5 @@
   "token_file": ".secrets/moodle.token",
   "token_file_env": "MOODLE_TOKEN_FILE",
   "mode": "read-only",
-  "note": "Documentary example. Client uses the fixed approved host and MOODLE_TOKEN_FILE or --token-file; no secret belongs in this file."
+  "note": "Copy to config.json for local token_file path only. Client uses fixed approved host; --token-file and MOODLE_TOKEN_FILE take precedence. Never put a token here."
 }

@@ -1,0 +1,340 @@
+{
+  "assignments": [
+    {
+      "id": 125038,
+      "name": "Service organisation profile submission (Non assessable item submitted end of Session 4) -One per group",
+      "due_at_dubai": "2026-09-18T09:00:00+04:00",
+      "cutoff_at_dubai": "2026-09-25T09:00:00+04:00",
+      "teamsubmission": 1,
+      "submission_status": null,
+      "grading_status": "notgraded",
+      "modified_at_dubai": null,
+      "team_status": "new",
+      "team_group_id": 0,
+      "team_modified_at_dubai": "2026-08-24T13:34:08+04:00",
+      "canedit": false,
+      "cansubmit": false,
+      "files": [],
+      "grade": null
+    },
+    {
+      "id": 125040,
+      "name": "Reflective Journal and Service Blueprint - Group submission (one per group)",
+      "due_at_dubai": "2026-11-06T17:00:00+04:00",
+      "cutoff_at_dubai": "2026-11-13T17:00:00+04:00",
+      "teamsubmission": 1,
+      "submission_status": null,
+      "grading_status": "notgraded",
+      "modified_at_dubai": null,
+      "team_status": "new",
+      "team_group_id": 0,
+      "team_modified_at_dubai": "2026-07-20T13:20:06+04:00",
+      "canedit": false,
+      "cansubmit": false,
+      "files": [],
+      "grade": null
+    },
+    {
+      "id": 125039,
+      "name": "Video Presentation Submission",
+      "due_at_dubai": "2026-10-02T17:00:00+04:00",
+      "cutoff_at_dubai": "2026-10-09T17:00:00+04:00",
+      "teamsubmission": 0,
+      "submission_status": "submitted",
+      "grading_status": "notgraded",
+      "modified_at_dubai": "2026-09-26T21:08:52+04:00",
+      "team_status": null,
+      "team_group_id": null,
+      "team_modified_at_dubai": null,
+      "canedit": true,
+      "cansubmit": false,
+      "files": [],
+      "grade": null
+    },
+    {
+      "id": 125041,
+      "name": "Peer review submission - Individual",
+      "due_at_dubai": "2026-11-06T17:00:00+04:00",
+      "cutoff_at_dubai": "2026-11-15T17:00:00+04:00",
+      "teamsubmission": 0,
+      "submission_status": null,
+      "grading_status": "notgraded",
+      "modified_at_dubai": null,
+      "team_status": null,
+      "team_group_id": null,
+      "team_modified_at_dubai": null,
+      "canedit": false,
+      "cansubmit": false,
+      "files": [],
+      "grade": null
+    }
+  ],
+  "grades": [
+    {
+      "itemname": "",
+      "itemmodule": null,
+      "iteminstance": 46958,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "gradehiddenbydate": false,
+      "gradeishidden": false,
+      "feedback": ""
+    },
+    {
+      "itemname": "Video Presentation Submission",
+      "itemmodule": "assign",
+      "iteminstance": 125039,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "gradehiddenbydate": false,
+      "gradeishidden": false,
+      "feedback": ""
+    },
+    {
+      "itemname": "Reflective Journal and Service Blueprint - Group submission (one per group)",
+      "itemmodule": "assign",
+      "iteminstance": 125040,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "gradehiddenbydate": false,
+      "gradeishidden": false,
+      "feedback": ""
+    },
+    {
+      "itemname": "Service organisation profile submission (Non assessable item submitted end of Session 4) -One per group",
+      "itemmodule": "assign",
+      "iteminstance": 125038,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "gradehiddenbydate": false,
+      "gradeishidden": false,
+      "feedback": ""
+    },
+    {
+      "itemname": "Peer review submission - Individual",
+      "itemmodule": "assign",
+      "iteminstance": 125041,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "gradehiddenbydate": false,
+      "gradeishidden": false,
+      "feedback": ""
+    }
+  ],
+  "assessment_modules": [
+    {
+      "name": "Service organisation profile submission (Non assessable item submitted end of Session 4) -One per group",
+      "modname": "assign",
+      "instance": 125038,
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3076824",
+      "dates": [
+        {
+          "label": "Opened:",
+          "timestamp": 1787788800,
+          "dataid": "allowsubmissionsfromdate"
+        },
+        {
+          "label": "Due:",
+          "timestamp": 1789707600,
+          "dataid": "duedate"
+        }
+      ]
+    },
+    {
+      "name": "Video Presentation Submission",
+      "modname": "assign",
+      "instance": 125039,
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3076825",
+      "dates": [
+        {
+          "label": "Opened:",
+          "timestamp": 1789430400,
+          "dataid": "allowsubmissionsfromdate"
+        },
+        {
+          "label": "Due:",
+          "timestamp": 1790946000,
+          "dataid": "duedate"
+        }
+      ]
+    },
+    {
+      "name": "Reflective Journal and Service Blueprint - Group submission (one per group)",
+      "modname": "assign",
+      "instance": 125040,
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3076826",
+      "dates": [
+        {
+          "label": "Opens:",
+          "timestamp": 1792022400,
+          "dataid": "allowsubmissionsfromdate"
+        },
+        {
+          "label": "Due:",
+          "timestamp": 1793970000,
+          "dataid": "duedate"
+        }
+      ]
+    },
+    {
+      "name": "Peer review submission - Individual",
+      "modname": "assign",
+      "instance": 125041,
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3076827",
+      "dates": [
+        {
+          "label": "Opens:",
+          "timestamp": 1792454400,
+          "dataid": "allowsubmissionsfromdate"
+        },
+        {
+          "label": "Due:",
+          "timestamp": 1793970000,
+          "dataid": "duedate"
+        }
+      ]
+    },
+    {
+      "name": "Class 2 Groups",
+      "modname": "groupselect",
+      "instance": 9533,
+      "url": "https://moodleprod.murdoch.edu.au/mod/groupselect/view.php?id=3076834",
+      "dates": []
+    },
+    {
+      "name": "Quiz 1 - Services Marketing",
+      "modname": "quiz",
+      "instance": 110572,
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076842",
+      "dates": []
+    },
+    {
+      "name": "Quiz 2 - Service Consumers",
+      "modname": "quiz",
+      "instance": 110573,
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076849",
+      "dates": []
+    },
+    {
+      "name": "Quiz 3 - Positioning Services",
+      "modname": "quiz",
+      "instance": 110574,
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076858",
+      "dates": []
+    },
+    {
+      "name": "Quiz 4 - Service Products",
+      "modname": "quiz",
+      "instance": 110575,
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076865",
+      "dates": []
+    },
+    {
+      "name": "Quiz 5 - Service Distribution",
+      "modname": "quiz",
+      "instance": 110576,
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076872",
+      "dates": []
+    },
+    {
+      "name": "Setting Prices and Implementing Revenue Management",
+      "modname": "quiz",
+      "instance": 110577,
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076880",
+      "dates": []
+    },
+    {
+      "name": "Quiz 7 - Integrated Marketing Communications",
+      "modname": "quiz",
+      "instance": 110578,
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076887",
+      "dates": []
+    },
+    {
+      "name": "Quiz 8 - Designing service processes",
+      "modname": "quiz",
+      "instance": 110579,
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076896",
+      "dates": []
+    },
+    {
+      "name": "Quiz 9 - Crafting the Service Environment",
+      "modname": "quiz",
+      "instance": 110580,
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076903",
+      "dates": []
+    },
+    {
+      "name": "Quiz 10 - Managing People and Customer Service Function",
+      "modname": "quiz",
+      "instance": 110581,
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076910",
+      "dates": []
+    },
+    {
+      "name": "Quiz 11 - Managing Customer Relationships in Services",
+      "modname": "quiz",
+      "instance": 110582,
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076917",
+      "dates": []
+    },
+    {
+      "name": "Quiz 12 - Customer Satisfaction and Service Quality",
+      "modname": "quiz",
+      "instance": 110583,
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076925",
+      "dates": []
+    }
+  ],
+  "videos": [],
+  "groups": [
+    {
+      "id": 327105,
+      "name": "BUS225 Class 2",
+      "description": "",
+      "descriptionformat": 0,
+      "idnumber": "",
+      "courseid": 31320
+    },
+    {
+      "id": 318343,
+      "name": "SIS: BUS225_ATTD_DUBAI-ISC_FACE TO FACE",
+      "description": "",
+      "descriptionformat": 0,
+      "idnumber": "",
+      "courseid": 31320
+    }
+  ],
+  "assignment_metadata": [
+    {
+      "id": 125038,
+      "max_grade": 100,
+      "teamsubmission": 1
+    },
+    {
+      "id": 125040,
+      "max_grade": 40,
+      "teamsubmission": 1
+    },
+    {
+      "id": 125039,
+      "max_grade": 30,
+      "teamsubmission": 0
+    },
+    {
+      "id": 125041,
+      "max_grade": 100,
+      "teamsubmission": 0
+    }
+  ],
+  "announcements": [
+    {
+      "name": "Links for ONLINE students",
+      "message": "<p>Dear BUS225 Students,</p>\r\n<p>Welcome to SERVICE MARKETING! A course that promises to be as intellectually engaging as it is demanding. </p>\r\n<p dir=\"ltr\">Please make every effort to attend the first class (26th / 27th August). Beyond covering our first chapter, this session will lay out the assignment requirements and expectations that are essential to your success in the course. Missing it will put you at a real disadvantage from day one.</p>\r\n<p><strong>Online </strong>students, please note the following:</p>\r\n<ul>\r\n<li><strong>Wednesday </strong>class, please join the first link on LMS (<strong>Class 1</strong>)</li>\r\n<li><span style=\"color:#000000;\"><strong>Thursday </strong></span>class, please join the second link on LMS (<strong>Class 2</strong>).</li>\r\n</ul>\r\n<p>I look forward to meeting you all and to the term ahead.</p>\r\n<p>Regards,</p>\r\n<p>Dana Khoury Eid</p>",
+      "modified": 1787234337,
+      "discussion": 978620
+    }
+  ],
+  "checked_at": "2026-10-07T12:22:24.400329+04:00",
+  "operations": "read-only core contents, assignments, submission status, groups, grade items, news forums"
+}

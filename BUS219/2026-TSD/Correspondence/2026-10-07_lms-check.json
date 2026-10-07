@@ -1,0 +1,116 @@
+{
+  "assignments": [],
+  "grades": [
+    {
+      "itemname": "Lecture recording Session 2",
+      "itemmodule": "alplinks",
+      "iteminstance": 122780,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "gradehiddenbydate": false,
+      "gradeishidden": true,
+      "feedback": ""
+    },
+    {
+      "itemname": "Lecture recording Session 3",
+      "itemmodule": "alplinks",
+      "iteminstance": 122781,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "gradehiddenbydate": false,
+      "gradeishidden": true,
+      "feedback": ""
+    },
+    {
+      "itemname": "Lecture recording session 5",
+      "itemmodule": "alplinks",
+      "iteminstance": 122783,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "gradehiddenbydate": false,
+      "gradeishidden": true,
+      "feedback": ""
+    },
+    {
+      "itemname": "Final Exam",
+      "itemmodule": null,
+      "iteminstance": null,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "gradehiddenbydate": false,
+      "gradeishidden": true,
+      "feedback": ""
+    },
+    {
+      "itemname": "exam mark",
+      "itemmodule": null,
+      "iteminstance": null,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "gradehiddenbydate": false,
+      "gradeishidden": true,
+      "feedback": ""
+    },
+    {
+      "itemname": "Participation (10 )                                            A ",
+      "itemmodule": null,
+      "iteminstance": null,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "gradehiddenbydate": false,
+      "gradeishidden": true,
+      "feedback": ""
+    },
+    {
+      "itemname": "Total ",
+      "itemmodule": null,
+      "iteminstance": null,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "gradehiddenbydate": false,
+      "gradeishidden": false,
+      "feedback": ""
+    },
+    {
+      "itemname": "",
+      "itemmodule": null,
+      "iteminstance": 47345,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "gradehiddenbydate": false,
+      "gradeishidden": false,
+      "feedback": ""
+    }
+  ],
+  "assessment_modules": [],
+  "videos": [],
+  "groups": [
+    {
+      "id": 327102,
+      "name": "BUS219 Class 1",
+      "description": "",
+      "descriptionformat": 0,
+      "idnumber": "",
+      "courseid": 31585
+    },
+    {
+      "id": 320922,
+      "name": "SIS: BUS219_ATTD_DUBAI-ISC_FACE TO FACE",
+      "description": "",
+      "descriptionformat": 0,
+      "idnumber": "",
+      "courseid": 31585
+    }
+  ],
+  "assignment_metadata": [],
+  "announcements": [
+    {
+      "name": "Group Formation &amp; Pre- Workshop Reminder",
+      "message": "<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div> </div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div style=\"font-size:12pt;\">\r\n<p dir=\"ltr\">Dear Students,</p>\r\n<p dir=\"ltr\">I hope you're doing well.</p>\r\n<p dir=\"ltr\">This is a gentle reminder to please form groups of four for the upcoming presentations in Week 6. Kindly email me the names of your group members.</p>\r\n<p dir=\"ltr\">I've also included a link to the McKinsey report we discussed yesterday, \"Geopolitics and the Geometry of Global Trade: 2026 Update\" — <a href=\"https://www.mckinsey.com/mgi/our-research/geopolitics-and-the-geometry-of-global-trade-2026-update\">https://www.mckinsey.com/mgi/our-research/geopolitics-and-the-geometry-of-global-trade-2026-update</a></p>\r\n<p dir=\"ltr\">Lastly, please make sure to go through the slides and recording ahead of next week's lecture, so we can have an engaging discussion in class.</p>\r\n<p dir=\"ltr\">Thank you very much for your cooperation.</p>\r\n<p dir=\"ltr\">Best,<br />Navneet</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+      "modified": 1788942668,
+      "discussion": 984496
+    }
+  ],
+  "checked_at": "2026-10-07T12:22:24.400329+04:00",
+  "operations": "read-only core contents, assignments, submission status, groups, grade items, news forums"
+}

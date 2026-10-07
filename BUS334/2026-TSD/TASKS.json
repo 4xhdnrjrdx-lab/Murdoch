@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course": "BUS334",
   "period": "2026-TSD",
-  "reviewed_at": "2026-10-07",
+  "reviewed_at": "2026-10-07T12:22:24.400329+04:00",
   "allowed_states": [
     "предложено",
     "согласовано",
@@ -21,10 +21,10 @@
       "detail": "Coursework; выполнено упражнение Create Value с Nikita. Оценка участия не известна.",
       "deadlines": [
         {
-          "value": "2026-11-19 13:00",
-          "source_label": "Moodle API, сохранённая запись",
-          "checked_at": "2026-09-15",
-          "source_path": "../../Archive/LegacyNotes/tsd_2026_enrollment.md"
+          "value": "2026-11-19 13:00 Asia/Dubai",
+          "source_label": "Moodle API timestamp",
+          "checked_at": "2026-10-07",
+          "source_path": "Correspondence/2026-10-07_lms-check.json"
         }
       ],
       "evidence": [
@@ -32,6 +32,12 @@
           "date": "2026-09-19",
           "note": "Контекст и выполненное упражнение.",
           "path": "Archive/LegacyRecords/00_CHAT_CONTEXT.md",
+          "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Прочитаны актуальные портал, срок и доступный статус. ",
+          "path": "Correspondence/2026-10-07_lms-check.json",
           "source": ""
         }
       ],
@@ -42,15 +48,15 @@
     {
       "id": "A2",
       "title": "Individual questionnaire, 20%",
-      "status": "сдано",
-      "next_action": "После восстановления LMS прочитать оценку и обратную связь.",
-      "detail": "Grocery store для студентов; 20 вопросов, 17 закрытых и 3 открытых. Локальный DOCX совпал с загруженным файлом по SHA-256.",
+      "status": "оценено",
+      "next_action": "Учесть feedback при общей анкете/сборе для A3; исходную сдачу сохранить.",
+      "detail": "Grocery store для студентов; 20 вопросов, 17 закрытых и 3 открытых. Локальный DOCX совпал с загруженным файлом по SHA-256. 7 октября подтверждена оценка 15/20. Feedback: анкета в целом ясная и пригодная; улучшить profile variables gender/nationality, введение Q7, последовательность вопросов и оформление.",
       "deadlines": [
         {
-          "value": "2026-09-20 19:59",
-          "source_label": "Moodle API",
-          "checked_at": "2026-09-19",
-          "source_path": "Assignments/A2/_submission_checks/2026-09-19_A2.json"
+          "value": "2026-09-20 19:59 Asia/Dubai",
+          "source_label": "Moodle API timestamp",
+          "checked_at": "2026-10-07",
+          "source_path": "Correspondence/2026-10-07_lms-check.json"
         }
       ],
       "evidence": [
@@ -65,11 +71,23 @@
           "note": "Дополнительная квитанция Turnitin.",
           "path": "Correspondence/2026-09-19_turnitin-receipt.md",
           "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Прочитаны актуальные портал, срок и доступный статус. Submission submitted; grading graded. ",
+          "path": "Correspondence/2026-10-07_lms-check.json",
+          "source": ""
         }
       ],
-      "unknown": "Текущая оценка и комментарии преподавателя.",
+      "unknown": "Новых требований к пересдаче или замене анкеты в полученном feedback нет; устные уточнения не проверены.",
       "show_on_overview": false,
-      "correction": ""
+      "correction": "",
+      "grade": {
+        "value": 15,
+        "maximum": 20,
+        "source_path": "Correspondence/2026-10-07_lms-check.json",
+        "checked_at": "2026-10-07"
+      }
     },
     {
       "id": "A3",
@@ -79,10 +97,10 @@
       "detail": "Сбор данных и ответы респондентов в проверенных файлах не подтверждены.",
       "deadlines": [
         {
-          "value": "2026-10-25 19:59",
-          "source_label": "Moodle API, сохранённая запись",
-          "checked_at": "2026-09-15",
-          "source_path": "../../Archive/LegacyNotes/tsd_2026_enrollment.md"
+          "value": "2026-10-25 19:59 Asia/Dubai",
+          "source_label": "Moodle API timestamp",
+          "checked_at": "2026-10-07",
+          "source_path": "Correspondence/2026-10-07_lms-check.json"
         }
       ],
       "evidence": [
@@ -91,9 +109,15 @@
           "note": "Контекст: A2 готово, дальнейший сбор не выполнялся.",
           "path": "Archive/LegacyRecords/00_CHAT_CONTEXT.md",
           "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Прочитаны актуальные портал, срок и доступный статус. ",
+          "path": "Correspondence/2026-10-07_lms-check.json",
+          "source": ""
         }
       ],
-      "unknown": "Фактическая регистрация команды, объём данных и распределение.",
+      "unknown": "В LMS 7 октября только группы потока/посещаемости; команды для оцениваемой групповой A4 не установлены. Данные ещё не предоставлены.",
       "show_on_overview": true,
       "correction": ""
     },
@@ -110,9 +134,15 @@
           "note": "Структура оценивания и портал без даты.",
           "path": "Materials/UnitOutline/00_UNIT_OUTLINE_BUS334_TSD2026.md",
           "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Прочитаны актуальные портал, срок и доступный статус. ",
+          "path": "Correspondence/2026-10-07_lms-check.json",
+          "source": ""
         }
       ],
-      "unknown": "Точная дата выступления и срок supporting materials.",
+      "unknown": "В API 7 октября due отсутствует; дата выступления и состав команды остаются неизвестными.",
       "show_on_overview": false,
       "correction": ""
     },
@@ -124,10 +154,10 @@
       "detail": "Снимок указывает календарный день, точное время в основной записи отсутствует.",
       "deadlines": [
         {
-          "value": "2026-11-28, время не подтверждено",
-          "source_label": "Сводка Moodle API",
-          "checked_at": "2026-09-15",
-          "source_path": "../../Archive/LegacyNotes/tsd_2026_enrollment.md"
+          "value": "2026-11-28 19:55 Asia/Dubai",
+          "source_label": "Moodle API timestamp",
+          "checked_at": "2026-10-07",
+          "source_path": "Correspondence/2026-10-07_lms-check.json"
         }
       ],
       "evidence": [
@@ -136,9 +166,15 @@
           "note": "Сохранённая сводка Moodle.",
           "path": "../../Archive/LegacyNotes/tsd_2026_enrollment.md",
           "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Прочитаны актуальные портал, срок и доступный статус. ",
+          "path": "Correspondence/2026-10-07_lms-check.json",
+          "source": ""
         }
       ],
-      "unknown": "Точный час и статус сдачи.",
+      "unknown": "Сдача не подтверждена; точное время теперь получено из Moodle timestamp.",
       "show_on_overview": false,
       "correction": ""
     }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course": "BUS219",
   "period": "2026-TSD",
-  "reviewed_at": "2026-10-07",
+  "reviewed_at": "2026-10-07T12:22:24.400329+04:00",
   "allowed_states": [
     "предложено",
     "согласовано",

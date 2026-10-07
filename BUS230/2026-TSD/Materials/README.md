@@ -59,3 +59,16 @@
 - [output/pdf/BUS230_Anthropologists_Game_Murdoch_Dubai.pdf](output/pdf/BUS230_Anthropologists_Game_Murdoch_Dubai.pdf)
 - Точный дубль `BUS230/_lms_dump_2026-09-15/forum_149752.json` хранится один раз: [forum_151066.json](../../../BUS219/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/forum_151066.json)
 - Точный дубль `BUS230/_lms_dump_2026-09-15/forum_149753.json` хранится один раз: [forum_151066.json](../../../BUS219/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/forum_151066.json)
+
+## Видеолекции, сохранены 7 октября
+
+- [BUS230 Topic 1 Lecture.mp4](Videos/BUS230%20Topic%201%20Lecture.mp4)
+- [BUS230 Topic 2 Lecture.mp4](Videos/BUS230%20Topic%202%20Lecture.mp4)
+- [BUS230 Topic 3 Lecture.mp4](Videos/BUS230%20Topic%203%20Lecture.mp4)
+- [BUS230 Topic 4 Lecture.mp4](Videos/BUS230%20Topic%204%20Lecture.mp4)
+- [BUS230 Topic 5 Lecture.mp4](Videos/BUS230%20Topic%205%20Lecture.mp4)
+- [BUS230 Topic 6 Lecture.mp4](Videos/BUS230%20Topic%206%20Lecture.mp4)
+- [BUS230 Topic 7 Lecture.mp4](Videos/BUS230%20Topic%207%20Lecture.mp4)
+- [BUS230 Topic 8 Lecture.mp4](Videos/BUS230%20Topic%208%20Lecture.mp4)
+
+[Источники и хэши видео](Videos/SOURCES.json).

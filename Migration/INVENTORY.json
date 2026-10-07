@@ -3163,6 +3163,14 @@
       "sha256": "5a169d56448dc0406b04e43906cee3625ebc196c8aca2832373983c9b0587b95",
       "action": "copy",
       "source": "Gmail original attachment, read 2026-10-07"
+    },
+    {
+      "old_path": "vault/murdoch_moodle_api.md",
+      "new_path": "Archive/LegacyNotes/murdoch_moodle_api_2026-10-07.md",
+      "bytes": 7448,
+      "sha256": "bcfc623d8c287918905117a5f609c551c51746c0111f232383920504131e3fb7",
+      "action": "copy",
+      "source": "Updated by another study chat during migration on 2026-10-07; previous version retained separately"
     }
   ]
 }

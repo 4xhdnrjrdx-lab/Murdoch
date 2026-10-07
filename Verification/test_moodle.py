@@ -1,4 +1,4 @@
-import importlib.util,unittest,tempfile,urllib.parse
+import base64,importlib.util,unittest,tempfile,urllib.parse
 from pathlib import Path
 from unittest.mock import patch
 p=Path(__file__).resolve().parents[1]/'Access/Moodle/moodle.py'
@@ -29,6 +29,12 @@ class MoodleTests(unittest.TestCase):
   for url,code in [('https://example.com/webservice/pluginfile.php/1/a.mp4','file_url_not_allowed'),('https://moodleprod.murdoch.edu.au/webservice/pluginfile.php/1/Unit%20Outline.pdf','unit_outline_redownload_blocked')]:
    with self.assertRaises(module.MoodleError) as e:c.get_file(url,'unused')
    self.assertEqual(e.exception.code,code)
+ def test_mobile_callback_decodes_without_printing(self):
+  token='f'*32
+  encoded=base64.b64encode(('112233:::'+token+':::private-extra').encode()).decode()
+  self.assertEqual(module.decode_mobile_location('moodlemobile://token?token='+urllib.parse.quote(encoded)),token)
+  self.assertEqual(module.decode_mobile_location('moodlemobile://token='+encoded),token)
+  with self.assertRaises(module.MoodleError):module.decode_mobile_location('https://wrong.example/')
  def test_redirect_blocked(self):
   with self.assertRaises(module.MoodleError):module.NoRedirect().redirect_request(None,None,None,None,None,None)
  def test_read_request_contains_only_expected_function(self):

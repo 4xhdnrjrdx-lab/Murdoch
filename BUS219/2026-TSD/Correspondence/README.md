@@ -4,3 +4,5 @@
 
 - [2026-09-18_group-placement.md](2026-09-18_group-placement.md)
 - [2026-09-29_chat-evidence.md](2026-09-29_chat-evidence.md)
+
+- [Свежая проверка Moodle 7 октября](2026-10-07_lms-check.json)
