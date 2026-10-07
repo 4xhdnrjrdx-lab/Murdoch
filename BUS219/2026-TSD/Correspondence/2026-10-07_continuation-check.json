@@ -1,0 +1,30 @@
+{
+  "checked_at": "2026-10-07T13:06:22.043074+04:00",
+  "course": "BUS219",
+  "lms": {
+    "result": "ok",
+    "operations": "read-only site info, course contents, assignments, quizzes, news discussions",
+    "assessment_modules": [],
+    "assignments": [],
+    "quizzes": [],
+    "announcements": [
+      {
+        "name": "Group Formation &amp; Pre- Workshop Reminder",
+        "modified": 1788942668,
+        "discussion": 984496,
+        "summary": "Прежнее объявление о формировании групп и презентации в Week 6; сроков квизов и отчёта нет."
+      }
+    ]
+  },
+  "mail": {
+    "checked_at": "2026-10-07T13:06:22.043074+04:00",
+    "scope": "Пересланная университетская почта в Gmail; BUS219 / International Business / Navneet Walia с 15 сентября 2026",
+    "result": "Найдено одно письмо от 18 сентября; содержание повторно прочитано. Уточнения сроков Quiz 1 и A2 нет.",
+    "latest_message_id": "1a0b3c71389c0601",
+    "uncovered": [
+      "Полный университетский Outlook",
+      "WhatsApp"
+    ]
+  },
+  "conclusion": "Сроки Quiz 1 (Week 8 / Week 10) и A2 (конец занятия Week 12 / через 3 дня) остаются неразрешёнными. Отсутствие модулей в API не доказывает отсутствие заданий."
+}

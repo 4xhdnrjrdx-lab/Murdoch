@@ -4,6 +4,17 @@
     "scope": "Gmail forwarded university mail: BUS219, BUS225, BUS230, BUS334, TSD 2026 since 15 September",
     "result": "Прочитаны подтверждения Turnitin, письма преподавателей и уведомление о расписании экзаменов. WhatsApp и полный университетский Outlook этой проверкой не охвачены.",
     "last_check_by_course": {
+      "BUS219": {
+        "checked_at": "2026-10-07T13:06:22.043074+04:00",
+        "scope": "Пересланная университетская почта в Gmail; BUS219 / International Business / Navneet Walia с 15 сентября 2026",
+        "result": "Найдено одно письмо от 18 сентября; содержание повторно прочитано. Уточнения сроков Quiz 1 и A2 нет.",
+        "latest_message_id": "1a0b3c71389c0601",
+        "uncovered": [
+          "Полный университетский Outlook",
+          "WhatsApp"
+        ],
+        "evidence": "BUS219/2026-TSD/Correspondence/2026-10-07_continuation-check.json"
+      },
       "BUS230": {
         "checked_at": "2026-10-07T13:06:22.896677+04:00",
         "scope": "Пересланная университетская почта в Gmail; поиск BUS230 / Change Management с 1 сентября 2026",
@@ -24,11 +35,11 @@
     }
   },
   "lms": {
-    "checked_at": "2026-10-07T13:05:17.617533+04:00",
+    "checked_at": "2026-10-07T13:06:22.043074+04:00",
     "result": "ok",
-    "operation": "Read-only course checks; BUS225 and BUS230 refreshed independently. Exact per-course times and evidence are in last_success_by_course and evidence.",
+    "operation": "Read-only course checks refreshed independently; exact per-course times and evidence are in last_success_by_course and evidence.",
     "last_success_by_course": {
-      "BUS219": "2026-10-07T12:22:24.400329+04:00",
+      "BUS219": "2026-10-07T13:06:22.043074+04:00",
       "BUS225": "2026-10-07T13:04:57.563432+04:00",
       "BUS230": "2026-10-07T13:05:17.617533+04:00",
       "BUS334": "2026-10-07T12:22:24.400329+04:00"
@@ -44,7 +55,7 @@
       "BUS334": true
     },
     "evidence": {
-      "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-07_lms-check.json",
+      "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-07_continuation-check.json",
       "BUS225": "BUS225/2026-TSD/Correspondence/2026-10-07_1304_lms-check.json",
       "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-07_continuation-check.json",
       "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-07_lms-check.json"

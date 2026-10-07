@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course": "BUS219",
   "period": "2026-TSD",
-  "reviewed_at": "2026-10-07T12:22:24.400329+04:00",
+  "reviewed_at": "2026-10-07T13:06:22.043074+04:00",
   "allowed_states": [
     "предложено",
     "согласовано",
@@ -38,6 +38,12 @@
           "date": "2026-09-15",
           "note": "Outline содержит конфликт недель Quiz 1.",
           "path": "Materials/UnitOutline/00_UNIT_OUTLINE_BUS219_TSD2026.md",
+          "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Повторная проверка почты и Moodle в 13:06 Asia/Dubai: уточнений сроков нет; API не показывает quiz/assign.",
+          "path": "Correspondence/2026-10-07_continuation-check.json",
           "source": ""
         }
       ],
@@ -114,6 +120,12 @@
           "date": "2026-09-15",
           "note": "Объём и критерии отчёта.",
           "path": "Materials/UnitOutline/00_UNIT_OUTLINE_BUS219_TSD2026.md",
+          "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Повторная проверка почты и Moodle в 13:06 Asia/Dubai: уточнений сроков нет; API не показывает quiz/assign.",
+          "path": "Correspondence/2026-10-07_continuation-check.json",
           "source": ""
         }
       ],
