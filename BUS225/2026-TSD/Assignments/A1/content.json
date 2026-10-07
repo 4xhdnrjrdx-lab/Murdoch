@@ -1,0 +1,81 @@
+{
+  "title": "Would you trust an AI to choose your groceries?",
+  "student": "Faiaz Dzhafarov",
+  "studentId": "35553299",
+  "course": "BUS225 Services Marketing",
+  "sections": [
+    {
+      "title": "An assistant that respects your budget",
+      "label": "THE SHOPPER'S PROBLEM",
+      "script": "Imagine asking AI to help you buy food for dinner.\nYour budget is fifty dirhams.\nBut it suggests food that costs eighty.\nWould you trust it again?\n\nI'm Faiaz.\nI chose the article Shopper AI by Kennedy and co-authors, from twenty twenty-six.\nMy example is Carrefour.",
+      "ru": "Начинаем с вымышленной ситуации: покупатель просит продукты до 50 дирхамов, а помощник предлагает корзину за 80. Это пример для объяснения, а не жалоба на реальную систему Carrefour. Вопрос зрителю помогает привлечь внимание.",
+      "visual": "budget",
+      "source": "Illustrative scenario. Kennedy et al. (2026), pp. 408-411."
+    },
+    {
+      "title": "What AI can do and how it interacts",
+      "label": "THE RESEARCH",
+      "script": "The study uses design science.\nThe authors built a way to compare shopping AI.\nThey used earlier studies, expert interviews, patents and real AI tools.\nThree hundred and twelve people helped check it.\n\nThis system is called a taxonomy.\nIt has fourteen features in two groups.\nCapabilities are what AI can do, such as using information and protecting data.\nParasocial skills are how AI creates a feeling of human contact.\nAI can sound caring but has no real feelings.\n\nBoth groups can affect the shopping experience.\nAdvice that fits your needs may require more personal data.",
+      "ru": "Taxonomy означает классификацию. Авторы выделили 14 характеристик: 6 про возможности системы и 8 про взаимодействие с человеком. Они использовали несколько методов, включая опрос 312 потребителей для оценки самой классификации. Personalisation может улучшить советы, но повышает требования к данным и доверию.",
+      "visual": "taxonomy",
+      "source": "Kennedy et al. (2026), pp. 410-419; Table 6."
+    },
+    {
+      "title": "Useful for design, with limits",
+      "label": "MY CRITIQUE",
+      "script": "I think the study helps shops find problems.\nFor example, AI may understand you but suggest a product the shop does not have.\n\nOne strength is the use of several sources.\nThey looked at both the technology and the customer.\nBut the study mainly focuses on the USA.\nWe need to test these ideas with UAE customers.\nAlso, checking the taxonomy does not prove that AI makes customers happier or increases sales.",
+      "ru": "Сильная сторона: статья помогает разбирать отдельные качества AI, а не просто называть его хорошим или плохим. Ограничения: исследование в основном про США; удобство классификации не доказывает рост продаж или удовлетворённости. Нужна проверка с местными покупателями. Это твоя аргументированная оценка статьи.",
+      "visual": "critique",
+      "source": "Kennedy et al. (2026), pp. 419-420, 423-424."
+    },
+    {
+      "title": "Carrefour examples from Dubai and France",
+      "label": "DOCUMENTED COMPANY INITIATIVES",
+      "script": "In twenty twenty-one, Majid Al Futtaim opened Carrefour City Plus in Dubai.\nIt used AI so shoppers could skip the normal checkout.\n\nIn France, Carrefour announced Hopla in twenty twenty-three.\nThis chatbot could suggest food based on a budget and food preferences.\nThey do not prove that customers were happier, or that every UAE store has these tools.",
+      "ru": "Два подтверждённых исторических примера. Dubai: запуск City+ в 2021 году, покупка без обычной кассы. France: объявление Hopla в 2023 году, помощь в выборе продуктов. Это разные технологии и рынки. Мы не утверждаем, что Hopla доступен в ОАЭ или что City+ сейчас работает без изменений.",
+      "visual": "cases",
+      "source": "Majid Al Futtaim (6 Sep 2021); Carrefour (8 Jun 2023)."
+    },
+    {
+      "title": "A proposed UAE grocery assistant",
+      "label": "MY APPLICATION TO CARREFOUR",
+      "script": "My idea for Carrefour UAE is an AI food shopping assistant.\nThis is a proposal, not a service I have tested.\n\nA customer asks for a vegetarian dinner for two, under fifty dirhams.\nThe AI checks today's prices and what is in stock.\nIf a product is missing, it explains another option and asks the customer first.\nIf the wrong item arrives, the customer can speak to a staff member.\n\nThis links knowledge with personalisation.\nThe customer keeps control.",
+      "ru": "Наше предложение для Carrefour UAE: помощник подбирает продукты под бюджет и наличие. Он объясняет замену и получает согласие покупателя, а при проблеме даёт обратиться к сотруднику. Current prices and stock означает актуальные цены и остатки. Реального прототипа и результатов тестирования пока нет.",
+      "visual": "journey",
+      "source": "Proposed application of Kennedy et al. (2026), pp. 418, 422-424."
+    },
+    {
+      "title": "Test usefulness before expanding",
+      "label": "MY RECOMMENDATION",
+      "script": "I would test this with a small group first.\nCustomers should choose what personal data to share.\nPaid product suggestions should be clearly marked.\n\nI would compare the AI with normal product search.\nDo shoppers stay within their budget?\nCan they complete their basket?\nDoes the AI make fewer mistakes?\n\nFor me, friendly AI is not enough.\nCarrefour should give useful advice and leave customers in control.",
+      "ru": "Предлагаем небольшой пилот, а не немедленный запуск везде. Сравниваем помощника с обычным поиском. Смотрим соблюдение бюджета, завершение корзины и ошибки рекомендаций. Это предложенные показатели, не уже полученные результаты. Финальный вывод: доброжелательное общение не заменяет точную и полезную помощь.",
+      "visual": "recommendations",
+      "source": "Author's recommendations informed by Kennedy et al. (2026), pp. 422-424."
+    },
+    {
+      "title": "References",
+      "label": "SOURCES",
+      "script": "",
+      "ru": "После заключительной фразы перейди на этот экран, подожди около пяти секунд и закончи запись. Источники вслух читать не нужно.",
+      "visual": "references",
+      "source": "BUS225 Assessment 1 | Faiaz Dzhafarov"
+    }
+  ],
+  "references": [
+    {
+      "short": "Kennedy, He and Sarantopoulos (2026)",
+      "full": "Kennedy, K. J., He, H., & Sarantopoulos, P. (2026). Shopper AI: Integrating capabilities and parasocial skills. Journal of Service Research, 29(3), 408-427.",
+      "url": "https://doi.org/10.1177/10946705261433842"
+    },
+    {
+      "short": "Majid Al Futtaim (6 September 2021)",
+      "full": "Majid Al Futtaim. (2021, September 6). Majid Al Futtaim launches AI powered Carrefour City+.",
+      "url": "https://www.majidalfuttaim.com/en/media-centre/press-releases/detail/2021/09/carrefour-city-plus"
+    },
+    {
+      "short": "Carrefour (8 June 2023)",
+      "full": "Carrefour. (2023, June 8). Carrefour integrates OpenAI technologies and launches a generative AI-powered shopping experience [Press release].",
+      "url": "https://www.carrefour.com/sites/default/files/2023-06/Press%20Release%20-%20Carrefour%20integrates%20OpenAI%20technologies%20and%20launches%20a%20generative%20AI-powered%20shopping%20experience%20%281%29.pdf"
+    }
+  ]
+}

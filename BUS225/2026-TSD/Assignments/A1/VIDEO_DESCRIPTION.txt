@@ -1,0 +1,16 @@
+Would you trust an AI to choose your groceries? | BUS225 A1
+
+An individual BUS225 presentation by Faiaz Dzhafarov.
+
+A critical discussion of Kennedy, He and Sarantopoulos (2026), applied to Carrefour through a proposed UAE grocery assistant. The shopping scenario and pilot are proposals, not reported test results. The company examples refer to dated launch announcements.
+
+References
+
+Kennedy, K. J., He, H., & Sarantopoulos, P. (2026). Shopper AI: Integrating capabilities and parasocial skills. Journal of Service Research, 29(3), 408-427.
+https://doi.org/10.1177/10946705261433842
+
+Majid Al Futtaim. (2021, September 6). Majid Al Futtaim launches AI powered Carrefour City+.
+https://www.majidalfuttaim.com/en/media-centre/press-releases/detail/2021/09/carrefour-city-plus
+
+Carrefour. (2023, June 8). Carrefour integrates OpenAI technologies and launches a generative AI-powered shopping experience [Press release].
+https://www.carrefour.com/sites/default/files/2023-06/Press%20Release%20-%20Carrefour%20integrates%20OpenAI%20technologies%20and%20launches%20a%20generative%20AI-powered%20shopping%20experience%20%281%29.pdf

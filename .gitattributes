@@ -1,0 +1,11 @@
+* -text
+*.pdf binary
+*.doc binary
+*.docx binary
+*.ppt binary
+*.pptx binary
+*.xlsx binary
+*.png binary
+*.webm binary
+*.mp4 binary
+*.mov binary

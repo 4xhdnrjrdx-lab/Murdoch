@@ -1,0 +1,208 @@
+
+===== SLIDE 1 =====
+[TEXT] Murdoch Student LMS App v2.0
+Individual Project Plan
+[TEXT] Faiaz Dzhafarov  ·  Student ID 35553299
+BUS363 Organisational … Scaling Agile Projects  ·  Assessment 2
+Workshop: Thursday 2:00–4:00 pm (Rm 106)  ·  Tutor: Dr Leena Wanganoo
+Unit Coordinator: Vesna Sampson  ·  TMD 2026
+[NOTES] Good morning. This is my individual project plan for delivering version 2.0 of the Murdoch Student LMS App — a fixed-price engagement of A$500,000 over six months. I'll walk through objectives, scope, approach, timeline, billing, risk, stakeholders and how I'd control delivery commercially.
+
+===== SLIDE 2 =====
+[TEXT] Background & Objectives
+[TEXT] • Context: IT delivery firm engaged to build LMS App v2.0 — fixed price A$500k, 6 months, requirements signed off.
+• Vision: a fast, mobile-first app — one place for timetable, grades, unit materials, notifications and submissions.
+• Goals (SMART):
+– Ship v2.0 in 6 months within A$500k budget
+– ≥99.5% crash-free sessions; SSO with myMurdoch
+– ≥80% active-student adoption within 3 months of launch
+• Key deliverables: cross-platform app (iOS/Android); system integrations; Systems Manual; 3-month hypercare.
+• Assumptions: requirements frozen at kickoff; Murdoch provides API access + test data; one client Product Owner available.
+[NOTES] The brief gives me a fixed scope and price, so my job is to plan delivery that protects time and quality. Objectives are written SMART so success is measurable, and I've stated assumptions explicitly because they frame the limitations of the plan.
+
+===== SLIDE 3 =====
+[TEXT] Scope
+[TEXT] In scope
+[TEXT] • Cross-platform app (iOS / Android)
+• SSO; timetable, grades, materials (offline), push notifications, submissions
+• Integration with existing Murdoch systems
+• UAT, deployment, 3-month post-go-live support
+[TEXT] Out of scope
+[TEXT] • Changes to Moodle core / back-end
+• New academic content
+• Staff training beyond admin handover
+• Hardware procurement
+[TEXT] Constraints & baseline
+[TEXT] • Fixed price A$500k & fixed scope → schedule and quality are the managed levers (triple constraint).
+• 6-month hard deadline; university data-privacy & security policy.
+• Scope baseline = scope statement + WBS + schedule (100% rule: all work captured, nothing extra).
+[NOTES] Because cost and scope are fixed, I manage the triple constraint by treating schedule and quality as the flexible levers, controlled through change control. The scope baseline is what every change request is measured against.
+
+===== SLIDE 4 =====
+[TEXT] Project Approach & Governance
+[TEXT] • Hybrid approach:
+– Predictive outer shell — stage gates, fixed milestones, milestone-based billing
+– Agile delivery core — 2-week sprints, product backlog, MoSCoW prioritisation
+• Why hybrid: fixed-price / fixed-scope needs predictive control; the software build benefits from iterative feedback.
+[PICTURE]
+[NOTES] A hybrid model fits this engagement: the commercial wrapper is predictive — fixed milestones and milestone billing give the client certainty — while inside the build I run agile sprints so we can adapt and get feedback. The governance chart shows the Project Board at sponsor level, independent assurance, and the PM coordinating three delivery groups.
+
+===== SLIDE 5 =====
+[TEXT] Project Lifecycle
+[PICTURE]
+[TEXT] • Six phases over six months; agile sprints run inside the Iterative Development phase, with predictive stage-gates between phases.
+[NOTES] The lifecycle has six phases. Initiation and Discovery set the foundation; the bulk of the value is built in iterative development; then UAT, deployment and a hypercare period before formal close. Stage gates between phases keep the predictive control.
+
+===== SLIDE 6 =====
+[TEXT] Requirements (Analysis & Design)
+[TEXT] Functional
+[TEXT] • SSO login
+• View timetable
+• View grades
+• Unit materials (offline)
+• Push notifications
+• Submit / track assignments
+[TEXT] Non-functional
+[TEXT] • Performance: <2s screen load
+• Availability 99.5%
+• Security & data-privacy; encryption
+• Accessibility (WCAG 2.1 AA)
+• Scalable to peak enrolment
+[TEXT] Visual design
+[TEXT] • Murdoch-branded UI kit
+• Mobile-first layouts
+• Usability testing with a student cohort
+[NOTES] Requirements are split into functional, non-functional and visual design. The non-functional requirements — performance, availability, security, accessibility — are what an enterprise university client will hold us to, so they're explicit and testable.
+
+===== SLIDE 7 =====
+[TEXT] Key Deliverables & Acceptance Criteria
+[TABLE 7x3]
+  | Phase | Deliverable | Acceptance criteria
+  | Initiation | Project charter & plan | Board sign-off
+  | Discovery & Design | UX/UI designs + solution architecture | Product Owner sign-off; architecture review passed
+  | Development | App increments (per sprint) | Definition of Done; automated tests pass; demo accepted at sprint review
+  | UAT | Tested release candidate | All severity-1/2 defects closed; UAT sign-off
+  | Deployment | Production release + Systems Manual | Go-live sign-off; manual incl. component inventory, install/config, release notes, backup & DR plan
+  | Close | Handover + closure report | Client sign-off; support handover accepted
+[NOTES] Every phase produces a defined deliverable with explicit acceptance criteria — this is what makes the plan auditable and protects us commercially, because payment milestones tie to accepted deliverables.
+
+===== SLIDE 8 =====
+[TEXT] Work Breakdown Structure (WBS)
+[TEXT] • 1. Project Management & Governance
+• 2. Discovery & Design
+• 3. Development — Frontend / Backend / Integration
+• 4. Quality Assurance & UAT
+• 5. Infrastructure & Deployment
+• 6. Data & Migration
+• 7. Training & Adoption
+• 8. Support (Hypercare)
+[TEXT] 100% rule
+[TEXT] • Every in-scope item maps to exactly one workstream.
+• Nothing outside the baseline is included.
+• WBS feeds the schedule, cost and resource plans.
+[NOTES] The WBS decomposes all the work into eight workstreams. It obeys the 100% rule — all the work, and only the work, in the scope baseline — and it's the backbone for the schedule, budget and resourcing.
+
+===== SLIDE 9 =====
+[TEXT] Proposed Timeline (Gantt)
+[PICTURE]
+[NOTES] The schedule shows the eight workstreams across six months. Development is iterative and overlaps with UAT and migration. Diamonds mark the key milestones — kick-off, design sign-off, feature complete, UAT sign-off, go-live and close — which also drive the billing schedule.
+
+===== SLIDE 10 =====
+[TEXT] Billing Schedule (A$500k fixed price)
+[TABLE 5x4]
+  | Milestone | Trigger | % | Amount
+  | 1. Kick-off | Contract signed, project initiated | 25% | A$125,000
+  | 2. Go-live | Deployed to production (app stores live) | 50% | A$250,000
+  | 3. Closure | Hypercare complete + client sign-off | 25% | A$125,000
+  | Total |  | 100% | A$500,000
+[TEXT] • Commercial basis: fixed price. ~10% management reserve held inside the fee for contingency.
+• Milestone payments tie cash flow to accepted, value-delivering events — not elapsed time.
+[NOTES] Billing is milestone-based: 25% up front to mobilise, 50% at go-live when the client gets the value, and 25% at closure. A management reserve inside the fixed fee covers contingencies without going back to the client.
+
+===== SLIDE 11 =====
+[TEXT] Team & Resources
+[TEXT] Core delivery team (~9 FTE)
+[TEXT] • Vendor Project Manager
+• Solution Architect
+• Business Analyst
+• UX Designer
+• Tech Lead + 2 Developers
+• QA / Test Lead
+• DevOps / Infrastructure
+[TEXT] Client side
+[TEXT] • Product Owner
+• IT / security liaison
+• Student test group (UAT)
+[TEXT] Staffing profile
+[TEXT] • Peak staffing during Development (M2–M5).
+• Ramp-down to support team in Hypercare (M6).
+[NOTES] A core team of about nine, with the client providing a Product Owner and a student group for UAT. Staffing peaks during the development phase and ramps down to a small support team for hypercare.
+
+===== SLIDE 12 =====
+[TEXT] Risk & Issue Management
+[PICTURE]
+[TABLE 7x4]
+  | # | Risk | Score | Response
+  | R1 | Legacy integration harder than expected | 20 H | Mitigate — integration spike in Discovery; integration BA
+  | R2 | Scope creep despite sign-off | 12 H | Mitigate — change control; locked baseline
+  | R3 | Fixed-price cost overrun | 15 H | Mitigate — EAC/ETC tracking; 10% reserve; MoSCoW de-scope
+  | R4 | Key resource unavailable | 9 M | Mitigate — cross-skilling; named backups
+  | R5 | UAT delays / tester availability | 9 M | Mitigate — book UAT early; student pool
+  | R6 | App-store approval delay | 6 M | Transfer/Accept — submit early; follow guidelines
+[TEXT] • Issue log: ID · description · severity · owner · status · resolution date.   Responses: Mitigate / Avoid / Transfer / Accept / Escalate.
+[NOTES] Risks are scored on likelihood × consequence. The three high risks — integration, cost overrun and scope creep — get the most attention. Integration is de-risked early with a proof-of-concept spike; cost is protected by EAC/ETC tracking, a reserve and the ability to de-scope 'could-haves' through MoSCoW.
+
+===== SLIDE 13 =====
+[TEXT] Stakeholder Management
+[PICTURE]
+[TEXT] Communication plan
+[TEXT] • Weekly RAG status → PM / Board
+• Fortnightly sprint review → stakeholders
+• Monthly steering committee
+• Go-live comms campaign → students
+[NOTES] Stakeholders are mapped on a power–interest grid. The Board and Product Owner are managed closely; students and lecturers are the high-interest user community we keep informed. The communication plan sets the cadence for each group.
+
+===== SLIDE 14 =====
+[TEXT] Monitoring & Control
+[TEXT] Schedule & scope
+[TEXT] • Weekly RAG status board
+• Fortnightly sprint burndown + reviews
+• Milestone tracking against baseline
+• Change control: every request impact-assessed vs baseline, Board-approved
+[TEXT] Commercial control (EVM-style)
+[TABLE 9x2]
+  | Field | Value
+  | Commercial basis | Fixed price
+  | Budget at Complete (BAC) | A$500k
+  | Actual cost to date | A$40k
+  | Percent complete | 8%
+  | Estimate to Complete (ETC) | A$460k
+  | Estimate at Complete (EAC) | A$500k
+  | Budget variance | A$0
+  | Forecast finish | Month 6
+[NOTES] Control runs on two tracks. Delivery is tracked with a weekly RAG board and sprint burndowns; commercially I use an earned-value-style table — budget, actuals, ETC, EAC and variance — so any drift shows up early. Change control protects the fixed-price baseline.
+
+===== SLIDE 15 =====
+[TEXT] Success Factors & Closure
+[TEXT] Success factors
+[TEXT] • Stakeholder alignment & sponsor engagement
+• Early de-risking of integration
+• Disciplined change control
+• Agile prioritisation (MoSCoW)
+• Continuous UAT
+• Clear governance & reporting
+[TEXT] Closure
+[TEXT] • Client sign-off
+• Handover to support / BAU
+• Final reports + lessons learned
+• System closure
+• Final invoice (milestone 3)
+[NOTES] What makes this work is alignment, early de-risking and disciplined change control. At closure we get client sign-off, hand over to support, capture lessons learned and raise the final invoice — a clean, controlled finish.
+
+===== SLIDE 16 =====
+[TEXT] References
+[TEXT] • Project Management Institute. 2021. A Guide to the Project Management Body of Knowledge (PMBOK Guide). 7th ed. Newtown Square, PA: PMI.
+• Project Management Institute. 2017. Agile Practice Guide. Newtown Square, PA: PMI.
+• Mendelow, A. 1991. 'Environmental Scanning: The Impact of the Stakeholder Concept.' Proceedings of the 2nd ICIS.
+• Figures (lifecycle, org chart, Gantt, risk matrix, power–interest grid): author's own work.
+[NOTES] References in Chicago style. The frameworks draw on PMBOK 7th edition and the Agile Practice Guide, with Mendelow's matrix for stakeholder mapping. All figures are my own work.

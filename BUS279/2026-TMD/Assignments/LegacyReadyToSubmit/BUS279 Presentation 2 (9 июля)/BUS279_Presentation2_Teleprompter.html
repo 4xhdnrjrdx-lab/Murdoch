@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>BUS279 Presentation 2 — Teleprompter (~7 мин)</title>
+<style>
+  :root { --font-size: 42px; --marker-top: 8vh; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { background: #0b0b0d; color: #f2f2f0; }
+  body { font-family: Georgia, 'Times New Roman', serif; overflow-y: scroll; }
+  body::-webkit-scrollbar { display: none; }
+  #hud { position: fixed; bottom: 40px; left: 0; right: 0; display: flex; justify-content: space-between;
+         padding: 0 24px; font: 15px/1.4 -apple-system, sans-serif; color: #666; z-index: 10; pointer-events: none; }
+  #timer { font-size: 24px; font-weight: bold; color: #4caf50; }
+  #timer.warn { color: #e0a020; }
+  #hud .paused { color: #e0a020; }
+  #marker { position: fixed; top: var(--marker-top); left: 0; right: 0; height: 0;
+            border-top: 2px solid rgba(224,160,32,.45); z-index: 5; pointer-events: none; }
+  #marker::before { content: '▶'; position: absolute; left: 10px; top: -14px; color: rgba(224,160,32,.7); font-size: 18px; }
+  #script { max-width: 880px; margin: 0 auto; padding: var(--marker-top) 40px 90vh;
+            font-size: var(--font-size); line-height: 1.5; text-align: center; }
+  #script p { margin-bottom: 1.1em; cursor: pointer; }
+  #script h2 { font: 600 0.5em/1.3 -apple-system, sans-serif; color: #5a8dd6;
+               text-transform: uppercase; letter-spacing: .08em; margin: 1.6em 0 .9em; }
+  #script .dir { font-size: 0.5em; color: #7a7a55; font-style: italic; font-family: -apple-system, sans-serif; }
+  #help { position: fixed; bottom: 12px; left: 0; right: 0; text-align: center;
+          font: 14px/1.5 -apple-system, sans-serif; color: #555; z-index: 10; }
+</style>
+</head>
+<body>
+
+<div id="hud">
+  <span id="timer">00:00</span>
+  <span id="state" class="paused">ПАУЗА — пробел, чтобы начать · цель ~7:00</span>
+  <span id="speed"></span>
+</div>
+<div id="marker"></div>
+
+<div id="script">
+
+<h2>1 · Opening (~0:40)</h2>
+<p class="dir">Смотрите в камеру. Спокойно, немного воодушевлённо.</p>
+<p>Hi, my name is Faiaz, and today I'm the Strategic Architect. I want to pitch you an idea for the Velocity Fit launch, an immersive augmented reality event I'm calling The Velocity Vortex.</p>
+<p class="dir">Небольшая пауза. Главная мысль — медленно.</p>
+<p>Here is the thinking behind it. Our biggest problem isn't getting people interested. It's that the one thing that makes us special, the AI camera that checks your form, is also the thing that scares people off. Forty-five percent of users quit at that step because they feel exposed and judged. So my whole pitch is simple: instead of hiding that moment, let's turn the scariest part of our app into the most fun part of a live event.</p>
+
+<h2>2 · The Experience Aesthetic (~0:40)</h2>
+<p class="dir">Расслабленно, как будто описываете место.</p>
+<p>First, the vibe. I looked at AR marketing trends, and the brands that win don't go for the cold, elite, perfect-bodies look. That look actually raises what the course calls cognitive friction, the little voice that says "this isn't for me, I'll be embarrassed." So the Vortex is not "The Dream." It's a Relatable Reality, just levelled up. Warm colours, a playful world, and everyone joins as their own avatar, so nobody feels watched. When the space feels friendly instead of intimidating, trying Velocity Fit stops feeling risky. It becomes a safe bet, something easy to say yes to.</p>
+
+<h2>3 · The Three Pillars: Three Stations (~2:00)</h2>
+<p class="dir">Помедленнее. Три чётких пункта. Можно загибать пальцы.</p>
+<p>The event has three stations, and each one is built around a different feeling.</p>
+<p>Station one is Elite Performance. This is the dopamine hook. Dopamine is just the reward buzz, the bit of excitement that pulls you in. Here you race a hologram, chase a target, and your name climbs a live leaderboard with confetti when you win. It's high energy, and it gives people that first hit of "this is fun, I want more."</p>
+<p>Station two is Daily Habit Support. This one runs on oxytocin, which is basically trust, the calm feeling of being looked after. It's a quiet corner where a friendly coach avatar walks you through a movement, privately, and celebrates small wins. No leaderboard, no pressure. This is where people learn that our app supports them on the normal days, not just the hype days.</p>
+<p>Station three is the Real-Time Coaching area. This is human connection. A live coach and a small group, where you can ask real questions and talk to other people in the same boat. Dopamine gets people in the door, oxytocin makes them trust us, and the coaching keeps them.</p>
+
+<h2>4 · Breaking the Friction Wall (~1:10)</h2>
+<p class="dir">Чуть больше энергии. Это ваш сильнейший стратегический пункт.</p>
+<p>Now the important one, the AI camera. In the app, people feel scanned and judged, and they quit. So in the Vortex, we reframe it completely. You're not being checked. You're calibrating your avatar. It's the fun first quest of the whole event, the thing that unlocks your character, and everyone does it together. The course talks about cortisol, the stress and fear chemical. The normal camera step triggers it. By turning that step into a game everyone plays, we swap that fear for curiosity. And we say the quiet part out loud: only you see your scan, nobody else. We take the most awkward moment in our funnel and make it the moment people actually look forward to.</p>
+
+<h2>5 · The Community Spark (~0:55)</h2>
+<p class="dir">Дружелюбно, как будто делитесь хорошей новостью.</p>
+<p>Next, the spark that spreads it. At the end, every person gets a Shareable Moment, a short highlight reel of their avatar's best win, plus a digital trophy. It's built to be posted straight into fitness groups and on TikTok. This matters because of how trust works. An ad is us saying we're good. A friend posting their Vortex moment is someone like them saying it, and that is far stronger. This is how we turn a marketing itch, the wish to get fit without being judged, into a subscription scratch. People see a real friend enjoying it, they feel "I want that too," and they sign up.</p>
+
+<h2>6 · Strategic Vision and Success (~1:00)</h2>
+<p class="dir">Выпрямитесь. Говорите с CEO напрямую. Это закрытие аргумента.</p>
+<p>So why is this the right move for the launch, and not just a shiny distraction. Because it fixes our actual number-one problem, the forty-five percent who quit at the camera, by changing how that moment feels instead of just tweaking buttons. I also want to be honest about the risk. AR is still the future, not the present, so this is exploratory. The course warns about analysis paralysis, getting so stuck researching that you never act. I don't want us to fall into that. So I'd run the Vortex as one bold pilot event, not a giant bet, and treat it as a hypothesis to test.</p>
+<p class="dir">Замедлитесь на метриках.</p>
+<p>We'd measure success on four simple things: how many new users sign up from the event, whether more of them finish the camera step than the usual forty-five percent, whether our paid subscriptions go up, and how many people share their moment. If the numbers move, we scale it. If they don't, we learned cheaply and we adjust.</p>
+
+<h2>7 · Closing (~0:20)</h2>
+<p class="dir">В камеру. Последние две фразы — медленно. Секунда паузы перед стопом.</p>
+<p>So that's the Velocity Vortex. We take the part of our product that scares people, the AI camera, and we make it the most fun, most social, most private part of the launch. We get people excited, we earn their trust, and we measure every bit of it. Thank you for your time.</p>
+
+</div>
+
+<div id="help">пробел — старт/пауза · ↑↓ — скорость · ←→ — перемотка · +/− — шрифт · Home — сначала · F — весь экран · клик по абзацу — к нему</div>
+
+<script>
+(function () {
+  var TARGET_SECONDS = 420; // ~7:00
+  var WARN_AT = 430;
+  var doc = document.documentElement;
+  var running = false, elapsed = 0, lastTs = null, mult = 1, fontSize = 42, scrollPos = 0;
+  var stateEl = document.getElementById('state');
+  var timerEl = document.getElementById('timer');
+  var speedEl = document.getElementById('speed');
+
+  function totalScroll() { return doc.scrollHeight - window.innerHeight; }
+  function baseSpeed() { return totalScroll() / TARGET_SECONDS; }
+
+  function updateHud() {
+    var m = Math.floor(elapsed / 60), s = Math.floor(elapsed % 60);
+    timerEl.textContent = (m < 10 ? '0' : '') + m + ':' + (s < 10 ? '0' : '') + s;
+    timerEl.className = elapsed >= WARN_AT ? 'warn' : '';
+    speedEl.textContent = 'скорость ×' + mult.toFixed(2);
+    stateEl.textContent = running ? '● ЗАПИСЬ · цель ~7:00' : 'ПАУЗА — пробел, чтобы начать · цель ~7:00';
+    stateEl.className = running ? '' : 'paused';
+    stateEl.style.color = running ? '#4caf50' : '';
+  }
+
+  function tick(ts) {
+    if (running) {
+      if (lastTs !== null) {
+        var dt = (ts - lastTs) / 1000;
+        elapsed += dt;
+        scrollPos += baseSpeed() * mult * dt;
+        if (scrollPos >= totalScroll()) { scrollPos = totalScroll(); running = false; }
+        window.scrollTo(0, scrollPos);
+        updateHud();
+      }
+      lastTs = ts;
+    } else { lastTs = null; }
+    requestAnimationFrame(tick);
+  }
+  requestAnimationFrame(tick);
+
+  document.addEventListener('keydown', function (e) {
+    switch (e.key) {
+      case ' ': e.preventDefault(); scrollPos = window.scrollY; running = !running; break;
+      case 'ArrowUp': e.preventDefault(); mult = Math.min(3, mult + 0.1); break;
+      case 'ArrowDown': e.preventDefault(); mult = Math.max(0.3, mult - 0.1); break;
+      case 'ArrowLeft': e.preventDefault(); scrollPos = Math.max(0, window.scrollY - 300); window.scrollTo(0, scrollPos); break;
+      case 'ArrowRight': e.preventDefault(); scrollPos = Math.min(totalScroll(), window.scrollY + 300); window.scrollTo(0, scrollPos); break;
+      case 'Home': e.preventDefault(); scrollPos = 0; elapsed = 0; running = false; window.scrollTo(0, 0); break;
+      case '+': case '=': fontSize = Math.min(72, fontSize + 2); doc.style.setProperty('--font-size', fontSize + 'px'); break;
+      case '-': case '_': fontSize = Math.max(24, fontSize - 2); doc.style.setProperty('--font-size', fontSize + 'px'); break;
+      case 'f': case 'F': case 'а': case 'А':
+        if (document.fullscreenElement) document.exitFullscreen(); else doc.requestFullscreen();
+        break;
+    }
+    updateHud();
+  });
+
+  document.querySelectorAll('#script p, #script h2').forEach(function (el) {
+    el.addEventListener('click', function () {
+      var markerY = window.innerHeight * 0.08;
+      scrollPos = window.scrollY + el.getBoundingClientRect().top - markerY;
+      window.scrollTo(0, scrollPos);
+      running = false;
+      updateHud();
+    });
+  });
+
+  updateHud();
+})();
+</script>
+
+</body>
+</html>

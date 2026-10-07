@@ -1,0 +1,3168 @@
+{
+  "created_at": "2026-10-07",
+  "source_root": "/Users/king1/Documents/Murdoch",
+  "source_files": 445,
+  "source_bytes": 210961346,
+  "files": [
+    {
+      "old_path": "BUS219/.DS_Store",
+      "bytes": 22532,
+      "sha256": "3d348fc9c93eff8b3ec5f52dc13041ff88e6756decbba65a81e6464c27407abd",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS219/00_CHAT_CONTEXT.md",
+      "bytes": 15523,
+      "sha256": "5587ad65fd46040f06456fb4a4aa40c3216b9c62c080fe915dd0f8c261fa7245",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Archive/LegacyRecords/00_CHAT_CONTEXT.md"
+    },
+    {
+      "old_path": "BUS219/00_UNIT_OUTLINE_BUS219_TSD2026.md",
+      "bytes": 32194,
+      "sha256": "efc6ac267821d3ad5e9b03aa5ba6ba05356927cda9d932d8bd452fe20f41d068",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/UnitOutline/00_UNIT_OUTLINE_BUS219_TSD2026.md"
+    },
+    {
+      "old_path": "BUS219/00_СТРУКТУРА_КУРСА.md",
+      "bytes": 28624,
+      "sha256": "e4675f8e879988450931879341865604bf7035aec90a02b6bec2294db66d7b50",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Archive/LegacyRecords/00_СТРУКТУРА_КУРСА.md"
+    },
+    {
+      "old_path": "BUS219/01_ОБЪЯВЛЕНИЯ.md",
+      "bytes": 1064,
+      "sha256": "dbb9af7f0c61770aeba7056c47f9e284d151063d9cda3b97c8a2032572d171bc",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Archive/LegacyRecords/01_ОБЪЯВЛЕНИЯ.md"
+    },
+    {
+      "old_path": "BUS219/02 Assessments/BUS219 Major Project Report marking guide.doc",
+      "bytes": 73728,
+      "sha256": "d3580d7a7783d0fd3d100ca281bf0f695d6ef2dbf2f0aee87394ef0077ef1edd",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/02 Assessments/BUS219 Major Project Report marking guide.doc"
+    },
+    {
+      "old_path": "BUS219/02 Assessments/BUS219 Major Project Report marking guide.txt",
+      "bytes": 1683,
+      "sha256": "c3790e641122701ca40d9482c3c9e46c52e50863897c6337377641475f8f20bc",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/02 Assessments/BUS219 Major Project Report marking guide.txt"
+    },
+    {
+      "old_path": "BUS219/02 Assessments/BUS219 Project Proposal marking guide.doc",
+      "bytes": 48640,
+      "sha256": "739d8d4adc1b1b8f06cee3e1949e9d074c7bbf56ee4526e4a69cfb8dd98035c7",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/02 Assessments/BUS219 Project Proposal marking guide.doc"
+    },
+    {
+      "old_path": "BUS219/02 Assessments/Group Charter.doc",
+      "bytes": 34304,
+      "sha256": "4b815a6311efc369a39452c130ad0ecd67f1741d1e170681aef907f0d85938c9",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/02 Assessments/Group Charter.doc"
+    },
+    {
+      "old_path": "BUS219/02 Assessments/Group Project team meeting time sheet.doc",
+      "bytes": 30208,
+      "sha256": "611635afeac1340c9d49d4ac593825eafa24ec1a2e22106ed6658f557bd7ef3e",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/02 Assessments/Group Project team meeting time sheet.doc"
+    },
+    {
+      "old_path": "BUS219/02 Assessments/Group Project team meeting time sheet.txt",
+      "bytes": 1766,
+      "sha256": "149e073a7e7e5a4bf5761b5f661e9a7f8211667947d0815d862ca34dd1854ebe",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/02 Assessments/Group Project team meeting time sheet.txt"
+    },
+    {
+      "old_path": "BUS219/02 Assessments/Major Project Peer Evaluation.doc",
+      "bytes": 33280,
+      "sha256": "58f30d395bb743824c3ea107f878a2d81950814494b67dffa22bcf4f3eafd7be",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/02 Assessments/Major Project Peer Evaluation.doc"
+    },
+    {
+      "old_path": "BUS219/02 Assessments/Major Project Peer Evaluation.txt",
+      "bytes": 4920,
+      "sha256": "bd4002efdac433ba38a42c216a0bcc2314116ce794c600da8e87de983e8c53d4",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/02 Assessments/Major Project Peer Evaluation.txt"
+    },
+    {
+      "old_path": "BUS219/02 Assessments/Policy on Group Projects.doc",
+      "bytes": 27136,
+      "sha256": "fbbc178c7642de55885cd1108f874472737a80369187c30dd9b06aba393d089a",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/02 Assessments/Policy on Group Projects.doc"
+    },
+    {
+      "old_path": "BUS219/02 Assessments/Policy on Group Projects.txt",
+      "bytes": 1065,
+      "sha256": "ccdc0761e1b910f327e748c6bebf96efb46b2d49e547bc0554e2943b2a8abe4d",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/02 Assessments/Policy on Group Projects.txt"
+    },
+    {
+      "old_path": "BUS219/03 Academic Integrity/Academic Integrity Slide deck 3.pptx",
+      "bytes": 73186,
+      "sha256": "cb1bf72a714aaaa42b9eaac3258a437cea1aae5eb0de894f3f1ad6831b9a8231",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/03 Academic Integrity/Academic Integrity Slide deck 3.pptx"
+    },
+    {
+      "old_path": "BUS219/03 Academic Integrity/Exam protocols.pptx",
+      "bytes": 307365,
+      "sha256": "24cd74ececcce26387a7fa3e9f1bc7a06a63dadee6bc47c5e5c6bdc7d361fa38",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/03 Academic Integrity/Exam protocols.pptx"
+    },
+    {
+      "old_path": "BUS219/04 Topic 1: The Rise of Globalisation/Session 1 case study  Asia_Reducing export dependency and increasing domestic demand.pdf",
+      "bytes": 167137,
+      "sha256": "c5796cc14f24863196f793f79397e284629493a95cd558277ba1897bb3afca41",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/04 Topic 1_ The Rise of Globalisation/Session 1 case study  Asia_Reducing export dependency and increasing domestic demand.pdf"
+    },
+    {
+      "old_path": "BUS219/04 Topic 1: The Rise of Globalisation/Session1 chapter1.pptx",
+      "bytes": 583616,
+      "sha256": "16aeff7cce8c7954288c1b8cdeb971d7e79cb22f442f5e9c8513b57c07b1e820",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/04 Topic 1_ The Rise of Globalisation/Session1 chapter1.pptx"
+    },
+    {
+      "old_path": "BUS219/05 Topic 2: The Evolution of International Business/Session 2 case study  Mini case_economic nationalism.pdf",
+      "bytes": 199039,
+      "sha256": "ff5dd8ae952e7f71357ebe477753b74db415d035584c448ffa576acf799a2284",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/05 Topic 2_ The Evolution of International Business/Session 2 case study  Mini case_economic nationalism.pdf"
+    },
+    {
+      "old_path": "BUS219/05 Topic 2: The Evolution of International Business/Session2 chapter2.pptx",
+      "bytes": 395813,
+      "sha256": "4867ac440795a7b3e287d56d7ee3b57750bce24b55d91ab6ee4f0fba2985cc52",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/05 Topic 2_ The Evolution of International Business/Session2 chapter2.pptx"
+    },
+    {
+      "old_path": "BUS219/06 Topic 3: Regional Economic Integration and The International Flow of Funds and Exchange Rates/Additional slides to BUS219 session 3 Global Economic Systems.pptx",
+      "bytes": 67046,
+      "sha256": "80c0e2babe524d6da4a75dfbdc9c5f04bff0932c9e54f133fddf2a98ce707f0f",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/06 Topic 3_ Regional Economic Integration and The International Flow of Funds and Exchange Rates/Additional slides to BUS219 session 3 Global Economic Systems.pptx"
+    },
+    {
+      "old_path": "BUS219/06 Topic 3: Regional Economic Integration and The International Flow of Funds and Exchange Rates/Session 3 case study  Undervalued RMB.pdf",
+      "bytes": 931057,
+      "sha256": "ee31037eb2f35fcff00f659b154f31b7b108b16ecfa256df26c6b7e0c729262c",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/06 Topic 3_ Regional Economic Integration and The International Flow of Funds and Exchange Rates/Session 3 case study  Undervalued RMB.pdf"
+    },
+    {
+      "old_path": "BUS219/06 Topic 3: Regional Economic Integration and The International Flow of Funds and Exchange Rates/Session3 chapter34.pptx",
+      "bytes": 1564529,
+      "sha256": "a9d03801421804af236343604daffea1deda03eff295d348c688a71c52f36c6a",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/06 Topic 3_ Regional Economic Integration and The International Flow of Funds and Exchange Rates/Session3 chapter34.pptx"
+    },
+    {
+      "old_path": "BUS219/07 Topic 4: The Cultural Environment/Session 4 additional case study_In the international spot light_Poland from Luthan 9e.pdf",
+      "bytes": 219950,
+      "sha256": "c25c296c0082714fdb6e6fabe58e999629e5c89ec4edeffeba3abb706b6b3ff1",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/07 Topic 4_ The Cultural Environment/Session 4 additional case study_In the international spot light_Poland from Luthan 9e.pdf"
+    },
+    {
+      "old_path": "BUS219/07 Topic 4: The Cultural Environment/Session 4 case study  Mini case Ecuador.pdf",
+      "bytes": 206491,
+      "sha256": "67dadcdfebd0f6aed7e0057648ce4a7c8d0fe675b5591e960c00ae8ab8cdb36a",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/07 Topic 4_ The Cultural Environment/Session 4 case study  Mini case Ecuador.pdf"
+    },
+    {
+      "old_path": "BUS219/07 Topic 4: The Cultural Environment/Session4 chapter5 with additional and better description of cultural dimensions.pptx",
+      "bytes": 397523,
+      "sha256": "89b2d13214382d87ac1c84fb7a8a675c735f0ec860880cf0bc2c77f7069d8240",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/07 Topic 4_ The Cultural Environment/Session4 chapter5 with additional and better description of cultural dimensions.pptx"
+    },
+    {
+      "old_path": "BUS219/08 Topic 5: The Legal and Political Environment/Additional slides to BUS219 session 5 assessing and managing political risks.pptx",
+      "bytes": 331296,
+      "sha256": "c829dc49c5fb8d5b6ea0b92315f80bec21d205b1f235fb1538f7a955054ba607",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/08 Topic 5_ The Legal and Political Environment/Additional slides to BUS219 session 5 assessing and managing political risks.pptx"
+    },
+    {
+      "old_path": "BUS219/08 Topic 5: The Legal and Political Environment/Session 5 discussion Only child policy of China.pdf",
+      "bytes": 1363338,
+      "sha256": "71730398a1d44ff19de278cf76b72975ae8900c8a494be0fc993bb49525ccfc0",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/08 Topic 5_ The Legal and Political Environment/Session 5 discussion Only child policy of China.pdf"
+    },
+    {
+      "old_path": "BUS219/08 Topic 5: The Legal and Political Environment/Session5 chapter6.pptx",
+      "bytes": 432011,
+      "sha256": "663d73672e91b42718dca4f10611d49900a9ffbcdb41c75a64b9dae1c7db7273",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/08 Topic 5_ The Legal and Political Environment/Session5 chapter6.pptx"
+    },
+    {
+      "old_path": "BUS219/09 Topic 6: Corruption and Ethics in Global Business/Session6 chapter7.pptx",
+      "bytes": 379670,
+      "sha256": "64acf5bdd101090e06d1aefae5d70311a3928548d3bd11d5f8cb4ad8c11a376d",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/09 Topic 6_ Corruption and Ethics in Global Business/Session6 chapter7.pptx"
+    },
+    {
+      "old_path": "BUS219/10 Topic 7: Entry Strategies in Global Business/Session 7 discussion Medical tourism.pdf",
+      "bytes": 380428,
+      "sha256": "6b377dd53869e41501ded35e0f353b8c4a2c52c3404929cb759092b3ac31c0f1",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/10 Topic 7_ Entry Strategies in Global Business/Session 7 discussion Medical tourism.pdf"
+    },
+    {
+      "old_path": "BUS219/10 Topic 7: Entry Strategies in Global Business/Session7 chapter8.pptx",
+      "bytes": 773062,
+      "sha256": "7c399ae8785dd2f96c94955e33402741e06dfdf13851ed2f8ef4cff951c9ba12",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/10 Topic 7_ Entry Strategies in Global Business/Session7 chapter8.pptx"
+    },
+    {
+      "old_path": "BUS219/11 Topic 8: Control of Global Business/Additional slides for session 8 strategy formation,control and org culture.ppt",
+      "bytes": 369152,
+      "sha256": "e2cc2b2ef0bfe859ce89d5fccb81a408cd9d107ea3f74db2fcc256ee15c8c53f",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/11 Topic 8_ Control of Global Business/Additional slides for session 8 strategy formation,control and org culture.ppt"
+    },
+    {
+      "old_path": "BUS219/11 Topic 8: Control of Global Business/Session 8 Mcdonalds Liability for its US Franchisees.pdf",
+      "bytes": 289152,
+      "sha256": "c2ab23337bfa91c4e33b03478e9457709cf62ef80c9297e9898684b99939e2a3",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/11 Topic 8_ Control of Global Business/Session 8 Mcdonalds Liability for its US Franchisees.pdf"
+    },
+    {
+      "old_path": "BUS219/11 Topic 8: Control of Global Business/Session8 chapter9.pptx",
+      "bytes": 500872,
+      "sha256": "de2be384d94b38b251801da62651130970f35e6cd8b07d93373e457654ba01a0",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/11 Topic 8_ Control of Global Business/Session8 chapter9.pptx"
+    },
+    {
+      "old_path": "BUS219/12 Topic 9: The Organisation of Global Business/Session 9 Inflated Figures.pdf",
+      "bytes": 742510,
+      "sha256": "ce255a180424aee201279f3e32c7b9fd9fde8ee11e1bd1b7be7421914cf40f62",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/12 Topic 9_ The Organisation of Global Business/Session 9 Inflated Figures.pdf"
+    },
+    {
+      "old_path": "BUS219/12 Topic 9: The Organisation of Global Business/Session9 chapter10.pptx",
+      "bytes": 628979,
+      "sha256": "28db0c28370dccdaca1a85c953f33fa88bf56fc3d56cf124f731ffa678657978",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/12 Topic 9_ The Organisation of Global Business/Session9 chapter10.pptx"
+    },
+    {
+      "old_path": "BUS219/13 Topic 10: International HRM and International Marketing/Session10 chapter1112.pptx",
+      "bytes": 525167,
+      "sha256": "910d0fe5d5b1f49065ec09a313fdac30589b04847964e5504ecea5b70bf33cde",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/13 Topic 10_ International HRM and International Marketing/Session10 chapter1112.pptx"
+    },
+    {
+      "old_path": "BUS219/14 Topic 11: Global Operations and Supply-Chain Management/Session 11 Outsourcing Television.pdf",
+      "bytes": 591306,
+      "sha256": "7015271c8b3490b0ec3196ae2bba150e5dad0ab44fed74e50fca42b787050409",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/14 Topic 11_ Global Operations and Supply-Chain Management/Session 11 Outsourcing Television.pdf"
+    },
+    {
+      "old_path": "BUS219/14 Topic 11: Global Operations and Supply-Chain Management/Session11 chapter13.pptx",
+      "bytes": 432315,
+      "sha256": "06583e6681d1ae3bc893d449053990ee5293688cc5263767b2630b3e5a96087f",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/14 Topic 11_ Global Operations and Supply-Chain Management/Session11 chapter13.pptx"
+    },
+    {
+      "old_path": "BUS219/15 Topic 12: Other Operational Perspectives of Global Business: Finance, Accounting and Taxation/Session12 chapter1415.pptx",
+      "bytes": 2047430,
+      "sha256": "1f477b5f9bbbc8e56099421f17ea340416d4b788ce7b4146bec6c29c06fe598d",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/15 Topic 12_ Other Operational Perspectives of Global Business_ Finance, Accounting and Taxation/Session12 chapter1415.pptx"
+    },
+    {
+      "old_path": "BUS219/19 Teams Online Classes/Student Guide - Joining Teams Online Sessions.pdf",
+      "bytes": 252482,
+      "sha256": "3994956dd90065b2e6a094871b993fdeace38a4c54f052f754005f4386799036",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/19 Teams Online Classes/Student Guide - Joining Teams Online Sessions.pdf"
+    },
+    {
+      "old_path": "BUS219/Poland_case_2026-09-22/.DS_Store",
+      "bytes": 6148,
+      "sha256": "57a59802fff0ebccc5f8a2696981b7e225ca0cc6c6bff00a56f4d7e4e9f0d1ec",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS219/Poland_case_2026-09-22/.build/build.mjs",
+      "bytes": 7345,
+      "sha256": "f38b16401220efe0d7eb09deb0bfc8cad53ad3032314ca4643733f2670f90a10",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/Poland_case_2026-09-22/.build/build.mjs"
+    },
+    {
+      "old_path": "BUS219/Poland_case_2026-09-22/.build/candidate.pptx",
+      "bytes": 13673,
+      "sha256": "6eaf487331398c95fe17a6d1b18f12f2c38e9b2c89ea20bb01003ef6247c8ba4",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/Poland_case_2026-09-22/.build/candidate.pptx"
+    },
+    {
+      "old_path": "BUS219/Poland_case_2026-09-22/.build/candidate.pptx.inspect.ndjson",
+      "bytes": 5562,
+      "sha256": "8e61f9e97447ade3b9af06356801cad764310380826722fd42e376f918c64c8a",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/Poland_case_2026-09-22/.build/candidate.pptx.inspect.ndjson"
+    },
+    {
+      "old_path": "BUS219/Poland_case_2026-09-22/.build/slide-final.png",
+      "bytes": 146871,
+      "sha256": "96dc78a5751272cbde1a5c280a4d9c01eac8e756590acc4290176a113a4ed6de",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/Poland_case_2026-09-22/.build/slide-final.png"
+    },
+    {
+      "old_path": "BUS219/Poland_case_2026-09-22/.build/validation.json",
+      "bytes": 3731,
+      "sha256": "9596786e7cbecc965b088ce367cfe5a4df3b4550a2cb992220d3263147f7c27a",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/Poland_case_2026-09-22/.build/validation.json"
+    },
+    {
+      "old_path": "BUS219/Poland_case_2026-09-22/output/BUS219_Poland_Faiaz_One_Slide.pptx",
+      "bytes": 13673,
+      "sha256": "6eaf487331398c95fe17a6d1b18f12f2c38e9b2c89ea20bb01003ef6247c8ba4",
+      "action": "exact_duplicate",
+      "new_path": "BUS219/2026-TSD/Materials/Poland_case_2026-09-22/.build/candidate.pptx"
+    },
+    {
+      "old_path": "BUS219/Poland_case_2026-09-22/output/Poland_speaking_notes.md",
+      "bytes": 2845,
+      "sha256": "f7ec0a07a0db41ea922d750230c817a91b5986c6644a0568a7499456d8b73185",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/Poland_case_2026-09-22/output/Poland_speaking_notes.md"
+    },
+    {
+      "old_path": "BUS219/_lms_dump_2026-09-15/announcement_984496.json",
+      "bytes": 3161,
+      "sha256": "baf41eafbfaaf5a2fd1c73b3b09a77a849beabc3ce3f17cd597ac55ff6919737",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/announcement_984496.json"
+    },
+    {
+      "old_path": "BUS219/_lms_dump_2026-09-15/course_contents.json",
+      "bytes": 120108,
+      "sha256": "2755ae3c867411350af3e6cb85f59a1383502926789ea9791d8dc436b5a156b3",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/course_contents.json"
+    },
+    {
+      "old_path": "BUS219/_lms_dump_2026-09-15/discussion_984496.json",
+      "bytes": 3161,
+      "sha256": "baf41eafbfaaf5a2fd1c73b3b09a77a849beabc3ce3f17cd597ac55ff6919737",
+      "action": "exact_duplicate",
+      "new_path": "BUS219/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/announcement_984496.json"
+    },
+    {
+      "old_path": "BUS219/_lms_dump_2026-09-15/files.tsv",
+      "bytes": 8516,
+      "sha256": "8a65bd1b04ad68ba6acf6ec9b555f2767c78626a67c790008340c2caf5e3e33e",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/files.tsv"
+    },
+    {
+      "old_path": "BUS219/_lms_dump_2026-09-15/forum_151065.json",
+      "bytes": 2189,
+      "sha256": "91a8a9b88725f700a45bf5728f25f85403b694d88b5e27b9a6bf001d6d0c87a7",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/forum_151065.json"
+    },
+    {
+      "old_path": "BUS219/_lms_dump_2026-09-15/forum_151066.json",
+      "bytes": 32,
+      "sha256": "2eb70030f9b27b40df9cfd8b25241e78d2793f60fc435cdaa8e9809f3117a1de",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/forum_151066.json"
+    },
+    {
+      "old_path": "BUS219/_lms_dump_2026-09-15/forums.json",
+      "bytes": 1308,
+      "sha256": "cb508aba7603e5863373af8b463e96945e4b65afeb6dae20b41b50751bab3504",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/forums.json"
+    },
+    {
+      "old_path": "BUS219/_lms_dump_2026-09-15/grade_items.json",
+      "bytes": 4846,
+      "sha256": "45035952e15223dc243c52c8f55df71e722e0cdddebd7b890a621bbb94e38fc5",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/grade_items.json"
+    },
+    {
+      "old_path": "BUS219/_lms_dump_2026-09-15/quizzes.json",
+      "bytes": 28,
+      "sha256": "764b12c4130b3f9e89388299c956bcef895b08aaf4ca2a49b02cb4e6b6889cb8",
+      "action": "copy",
+      "new_path": "BUS219/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/quizzes.json"
+    },
+    {
+      "old_path": "BUS225/.DS_Store",
+      "bytes": 18436,
+      "sha256": "ac3d382baa55f3bf3496d0dafbd0e7336cce1ac9fd4167ced30d8b5e1b74c2c5",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS225/.gitignore",
+      "bytes": 288,
+      "sha256": "e069d40cf71fed63802fb165cae7b447c6c7631a271b720fa5d497c2bcd3eccf",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS225/.local-history/00_CHAT_CONTEXT_before_github_2026-10-07.md",
+      "bytes": 30107,
+      "sha256": "6794e3b63567656f5846ae8d2fb7d2d038325d7a3a321ca6171f073705cd2d6d",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Archive/LegacyRecords/.local-history/00_CHAT_CONTEXT_before_github_2026-10-07.md"
+    },
+    {
+      "old_path": "BUS225/.local-history/01_WORK_PLAN_before_github_2026-10-07.md",
+      "bytes": 9530,
+      "sha256": "79432c64d72aed2c8bfd5bdc2b57389d6baaab4d5cd9d79272aadf988dd57836",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Archive/LegacyRecords/.local-history/01_WORK_PLAN_before_github_2026-10-07.md"
+    },
+    {
+      "old_path": "BUS225/00 Home/BUS225 Peer Evaluation Form_2026.docx",
+      "bytes": 43680,
+      "sha256": "fa43666b5dd35f593e7bdfef7ff3dee0171827f0ac2747cad5e15dcf05e830e5",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/00 Home/BUS225 Peer Evaluation Form_2026.docx"
+    },
+    {
+      "old_path": "BUS225/00 Home/BUS225 TS 2026 Marking Rubrics.docx",
+      "bytes": 35158,
+      "sha256": "dc5944f57d3d53ee36ba9893e8b85b1c69a9f79317e936d25e70c3f7ba0967e6",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/00 Home/BUS225 TS 2026 Marking Rubrics.docx"
+    },
+    {
+      "old_path": "BUS225/00 Home/Kennedy et al 2026 JSR .pdf",
+      "bytes": 1157027,
+      "sha256": "1e8c6e52b87c9f4bb72a2ba92f5d94608b24297f4ed06db679acec70c83c20e0",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/00 Home/Kennedy et al 2026 JSR .pdf"
+    },
+    {
+      "old_path": "BUS225/00 Home/Reinhard et al 2026 JSR.pdf",
+      "bytes": 477615,
+      "sha256": "b51dda468e34d78c3426fda0ea49174e76252e18276cfe583feff010722d34ef",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/00 Home/Reinhard et al 2026 JSR.pdf"
+    },
+    {
+      "old_path": "BUS225/00 Home/Service organisation profile.docx",
+      "bytes": 28758,
+      "sha256": "6f2ab248f934fe21da70936b5ae73032381fb60e3ad2d6ddaec09441d9c3cd42",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/00 Home/Service organisation profile.docx"
+    },
+    {
+      "old_path": "BUS225/00_CHAT_CONTEXT.md",
+      "bytes": 12930,
+      "sha256": "7b2b15905e9d73b2fa055d2dffc35ce56039849edc1cee64da87a319279f66c8",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Archive/LegacyRecords/00_CHAT_CONTEXT.md"
+    },
+    {
+      "old_path": "BUS225/00_UNIT_OUTLINE_BUS225_TSD2026.md",
+      "bytes": 29140,
+      "sha256": "c2417b8f28de6384f6942719724c2a394465b05ac344d33443fcbc4393ec3ed2",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/UnitOutline/00_UNIT_OUTLINE_BUS225_TSD2026.md"
+    },
+    {
+      "old_path": "BUS225/00_СТРУКТУРА_КУРСА.md",
+      "bytes": 30006,
+      "sha256": "f85d7c1397c9ed3e307e734e7e7db7458d08c8d9d3d2dd83867ad98ce6cf433a",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Archive/LegacyRecords/00_СТРУКТУРА_КУРСА.md"
+    },
+    {
+      "old_path": "BUS225/01_WORK_PLAN_2026-09-19.md",
+      "bytes": 575,
+      "sha256": "e4346eba1e5db308bd90df9fc37c5d46a52803dc1e61612e519f2f07f8a5a94d",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Archive/LegacyRecords/01_WORK_PLAN_2026-09-19.md"
+    },
+    {
+      "old_path": "BUS225/01_ОБЪЯВЛЕНИЯ.md",
+      "bytes": 1037,
+      "sha256": "75e3b15decf511ebe1fad2db36496296ff2d11af9741f1162e829cbbf27a8853",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Archive/LegacyRecords/01_ОБЪЯВЛЕНИЯ.md"
+    },
+    {
+      "old_path": "BUS225/02 Session 1 - Services Marketing /BUS225 Session 1 Workshop activity.docx",
+      "bytes": 18353,
+      "sha256": "6f39313939b13515139d45064c6adc1808e282382d3a6af875710f2d4bd4711f",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/02 Session 1 - Services Marketing/BUS225 Session 1 Workshop activity.docx"
+    },
+    {
+      "old_path": "BUS225/02 Session 1 - Services Marketing /BUS225 ch-01-PPT.pdf",
+      "bytes": 654780,
+      "sha256": "33cf2020017b941f2458a70573217fb8252a357f9e08dd375bdd511d677ff540",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/02 Session 1 - Services Marketing/BUS225 ch-01-PPT.pdf"
+    },
+    {
+      "old_path": "BUS225/02 Session 1 - Services Marketing /index.html",
+      "bytes": 129,
+      "sha256": "274d8c813b42a9f149f0a9ce99f08b6a3ecda76f127a45577c143ed6bf55024a",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/02 Session 1 - Services Marketing/index.html"
+    },
+    {
+      "old_path": "BUS225/03 Session 2 - Understanding Service Consumers/BUS225 Session 2 Workshop Activity.docx",
+      "bytes": 23071,
+      "sha256": "4f7d5b8b0d6ecbce5631844b3350ed09dd027e3e1bd75e7935d4d9fc6c5cf719",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/03 Session 2 - Understanding Service Consumers/BUS225 Session 2 Workshop Activity.docx"
+    },
+    {
+      "old_path": "BUS225/03 Session 2 - Understanding Service Consumers/BUS225 ch-02-PPT.pdf",
+      "bytes": 861457,
+      "sha256": "894145a1a14904ba6f91743221f3d4f469d41f6b384a65ad77f28a5e547dd5a6",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/03 Session 2 - Understanding Service Consumers/BUS225 ch-02-PPT.pdf"
+    },
+    {
+      "old_path": "BUS225/04 Session 3 - Positioning Services in Competitive Markets/BUS225 Session 3 Workshop Activity.docx",
+      "bytes": 26643,
+      "sha256": "11d37765127c40762263e86211afee0901431bac661400277712a703c4b9eefb",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/04 Session 3 - Positioning Services in Competitive Markets/BUS225 Session 3 Workshop Activity.docx"
+    },
+    {
+      "old_path": "BUS225/04 Session 3 - Positioning Services in Competitive Markets/BUS225 ch-03-PPT.pdf",
+      "bytes": 490012,
+      "sha256": "dc1de9744539392a2ccccd1e210e21518abbf8e3c5836c850981a6be0f86d29b",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/04 Session 3 - Positioning Services in Competitive Markets/BUS225 ch-03-PPT.pdf"
+    },
+    {
+      "old_path": "BUS225/04 Session 3 - Positioning Services in Competitive Markets/Palace case study.pdf",
+      "bytes": 2818471,
+      "sha256": "f4c57dc2e5f8a311e5b0ccdd85f43b8d28a1e220878980992d592af18b897544",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/04 Session 3 - Positioning Services in Competitive Markets/Palace case study.pdf"
+    },
+    {
+      "old_path": "BUS225/04 Session 3 - Positioning Services in Competitive Markets/index.html",
+      "bytes": 231,
+      "sha256": "1467a64cb10ede9d65a42671756fe1285eae702e10f744ce7495ebfaced6c40c",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/04 Session 3 - Positioning Services in Competitive Markets/index.html"
+    },
+    {
+      "old_path": "BUS225/05 Session 4 - Developing Service Products/BUS225 Session 4 Workshop Activity.docx",
+      "bytes": 36321,
+      "sha256": "1a54944538cf5b139d554b11d9979b468c9bea8c97b3f39d06048ff17f4166c2",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/05 Session 4 - Developing Service Products/BUS225 Session 4 Workshop Activity.docx"
+    },
+    {
+      "old_path": "BUS225/05 Session 4 - Developing Service Products/ch-04-PPT.pdf",
+      "bytes": 563333,
+      "sha256": "ff130d6fc747ff2d4390e42ce10433e12bc40aad5cc5cb695e238c5cd6cd7812",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/05 Session 4 - Developing Service Products/ch-04-PPT.pdf"
+    },
+    {
+      "old_path": "BUS225/06 Session 5 - Service Distribution /BUS225 Session 5 Workshop Activity.docx",
+      "bytes": 34257,
+      "sha256": "af69d88e82ae542aa576d7a5d90d6fe9264424089c0ee4d18eaf27e9479424c4",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/06 Session 5 - Service Distribution/BUS225 Session 5 Workshop Activity.docx"
+    },
+    {
+      "old_path": "BUS225/06 Session 5 - Service Distribution /Session 5 Service Distribution Notes.pdf",
+      "bytes": 413840,
+      "sha256": "12a437d92909b563ef7ba826e601ab85a0f75071dce788c739555da8a3dfc662",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/06 Session 5 - Service Distribution/Session 5 Service Distribution Notes.pdf"
+    },
+    {
+      "old_path": "BUS225/07 Session 6 - Setting Prices and Implementing Revenue Management/BUS225 Session 6 Workshop Activity.docx",
+      "bytes": 32900,
+      "sha256": "6f06343898b24a57aaf419951a4e77a54ac97599fc523b98a710158482d781c7",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/07 Session 6 - Setting Prices and Implementing Revenue Management/BUS225 Session 6 Workshop Activity.docx"
+    },
+    {
+      "old_path": "BUS225/07 Session 6 - Setting Prices and Implementing Revenue Management/Chapter 6 slides.pdf",
+      "bytes": 761525,
+      "sha256": "d23294a1b6536fd084f4e0acae007bb4619a14825eb0ecbda1a665f53052ca19",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/07 Session 6 - Setting Prices and Implementing Revenue Management/Chapter 6 slides.pdf"
+    },
+    {
+      "old_path": "BUS225/07 Session 6 - Setting Prices and Implementing Revenue Management/index.html",
+      "bytes": 284,
+      "sha256": "141a41d7558df1108cbdb49c5b9eb9943e8fdbfb9f01d6e8a752e222adde6f4f",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/07 Session 6 - Setting Prices and Implementing Revenue Management/index.html"
+    },
+    {
+      "old_path": "BUS225/08 Session 7: Promoting Services and Educating Customers/BUS225 Session 7 Workshop Activity .docx",
+      "bytes": 23602,
+      "sha256": "de5cae4a65dc132dbea3b8ba70f21adf2d6ebd1ae5f1ea46f0a45d4f74c509be",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/08 Session 7_ Promoting Services and Educating Customers/BUS225 Session 7 Workshop Activity .docx"
+    },
+    {
+      "old_path": "BUS225/08 Session 7: Promoting Services and Educating Customers/BUS225 ch-07 lecture slides.pdf",
+      "bytes": 610994,
+      "sha256": "ece34539f5d046cb8a52cc095994168616f2966046adefdccc9ccc87e325a1ed",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/08 Session 7_ Promoting Services and Educating Customers/BUS225 ch-07 lecture slides.pdf"
+    },
+    {
+      "old_path": "BUS225/09 Session 8 - Designing Service Processes/BUS225 Session 8 Workshop Activity and Answers.docx",
+      "bytes": 25653,
+      "sha256": "33a487ff2df0d1c7df247067fc725978fda808ed980b2957bd16a6ce14ee964c",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/09 Session 8 - Designing Service Processes/BUS225 Session 8 Workshop Activity and Answers.docx"
+    },
+    {
+      "old_path": "BUS225/09 Session 8 - Designing Service Processes/BUS225 ch-08 lecture slides.pdf",
+      "bytes": 625051,
+      "sha256": "944d6d4631ac1326013c49c6940bfd650537fa40859a7e8707aba4fbe5ae911f",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/09 Session 8 - Designing Service Processes/BUS225 ch-08 lecture slides.pdf"
+    },
+    {
+      "old_path": "BUS225/09 Session 8 - Designing Service Processes/Service blueprinting_slides.pptx",
+      "bytes": 2937783,
+      "sha256": "3745aa5c030e8abee548a0749205bf4733b7eeb1de6fd7a704d86ddbbf078d73",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/09 Session 8 - Designing Service Processes/Service blueprinting_slides.pptx"
+    },
+    {
+      "old_path": "BUS225/09 Session 8 - Designing Service Processes/index.html",
+      "bytes": 104,
+      "sha256": "9d72eed28ffbfbc72a7039fa207bbf1220be456658e78b5fde14a2d795c734f5",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/09 Session 8 - Designing Service Processes/index.html"
+    },
+    {
+      "old_path": "BUS225/10 Session 9 - Crafting the Service Environment/BUS225 Session 9 Workshop.docx",
+      "bytes": 35675,
+      "sha256": "d4eb3cec4fa60e1e07945ebc9c82de5cf87a0eb93479432c4d4553aa9de91ad5",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/10 Session 9 - Crafting the Service Environment/BUS225 Session 9 Workshop.docx"
+    },
+    {
+      "old_path": "BUS225/10 Session 9 - Crafting the Service Environment/BUS225 ch-10 lecture slides.pdf",
+      "bytes": 2037433,
+      "sha256": "dcefb507adff1bfb3079ee96bb397227aa017dab9b0fc5bf971d8dbce8f9b738",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/10 Session 9 - Crafting the Service Environment/BUS225 ch-10 lecture slides.pdf"
+    },
+    {
+      "old_path": "BUS225/11 Session 10 - Managing People for Service Advantage/BUS225 Session 10  Workshop Activity.docx",
+      "bytes": 35324,
+      "sha256": "0f240ab6ffc5554783eacae893a23517ce146fcb8ce69d4d4dc3e242e31f3575",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/11 Session 10 - Managing People for Service Advantage/BUS225 Session 10  Workshop Activity.docx"
+    },
+    {
+      "old_path": "BUS225/11 Session 10 - Managing People for Service Advantage/BUS225 ch-11-lecture slides.pdf",
+      "bytes": 756758,
+      "sha256": "f1176efd0b727ca109fe25b42b8347fcd52c03b12c626525f6a024dfcc5393c0",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/11 Session 10 - Managing People for Service Advantage/BUS225 ch-11-lecture slides.pdf"
+    },
+    {
+      "old_path": "BUS225/12 Session 11 - Managing Relationships and Building Loyalty/BUS225 Session 11  Workshop Activity.docx",
+      "bytes": 34258,
+      "sha256": "b847fc761742c9fe2691227515ca69b094e94401798e262e7d7f6b451c2e9695",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/12 Session 11 - Managing Relationships and Building Loyalty/BUS225 Session 11  Workshop Activity.docx"
+    },
+    {
+      "old_path": "BUS225/12 Session 11 - Managing Relationships and Building Loyalty/BUS225 ch-12 lecture slides.pdf",
+      "bytes": 791321,
+      "sha256": "d78ee26c8ab75a8db81bd42ff79ab061e1d37ff1c565a16e757aaa61d1761469",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/12 Session 11 - Managing Relationships and Building Loyalty/BUS225 ch-12 lecture slides.pdf"
+    },
+    {
+      "old_path": "BUS225/13 Session 12 - Improving Service Quality and Productivity/BUS225 Session 12  Workshop Activity.docx",
+      "bytes": 36833,
+      "sha256": "4145ea902dfb50fbc310d3b63350b038b2841bfdf6603562c11061e93b9f4b3d",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/13 Session 12 - Improving Service Quality and Productivity/BUS225 Session 12  Workshop Activity.docx"
+    },
+    {
+      "old_path": "BUS225/13 Session 12 - Improving Service Quality and Productivity/BUS225 ch-14-lecture slides.pdf",
+      "bytes": 1051662,
+      "sha256": "3423c1940bf58f75ce18f55343ce751e65b6355bdbb431840e48a915a3cf7663",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/13 Session 12 - Improving Service Quality and Productivity/BUS225 ch-14-lecture slides.pdf"
+    },
+    {
+      "old_path": "BUS225/AGENTS.md",
+      "bytes": 5737,
+      "sha256": "15a18851fcd1e73c7089753d43aa1d4e4f067dbd3429ba6dc0c36e979829007c",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Archive/LegacyRecords/AGENTS.historical.md"
+    },
+    {
+      "old_path": "BUS225/Assignment 1/.DS_Store",
+      "bytes": 8196,
+      "sha256": "ebf2560deef8b86c09bd071f894fa1d573006bb59d0e1a0cdcade61b9927ec03",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS225/Assignment 1/READ_ALOUD_EN.txt",
+      "bytes": 2468,
+      "sha256": "a15ffa55ad5987dd84e207485f0318274149f977728543636121f2f0d19be803",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A1/READ_ALOUD_EN.txt"
+    },
+    {
+      "old_path": "BUS225/Assignment 1/SOURCE_CHECK.md",
+      "bytes": 5096,
+      "sha256": "1ea417512961cf2a4fb241f33428d36d645545ca4f279f4aaa1023a5ea533810",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A1/SOURCE_CHECK.md"
+    },
+    {
+      "old_path": "BUS225/Assignment 1/START_HERE_RU.md",
+      "bytes": 11449,
+      "sha256": "bd8c05e726465225d52fb54fe56bd25779a5914069b5a64923bb2fbd932f6382",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A1/START_HERE_RU.md"
+    },
+    {
+      "old_path": "BUS225/Assignment 1/START_RECORDING.command",
+      "bytes": 105,
+      "sha256": "2520c00d0e8dc790969cc063f991e3e48ccbb0550162fb68a2966d716fdd7cb0",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A1/START_RECORDING.command"
+    },
+    {
+      "old_path": "BUS225/Assignment 1/Submission/Moodle_submitted_2026-09-26.png",
+      "bytes": 917811,
+      "sha256": "0a01565850e5c16effe62aa093cdab2f7ab52f68ac6b5a962d45b0e65cd509af",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A1/Submission/Moodle_submitted_2026-09-26.png"
+    },
+    {
+      "old_path": "BUS225/Assignment 1/Submission/STATUS_RU.md",
+      "bytes": 1214,
+      "sha256": "ddeff0442b7c0e4a709225170c731800e62008d21813c694767586bfeb229fb0",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A1/Submission/STATUS_RU.md"
+    },
+    {
+      "old_path": "BUS225/Assignment 1/VIDEO_DESCRIPTION.txt",
+      "bytes": 1128,
+      "sha256": "57b9f20280c58670d14f8b20da2fda510cce2185d6445df264839b831ef7ee56",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A1/VIDEO_DESCRIPTION.txt"
+    },
+    {
+      "old_path": "BUS225/Assignment 1/VIDEO_LINK.txt",
+      "bytes": 274,
+      "sha256": "5c37b51b380ac03fb03cc7be8000f0a016074e034bd8375826721f66111e8060",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A1/VIDEO_LINK.txt"
+    },
+    {
+      "old_path": "BUS225/Assignment 1/Video/BUS225_A1_Faiaz_Dzhafarov.webm",
+      "bytes": 73538655,
+      "sha256": "e84c3a3a6cf097e3169bc29a7dc7093c546cdef8cbf52ec196c4ab8ed4095bc2",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A1/Video/BUS225_A1_Faiaz_Dzhafarov.webm"
+    },
+    {
+      "old_path": "BUS225/Assignment 1/build.py",
+      "bytes": 13828,
+      "sha256": "39b14860c71997c4518a1491bf5330e7544bc30eede68358ecd6d9842ddc483b",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A1/build.py"
+    },
+    {
+      "old_path": "BUS225/Assignment 1/content.json",
+      "bytes": 8703,
+      "sha256": "f6ba593345566d9d543e279b142602b279fc42bd0dc5039c43d0b7578c380f47",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A1/content.json"
+    },
+    {
+      "old_path": "BUS225/Assignment 1/record.html",
+      "bytes": 36982,
+      "sha256": "7a6ee10851f1be8b7563594531494b0bc8cb939fea0512fce2e11588399c7c1e",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A1/record.html"
+    },
+    {
+      "old_path": "BUS225/Assignment 1/serve.py",
+      "bytes": 2052,
+      "sha256": "e1e3b919ec0b55590ecf2850d7bf0f3fe536e605c8b7664c8e7248d05241b8f9",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A1/serve.py"
+    },
+    {
+      "old_path": "BUS225/Assignment 1/studio.template.html",
+      "bytes": 28724,
+      "sha256": "683268d8523fc6f0fff7b5a6cd6714fdbcea21201e5d7c735a3298160845a556",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A1/studio.template.html"
+    },
+    {
+      "old_path": "BUS225/Assignment 1/visuals/01.png",
+      "bytes": 143665,
+      "sha256": "364cbf63df5c0be78dbe74e7d6878cffc49bf4e58f099dc643f57d978b078ddb",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A1/visuals/01.png"
+    },
+    {
+      "old_path": "BUS225/Assignment 1/visuals/02.png",
+      "bytes": 167452,
+      "sha256": "8fdd5a4576a9c271d7663d097a9d5619bbb35aba5b6393d93a433d5c4fa01d9c",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A1/visuals/02.png"
+    },
+    {
+      "old_path": "BUS225/Assignment 1/visuals/03.png",
+      "bytes": 143970,
+      "sha256": "b75b2a268f6b07a17346e552f3681ef1926836c896d8b81efce8deb02c966760",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A1/visuals/03.png"
+    },
+    {
+      "old_path": "BUS225/Assignment 1/visuals/04.png",
+      "bytes": 140678,
+      "sha256": "2dae798baa4b9895e54c841b7860559adca5e7f88f2a38cb342e218e35b3c232",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A1/visuals/04.png"
+    },
+    {
+      "old_path": "BUS225/Assignment 1/visuals/05.png",
+      "bytes": 157521,
+      "sha256": "3f58e565678973a00215f4bea3f06457658f7a6834da7c3eaf6f46557c198c6c",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A1/visuals/05.png"
+    },
+    {
+      "old_path": "BUS225/Assignment 1/visuals/06.png",
+      "bytes": 150601,
+      "sha256": "f83caa2b4fd2f63c2cddb1a7934dbff53f5f7e5104d1ef4f5ea741e87425fa31",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A1/visuals/06.png"
+    },
+    {
+      "old_path": "BUS225/Assignment 1/visuals/07.png",
+      "bytes": 197583,
+      "sha256": "fb28f022defccc52aa0fa65985978c9642151cf7621719190f6532c0c3e0bdad",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A1/visuals/07.png"
+    },
+    {
+      "old_path": "BUS225/Assignment 2/PLAN_RU.md",
+      "bytes": 4651,
+      "sha256": "01ebab5759d41212e64a948e87f0ee6347fa8a2448aa1d86be7c032c0bd94872",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A2/PLAN_RU.md"
+    },
+    {
+      "old_path": "BUS225/CLASS_NOTES.md",
+      "bytes": 2248,
+      "sha256": "016e075458fbdaed65c0e90f72f17229b15a30ea6d7d663d802e48acee1a0e11",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Archive/LegacyRecords/CLASS_NOTES.md"
+    },
+    {
+      "old_path": "BUS225/Correspondence/2026-10-01_blueprint_email.md",
+      "bytes": 1622,
+      "sha256": "7f4473cb3f4ef1a3ba9a80aa57cd4153f7860403e92f942b324763fbfa4657c6",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Correspondence/2026-10-01_blueprint_email.md"
+    },
+    {
+      "old_path": "BUS225/HISTORY.md",
+      "bytes": 3831,
+      "sha256": "c12641a0b64b95a48628e7b8fb6b84e03ff811cc7b2c78644f6cd0f10e6fb497",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Archive/LegacyRecords/HISTORY.md"
+    },
+    {
+      "old_path": "BUS225/LOCAL_FILES.md",
+      "bytes": 2107,
+      "sha256": "9afbf289d8022e3894838520895c825173933e4c5b1dd9c7c52205db9c5e0cfb",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Archive/LegacyRecords/LOCAL_FILES.md"
+    },
+    {
+      "old_path": "BUS225/README.md",
+      "bytes": 3967,
+      "sha256": "137d75a915d8438c1aa3950543fc0a5612b4678ad2bfc88d27007adc99f7dd06",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Archive/LegacyRecords/README.md"
+    },
+    {
+      "old_path": "BUS225/Service Organisation Profile/BUS225_Group9_Carrefour_Service_Organisation_Profile.docx",
+      "bytes": 31738,
+      "sha256": "3f6fb157f1c8baee12043e21f1dc04e0852032981213c20c2566a5a781ccebc7",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A2/ServiceOrganisationProfile/BUS225_Group9_Carrefour_Service_Organisation_Profile.docx"
+    },
+    {
+      "old_path": "BUS225/Service Organisation Profile/Message_and_email_for_Muhammad.md",
+      "bytes": 2724,
+      "sha256": "1e7c195dcd5b1714f1b71851dff5ace2cd5519165dcd4b9608312d06b3af6038",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A2/ServiceOrganisationProfile/Message_and_email_for_Muhammad.md"
+    },
+    {
+      "old_path": "BUS225/Service Organisation Profile/Message_to_Muhammad_work_split_2026-09-19.md",
+      "bytes": 1104,
+      "sha256": "acc78d2b95b98afa0ebd80dea189f610551d3277467afaf154693eb72507dfe2",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Assignments/A2/ServiceOrganisationProfile/Message_to_Muhammad_work_split_2026-09-19.md"
+    },
+    {
+      "old_path": "BUS225/_lms_dump_2026-09-15/_skipped.txt",
+      "bytes": 70,
+      "sha256": "345c461a628c4a6f2766c06a6fb075243cfbadbe7e3bfac20727422e84047e59",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/_skipped.txt"
+    },
+    {
+      "old_path": "BUS225/_lms_dump_2026-09-15/course_contents.json",
+      "bytes": 158649,
+      "sha256": "f6b66789e21168c8bab43c939d79dee313b834e3a61bbd2a190e984f838da58d",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/course_contents.json"
+    },
+    {
+      "old_path": "BUS225/_lms_dump_2026-09-15/discussion_978620.json",
+      "bytes": 2716,
+      "sha256": "18614909a9e085467e6ca90c7d2a1941898d12d416428f6a33923a68590862c3",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/discussion_978620.json"
+    },
+    {
+      "old_path": "BUS225/_lms_dump_2026-09-15/files.tsv",
+      "bytes": 9914,
+      "sha256": "36a2ca30b9130e61cd63d285fd9bd97779bc116dcbb1e2c1917dafba79588203",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/files.tsv"
+    },
+    {
+      "old_path": "BUS225/_lms_dump_2026-09-15/files_all.tsv",
+      "bytes": 12462,
+      "sha256": "9652da0ff84e55ae7f9e70089121ab441605be9a16655cbe747b8de4273f529f",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/files_all.tsv"
+    },
+    {
+      "old_path": "BUS225/_lms_dump_2026-09-15/forum_149822.json",
+      "bytes": 1789,
+      "sha256": "d5f25b5f2796ee4355970210544a43da645672c22e485e946689e2bc0b04ad20",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/forum_149822.json"
+    },
+    {
+      "old_path": "BUS225/_lms_dump_2026-09-15/forum_149823.json",
+      "bytes": 32,
+      "sha256": "2eb70030f9b27b40df9cfd8b25241e78d2793f60fc435cdaa8e9809f3117a1de",
+      "action": "exact_duplicate",
+      "new_path": "BUS219/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/forum_151066.json"
+    },
+    {
+      "old_path": "BUS225/_lms_dump_2026-09-15/forums.json",
+      "bytes": 1308,
+      "sha256": "3ebbf225d5699936f784e67aa9fac9681a1aa91399749b1d2fb99d0e47ac366d",
+      "action": "copy",
+      "new_path": "BUS225/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/forums.json"
+    },
+    {
+      "old_path": "BUS230/.DS_Store",
+      "bytes": 14340,
+      "sha256": "728a4ff3c678ad8bb46df181aec42ceaae3c1872879d72a19dd4e6f9c5a111a9",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS230/00_CHAT_CONTEXT.md",
+      "bytes": 19501,
+      "sha256": "89843276a0f9b96cebc5f51fcc91e216c3529183e6877ca6dc17d3c66a443753",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Archive/LegacyRecords/00_CHAT_CONTEXT.md"
+    },
+    {
+      "old_path": "BUS230/00_UNIT_OUTLINE_BUS230_TSD2026.md",
+      "bytes": 28062,
+      "sha256": "33cbb7413561f3801869e27a921b00b9096877c1fe2f9284c167f96ddbd00419",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/UnitOutline/00_UNIT_OUTLINE_BUS230_TSD2026.md"
+    },
+    {
+      "old_path": "BUS230/00_СТРУКТУРА_КУРСА.md",
+      "bytes": 17585,
+      "sha256": "2448cc4eaa2b8496ed890834172b47687be865a81597e09e28b147a08d81f0f3",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Archive/LegacyRecords/00_СТРУКТУРА_КУРСА.md"
+    },
+    {
+      "old_path": "BUS230/01_ОБЪЯВЛЕНИЯ.md",
+      "bytes": 226,
+      "sha256": "391396ba17741da578e05e4a40718b656f695bbb4893864c1b45c7c372eed77f",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Archive/LegacyRecords/01_ОБЪЯВЛЕНИЯ.md"
+    },
+    {
+      "old_path": "BUS230/04 Assessment 3: Final Exam/BUS230 Topic 12 Exam Information Slides  2026.pptx",
+      "bytes": 449758,
+      "sha256": "5e4a3d528d4bafb3b3b51fa3e7d1004e1ac77b15d8b13d7ff0b0e820d7b31c8b",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/04 Assessment 3_ Final Exam/BUS230 Topic 12 Exam Information Slides  2026.pptx"
+    },
+    {
+      "old_path": "BUS230/04 Assessment 3: Final Exam/Exam Protocols.pdf",
+      "bytes": 75531,
+      "sha256": "b344ac158644488d9b4ef66ad8cafdb833d8042ea566ffd6ae8001db09e77597",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/04 Assessment 3_ Final Exam/Exam Protocols.pdf"
+    },
+    {
+      "old_path": "BUS230/06 Session 1 - Drivers of Change/BUS230 Lecture Podcast Topic 1.pptx",
+      "bytes": 281974,
+      "sha256": "fb2fa41d8faf34682b4b24e23c47ccc505a3e550272e14cecb9a0095661f181a",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/06 Session 1 - Drivers of Change/BUS230 Lecture Podcast Topic 1.pptx"
+    },
+    {
+      "old_path": "BUS230/06 Session 1 - Drivers of Change/BUS230 Topic 1 Case Studies.pdf",
+      "bytes": 107246,
+      "sha256": "02c3c8b7081f7528366c9f1870aacf5c1dc87e5ed662bc8137724fc6a8ecd8da",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/06 Session 1 - Drivers of Change/BUS230 Topic 1 Case Studies.pdf"
+    },
+    {
+      "old_path": "BUS230/06 Session 1 - Drivers of Change/BUS230 Topic 1 Podcast Transcript.pdf",
+      "bytes": 72969,
+      "sha256": "e8448fce5cd5aeac278d16a4b333f20b5d9e0846dc6a2f71c165d5ee2ad152fe",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/06 Session 1 - Drivers of Change/BUS230 Topic 1 Podcast Transcript.pdf"
+    },
+    {
+      "old_path": "BUS230/06 Session 1 - Drivers of Change/BUS230 Topic 1 Workshop Slides.pptx",
+      "bytes": 1255268,
+      "sha256": "d6538f71a6ce157fd414507d4a59a4a9c8325fddf1349ea6ae7b130ea0238fb8",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/06 Session 1 - Drivers of Change/BUS230 Topic 1 Workshop Slides.pptx"
+    },
+    {
+      "old_path": "BUS230/07 Session 2 - Change Actors/BUS230 Topic 2 Change Readiness Assessment.pdf",
+      "bytes": 31481,
+      "sha256": "a2c796f0192bf6f9b9496f1b8411edeb5bc0babf999fdfca8e5023c30e3f1f0f",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/07 Session 2 - Change Actors/BUS230 Topic 2 Change Readiness Assessment.pdf"
+    },
+    {
+      "old_path": "BUS230/07 Session 2 - Change Actors/BUS230 Topic 2 Podcast Slides.pptx",
+      "bytes": 943894,
+      "sha256": "ee7874cb41164638fd1cdaa9d88c2e5ca07ad050b02156509f5ecff4f4abf5cf",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/07 Session 2 - Change Actors/BUS230 Topic 2 Podcast Slides.pptx"
+    },
+    {
+      "old_path": "BUS230/07 Session 2 - Change Actors/BUS230 Topic 2 Workshop Slides.pptx",
+      "bytes": 508916,
+      "sha256": "61eddcb140ee542a4196305122719efae32c0ba2f53e109e785899d9994c9b6f",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/07 Session 2 - Change Actors/BUS230 Topic 2 Workshop Slides.pptx"
+    },
+    {
+      "old_path": "BUS230/07 Session 2 - Change Actors/Emotions in sensemaking A change management perspective.pdf",
+      "bytes": 282525,
+      "sha256": "f140153a4c6d07ebaac5a52e47d3d0c3b8e45ad5505328874767033e1795dba8",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/07 Session 2 - Change Actors/Emotions in sensemaking A change management perspective.pdf"
+    },
+    {
+      "old_path": "BUS230/07 Session 2 - Change Actors/Topic 2 Case Study.pdf",
+      "bytes": 88046,
+      "sha256": "31dc3df48e6be2793527ef7a2bcdf15a88d21e58210aa71022f1b21d9bcb43d3",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/07 Session 2 - Change Actors/Topic 2 Case Study.pdf"
+    },
+    {
+      "old_path": "BUS230/07 Session 2 - Change Actors/Topic 2 Podcast Transcript.pdf",
+      "bytes": 85852,
+      "sha256": "2f9b08c1cc5190da22238fd85cd2260c1d03991041748553b0b2069971c3a7b9",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/07 Session 2 - Change Actors/Topic 2 Podcast Transcript.pdf"
+    },
+    {
+      "old_path": "BUS230/08 Session 3 - Resistance to Change/BUS230 Topic 3 Podcast Slides.pptx",
+      "bytes": 503228,
+      "sha256": "2abb875600a90cc971386fd3f7e5ce7c58db533a3ff767c110a8a700167dde1e",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/08 Session 3 - Resistance to Change/BUS230 Topic 3 Podcast Slides.pptx"
+    },
+    {
+      "old_path": "BUS230/08 Session 3 - Resistance to Change/BUS230 Topic 3 Workshop Slides.pptx",
+      "bytes": 590257,
+      "sha256": "0da7d826180a37042dbf7cc460e16175a91651f92905956639c74464935226b6",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/08 Session 3 - Resistance to Change/BUS230 Topic 3 Workshop Slides.pptx"
+    },
+    {
+      "old_path": "BUS230/08 Session 3 - Resistance to Change/Podcast 3 Transcript.pdf",
+      "bytes": 90324,
+      "sha256": "f6a02abd21dbaf88ca84f0dea15649ebab0d92a0fa251dee01894b28f9d9f269",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/08 Session 3 - Resistance to Change/Podcast 3 Transcript.pdf"
+    },
+    {
+      "old_path": "BUS230/08 Session 3 - Resistance to Change/Topic 3 Case Study.pdf",
+      "bytes": 105991,
+      "sha256": "88022596c55fe16356511b17ec15ab9e570052af452fd345a2d4d14958d77f8b",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/08 Session 3 - Resistance to Change/Topic 3 Case Study.pdf"
+    },
+    {
+      "old_path": "BUS230/09 Session 4 - Political System/BUS230 Topic 4 Case Study.pdf",
+      "bytes": 153872,
+      "sha256": "25e659867a5c2969036cf6695516dcc59bc1ae28533d2633bd53d52ebcb370e4",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/09 Session 4 - Political System/BUS230 Topic 4 Case Study.pdf"
+    },
+    {
+      "old_path": "BUS230/09 Session 4 - Political System/BUS230 Topic 4 Networking Self-Assessment.pdf",
+      "bytes": 48580,
+      "sha256": "96faa2d4d54cafebd7e6f2bc8f564f9e1cb68ac16ab768e30a9c7f54cb8610a0",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/09 Session 4 - Political System/BUS230 Topic 4 Networking Self-Assessment.pdf"
+    },
+    {
+      "old_path": "BUS230/09 Session 4 - Political System/BUS230 Topic 4 Podcast Slides.pptx",
+      "bytes": 365120,
+      "sha256": "f28ae108408d65564d10595f36cbdcb18c9a7d9ac936746e80de1b3150216958",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/09 Session 4 - Political System/BUS230 Topic 4 Podcast Slides.pptx"
+    },
+    {
+      "old_path": "BUS230/09 Session 4 - Political System/BUS230 Topic 4 Workshop Slides.pptx",
+      "bytes": 7089052,
+      "sha256": "e0edbece2663d960464f08ed94653a00d399fec0aef3d94eb88818929d000a4e",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/09 Session 4 - Political System/BUS230 Topic 4 Workshop Slides.pptx"
+    },
+    {
+      "old_path": "BUS230/09 Session 4 - Political System/Beyond Power Struggles A Multilevel Perspective on Incongruences at the Interface of Practice, Knowledge, and Identity in Radical Organizational Change by Kump.pdf",
+      "bytes": 191313,
+      "sha256": "0bd854ecd1063d1114549cea286abf2701b037a5a285612b1d60c1e5e2e44bc6",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/09 Session 4 - Political System/Beyond Power Struggles A Multilevel Perspective on Incongruences at the Interface of Practice, Knowledge, and Identity in Radical Organizational Change by Kump.pdf"
+    },
+    {
+      "old_path": "BUS230/09 Session 4 - Political System/Case Study Topic 4 Solution.pptx",
+      "bytes": 120964,
+      "sha256": "c9d44fe390234c3d3f4a4ed241dc6d124806e7e02d804ba6d162658dbcffcad3",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/09 Session 4 - Political System/Case Study Topic 4 Solution.pptx"
+    },
+    {
+      "old_path": "BUS230/09 Session 4 - Political System/Podcast 4 Transcript.pdf",
+      "bytes": 80229,
+      "sha256": "89d6c1a467d89f95a001f547b37f832494374be03940682b2ab0c53af6145e00",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/09 Session 4 - Political System/Podcast 4 Transcript.pdf"
+    },
+    {
+      "old_path": "BUS230/10 Session 5 - Cultural System/BUS230 Topic 5 Anthropologists Game worksheet.pdf",
+      "bytes": 83692,
+      "sha256": "dc928ed10717ff4dd76ce2aef21074b17f6f90fba00967e6b0ed479b357c7228",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/10 Session 5 - Cultural System/BUS230 Topic 5 Anthropologists Game worksheet.pdf"
+    },
+    {
+      "old_path": "BUS230/10 Session 5 - Cultural System/BUS230 Topic 5 Podcast Slides.pptx",
+      "bytes": 324084,
+      "sha256": "d6bae30a3ecc403fcdf2adb4086476ecd0da1e3c357ed9479bf831faa7de50de",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/10 Session 5 - Cultural System/BUS230 Topic 5 Podcast Slides.pptx"
+    },
+    {
+      "old_path": "BUS230/10 Session 5 - Cultural System/BUS230 Topic 5 Podcast Transcript.pdf",
+      "bytes": 78522,
+      "sha256": "547daa55db7468d6f75d25d30c3e1db502f0e5e74cc496a8740e23ba9a17bb85",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/10 Session 5 - Cultural System/BUS230 Topic 5 Podcast Transcript.pdf"
+    },
+    {
+      "old_path": "BUS230/10 Session 5 - Cultural System/BUS230 Topic 5 Workshop Slides.pptx",
+      "bytes": 1271793,
+      "sha256": "52daa3faf9a461d8124c4fe4844239dcf2d0b933238ef171aab84d99f568c77a",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/10 Session 5 - Cultural System/BUS230 Topic 5 Workshop Slides.pptx"
+    },
+    {
+      "old_path": "BUS230/10 Session 5 - Cultural System/HBR creative culture.pdf",
+      "bytes": 2017720,
+      "sha256": "6364386a7220803dcd90d8e9cb3bcf2aa57076541dfe003ff34ac284352cc835",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/10 Session 5 - Cultural System/HBR creative culture.pdf"
+    },
+    {
+      "old_path": "BUS230/10 Session 5 - Cultural System/Topic 5 Case Study.pdf",
+      "bytes": 169061,
+      "sha256": "89edd009537350b6d02cbdd67c261c53dd67c033a95b72fa0e2b4fc85e5191fb",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/10 Session 5 - Cultural System/Topic 5 Case Study.pdf"
+    },
+    {
+      "old_path": "BUS230/11 Session 6 - Technical System/BUS230 Topic 6 Case Study.pdf",
+      "bytes": 88364,
+      "sha256": "335010edb69e285b030a9b90a95c46de1644f8eff2fe666b4d4c3cb1d09c7819",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/11 Session 6 - Technical System/BUS230 Topic 6 Case Study.pdf"
+    },
+    {
+      "old_path": "BUS230/11 Session 6 - Technical System/BUS230 Topic 6 Podcast Slides.pptx",
+      "bytes": 238644,
+      "sha256": "9db1204364159cd518b7bd670452f53bc85f894ecaff0dadaba3566eb7dd066e",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/11 Session 6 - Technical System/BUS230 Topic 6 Podcast Slides.pptx"
+    },
+    {
+      "old_path": "BUS230/11 Session 6 - Technical System/BUS230 Topic 6 Podcast Transcript.pdf",
+      "bytes": 117158,
+      "sha256": "ea932025f7f1df47360c86a47e6c886793c85ee984c90f43b249f5b0d54b227f",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/11 Session 6 - Technical System/BUS230 Topic 6 Podcast Transcript.pdf"
+    },
+    {
+      "old_path": "BUS230/11 Session 6 - Technical System/BUS230 Topic 6 Workshop Slides.pptx",
+      "bytes": 1229579,
+      "sha256": "1607bf2af2698bbb654e79f82fee06a48ef8e9d590bcc281a1d2c73d1a4ee106",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/11 Session 6 - Technical System/BUS230 Topic 6 Workshop Slides.pptx"
+    },
+    {
+      "old_path": "BUS230/12 Session 7 - Models and Theory/BUS230 Podcast 7 Transcript.pdf",
+      "bytes": 102819,
+      "sha256": "771751876b28e8e3eeb2982afeb23c3073fb86607afb3b60a8a958f040203cae",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/12 Session 7 - Models and Theory/BUS230 Podcast 7 Transcript.pdf"
+    },
+    {
+      "old_path": "BUS230/12 Session 7 - Models and Theory/BUS230 Topic 7 Podcast Slides.pptx",
+      "bytes": 625599,
+      "sha256": "ebf851608a0a4373dff8f7b2b6286ecc7c30f4ed345b65c8fa4b4e6c77ee4cc2",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/12 Session 7 - Models and Theory/BUS230 Topic 7 Podcast Slides.pptx"
+    },
+    {
+      "old_path": "BUS230/12 Session 7 - Models and Theory/BUS230 Topic 7 Workshop Slides.pptx",
+      "bytes": 1643213,
+      "sha256": "37ebbf7677a31ace10a0e65788f209501c36666ee9e8f08d2e5f941eb6068279",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/12 Session 7 - Models and Theory/BUS230 Topic 7 Workshop Slides.pptx"
+    },
+    {
+      "old_path": "BUS230/12 Session 7 - Models and Theory/Topic 7 Case Study British Airways.pdf",
+      "bytes": 106283,
+      "sha256": "d2eb9da0a8033f4ae7cee1aedaa345778ccb9e085d6e5184cc9ab6953153dc16",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/12 Session 7 - Models and Theory/Topic 7 Case Study British Airways.pdf"
+    },
+    {
+      "old_path": "BUS230/13 Session 8 - Communicating Change/BUS230 Topic 8 Case Study.pdf",
+      "bytes": 128892,
+      "sha256": "2a1225b10e8599408515ff337cc51cee09b3a5ff54517bc3b343aea822434c4c",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/13 Session 8 - Communicating Change/BUS230 Topic 8 Case Study.pdf"
+    },
+    {
+      "old_path": "BUS230/13 Session 8 - Communicating Change/BUS230 Topic 8 Lecture Podcast.pdf",
+      "bytes": 91019,
+      "sha256": "c6502371f8c00e1077bff396d7e4eccb4b69cfa80714524ad97338e8f0607b9e",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/13 Session 8 - Communicating Change/BUS230 Topic 8 Lecture Podcast.pdf"
+    },
+    {
+      "old_path": "BUS230/13 Session 8 - Communicating Change/BUS230 Topic 8 Podcast Slides.pptx",
+      "bytes": 394690,
+      "sha256": "c166d3279fe99c17780edbe35c45a0a26b808d8d9659e5995883ba87c0819bf5",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/13 Session 8 - Communicating Change/BUS230 Topic 8 Podcast Slides.pptx"
+    },
+    {
+      "old_path": "BUS230/13 Session 8 - Communicating Change/BUS230 Topic 8 Workshop Slides.pptx",
+      "bytes": 5785972,
+      "sha256": "42ddea6b6f762b0fb27b5a836c60604e6dc95d37176a93fec900f36f62a64154",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/13 Session 8 - Communicating Change/BUS230 Topic 8 Workshop Slides.pptx"
+    },
+    {
+      "old_path": "BUS230/14 Sessions 9 - Embedding/Engaging Toolkit/List of Tools, Models, and Frameworks.pdf",
+      "bytes": 119626,
+      "sha256": "3d1edb5d9f1464b8a0889b121d80555d66ce185354640c4b839447e22ccdc326",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/14 Sessions 9 - Embedding/Engaging Toolkit/List of Tools, Models, and Frameworks.pdf"
+    },
+    {
+      "old_path": "BUS230/17 Session 12 - Exam Revision/BUS230 2025 Exam.pdf",
+      "bytes": 123943,
+      "sha256": "eede17652048e2f4fcff269d7c1d4e91be085d8c97b8365daa3128f217c11721",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/17 Session 12 - Exam Revision/BUS230 2025 Exam.pdf"
+    },
+    {
+      "old_path": "BUS230/17 Session 12 - Exam Revision/BUS230 Topic 12 Exam Information Slides  2026.pptx",
+      "bytes": 449758,
+      "sha256": "5e4a3d528d4bafb3b3b51fa3e7d1004e1ac77b15d8b13d7ff0b0e820d7b31c8b",
+      "action": "exact_duplicate",
+      "new_path": "BUS230/2026-TSD/Materials/04 Assessment 3_ Final Exam/BUS230 Topic 12 Exam Information Slides  2026.pptx"
+    },
+    {
+      "old_path": "BUS230/17 Session 12 - Exam Revision/Exam Protocols.pdf",
+      "bytes": 75531,
+      "sha256": "b344ac158644488d9b4ef66ad8cafdb833d8042ea566ffd6ae8001db09e77597",
+      "action": "exact_duplicate",
+      "new_path": "BUS230/2026-TSD/Materials/04 Assessment 3_ Final Exam/Exam Protocols.pdf"
+    },
+    {
+      "old_path": "BUS230/17 Session 12 - Exam Revision/Sample Exam Paper.pdf",
+      "bytes": 110469,
+      "sha256": "005f2ccdcf78778cc0acfafb2955e39f76fb5459433cacea13c03ae3617703a0",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/17 Session 12 - Exam Revision/Sample Exam Paper.pdf"
+    },
+    {
+      "old_path": "BUS230/17 Session 12 - Exam Revision/Sample exam paper.docx",
+      "bytes": 35270,
+      "sha256": "74e145df30cc98046be44350691631e2ae93b7589abf8c054967b6f1e914d60d",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/17 Session 12 - Exam Revision/Sample exam paper.docx"
+    },
+    {
+      "old_path": "BUS230/17 Session 12 - Exam Revision/index.html",
+      "bytes": 214,
+      "sha256": "12608f05f58e8a13a068361ea1bbfd8bdbed726d193d30c5512937f4953aa845",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/17 Session 12 - Exam Revision/index.html"
+    },
+    {
+      "old_path": "BUS230/20 Assessment Two/BUS230 Ass 2 marking rubric.docx",
+      "bytes": 33432,
+      "sha256": "b2ed27e751de8694890e740e04349a9497d4ac6978d9d5d75dc86d727e159eb2",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/20 Assessment Two/BUS230 Ass 2 marking rubric.docx"
+    },
+    {
+      "old_path": "BUS230/21 Assessment One:/BUS230 Ass 1 Marking Rubric.docx",
+      "bytes": 35309,
+      "sha256": "e3a5bdf28c041f3a1707d44ad89419fc8bc517d7f4af4828a273005587d5788d",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/21 Assessment One_/BUS230 Ass 1 Marking Rubric.docx"
+    },
+    {
+      "old_path": "BUS230/A2_ПРОВЕРКА_ТРЕБОВАНИЙ.md",
+      "bytes": 11809,
+      "sha256": "8044701a60d7a1dba9597449780a30ed5258583112d0bd397339eef6a95e94dd",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Archive/LegacyRecords/A2_ПРОВЕРКА_ТРЕБОВАНИЙ.md"
+    },
+    {
+      "old_path": "BUS230/Assessment 1/.DS_Store",
+      "bytes": 6148,
+      "sha256": "8574d7b256269dd00e7515632ee3b084d481034afb93e714425cc83112846039",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS230/Assessment 1/BUS230 Ass 1 Marking Rubric.docx",
+      "bytes": 35309,
+      "sha256": "e3a5bdf28c041f3a1707d44ad89419fc8bc517d7f4af4828a273005587d5788d",
+      "action": "exact_duplicate",
+      "new_path": "BUS230/2026-TSD/Materials/21 Assessment One_/BUS230 Ass 1 Marking Rubric.docx"
+    },
+    {
+      "old_path": "BUS230/Assessment 1/BUS230Assign1FaiazDzhafarov35553299.docx",
+      "bytes": 40716,
+      "sha256": "b8d4058bedcf80cff9f008380e29fd229b74fe24d918962df3bab18d9f1b4d36",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Assignments/A1/BUS230Assign1FaiazDzhafarov35553299.docx"
+    },
+    {
+      "old_path": "BUS230/Assessment 1/~$S230Assign1FaiazDzhafarov35553299_revised.docx",
+      "bytes": 162,
+      "sha256": "be365b461596e47bc2c1628d148ac2343c770b378214f33254ad898f7fa5b234",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS230/_lms_dump_2026-09-15/_skipped.txt",
+      "bytes": 2004,
+      "sha256": "570d9ec3ab636d864ee1b80391d961b8f913fb4d7bb1b6f049f2f9dde66de67b",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/_skipped.txt"
+    },
+    {
+      "old_path": "BUS230/_lms_dump_2026-09-15/course_contents.json",
+      "bytes": 159910,
+      "sha256": "75edc5f841baf7e32a5224a152d1ae7bc0dae90be657b697190bc57c099ed79a",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/course_contents.json"
+    },
+    {
+      "old_path": "BUS230/_lms_dump_2026-09-15/files.tsv",
+      "bytes": 10935,
+      "sha256": "45adaa54686b4c7b47775ae0c74147d434af261bb19889983c72828a494926a4",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/files.tsv"
+    },
+    {
+      "old_path": "BUS230/_lms_dump_2026-09-15/files_all.tsv",
+      "bytes": 15204,
+      "sha256": "6670a5de4efe7252a1d3edad7368593a74024cdda2c6b16a921404f7d5679404",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/files_all.tsv"
+    },
+    {
+      "old_path": "BUS230/_lms_dump_2026-09-15/forum_149752.json",
+      "bytes": 32,
+      "sha256": "2eb70030f9b27b40df9cfd8b25241e78d2793f60fc435cdaa8e9809f3117a1de",
+      "action": "exact_duplicate",
+      "new_path": "BUS219/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/forum_151066.json"
+    },
+    {
+      "old_path": "BUS230/_lms_dump_2026-09-15/forum_149753.json",
+      "bytes": 32,
+      "sha256": "2eb70030f9b27b40df9cfd8b25241e78d2793f60fc435cdaa8e9809f3117a1de",
+      "action": "exact_duplicate",
+      "new_path": "BUS219/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/forum_151066.json"
+    },
+    {
+      "old_path": "BUS230/_lms_dump_2026-09-15/forums.json",
+      "bytes": 2673,
+      "sha256": "fa1d1b14e180b6c6df6079b128985bf78862a77cfed2dea1dfd3577151f854da",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/forums.json"
+    },
+    {
+      "old_path": "BUS230/output/.DS_Store",
+      "bytes": 6148,
+      "sha256": "d338d5b18628ba3bb3fedb37400323a9f22a5def9e66d5102d139442fe8a31e3",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS230/output/pdf/BUS230_Anthropologists_Game_Murdoch_Dubai.pdf",
+      "bytes": 97657,
+      "sha256": "27b5e7833582989bee640131525768383e4c72650c8b2e7c8b6d16c607ebf662",
+      "action": "copy",
+      "new_path": "BUS230/2026-TSD/Materials/output/pdf/BUS230_Anthropologists_Game_Murdoch_Dubai.pdf"
+    },
+    {
+      "old_path": "BUS334/.DS_Store",
+      "bytes": 18436,
+      "sha256": "2f5157bbe8d0c9a155a877c4f410b922be271c875f12084ac42e0935796414fd",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS334/00_CHAT_CONTEXT.md",
+      "bytes": 10752,
+      "sha256": "89ffd906b0432657b377515da5adadcff4583d29022c8e637734c90081789ef4",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Archive/LegacyRecords/00_CHAT_CONTEXT.md"
+    },
+    {
+      "old_path": "BUS334/00_UNIT_OUTLINE_BUS334_TSD2026.md",
+      "bytes": 28426,
+      "sha256": "33187cdf3cd1f34a2cb2a3789881c0ae1d1acaa58189030a3386d35cb310f98c",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/UnitOutline/00_UNIT_OUTLINE_BUS334_TSD2026.md"
+    },
+    {
+      "old_path": "BUS334/00_СТРУКТУРА_КУРСА.md",
+      "bytes": 21928,
+      "sha256": "ad30948f35d4a22567ef4a18059659c0e58668801ff731fe5531dd0b48fe81bd",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Archive/LegacyRecords/00_СТРУКТУРА_КУРСА.md"
+    },
+    {
+      "old_path": "BUS334/01 Assessment/Assignment 1 Class Participation Rubric.docx",
+      "bytes": 50103,
+      "sha256": "a61b341d2bf4671fe4a0f93ac1e6622544e542e32d2bc4d1c3cbc598a93058d8",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/01 Assessment/Assignment 1 Class Participation Rubric.docx"
+    },
+    {
+      "old_path": "BUS334/01 Assessment/BUS334 Assignment 2 Summary.pdf",
+      "bytes": 669258,
+      "sha256": "3a76bb7e3bab1b3b77e36c63decc2ed9bc794c5571a594703c8f92d0c94cd187",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/01 Assessment/BUS334 Assignment 2 Summary.pdf"
+    },
+    {
+      "old_path": "BUS334/01 Assessment/BUS334 Assignment 3 Summary.pdf",
+      "bytes": 589734,
+      "sha256": "b5469b121b783808100aed68f053e654aa9afa4d619b55ab28067b5b1da11365",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/01 Assessment/BUS334 Assignment 3 Summary.pdf"
+    },
+    {
+      "old_path": "BUS334/01 Assessment/BUS334 Assignment 4 Summary.pdf",
+      "bytes": 876745,
+      "sha256": "068b9d636b1e0b543935824e848fb6770b4da6f11e70da2b50139ba5f2ceff6a",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/01 Assessment/BUS334 Assignment 4 Summary.pdf"
+    },
+    {
+      "old_path": "BUS334/01 Assessment/BUS334_Assignment 2 [Questionnaire]_Marking Guide.pdf",
+      "bytes": 589771,
+      "sha256": "63647a3852d34712bc8a312986d25a917f78f9615ab53fc246f7c89245d77ec9",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/01 Assessment/BUS334_Assignment 2 [Questionnaire]_Marking Guide.pdf"
+    },
+    {
+      "old_path": "BUS334/01 Assessment/BUS334_Assignment 3 [Data Collection]_Marking Guide.pdf",
+      "bytes": 582575,
+      "sha256": "44bb0ed954901eb9fe8bd2784eeb2d040acb8dc8abaa1d602132893b9c9cf352",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/01 Assessment/BUS334_Assignment 3 [Data Collection]_Marking Guide.pdf"
+    },
+    {
+      "old_path": "BUS334/01 Assessment/BUS334_Assignment 4_Peer Evaluation Form.docx",
+      "bytes": 36034,
+      "sha256": "0db04c9313f5426a56ffc4bea757d90af3b7a5b92c39841556043fa98e004904",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/01 Assessment/BUS334_Assignment 4_Peer Evaluation Form.docx"
+    },
+    {
+      "old_path": "BUS334/01 Assessment/BUS334_Presentation Marking Rubrics_Final.docx",
+      "bytes": 60721,
+      "sha256": "4cd363fac0168df867ade294ca88c311da0dcd0305e4d6d613505624b2109d45",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/01 Assessment/BUS334_Presentation Marking Rubrics_Final.docx"
+    },
+    {
+      "old_path": "BUS334/01 Assessment/Questionnaire Example.pdf",
+      "bytes": 396797,
+      "sha256": "b6e7c67f70bd436c631f204754328bf4783deffb1237f2984f5679d683ed377e",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/01 Assessment/Questionnaire Example.pdf"
+    },
+    {
+      "old_path": "BUS334/01_ОБЪЯВЛЕНИЯ.md",
+      "bytes": 222,
+      "sha256": "0fff142ec8de608709e97881f0067f793278da64c728fbd3b0b0d8b26a624214",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Archive/LegacyRecords/01_ОБЪЯВЛЕНИЯ.md"
+    },
+    {
+      "old_path": "BUS334/03 Academic Integrity/Academic Integrity Slide deck 3.pptx",
+      "bytes": 73186,
+      "sha256": "cb1bf72a714aaaa42b9eaac3258a437cea1aae5eb0de894f3f1ad6831b9a8231",
+      "action": "exact_duplicate",
+      "new_path": "BUS219/2026-TSD/Materials/03 Academic Integrity/Academic Integrity Slide deck 3.pptx"
+    },
+    {
+      "old_path": "BUS334/04 Session 1 - The World Of Data/Session 1 - Introduction to BA - Dubai updated (2026).pdf",
+      "bytes": 927691,
+      "sha256": "433bc01b972e92cd412032316726ce34cc87cddd6160b9ae2139290028fc4780",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/04 Session 1 - The World Of Data/Session 1 - Introduction to BA - Dubai updated (2026).pdf"
+    },
+    {
+      "old_path": "BUS334/05 Session 2 - Data Analytics for Business/Data Collection - Questionnaire.pdf",
+      "bytes": 1399260,
+      "sha256": "846f58955e2f830c12d64f0c4e3a76b3b4c80af952e8295117ba356b33a4541b",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/05 Session 2 - Data Analytics for Business/Data Collection - Questionnaire.pdf"
+    },
+    {
+      "old_path": "BUS334/05 Session 2 - Data Analytics for Business/Session 2 - DA for Business Dubai updated.pdf",
+      "bytes": 1470586,
+      "sha256": "562f4fee25b7b9f2ba562aefdf2526935cd78b0e63d22fdefc70b99fc918c206",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/05 Session 2 - Data Analytics for Business/Session 2 - DA for Business Dubai updated.pdf"
+    },
+    {
+      "old_path": "BUS334/06 Session 3 - Analysing the Business Environment/Analysing the Business Environment - topic summary.pdf",
+      "bytes": 340653,
+      "sha256": "aad32a1820bb394553d729740bea3cac7a0f332d1be62365e4bb31c0d3934879",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/06 Session 3 - Analysing the Business Environment/Analysing the Business Environment - topic summary.pdf"
+    },
+    {
+      "old_path": "BUS334/06 Session 3 - Analysing the Business Environment/PESTLE TEMPLATE.docx",
+      "bytes": 21862,
+      "sha256": "8f8f5da0be8115ddb6e8fe90b02d750ed2cb085f5b7780a11d51b9d2d654aadc",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/06 Session 3 - Analysing the Business Environment/PESTLE TEMPLATE.docx"
+    },
+    {
+      "old_path": "BUS334/06 Session 3 - Analysing the Business Environment/SWOT TEMPLATE.docx",
+      "bytes": 18993,
+      "sha256": "4c1804a4972fba01c9c2aa0c3eedd38f99d819c68a4a3cf5ca28deb980f7182a",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/06 Session 3 - Analysing the Business Environment/SWOT TEMPLATE.docx"
+    },
+    {
+      "old_path": "BUS334/06 Session 3 - Analysing the Business Environment/Session 3 - Analysing Business Environment_Dubai updated.pdf",
+      "bytes": 1722361,
+      "sha256": "007392cc415f3f63c05968401f8f8cccd5a63d5329bb712be2a8bf109d039d2d",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/06 Session 3 - Analysing the Business Environment/Session 3 - Analysing Business Environment_Dubai updated.pdf"
+    },
+    {
+      "old_path": "BUS334/07 Session 4 - Analysing the Business Itself/Business_Model_Canvas_Template_2020.docx",
+      "bytes": 68101,
+      "sha256": "c8fd55fd10cd367d5ee61912a59c87b43cd62db7c8d6784388f1afc4550b575a",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/07 Session 4 - Analysing the Business Itself/Business_Model_Canvas_Template_2020.docx"
+    },
+    {
+      "old_path": "BUS334/07 Session 4 - Analysing the Business Itself/Create_Value_Faiaz_Nikita.md",
+      "bytes": 4309,
+      "sha256": "816dbd4b8c6c743011406825682f142140405d2a8b8700047aa0758dcbdd5d6f",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/07 Session 4 - Analysing the Business Itself/Create_Value_Faiaz_Nikita.md"
+    },
+    {
+      "old_path": "BUS334/07 Session 4 - Analysing the Business Itself/Session 4_Analysing_the_Business.pdf",
+      "bytes": 1390141,
+      "sha256": "b290c9f251c59cb1d216875aaaaa8e7cbc50b3fa1ecfb83cd89ea007213392d1",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/07 Session 4 - Analysing the Business Itself/Session 4_Analysing_the_Business.pdf"
+    },
+    {
+      "old_path": "BUS334/07 Session 4 - Analysing the Business Itself/index.html",
+      "bytes": 2589,
+      "sha256": "c84970817d759b4110119ef99a4ba754c354c7ac34c220c68477cce37a66e665",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/07 Session 4 - Analysing the Business Itself/index.html"
+    },
+    {
+      "old_path": "BUS334/08 Session 5 - Analysing The Industry /Porters 5 Forces Template for Activity.docx",
+      "bytes": 20618,
+      "sha256": "9235faf5314723ccc9737bb70b603fde2e73aa1277000672d6d472cdbadff3db",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/08 Session 5 - Analysing The Industry/Porters 5 Forces Template for Activity.docx"
+    },
+    {
+      "old_path": "BUS334/08 Session 5 - Analysing The Industry /Session 5 - Analysing the Industry_Dubai updated.pdf",
+      "bytes": 1856101,
+      "sha256": "2bbd8b706270544b255f79ce25d96159b8685649f57ab671e1049274f5e91cb0",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/08 Session 5 - Analysing The Industry/Session 5 - Analysing the Industry_Dubai updated.pdf"
+    },
+    {
+      "old_path": "BUS334/08 Session 5 - Analysing The Industry /Walmarts Five Forces.docx",
+      "bytes": 142726,
+      "sha256": "160efd002b1e94e6d671569065f65b74a8c9ce3c88564a5c3477086b4a24ef61",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/08 Session 5 - Analysing The Industry/Walmarts Five Forces.docx"
+    },
+    {
+      "old_path": "BUS334/09 Session 6 - Analysing and Optimising Processes/Optimisation - Fish Game Template.docx",
+      "bytes": 12049,
+      "sha256": "2fdf14c417e9a0d19d743bf822c9e952bed98bac5e30d7b7b97f23491b99d4a9",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/09 Session 6 - Analysing and Optimising Processes/Optimisation - Fish Game Template.docx"
+    },
+    {
+      "old_path": "BUS334/09 Session 6 - Analysing and Optimising Processes/Session 6 - Optimising the Business Process_Dubai updated.pdf",
+      "bytes": 981246,
+      "sha256": "2d093d0125d6e9d25367a438d2995f623f924b666af9c36100e47d85b8f58653",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/09 Session 6 - Analysing and Optimising Processes/Session 6 - Optimising the Business Process_Dubai updated.pdf"
+    },
+    {
+      "old_path": "BUS334/10 Session 7 - Analytics for Decision Making (Heuristics)/Session 7 - Analytics_for_Decision_Making_Heuristics_Dubai updated.pdf",
+      "bytes": 1412878,
+      "sha256": "7a29c81d1f2c55c03c29b8776a923276aa17a1ef639435eef01a29093c4cdec9",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/10 Session 7 - Analytics for Decision Making (Heuristics)/Session 7 - Analytics_for_Decision_Making_Heuristics_Dubai updated.pdf"
+    },
+    {
+      "old_path": "BUS334/10 Session 7 - Analytics for Decision Making (Heuristics)/Session 7 - Decision Making Quiz.docx",
+      "bytes": 15737,
+      "sha256": "47d5a215425273b6689db2e9cbe698db47d2d63a896fcfe3421f2763ecc92b3b",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/10 Session 7 - Analytics for Decision Making (Heuristics)/Session 7 - Decision Making Quiz.docx"
+    },
+    {
+      "old_path": "BUS334/10 Session 7 - Analytics for Decision Making (Heuristics)/Win as Much as You Can - SC.docx",
+      "bytes": 15638,
+      "sha256": "d708e89dc44be4b78ec5d0988007b34dca7215789856ef7daa056a0a8c534b6d",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/10 Session 7 - Analytics for Decision Making (Heuristics)/Win as Much as You Can - SC.docx"
+    },
+    {
+      "old_path": "BUS334/11 Session 8 - Analytics for Decision Making (Marketing)/EIU_Thepathto2020_PDF.pdf",
+      "bytes": 1256821,
+      "sha256": "97361ce72108cdd40ef6fb04041782a902c8ccf2c205f2362e54b7f5f797922c",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/11 Session 8 - Analytics for Decision Making (Marketing)/EIU_Thepathto2020_PDF.pdf"
+    },
+    {
+      "old_path": "BUS334/11 Session 8 - Analytics for Decision Making (Marketing)/Session 8 - Analytics_for_Decision_Making_Marketing_Dubai updated.pdf",
+      "bytes": 887070,
+      "sha256": "d5ac797923b8908740e2d7974f048e2263f3b0259b6d51ba2e5e85fd28b970e8",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/11 Session 8 - Analytics for Decision Making (Marketing)/Session 8 - Analytics_for_Decision_Making_Marketing_Dubai updated.pdf"
+    },
+    {
+      "old_path": "BUS334/12 Session 9 - Analytics for Decision Making (Sentiment Analysis)/Session 9 - Analytics_for_Decision_Making_Sentiment_Analysis_Dubai updated.pdf",
+      "bytes": 1381465,
+      "sha256": "cd14cb469f53ebe73580cb9bc3bc20cc8b7b4073b1f63b594cbda6a19cfd6bf7",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/12 Session 9 - Analytics for Decision Making (Sentiment Analysis)/Session 9 - Analytics_for_Decision_Making_Sentiment_Analysis_Dubai updated.pdf"
+    },
+    {
+      "old_path": "BUS334/12 Session 9 - Analytics for Decision Making (Sentiment Analysis)/WhatsApp Chat - Example Data.txt",
+      "bytes": 20568,
+      "sha256": "bea173b8de612ce440663c3cf5581846a6fc83d09b1304c33dd2d70cde21e98d",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/12 Session 9 - Analytics for Decision Making (Sentiment Analysis)/WhatsApp Chat - Example Data.txt"
+    },
+    {
+      "old_path": "BUS334/13 Session 10 - Storytelling with Data I/Perth Airport Analysis Task.xlsx",
+      "bytes": 382334,
+      "sha256": "120542d56a838dd2c7888d6db592eb585e7cf206a264b77f60e5c5eb3ca5cf72",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/13 Session 10 - Storytelling with Data I/Perth Airport Analysis Task.xlsx"
+    },
+    {
+      "old_path": "BUS334/13 Session 10 - Storytelling with Data I/Session 10 - Analytics_for_Decision_Making_Storytelling_with_Data_Dubai updated.pdf",
+      "bytes": 830675,
+      "sha256": "f41ba83f2efadcfa3b3040843df8a3b3ab76a7acfa62293c82116e815c4fe0bb",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/13 Session 10 - Storytelling with Data I/Session 10 - Analytics_for_Decision_Making_Storytelling_with_Data_Dubai updated.pdf"
+    },
+    {
+      "old_path": "BUS334/14 Session 11 - Storytelling with Data II/Financial Sample.xlsx",
+      "bytes": 83427,
+      "sha256": "83751c730d2b22717a38db6c2342d5243de3dc1bb042c00013bf38a7da0385ef",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/14 Session 11 - Storytelling with Data II/Financial Sample.xlsx"
+    },
+    {
+      "old_path": "BUS334/14 Session 11 - Storytelling with Data II/Perth Population Data 2018.xlsx",
+      "bytes": 9744,
+      "sha256": "b70e3e1eff4cd03edc5c33dffb3abd30f9b5f1037ca354bbf62926a736c4883f",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/14 Session 11 - Storytelling with Data II/Perth Population Data 2018.xlsx"
+    },
+    {
+      "old_path": "BUS334/14 Session 11 - Storytelling with Data II/Session 11- Analytics_for_Decision_Making_Storytelling_with_Data_II_Dubai updated.pdf",
+      "bytes": 1816388,
+      "sha256": "7b4660f329cc4f9e197316b714a93e8f83951325147183e2b1c36358dd609ce4",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/14 Session 11 - Storytelling with Data II/Session 11- Analytics_for_Decision_Making_Storytelling_with_Data_II_Dubai updated.pdf"
+    },
+    {
+      "old_path": "BUS334/15 Session 12 - Unit Review &amp; Final Assignment Preparation /Session 12- Analytics_for_Decision_Making_Storytelling_with_Data_III_KS updated.pdf",
+      "bytes": 1375304,
+      "sha256": "5281514fd3b4c5e09e1194a15578ca7ffd40525ec718ed63cfba29fa31ff6f0a",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/15 Session 12 - Unit Review &amp; Final Assignment Preparation/Session 12- Analytics_for_Decision_Making_Storytelling_with_Data_III_KS updated.pdf"
+    },
+    {
+      "old_path": "BUS334/16 Teams Online Classes/Student Guide - Joining Teams Online Sessions.pdf",
+      "bytes": 252482,
+      "sha256": "3994956dd90065b2e6a094871b993fdeace38a4c54f052f754005f4386799036",
+      "action": "exact_duplicate",
+      "new_path": "BUS219/2026-TSD/Materials/19 Teams Online Classes/Student Guide - Joining Teams Online Sessions.pdf"
+    },
+    {
+      "old_path": "BUS334/Assessment 2/.DS_Store",
+      "bytes": 8196,
+      "sha256": "88988e30d96dea75784f3b2651f4e4be60e7c16ddf610be2ceb29a4b88ce88aa",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS334/Assessment 2/00_ЗАМЕТКА_к_анкете.md",
+      "bytes": 5709,
+      "sha256": "1170384c3498b47f6f3ee68871a547ce6fca2e26abf503862dd5bf5162fb4f61",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Assignments/A2/00_ЗАМЕТКА_к_анкете.md"
+    },
+    {
+      "old_path": "BUS334/Assessment 2/35553299_Dzhafarov_BUS334_Assignment2_Questionnaire.docx",
+      "bytes": 40749,
+      "sha256": "6b885e4ed1e252844368eb618d00d7f38f3b60a42d3f812c23c16fdd62a2d3e3",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Assignments/A2/35553299_Dzhafarov_BUS334_Assignment2_Questionnaire.docx"
+    },
+    {
+      "old_path": "BUS334/Assessment 2/BUS334 Assignment 2 Summary.pdf",
+      "bytes": 669258,
+      "sha256": "3a76bb7e3bab1b3b77e36c63decc2ed9bc794c5571a594703c8f92d0c94cd187",
+      "action": "exact_duplicate",
+      "new_path": "BUS334/2026-TSD/Materials/01 Assessment/BUS334 Assignment 2 Summary.pdf"
+    },
+    {
+      "old_path": "BUS334/Assessment 2/BUS334 Assignment 3 Summary.pdf",
+      "bytes": 589734,
+      "sha256": "b5469b121b783808100aed68f053e654aa9afa4d619b55ab28067b5b1da11365",
+      "action": "exact_duplicate",
+      "new_path": "BUS334/2026-TSD/Materials/01 Assessment/BUS334 Assignment 3 Summary.pdf"
+    },
+    {
+      "old_path": "BUS334/Assessment 2/BUS334_Assignment 2 [Questionnaire]_Marking Guide.pdf",
+      "bytes": 589771,
+      "sha256": "63647a3852d34712bc8a312986d25a917f78f9615ab53fc246f7c89245d77ec9",
+      "action": "exact_duplicate",
+      "new_path": "BUS334/2026-TSD/Materials/01 Assessment/BUS334_Assignment 2 [Questionnaire]_Marking Guide.pdf"
+    },
+    {
+      "old_path": "BUS334/Assessment 2/Data Collection - Questionnaire.pdf",
+      "bytes": 1399260,
+      "sha256": "846f58955e2f830c12d64f0c4e3a76b3b4c80af952e8295117ba356b33a4541b",
+      "action": "exact_duplicate",
+      "new_path": "BUS334/2026-TSD/Materials/05 Session 2 - Data Analytics for Business/Data Collection - Questionnaire.pdf"
+    },
+    {
+      "old_path": "BUS334/Assessment 2/Questionnaire Example.pdf",
+      "bytes": 396797,
+      "sha256": "b6e7c67f70bd436c631f204754328bf4783deffb1237f2984f5679d683ed377e",
+      "action": "exact_duplicate",
+      "new_path": "BUS334/2026-TSD/Materials/01 Assessment/Questionnaire Example.pdf"
+    },
+    {
+      "old_path": "BUS334/Assessment 2/_submission_checks/2026-09-19_A2.json",
+      "bytes": 721,
+      "sha256": "47c66761554ecb35a132b1346c38b768b15a0ac6661bd7dd5afd0d214e6f33d9",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Assignments/A2/_submission_checks/2026-09-19_A2.json"
+    },
+    {
+      "old_path": "BUS334/Assessment 2/archive/2026-09-15_kiosk_version.docx",
+      "bytes": 6619,
+      "sha256": "9022d13d6c37e1203a728708b2201d8c6153d8c38f08452971b9a49da9369c3e",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Assignments/A2/archive/2026-09-15_kiosk_version.docx"
+    },
+    {
+      "old_path": "BUS334/_lms_dump_2026-09-15/_skipped.txt",
+      "bytes": 51,
+      "sha256": "662311b32a6c8bf3b54117805016fae266a7535c4c914b99d56aa1e7394fa8a3",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/_skipped.txt"
+    },
+    {
+      "old_path": "BUS334/_lms_dump_2026-09-15/course_contents.json",
+      "bytes": 128546,
+      "sha256": "5891832f43e74321b758d228a634e71a48d8cede34d7bccc66ae819de18ffe12",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/course_contents.json"
+    },
+    {
+      "old_path": "BUS334/_lms_dump_2026-09-15/files.tsv",
+      "bytes": 9481,
+      "sha256": "81aefb1e0141fdc9406d3238323afd145d814c92706b3af43f80a035bffa31d7",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/files.tsv"
+    },
+    {
+      "old_path": "BUS334/_lms_dump_2026-09-15/files_all.tsv",
+      "bytes": 11388,
+      "sha256": "b20f7e51a7454d24683c1ec001114dd94a7a1c31e14c05835a80d137f0098410",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/files_all.tsv"
+    },
+    {
+      "old_path": "BUS334/_lms_dump_2026-09-15/forum_149576.json",
+      "bytes": 32,
+      "sha256": "2eb70030f9b27b40df9cfd8b25241e78d2793f60fc435cdaa8e9809f3117a1de",
+      "action": "exact_duplicate",
+      "new_path": "BUS219/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/forum_151066.json"
+    },
+    {
+      "old_path": "BUS334/_lms_dump_2026-09-15/forum_149577.json",
+      "bytes": 32,
+      "sha256": "2eb70030f9b27b40df9cfd8b25241e78d2793f60fc435cdaa8e9809f3117a1de",
+      "action": "exact_duplicate",
+      "new_path": "BUS219/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/forum_151066.json"
+    },
+    {
+      "old_path": "BUS334/_lms_dump_2026-09-15/forums.json",
+      "bytes": 1308,
+      "sha256": "0a29ff4a5ea74ef71dd10890092d69fd7c6ec874a0a91525be1911b5a422f1b8",
+      "action": "copy",
+      "new_path": "BUS334/2026-TSD/Materials/LMS_Snapshots/_lms_dump_2026-09-15/forums.json"
+    },
+    {
+      "old_path": "BUS_279/.DS_Store",
+      "bytes": 10244,
+      "sha256": "85da59512ed59f153382d697e9102660c6f8e57d70972e51757135ae27d74f1f",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS_279/AI_Debat/.DS_Store",
+      "bytes": 6148,
+      "sha256": "e360491782ac52d3bed772f350134502632f87d022ff95067c8166c2e2e7e927",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS_279/AI_Debat/35553299_AI_Debates_3-4-5.docx",
+      "bytes": 47251,
+      "sha256": "1cc6971fd6806b61e77c3b83e6b8c9bd3418e3970cbc89ebe6d129c858e0f1a7",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyWorking/AI_Debat/35553299_AI_Debates_3-4-5.docx"
+    },
+    {
+      "old_path": "BUS_279/AI_Debat/35553299_AI_Debates_3-4-5.md",
+      "bytes": 63086,
+      "sha256": "0d5c5e3ba4f6e4d37bf07ee460a07c4a4185e5c458d8dd401d2df81e7d3be95d",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyWorking/AI_Debat/35553299_AI_Debates_3-4-5.md"
+    },
+    {
+      "old_path": "BUS_279/AI_Debat/AI_Debate_1-3/.DS_Store",
+      "bytes": 6148,
+      "sha256": "b8654a9fc6ebc5251baeeafb590479b8d323bbcdd6c4b3e8d9d2f651f59d1f87",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS_279/AI_Debat/AI_Debate_1-3/35553299_AI_Debates_1-3.docx",
+      "bytes": 28277,
+      "sha256": "619528a6b9e125c1bcb5724be0df8a9e62f7720096461bf71bbed06551ee94c9",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyWorking/AI_Debat/AI_Debate_1-3/35553299_AI_Debates_1-3.docx"
+    },
+    {
+      "old_path": "BUS_279/AI_Debat/AI_Debate_4-5/35553299_Debate4.docx",
+      "bytes": 38845,
+      "sha256": "dce605be642f0f8c86aa39504ac36d931c7b031e7452945d67727df805466b3a",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyWorking/AI_Debat/AI_Debate_4-5/35553299_Debate4.docx"
+    },
+    {
+      "old_path": "BUS_279/Bus_279_Memory/BUS279_Course_Memory.md",
+      "bytes": 21490,
+      "sha256": "2c963f6009738f9527f435159acd3064ee00c63acc5bed83184dc9b88930172a",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Archive/LegacyRecords/Bus_279_Memory/BUS279_Course_Memory.md"
+    },
+    {
+      "old_path": "BUS_279/Bus_279_Memory/BUS279_Full_Archive.md",
+      "bytes": 67671,
+      "sha256": "e3505c9e86238420be25e2d1d0d0036ebcb623fadff6edf882f4f2338122dd23",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Archive/LegacyRecords/Bus_279_Memory/BUS279_Full_Archive.md"
+    },
+    {
+      "old_path": "BUS_279/Bus_279_Memory/BUS279_Quiz1_Answers.md",
+      "bytes": 3122,
+      "sha256": "31e09f4cf797cd86384235af3750ebaeeef261617cac10fc08b8b1b922004889",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Archive/LegacyRecords/Bus_279_Memory/BUS279_Quiz1_Answers.md"
+    },
+    {
+      "old_path": "BUS_279/Bus_279_Memory/BUS279_Quiz2_Answers.md",
+      "bytes": 10819,
+      "sha256": "64dbf2d9e4622c5bee0f0f791b44b52c7a10b1564c0cf037d283ca098e529934",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Archive/LegacyRecords/Bus_279_Memory/BUS279_Quiz2_Answers.md"
+    },
+    {
+      "old_path": "BUS_279/Presentation_1/.DS_Store",
+      "bytes": 6148,
+      "sha256": "f78d98202553392bf7b7392425ba9cfd9bc1aa102b702a338cf9f1e75643ba0c",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS_279/Presentation_1/Presentation1_5min.docx",
+      "bytes": 12691,
+      "sha256": "a7093c1cabfd594610c7c4e2d4d49c5b3198d35d14b650ca62ac8e14eddc7c09",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyWorking/Presentation_1/Presentation1_5min.docx"
+    },
+    {
+      "old_path": "BUS_279/Presentation_1/Presentation1_7min.docx",
+      "bytes": 12809,
+      "sha256": "939dfba30b60b2288800db28141801d53f9024b8a695d2fc0b90ad5aa576316c",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyWorking/Presentation_1/Presentation1_7min.docx"
+    },
+    {
+      "old_path": "BUS_279/Presentation_1/Presentation1_7min_RU.docx",
+      "bytes": 13333,
+      "sha256": "4ab684a76e7500a5166e85a356309ca904cc0833c9e2ea3e890596508fad33a5",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyWorking/Presentation_1/Presentation1_7min_RU.docx"
+    },
+    {
+      "old_path": "BUS_279/Presentation_1/Presentation1_Script_3min.docx",
+      "bytes": 10587,
+      "sha256": "d6bb3361daf2cdde92f2f7a1accfea43b6e0725b1fbef6b80e6b8dfb996d49da",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyWorking/Presentation_1/Presentation1_Script_3min.docx"
+    },
+    {
+      "old_path": "BUS_279/Presentation_2/Presentation2_7min_VelocityVortex.docx",
+      "bytes": 6903,
+      "sha256": "d227e0904b867a66ab03459f094fe59e13305685774e25ae96bd67064f0daf43",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyWorking/Presentation_2/Presentation2_7min_VelocityVortex.docx"
+    },
+    {
+      "old_path": "BUS_279/Presentation_2/Presentation2_7min_VelocityVortex.md",
+      "bytes": 6877,
+      "sha256": "e03b187e984bcfe3dc31124d4c8008a4b27b57f08c267d026b0f2af797701ef9",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyWorking/Presentation_2/Presentation2_7min_VelocityVortex.md"
+    },
+    {
+      "old_path": "BUS_279/SPRINT/.DS_Store",
+      "bytes": 6148,
+      "sha256": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS_279/SPRINT/BUS279_Sprint1_Faiaz.docx",
+      "bytes": 28124,
+      "sha256": "34b508062f286ae86113ff7235d0b1b1aa7b747dc6006f86edf8209bf522f2ae",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyWorking/SPRINT/BUS279_Sprint1_Faiaz.docx"
+    },
+    {
+      "old_path": "BUS_279/SPRINT/Faiaz_Sprint_2_VelocityFit.docx",
+      "bytes": 12709,
+      "sha256": "e17210f4cf0ef08f4087eceb92802a9fc88006d1b4752fb0e004149bea71881d",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyWorking/SPRINT/Faiaz_Sprint_2_VelocityFit.docx"
+    },
+    {
+      "old_path": "BUS_279/SPRINT/Faiaz_Sprint_2_VelocityFit.md",
+      "bytes": 19222,
+      "sha256": "0c4dfa1bbc4dbe130cf35a5269070958cb7444640a88a11f406c5fbc2c7ca493",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyWorking/SPRINT/Faiaz_Sprint_2_VelocityFit.md"
+    },
+    {
+      "old_path": "BUS_279/SPRINT/Presentation1_7min.docx",
+      "bytes": 12809,
+      "sha256": "939dfba30b60b2288800db28141801d53f9024b8a695d2fc0b90ad5aa576316c",
+      "action": "exact_duplicate",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyWorking/Presentation_1/Presentation1_7min.docx"
+    },
+    {
+      "old_path": "BUS_279/SPRINT/Sprint1_DigitalEngineRoom.docx",
+      "bytes": 17794,
+      "sha256": "acfa82206cbc2080e3086cba66735f11765560ef657bae309e223742402df5e4",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyWorking/SPRINT/Sprint1_DigitalEngineRoom.docx"
+    },
+    {
+      "old_path": "BUS_279/SPRINT/Sprint1b_AuraFlow.docx",
+      "bytes": 26943,
+      "sha256": "5a297a921449363b7bf704d69e7dc7e232954877dc06387209cb82c8fae50b1c",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyWorking/SPRINT/Sprint1b_AuraFlow.docx"
+    },
+    {
+      "old_path": "BUS_279/Session1_Reflection.docx",
+      "bytes": 9775,
+      "sha256": "c4dc0efac9a104bb9a3362560a7af88bdbeeb994cf6533787c30e670d173f4fd",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyWorking/Session1_Reflection.docx"
+    },
+    {
+      "old_path": "BUS_279/~$am Trust at Westpac Banking Corporation.docx",
+      "bytes": 162,
+      "sha256": "ef6ba28403aca83687f76fc86137b0ee186bb7ae6ce194fa68124624da08a858",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS_293/.DS_Store",
+      "bytes": 8196,
+      "sha256": "2c396c5055f63fb17db760bbce3f6a4c815150a92ec8ab3d032f656debc1b859",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS_293/3b_Team_Trust_SHORTENED_715w.md",
+      "bytes": 5281,
+      "sha256": "a7bf371337992ff06ac78e8130170ef39e4d6e6e4bbee1c34e3f5e8b24608cf7",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/3b_Team_Trust_SHORTENED_715w.md"
+    },
+    {
+      "old_path": "BUS_293/Bus_293_Memory/.DS_Store",
+      "bytes": 6148,
+      "sha256": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS_293/Bus_293_Memory/BUS293_Course_Memory.md",
+      "bytes": 33214,
+      "sha256": "2528b1a02342ddbd5894c7739fcf8a9b18fad9851de87a8a60873cf19df58832",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Archive/LegacyRecords/Bus_293_Memory/BUS293_Course_Memory.md"
+    },
+    {
+      "old_path": "BUS_293/Bus_293_Memory/BUS293_Full_Archive.md",
+      "bytes": 97920,
+      "sha256": "351f0d083d1c70696945628947736f25a446282b94129e9f3abf4ba6dbb5030e",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Archive/LegacyRecords/Bus_293_Memory/BUS293_Full_Archive.md"
+    },
+    {
+      "old_path": "BUS_293/Email_Workshop/BUS293_Topic1_Moon_Activity.docx",
+      "bytes": 10229,
+      "sha256": "7b8ee8206bf99b8836f22fff66c4b67f308aa30624c734065a24a4f404bd38a0",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Email_Workshop/BUS293_Topic1_Moon_Activity.docx"
+    },
+    {
+      "old_path": "BUS_293/Questions for ALL WEEKS.docx",
+      "bytes": 9797619,
+      "sha256": "9ea790d31829691178a97b27be4868f3be72d6eba6546645cc47367df294f1c6",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Questions for ALL WEEKS.docx"
+    },
+    {
+      "old_path": "BUS_293/Slides/.DS_Store",
+      "bytes": 6148,
+      "sha256": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS_293/Slides/BUS293 Workshop 1b.pptx",
+      "bytes": 10517319,
+      "sha256": "3f599a7019a281494f23daa674d10477d14d726e7ceb642b8f6afed121466e4c",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Slides/BUS293 Workshop 1b.pptx"
+    },
+    {
+      "old_path": "BUS_293/Slides/BUS293 Workshop 2.pptx",
+      "bytes": 2395278,
+      "sha256": "ba8a56cdcd5ddd2a1ea87c8b2ae30d77982ec15bd642d5e806e222d6e9ba5946",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Slides/BUS293 Workshop 2.pptx"
+    },
+    {
+      "old_path": "BUS_293/Slides/BUS293 Workshop 3.pptx",
+      "bytes": 3634844,
+      "sha256": "c65a4cea53784eda89da576435d524573ca4a523dff1d2efdace2ca18d717be2",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Slides/BUS293 Workshop 3.pptx"
+    },
+    {
+      "old_path": "BUS_293/Slides/BUS293 Workshop 4.pptx",
+      "bytes": 4086900,
+      "sha256": "69a9d1e8249e59fcb4c2832676c066eb5e9300dedd8198436156e26fb9449fea",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Slides/BUS293 Workshop 4.pptx"
+    },
+    {
+      "old_path": "BUS_293/Slides/UNIT_OUTLINE_TMD_2026_BUS293.pdf",
+      "bytes": 581776,
+      "sha256": "07d74010f5739e13434d0c78f3279374f81fb4d4df64e8d3ce23fc050745a875",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Slides/UNIT_OUTLINE_TMD_2026_BUS293.pdf"
+    },
+    {
+      "old_path": "BUS_293/Westpac/Team Trust at Westpac Banking Corporation 2.docx",
+      "bytes": 16315,
+      "sha256": "65c931080d6a8f08e74869548be7efb0b538da938f7000e9a14ba4c2aedec56d",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Westpac/Team Trust at Westpac Banking Corporation 2.docx"
+    },
+    {
+      "old_path": "BUS_293/Workshop/BUS293_Topic1_Workshop_Activities.docx",
+      "bytes": 13109,
+      "sha256": "09e75b8c7498f24ce9a4d145314bbd88cc33d9d952960266d63ad86fb0e376da",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Workshop/BUS293_Topic1_Workshop_Activities.docx"
+    },
+    {
+      "old_path": "BUS_293/Workshop/BUS293_Topic2_Workshop_Activities.docx",
+      "bytes": 13698,
+      "sha256": "259347df6db2940a9fb2c62e87db021b7d2d7cdd628fb1800c0793317a6259f7",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Workshop/BUS293_Topic2_Workshop_Activities.docx"
+    },
+    {
+      "old_path": "BUS_293/Workshop/BUS293_Topic3_Workshop_Activities.docx",
+      "bytes": 13526,
+      "sha256": "b8a7a1fbdfe845cf7fbf37bf88d06309fd306503d846ab78c43d457bf1c37b71",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Workshop/BUS293_Topic3_Workshop_Activities.docx"
+    },
+    {
+      "old_path": "BUS_293/Workshop/BUS293_Topic4_Workshop_Activities.docx",
+      "bytes": 12759,
+      "sha256": "01915f156dc6f7fdd5a10cd142c8d1a6398fdbbffe3a9a062f61f3541c3f742c",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Workshop/BUS293_Topic4_Workshop_Activities.docx"
+    },
+    {
+      "old_path": "BUS_293/Workshop/BUS293_Topic5_Workshop_Activities.docx",
+      "bytes": 13382,
+      "sha256": "0cbec7b5fc23b6e10068f0920e888b12b1d1c71197872fe27415f3c3151c3c74",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Workshop/BUS293_Topic5_Workshop_Activities.docx"
+    },
+    {
+      "old_path": "BUS_293/Workshops/BUS293_Topic_10_Decision_Making_Workshop.docx",
+      "bytes": 9118,
+      "sha256": "9deb74043e7c0155ecf97237b6ca455c30f2a274538718aeeb94902acdcdf637",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Workshops/BUS293_Topic_10_Decision_Making_Workshop.docx"
+    },
+    {
+      "old_path": "BUS_293/Workshops/BUS293_Topic_11_Communication_Conflict_Workshop.docx",
+      "bytes": 9103,
+      "sha256": "9b3cd63d2614518d703625d0af965bcd1e8d2b516b31f873c50fa552ceef0c0a",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Workshops/BUS293_Topic_11_Communication_Conflict_Workshop.docx"
+    },
+    {
+      "old_path": "BUS_293/Workshops/BUS293_Topic_12_Exam_Revision_Workshop.docx",
+      "bytes": 9160,
+      "sha256": "33b3e00ac84455ced962c3ad186665c04f52f8fc95f18897567109d638a3ba61",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Workshops/BUS293_Topic_12_Exam_Revision_Workshop.docx"
+    },
+    {
+      "old_path": "BUS_293/Workshops/BUS293_Topic_1_Intro_Workshop.docx",
+      "bytes": 8182,
+      "sha256": "efd2f4aee0faff4eb3ffb1ef4cea249dfb330d2c7ed2d306cad27170d9c2cea6",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Workshops/BUS293_Topic_1_Intro_Workshop.docx"
+    },
+    {
+      "old_path": "BUS_293/Workshops/BUS293_Topic_2_Team_Dynamics_Workshop.docx",
+      "bytes": 9108,
+      "sha256": "aa3db0883401957eb06a575487435e8f00e7f8eb341aac66a3f3a3535d2deba1",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Workshops/BUS293_Topic_2_Team_Dynamics_Workshop.docx"
+    },
+    {
+      "old_path": "BUS_293/Workshops/BUS293_Topic_3_Individual_Attributes_Perception_Workshop.docx",
+      "bytes": 8646,
+      "sha256": "a32d89836508d4349da0d72b660173c2d619144a1034027244b632076136af33",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Workshops/BUS293_Topic_3_Individual_Attributes_Perception_Workshop.docx"
+    },
+    {
+      "old_path": "BUS_293/Workshops/BUS293_Topic_4_Motivation_Workshop.docx",
+      "bytes": 8209,
+      "sha256": "ae96885df1bf0c65a01e44cb6d5111950d81365b72be7588b5892790ec7cc0c4",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Workshops/BUS293_Topic_4_Motivation_Workshop.docx"
+    },
+    {
+      "old_path": "BUS_293/Workshops/BUS293_Topic_5_Job_Satisfaction_Workshop.docx",
+      "bytes": 8778,
+      "sha256": "93e6745c79db671417fd75903814a8bffe3d5b15be763ebdfdebd1be75fc97a5",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Workshops/BUS293_Topic_5_Job_Satisfaction_Workshop.docx"
+    },
+    {
+      "old_path": "BUS_293/Workshops/BUS293_Topic_6_Organisational_Structure_Workshop.docx",
+      "bytes": 10040,
+      "sha256": "4cb62d2ae94994348db37a368730a71b412a19a022748757f1a58a9c1752069d",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Workshops/BUS293_Topic_6_Organisational_Structure_Workshop.docx"
+    },
+    {
+      "old_path": "BUS_293/Workshops/BUS293_Topic_7_Organisational_Culture_Workshop.docx",
+      "bytes": 10413,
+      "sha256": "26b457ad140c2864a2c349e694e9d8c45e431c4b9d67a4a36c66f016c815e103",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Workshops/BUS293_Topic_7_Organisational_Culture_Workshop.docx"
+    },
+    {
+      "old_path": "BUS_293/Workshops/BUS293_Topic_8_Power_and_Influence_Workshop.docx",
+      "bytes": 10907,
+      "sha256": "24880e7642a8d445804a7b05c68fa22ffd7d68faa82484e94b59578b190271d7",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Workshops/BUS293_Topic_8_Power_and_Influence_Workshop.docx"
+    },
+    {
+      "old_path": "BUS_293/Workshops/BUS293_Topic_9_Leadership_Workshop.docx",
+      "bytes": 9196,
+      "sha256": "008341182e0a7c035c6e333889f3c17864d6a0cd91bdc7a905d152f33e5a6545",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Materials/Workshops/BUS293_Topic_9_Leadership_Workshop.docx"
+    },
+    {
+      "old_path": "BUS293/BUS293_Team_Report_Group11_FINAL.docx",
+      "bytes": 51789,
+      "sha256": "bd9d0f3f1b25aed1aa83b4d5ab1913ca2dec4add96d25bc68c99a2f0c1237a90",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Assignments/LegacyWorking/BUS293_Team_Report_Group11_FINAL.docx"
+    },
+    {
+      "old_path": "BUS293/Individual_Reflection_SelfPeer_Assessment.md",
+      "bytes": 3348,
+      "sha256": "6c011bf13802753eabf5c3762dc1eea0db1dd2c1bc5052f8f40925cb3bdf5cee",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Assignments/LegacyWorking/Individual_Reflection_SelfPeer_Assessment.md"
+    },
+    {
+      "old_path": "BUS293/Individual_Reflection_Video_Script.md",
+      "bytes": 4538,
+      "sha256": "53ff8587e35d230afd68dd1bce79224c176a885a0b7c639ed5368bf66509bfa8",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Assignments/LegacyWorking/Individual_Reflection_Video_Script.md"
+    },
+    {
+      "old_path": "BUS_363/.DS_Store",
+      "bytes": 6148,
+      "sha256": "17492fcf9458c339cc5fc9fc45449cc3d4bca7d9a91bbf44e8f00c96021ca26e",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS_363/Assessment_Cover_Page.docx",
+      "bytes": 9470,
+      "sha256": "983a673ab89748de07563e23b7d90ee65acb9739e58f91a78ead0cd8a3914838",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyWorking/Assessment_Cover_Page.docx"
+    },
+    {
+      "old_path": "BUS_363/Project_Scoping_Canvas.docx",
+      "bytes": 11373,
+      "sha256": "bf2573d8b3749e3d7d9b5a74f844dacf367eb63135342e0f12fd16bd3ebd495e",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyWorking/Project_Scoping_Canvas.docx"
+    },
+    {
+      "old_path": "BUS_363/~$ocolate_Video_Script.docx",
+      "bytes": 162,
+      "sha256": "be365b461596e47bc2c1628d148ac2343c770b378214f33254ad898f7fa5b234",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS_363/задания/.DS_Store",
+      "bytes": 6148,
+      "sha256": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS363/.DS_Store",
+      "bytes": 6148,
+      "sha256": "f0fee085146aa28ed2b4ce70817dd2a10b07c7d60339975ab6cfc0c6fce7b545",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "BUS363/A2_Content_Draft.md",
+      "bytes": 9298,
+      "sha256": "71c4d16629cb2e66f0eac9e40052bf67479c9932abc636b7b342d67f82ff6f34",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/A2/A2_Content_Draft.md"
+    },
+    {
+      "old_path": "BUS363/BUS363_A2_Project_Plan_LMS_App.pptx",
+      "bytes": 276324,
+      "sha256": "e3bedef8be1c33d93e62e43e23d5930f4d34323bec0774df202009f5949682da",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/A2/BUS363_A2_Project_Plan_LMS_App.pptx"
+    },
+    {
+      "old_path": "BUS363/_assets/gantt.png",
+      "bytes": 48593,
+      "sha256": "56c58e3c0ef4a83375446d855eade1b0c9c9b3333c7e5c9f72f5d2b85e298759",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/A2/_assets/gantt.png"
+    },
+    {
+      "old_path": "BUS363/_assets/lifecycle.png",
+      "bytes": 30592,
+      "sha256": "95d5f0daac0979f6e1ee8c038d8ea295c28f964068dd5e5c55bf3aa607b253a5",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/A2/_assets/lifecycle.png"
+    },
+    {
+      "old_path": "BUS363/_assets/mendelow.png",
+      "bytes": 62663,
+      "sha256": "8e18625fffe1e463f15fbbdaf2c3f6bf9fb69e2717a5f7cbbc7a1ee916c568d0",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/A2/_assets/mendelow.png"
+    },
+    {
+      "old_path": "BUS363/_assets/org.png",
+      "bytes": 69850,
+      "sha256": "819ec2efd45aa07c2b6f4833d02e82586d9006ea43e96d4a4568d3c9367e64ed",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/A2/_assets/org.png"
+    },
+    {
+      "old_path": "BUS363/_assets/riskmatrix.png",
+      "bytes": 19216,
+      "sha256": "dbbf47c4b7891aae9563ebd704a1b6d65998d411ba4a0759643cd23ee7edd6c4",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/A2/_assets/riskmatrix.png"
+    },
+    {
+      "old_path": "BUS363/_audit/pptx_dump.txt",
+      "bytes": 11958,
+      "sha256": "30125780db414bed26b0e43dbbd939ee215582b9f578abd1af7d205a2517fe12",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/A2/_audit/pptx_dump.txt"
+    },
+    {
+      "old_path": "BUS363/build_a2_pptx.py",
+      "bytes": 29258,
+      "sha256": "1e2f7266494f0d79d67a6f60bb5ec3fbe11b2dabcc22ae943d064af55513c8a5",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/A2/build_a2_pptx.py"
+    },
+    {
+      "old_path": "MSP200/.DS_Store",
+      "bytes": 8196,
+      "sha256": "d041be8e3dfb75ba4cd8b02cee5f6856ab8c7b63f2f3105a6bff047589ecf6f0",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "MSP200/Assignment_1/.DS_Store",
+      "bytes": 6148,
+      "sha256": "1396387f883e54f27031fbc92a50be404709f1d361a740a3e3fdec598f4deec1",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "MSP200/Assignment_1/Employability_Skills_Self-Assessment_Worksheet_FILLED.docx",
+      "bytes": 41411,
+      "sha256": "7b43c3f8ac6dfadc6ad0281fab4957ad8817b4445a1cbd8c4cc9f4f60be89425",
+      "action": "copy",
+      "new_path": "MSP200/2026-TMD/Assignments/A1/Employability_Skills_Self-Assessment_Worksheet_FILLED.docx"
+    },
+    {
+      "old_path": "MSP200/Assignment_1/Job_Information_Package.pdf",
+      "bytes": 1205427,
+      "sha256": "7153d31604a432bdc20655496d9e055162f50977ab996ece33e1e02d5557be14",
+      "action": "copy",
+      "new_path": "MSP200/2026-TMD/Assignments/A1/Job_Information_Package.pdf"
+    },
+    {
+      "old_path": "MSP200/Assignment_1/MSP200_Assessment1.docx",
+      "bytes": 14652,
+      "sha256": "0f5ae2b94486150a590bb28b87871931b02c91bd088d7374ca9caf050ef5cd52",
+      "action": "copy",
+      "new_path": "MSP200/2026-TMD/Assignments/A1/MSP200_Assessment1.docx"
+    },
+    {
+      "old_path": "MSP200/Assignment_1/PD_Enrolment_Evidence.pdf",
+      "bytes": 1361707,
+      "sha256": "cf097ee048115fc49b210395cd3cfac1e3f5d7d5cd863327408bf7f0759f752d",
+      "action": "copy",
+      "new_path": "MSP200/2026-TMD/Assignments/A1/PD_Enrolment_Evidence.pdf"
+    },
+    {
+      "old_path": "MSP200/Assignment_2/MSP200_A2_Evidence_A_IntroToAI_DzhafarovFaiaz_35553299.png",
+      "bytes": 568240,
+      "sha256": "11672842b6cefcae40df342246ca26967af294b88680383ac34447fd0bfbf54a",
+      "action": "copy",
+      "new_path": "MSP200/2026-TMD/Assignments/A2/MSP200_A2_Evidence_A_IntroToAI_DzhafarovFaiaz_35553299.png"
+    },
+    {
+      "old_path": "MSP200/Assignment_2/MSP200_A2_Evidence_B_Analytics_maxfree_DzhafarovFaiaz_35553299.png",
+      "bytes": 562854,
+      "sha256": "a9b0abb2bbcd4ac1b9d595dae318b2ec545fc5ed5a76e6b46e85f3ff11b3d1c6",
+      "action": "copy",
+      "new_path": "MSP200/2026-TMD/Assignments/A2/MSP200_A2_Evidence_B_Analytics_maxfree_DzhafarovFaiaz_35553299.png"
+    },
+    {
+      "old_path": "MSP200/Assignment_2/MSP200_A2_Evidence_C_BusinessComms_DzhafarovFaiaz_35553299.png",
+      "bytes": 593628,
+      "sha256": "b62d3511ac23a315291f114cc5341162ab123c65c8c8b1aafde3e80e7c07536c",
+      "action": "copy",
+      "new_path": "MSP200/2026-TMD/Assignments/A2/MSP200_A2_Evidence_C_BusinessComms_DzhafarovFaiaz_35553299.png"
+    },
+    {
+      "old_path": "MSP200/Assignment_2/MSP200_A2_References_DzhafarovFaiaz_35553299.docx",
+      "bytes": 4305,
+      "sha256": "b5aaa69b7f7017cd3191cf3f72fefb45653debd8e72a68e0de786506331bc903",
+      "action": "copy",
+      "new_path": "MSP200/2026-TMD/Assignments/A2/MSP200_A2_References_DzhafarovFaiaz_35553299.docx"
+    },
+    {
+      "old_path": "MSP200/Assignment_2/MSP200_A2_Slides_DzhafarovFaiaz_35553299.pptx",
+      "bytes": 1707876,
+      "sha256": "e81a696c1f4ab40c4c4f9c15908ea5af9f34d55aa89a265100268910377aa467",
+      "action": "copy",
+      "new_path": "MSP200/2026-TMD/Assignments/A2/MSP200_A2_Slides_DzhafarovFaiaz_35553299.pptx"
+    },
+    {
+      "old_path": "MSP200/Assignment_2/MSP200_A2_VideoScript_(для записи, НЕ сдавать).md",
+      "bytes": 7392,
+      "sha256": "56d6fc3bca2e763d6263c186761d8f6a50565c9a36040270e907445d3da45b18",
+      "action": "copy",
+      "new_path": "MSP200/2026-TMD/Assignments/A2/MSP200_A2_VideoScript_(для записи, НЕ сдавать).md"
+    },
+    {
+      "old_path": "MSP200/Память/MSP200_Course_Memory.md",
+      "bytes": 37827,
+      "sha256": "d43ab6b4cd403f730679c387a3d2cdecabc5fc2c2ac0baad783751a56f917a03",
+      "action": "copy",
+      "new_path": "MSP200/2026-TMD/Archive/LegacyRecords/Память/MSP200_Course_Memory.md"
+    },
+    {
+      "old_path": "MSP200/Память/MSP200_Full_Archive.md",
+      "bytes": 60436,
+      "sha256": "00aa0339a76b8b1db7d3a41af0e6d35a4a9952bdf5d221231fb7f9962eb8bed7",
+      "action": "copy",
+      "new_path": "MSP200/2026-TMD/Archive/LegacyRecords/Память/MSP200_Full_Archive.md"
+    },
+    {
+      "old_path": "К сдаче/.DS_Store",
+      "bytes": 18436,
+      "sha256": "65ad49fed005bc6ffb199308199b5b23ce18464fab3b930aa0007d07e25aa8fd",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "К сдаче/00_ЧЕК-ЛИСТ.md",
+      "bytes": 3627,
+      "sha256": "cd712cb0908bb88340ac3d243cc6022436918758ab89d20ff9758a3eed4e9d7d",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/ReadyToSubmit/00_ЧЕК-ЛИСТ.md"
+    },
+    {
+      "old_path": "К сдаче/1 — BUS293 Team Report (26 июня)/BUS293_Team_Report_Group11_FINAL.docx",
+      "bytes": 51789,
+      "sha256": "bd9d0f3f1b25aed1aa83b4d5ab1913ca2dec4add96d25bc68c99a2f0c1237a90",
+      "action": "exact_duplicate",
+      "new_path": "BUS293/2026-TMD/Assignments/LegacyWorking/BUS293_Team_Report_Group11_FINAL.docx"
+    },
+    {
+      "old_path": "К сдаче/1 — BUS293 Team Report (26 июня)/Final_BUS293_TeamReport_Group11_DzhafarovFaiaz.docx",
+      "bytes": 31913,
+      "sha256": "f179a65e7470196363f1d81a8d0d975880300efce8ad6f3bd00b9d95751c561c",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Assignments/LegacyReadyToSubmit/1 — BUS293 Team Report (26 июня)/Final_BUS293_TeamReport_Group11_DzhafarovFaiaz.docx"
+    },
+    {
+      "old_path": "К сдаче/2 — MSP200 A2 (3 июля)/.DS_Store",
+      "bytes": 6148,
+      "sha256": "7d719f5195a899632cab07283cd31ac88d0d9e06d45933d2cbbec003a5f15b03",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "К сдаче/2 — MSP200 A2 (3 июля)/00_ЧЕК-ЛИСТ_сдачи.md",
+      "bytes": 3122,
+      "sha256": "57d460c2a3338868c0437c7013876ac21aadf05d5a3e94c69f8ed5c48d575b1c",
+      "action": "copy",
+      "new_path": "MSP200/2026-TMD/Assignments/LegacyReadyToSubmit/2 — MSP200 A2 (3 июля)/00_ЧЕК-ЛИСТ_сдачи.md"
+    },
+    {
+      "old_path": "К сдаче/2 — MSP200 A2 (3 июля)/MSP200_A2_Evidence_ABC_DzhafarovFaiaz_35553299.pdf",
+      "bytes": 1435181,
+      "sha256": "9892fece5f56b784966b154787fe573770417a59f0c50058555439b658815e67",
+      "action": "copy",
+      "new_path": "MSP200/2026-TMD/Assignments/LegacyReadyToSubmit/2 — MSP200 A2 (3 июля)/MSP200_A2_Evidence_ABC_DzhafarovFaiaz_35553299.pdf"
+    },
+    {
+      "old_path": "К сдаче/2 — MSP200 A2 (3 июля)/MSP200_A2_References_DzhafarovFaiaz_35553299.docx",
+      "bytes": 4305,
+      "sha256": "b5aaa69b7f7017cd3191cf3f72fefb45653debd8e72a68e0de786506331bc903",
+      "action": "exact_duplicate",
+      "new_path": "MSP200/2026-TMD/Assignments/A2/MSP200_A2_References_DzhafarovFaiaz_35553299.docx"
+    },
+    {
+      "old_path": "К сдаче/2 — MSP200 A2 (3 июля)/MSP200_A2_Slides_DzhafarovFaiaz_35553299.pptx",
+      "bytes": 1707876,
+      "sha256": "e81a696c1f4ab40c4c4f9c15908ea5af9f34d55aa89a265100268910377aa467",
+      "action": "exact_duplicate",
+      "new_path": "MSP200/2026-TMD/Assignments/A2/MSP200_A2_Slides_DzhafarovFaiaz_35553299.pptx"
+    },
+    {
+      "old_path": "К сдаче/2 — MSP200 A2 (3 июля)/MSP200_A2_Teleprompter.html",
+      "bytes": 12493,
+      "sha256": "2409a2eb03fed294ac7d13d1fffa9b24b506cea15253ce995a34456dab9144e0",
+      "action": "copy",
+      "new_path": "MSP200/2026-TMD/Assignments/LegacyReadyToSubmit/2 — MSP200 A2 (3 июля)/MSP200_A2_Teleprompter.html"
+    },
+    {
+      "old_path": "К сдаче/2 — MSP200 A2 (3 июля)/MSP200_A2_VideoScript_(для записи, НЕ сдавать).md",
+      "bytes": 7392,
+      "sha256": "56d6fc3bca2e763d6263c186761d8f6a50565c9a36040270e907445d3da45b18",
+      "action": "exact_duplicate",
+      "new_path": "MSP200/2026-TMD/Assignments/A2/MSP200_A2_VideoScript_(для записи, НЕ сдавать).md"
+    },
+    {
+      "old_path": "К сдаче/3 — BUS363 A2 (4 июля)/BUS363_A2_ProjectPlan_DzhafarovFaiaz_35553299.pptx",
+      "bytes": 313699,
+      "sha256": "5e36052e528f6e553ae41f92c3e8f0944d9cfc103e3d9854df105c7041a3735a",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/3 — BUS363 A2 (4 июля)/BUS363_A2_ProjectPlan_DzhafarovFaiaz_35553299.pptx"
+    },
+    {
+      "old_path": "К сдаче/4 — BUS293 Individual Reflection (10 июля)/BUS293_Reflection_Teleprompter.html",
+      "bytes": 8193,
+      "sha256": "c9b01c0be3d6b76358cbf7643e2dd550c57b6fe90214e848d479de3e9e47bf1d",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Assignments/LegacyReadyToSubmit/4 — BUS293 Individual Reflection (10 июля)/BUS293_Reflection_Teleprompter.html"
+    },
+    {
+      "old_path": "К сдаче/4 — BUS293 Individual Reflection (10 июля)/Individual_Reflection_SelfPeer_Assessment.md",
+      "bytes": 2386,
+      "sha256": "cd5f709a606190ec61c8543989238d5b60ae92584f027cbe0c7a1d7114827cf8",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Assignments/LegacyReadyToSubmit/4 — BUS293 Individual Reflection (10 июля)/Individual_Reflection_SelfPeer_Assessment.md"
+    },
+    {
+      "old_path": "К сдаче/4 — BUS293 Individual Reflection (10 июля)/Individual_Reflection_Video_Script.md",
+      "bytes": 4506,
+      "sha256": "e016d5f193959c8919ea11f9d756db6eae59b84ab73860c6abfe94203a92390c",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Assignments/LegacyReadyToSubmit/4 — BUS293 Individual Reflection (10 июля)/Individual_Reflection_Video_Script.md"
+    },
+    {
+      "old_path": "К сдаче/BUS279 Debates 6,7,8 (23 июля)/35553299 Debate 6,7,8.docx",
+      "bytes": 50920,
+      "sha256": "dd5bb9d73ad1302c6b88fdaa2c47f79f918b7e99490ba4fe67da633f893adf9a",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyReadyToSubmit/BUS279 Debates 6,7,8 (23 июля)/35553299 Debate 6,7,8.docx"
+    },
+    {
+      "old_path": "К сдаче/BUS279 Debates 6,7,8 (23 июля)/debate6-lesson9-raw.md",
+      "bytes": 24091,
+      "sha256": "77c495008bf44e75c26f2f6e22d0f3b1cb0928aab0bb33c93e2a6a0067ef23cd",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyReadyToSubmit/BUS279 Debates 6,7,8 (23 июля)/debate6-lesson9-raw.md"
+    },
+    {
+      "old_path": "К сдаче/BUS279 Debates 6,7,8 (23 июля)/debate7-lesson10-raw.md",
+      "bytes": 18425,
+      "sha256": "8c75d409abb58e14b9a700755d6d89b4fc3a3ff70e929f1873859db13f23dda3",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyReadyToSubmit/BUS279 Debates 6,7,8 (23 июля)/debate7-lesson10-raw.md"
+    },
+    {
+      "old_path": "К сдаче/BUS279 Debates 6,7,8 (23 июля)/debate8-lesson11-raw.md",
+      "bytes": 16121,
+      "sha256": "a2f51cfd3a360d89307879a9bce3f36a4f4b6180f894ea41ce94f40154a4b63e",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyReadyToSubmit/BUS279 Debates 6,7,8 (23 июля)/debate8-lesson11-raw.md"
+    },
+    {
+      "old_path": "К сдаче/BUS279 Presentation 2 (9 июля)/BUS279_Presentation2_Script_VelocityVortex_DzhafarovFaiaz.docx",
+      "bytes": 6903,
+      "sha256": "d227e0904b867a66ab03459f094fe59e13305685774e25ae96bd67064f0daf43",
+      "action": "exact_duplicate",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyWorking/Presentation_2/Presentation2_7min_VelocityVortex.docx"
+    },
+    {
+      "old_path": "К сдаче/BUS279 Presentation 2 (9 июля)/BUS279_Presentation2_Teleprompter.html",
+      "bytes": 11429,
+      "sha256": "f10b2f35a0ce74e8c9b501d8990308fd0330170df2f04b978b9e9703a65ea85d",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyReadyToSubmit/BUS279 Presentation 2 (9 июля)/BUS279_Presentation2_Teleprompter.html"
+    },
+    {
+      "old_path": "К сдаче/BUS279 Sprint 2 (2 июля)/BUS279_Sprint2_VelocityFit_DzhafarovFaiaz_35553299.docx",
+      "bytes": 12709,
+      "sha256": "e17210f4cf0ef08f4087eceb92802a9fc88006d1b4752fb0e004149bea71881d",
+      "action": "exact_duplicate",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyWorking/SPRINT/Faiaz_Sprint_2_VelocityFit.docx"
+    },
+    {
+      "old_path": "К сдаче/BUS279 Sprint 3 (16 июля)/BUS279_Sprint3_CityGrind_DzhafarovFaiaz_35553299.docx",
+      "bytes": 43995,
+      "sha256": "6f9283e6985aaa9415f626f0c6f6d9578a0cdd4273e4ee68c002b71da35b0dbc",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyReadyToSubmit/BUS279 Sprint 3 (16 июля)/BUS279_Sprint3_CityGrind_DzhafarovFaiaz_35553299.docx"
+    },
+    {
+      "old_path": "К сдаче/BUS293_Topic_7_Workshop_Solution.docx",
+      "bytes": 10413,
+      "sha256": "37f52a5fd6aeb56d05c79683f592e4e6fe61e3306042bae129e42f1038fdb159",
+      "action": "copy",
+      "new_path": "BUS293/2026-TMD/Assignments/LegacyReadyToSubmit/BUS293_Topic_7_Workshop_Solution.docx"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A3 — Group Video (1 авг)/BUS363_A3_Brief_Rubric_and_Plan.md",
+      "bytes": 19636,
+      "sha256": "8e1b5df9d7aa350662bdd8ea7e89d07fc151e22a5913193160c23a9297e868c4",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A3 — Group Video (1 авг)/BUS363_A3_Brief_Rubric_and_Plan.md"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A3 — Group Video (1 авг)/BUS363_A3_Script_10min.md",
+      "bytes": 13232,
+      "sha256": "9afaa01c3a4f73fe8ee96a88cf0a6f8fc74a000cfd04821e95df95a528b7c8e9",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A3 — Group Video (1 авг)/BUS363_A3_Script_10min.md"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A3 — Group Video (1 авг)/BUS363_A3_Slides_Plan.md",
+      "bytes": 8530,
+      "sha256": "dce6d9ca92fa5baf7f914622724214374f839b88215530787f00772aae91be9b",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A3 — Group Video (1 авг)/BUS363_A3_Slides_Plan.md"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A3 — Group Video (1 авг)/BUS363_A3_Slides_Team1.pptx",
+      "bytes": 49738,
+      "sha256": "25f1a05400330527cbe924d3211878f8e082f7f07a7d17a89254f93376c21687",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A3 — Group Video (1 авг)/BUS363_A3_Slides_Team1.pptx"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A3 — Group Video (1 авг)/BUS363_A3_VideoLink_Team1.docx",
+      "bytes": 3849,
+      "sha256": "53c64efd6ec2dd3e70482e8d3ef5a587dce08baeadecdc069372288f914809eb",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A3 — Group Video (1 авг)/BUS363_A3_VideoLink_Team1.docx"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A3 — Group Video (1 авг)/README_как_сдавать.md",
+      "bytes": 11065,
+      "sha256": "50750a6a672d9eb10f8df5bf31248d6f8cad42aadd8addb3a9a4dccd031ce095",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A3 — Group Video (1 авг)/README_как_сдавать.md"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A3 — Group Video (1 авг)/build_a3_pptx.py",
+      "bytes": 17079,
+      "sha256": "7e38ff6a8e8ee194a40bd9ebf56bf36f54fd104b67e3d44788bbd9bfea925056",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A3 — Group Video (1 авг)/build_a3_pptx.py"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A3 — Group Video (1 авг)/превью_13_слайдов.png",
+      "bytes": 417531,
+      "sha256": "d341eae1ce0bd89655b032d6b64dae87a61f03130c769daf974c35ce23fee5c3",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A3 — Group Video (1 авг)/превью_13_слайдов.png"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session10_Forum_Post.md",
+      "bytes": 3272,
+      "sha256": "364fa5220f1ea9af7eb97a28b8e70d0a4a27d5c6c829e7a025f0e64a8a5fd03d",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session10_Forum_Post.md"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session11_Participation_DzhafarovFaiaz_35553299.docx",
+      "bytes": 6088,
+      "sha256": "504eb3fedd723533952776a03d1b35e260078ecda6c565e2b95f09b09ae78cc9",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session11_Participation_DzhafarovFaiaz_35553299.docx"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session11_Participation_DzhafarovFaiaz_35553299.html",
+      "bytes": 5647,
+      "sha256": "eaff9e13b6ed5cd52655c08e9e843e10cc45ee8262e85e4e143ceed64f005d4d",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session11_Participation_DzhafarovFaiaz_35553299.html"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session2_Participation_DzhafarovFaiaz_35553299.docx",
+      "bytes": 39230,
+      "sha256": "a4642792bed49c4c224f2b5f651ecf8e3a8b93f557bc33ac028fbbf01cd5431f",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session2_Participation_DzhafarovFaiaz_35553299.docx"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session3_Participation_DzhafarovFaiaz_35553299.docx",
+      "bytes": 38772,
+      "sha256": "f6ed0bd47d88cc25671a260dd859c5c9b194792b362ec9fac29f41070d4ad51a",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session3_Participation_DzhafarovFaiaz_35553299.docx"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session4_Participation_DzhafarovFaiaz_35553299.docx",
+      "bytes": 38799,
+      "sha256": "15d233c7ab6b977640ec73a43169c689de9c9014dbeb5340f6bb431c3e2fb6f8",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session4_Participation_DzhafarovFaiaz_35553299.docx"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session5_Participation_DzhafarovFaiaz_35553299.docx",
+      "bytes": 38794,
+      "sha256": "530e056df88a341fb478961e49f1e94227138893276aedcf7b7e4324185d8464",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session5_Participation_DzhafarovFaiaz_35553299.docx"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session6_Participation_DzhafarovFaiaz_35553299.docx",
+      "bytes": 38828,
+      "sha256": "46c52a4a3769979f0f42f0c08131f74dc4e696c12da6a745b1a367388b373f04",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session6_Participation_DzhafarovFaiaz_35553299.docx"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session7_Participation_DzhafarovFaiaz_35553299.docx",
+      "bytes": 38715,
+      "sha256": "fadbe7c892cef46a1b01e13db407afe21cc1d5f23ba4b492357549076f9479ae",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session7_Participation_DzhafarovFaiaz_35553299.docx"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session8_Participation_DzhafarovFaiaz_35553299.docx",
+      "bytes": 5862,
+      "sha256": "925cddb4e537d618f83ebf8e445ab44761b6dae131129f1b0b8d2e2b9f7d5ad8",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session8_Participation_DzhafarovFaiaz_35553299.docx"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session8_Participation_DzhafarovFaiaz_35553299.html",
+      "bytes": 4997,
+      "sha256": "13b1c7cb9a0271147cb1f62a82072aa08d24b567c4aa2602186b52e6f3801046",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session8_Participation_DzhafarovFaiaz_35553299.html"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session9_Participation_DzhafarovFaiaz_35553299.docx",
+      "bytes": 6125,
+      "sha256": "753ba111228501d1bc291868dc0d64751dd948ca47b3ac13d4c08d0cba8a7954",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session9_Participation_DzhafarovFaiaz_35553299.docx"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session9_Participation_DzhafarovFaiaz_35553299.html",
+      "bytes": 5664,
+      "sha256": "502dea57eb6948e8d00440720e247d633093f4b1ed13b083ae38af63a86874cc",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A4 — порталы сессий (до 17 авг)/BUS363_A4_Session9_Participation_DzhafarovFaiaz_35553299.html"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A4 — порталы сессий (до 17 авг)/README_S8_S9_S11.md",
+      "bytes": 6174,
+      "sha256": "1169cf606b0e2c450625983e645840ccd8a5ba27f3aa38db4c42121e8b999000",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A4 — порталы сессий (до 17 авг)/README_S8_S9_S11.md"
+    },
+    {
+      "old_path": "К сдаче/BUS363 A4 — порталы сессий (до 17 авг)/S10_пост_для_копирования.txt",
+      "bytes": 2709,
+      "sha256": "bebb646242255b7a30dbaeb5e8a618e05d8441e3d786f6f527e5329751115291",
+      "action": "copy",
+      "new_path": "BUS363/2026-TMD/Assignments/LegacyReadyToSubmit/BUS363 A4 — порталы сессий (до 17 авг)/S10_пост_для_копирования.txt"
+    },
+    {
+      "old_path": "К сдаче/MSP200 A3 (24 июля)/MSP200_A3_SelfAssessment_Worksheet_DzhafarovFaiaz_35553299.docx",
+      "bytes": 39531,
+      "sha256": "5d09056d9cf7687a5489538304430e5f4736e7ea98102ff021863dc7acd923a8",
+      "action": "copy",
+      "new_path": "MSP200/2026-TMD/Assignments/LegacyReadyToSubmit/MSP200 A3 (24 июля)/MSP200_A3_SelfAssessment_Worksheet_DzhafarovFaiaz_35553299.docx"
+    },
+    {
+      "old_path": "К сдаче/MSP200 A3 (24 июля)/MSP200_A3_SelfAssessment_Worksheet_DzhafarovFaiaz_35553299.pdf",
+      "bytes": 91674,
+      "sha256": "ce546a79bc8c972e635157d804f15c2f1757c04f1fe819481aa42b5bfefdd4a5",
+      "action": "copy",
+      "new_path": "MSP200/2026-TMD/Assignments/LegacyReadyToSubmit/MSP200 A3 (24 июля)/MSP200_A3_SelfAssessment_Worksheet_DzhafarovFaiaz_35553299.pdf"
+    },
+    {
+      "old_path": "К сдаче/MSP200 A3 (24 июля)/MSP200_A3_Task2_Strategy_DzhafarovFaiaz_35553299.docx",
+      "bytes": 39708,
+      "sha256": "db7707d4c09ca6f430ea9666e718ddb2edfa484cf00f96c742b8d0e78f11ca7f",
+      "action": "copy",
+      "new_path": "MSP200/2026-TMD/Assignments/LegacyReadyToSubmit/MSP200 A3 (24 июля)/MSP200_A3_Task2_Strategy_DzhafarovFaiaz_35553299.docx"
+    },
+    {
+      "old_path": "К сдаче/MSP200 A3 (24 июля)/MSP200_A3_Task2_Strategy_DzhafarovFaiaz_35553299.pdf",
+      "bytes": 125779,
+      "sha256": "c8ae560ef2d7cb0996aa05dd4bede3f442d49c3170ab375a31602fcf062d7930",
+      "action": "copy",
+      "new_path": "MSP200/2026-TMD/Assignments/LegacyReadyToSubmit/MSP200 A3 (24 июля)/MSP200_A3_Task2_Strategy_DzhafarovFaiaz_35553299.pdf"
+    },
+    {
+      "old_path": "К сдаче/Sprint4/.DS_Store",
+      "bytes": 6148,
+      "sha256": "f25c6d105e621caa546284bc1e02e601ee66f2bd23096656c63bee9ed8c311bc",
+      "action": "excluded",
+      "reason": "OS metadata, Office lock, cache or obsolete Git config; not a study source",
+      "new_path": null
+    },
+    {
+      "old_path": "К сдаче/Sprint4/BUS279 2026 TM Sprint 4.docx",
+      "bytes": 35669,
+      "sha256": "9ecb56747d052dcdbacdd2b5cc732ad30f9707752ffcf01b5e52051a7ddd19d5",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyReadyToSubmit/Sprint4/BUS279 2026 TM Sprint 4.docx"
+    },
+    {
+      "old_path": "К сдаче/Sprint4/BUS279_Sprint_4_Volt_Vantage_Faiaz_Dzhafarov_FINAL.docx",
+      "bytes": 177913,
+      "sha256": "51484fc8012f86353b46b2c9dce31bd98a1016967bf4d5767456c6061eadc809",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyReadyToSubmit/Sprint4/BUS279_Sprint_4_Volt_Vantage_Faiaz_Dzhafarov_FINAL.docx"
+    },
+    {
+      "old_path": "К сдаче/Sprint4/README_как_сдавать.md",
+      "bytes": 2888,
+      "sha256": "77501828e625490221243721a6db2901fd9817c30ac393ac397851ed85900f21",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyReadyToSubmit/Sprint4/README_как_сдавать.md"
+    },
+    {
+      "old_path": "К сдаче/Sprint4/Sprint4_AgencyPitch_cheatsheet.docx",
+      "bytes": 41511,
+      "sha256": "233426b129a3a0e7610120c81a59288d97abb0dccf58fb93ee415f1a7d2f8a4d",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyReadyToSubmit/Sprint4/Sprint4_AgencyPitch_cheatsheet.docx"
+    },
+    {
+      "old_path": "К сдаче/Sprint4/Sprint4_AgencyPitch_cheatsheet.md",
+      "bytes": 9632,
+      "sha256": "7385336575c429c2960ea51da16f036b2e9ae054c79a8fd415bb847a2dbe2eb6",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyReadyToSubmit/Sprint4/Sprint4_AgencyPitch_cheatsheet.md"
+    },
+    {
+      "old_path": "К сдаче/Sprint4/Sprint4_Submission.docx",
+      "bytes": 41774,
+      "sha256": "6341f35ee1dd73ca8898e870a029603f15b607d5795822a6126f485c38cf1778",
+      "action": "copy",
+      "new_path": "BUS279/2026-TMD/Assignments/LegacyReadyToSubmit/Sprint4/Sprint4_Submission.docx"
+    },
+    {
+      "old_path": "vault/bus219_lms_materials.md",
+      "bytes": 9666,
+      "sha256": "b8018eaed8961fdeb4d728ae6c6dfe3bd88a0a9a69f8adc3a47d47717b023a58",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/bus219_lms_materials.md"
+    },
+    {
+      "old_path": "vault/bus219_unit_outline.md",
+      "bytes": 9700,
+      "sha256": "c2e9c91ec927d95bca143fd14672bbcbe125abe653456e1fb91f3ce423151da0",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/bus219_unit_outline.md"
+    },
+    {
+      "old_path": "vault/bus225_unit.md",
+      "bytes": 3494,
+      "sha256": "d0dad7bf5d81b52ee524930ddf48a2fad687e00a2696c7ad87c9934b3333b83d",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/bus225_unit.md"
+    },
+    {
+      "old_path": "vault/bus230_unit.md",
+      "bytes": 4347,
+      "sha256": "21cc85ba6fd61cb2118046e0f9a81863c43a421b2e1d95b8cb558d50efb6421d",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/bus230_unit.md"
+    },
+    {
+      "old_path": "vault/bus293_team_report.md",
+      "bytes": 8516,
+      "sha256": "587b1eb0cbdfec4b7c19fed64bd6f25bb32bfe6ac6fe6106c36ee7bb041327b1",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/bus293_team_report.md"
+    },
+    {
+      "old_path": "vault/bus334_unit.md",
+      "bytes": 5277,
+      "sha256": "644594ffcc6e2727cfe69eee429aab0702e85799247eaa9b65ec73e60d33c7c1",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/bus334_unit.md"
+    },
+    {
+      "old_path": "vault/bus363_a2_project_plan.md",
+      "bytes": 6016,
+      "sha256": "3df7b6d4f19c50477fa3d5957eda59da7f05bc8efec53ebd3e8986a0a6f790c3",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/bus363_a2_project_plan.md"
+    },
+    {
+      "old_path": "vault/bus363_a4_participation.md",
+      "bytes": 5467,
+      "sha256": "24b96c15fb866a363747e03b4cc19626d6763555621dbcf8acd1bbdf75623600",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/bus363_a4_participation.md"
+    },
+    {
+      "old_path": "vault/feedback_humanize_academic_no_ai_tells.md",
+      "bytes": 4784,
+      "sha256": "30bcc94cd6cfe40da6aaaedb8cabd3569ac061ceb5b0b09b46874e35e2c64cbc",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/feedback_humanize_academic_no_ai_tells.md"
+    },
+    {
+      "old_path": "vault/feedback_murdoch_ignore_ai_policy.md",
+      "bytes": 2079,
+      "sha256": "5afb5232f4ebb1e784e0acdbc631ffd6d7d03341067d8bc342c98e52bcffbc06",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/feedback_murdoch_ignore_ai_policy.md"
+    },
+    {
+      "old_path": "vault/feedback_unik_worktree_isolation.md",
+      "bytes": 3279,
+      "sha256": "64dd5571a9f85ad330297cf191dfe1244673c16826aec1f1fac1ceec14bee598",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/feedback_unik_worktree_isolation.md"
+    },
+    {
+      "old_path": "vault/karen_grade_tracker.md",
+      "bytes": 14858,
+      "sha256": "b53719d2ddbd5c14983163dcf3d84bc60d5efd404df47487528fda822b62b670",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/karen_grade_tracker.md"
+    },
+    {
+      "old_path": "vault/karen_study_base.md",
+      "bytes": 31922,
+      "sha256": "4a2edab00a2b39e6a48b0830954b32bbd619406018f4a7c55d5df161c902a1dc",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/karen_study_base.md"
+    },
+    {
+      "old_path": "vault/msp200_a2_reflection.md",
+      "bytes": 8403,
+      "sha256": "034f38db4b64a678e2b0f7adc73487ff80134f3b838b98b6cfd0adebcd75722b",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/msp200_a2_reflection.md"
+    },
+    {
+      "old_path": "vault/msp200_a3_strategy.md",
+      "bytes": 10262,
+      "sha256": "fea035ce842d74663e9507b40ddadd8109cdf3e7dfdf253fc8a5e67c9fd50ec8",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/msp200_a3_strategy.md"
+    },
+    {
+      "old_path": "vault/murdoch_moodle_api.md",
+      "bytes": 5843,
+      "sha256": "f8662a9f2de303a82c974c5b01bdc89a58b62e75ae4baf27f02168a46ffd2b21",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/murdoch_moodle_api.md"
+    },
+    {
+      "old_path": "vault/study_recon_2026_07_20.md",
+      "bytes": 6081,
+      "sha256": "a2840f52003112765b33ca7b0376cc2e638c1bd167169ae18acefd3044aa5e91",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/study_recon_2026_07_20.md"
+    },
+    {
+      "old_path": "vault/study_work_directives.md",
+      "bytes": 3149,
+      "sha256": "0a41a4576f4b0cd359a25589e94d508ebb0865a271595bca6097368e969472ef",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/study_work_directives.md"
+    },
+    {
+      "old_path": "vault/team_hub_unik_h007_bus279_sprints.md",
+      "bytes": 5394,
+      "sha256": "aaf9bb3c7b13cde93d45b5db213853aa130600d0efa58cc306709b222815b3a9",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/team_hub_unik_h007_bus279_sprints.md"
+    },
+    {
+      "old_path": "vault/tmd_2026_final_results.md",
+      "bytes": 3153,
+      "sha256": "e0efef0f8acfa89a947c4a20336ec7927687120e9a7e71f27087b601c927dbe9",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/tmd_2026_final_results.md"
+    },
+    {
+      "old_path": "vault/tsd_2026_enrollment.md",
+      "bytes": 8411,
+      "sha256": "fcef8ab5fb6dbec40e7e0e383b5031a7b6d577411582f736fa5d93f535a1bcea",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/tsd_2026_enrollment.md"
+    },
+    {
+      "old_path": "CLAUDE.md",
+      "bytes": 2368,
+      "sha256": "36d702f3f3aaee716d24c3b16b29322a8e03d24fe9b3b572ae5b39f6dac4a53d",
+      "action": "copy",
+      "new_path": "Archive/LegacyNotes/CLAUDE.md"
+    },
+    {
+      "old_path": ".migration-input/Bluerprint slides (restaurant experience page 242-245).pdf",
+      "new_path": "BUS225/2026-TSD/Materials/CorrespondenceAttachments/Bluerprint slides (restaurant experience page 242-245).pdf",
+      "bytes": 400063,
+      "sha256": "f74b0ef51a590769fdf384c6c55c634ec69dde5bf1fb5b924b6c73e625bf5dba",
+      "action": "copy",
+      "source": "Gmail original attachment, read 2026-10-07"
+    },
+    {
+      "old_path": ".migration-input/BUS225_Group9_Carrefour_Service_Organisation_Profile.docx",
+      "new_path": "BUS225/2026-TSD/Assignments/A2/ServiceOrganisationProfile/EmailSent_2026-09-18.docx",
+      "bytes": 31389,
+      "sha256": "5a169d56448dc0406b04e43906cee3625ebc196c8aca2832373983c9b0587b95",
+      "action": "copy",
+      "source": "Gmail original attachment, read 2026-10-07"
+    }
+  ]
+}

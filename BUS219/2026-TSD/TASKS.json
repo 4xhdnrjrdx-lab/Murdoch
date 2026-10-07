@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "course": "BUS219",
+  "period": "2026-TSD",
+  "reviewed_at": "2026-10-07",
+  "allowed_states": [
+    "предложено",
+    "согласовано",
+    "в работе",
+    "готово к сдаче",
+    "сдано",
+    "оценено"
+  ],
+  "notes": "",
+  "tasks": [
+    {
+      "id": "A1",
+      "title": "Два онлайн-квиза, суммарно 20%",
+      "status": "предложено",
+      "next_action": "Уточнить срок первого квиза после восстановления LMS.",
+      "detail": "Состояние означает планируемую работу; начало и сдача не установлены.",
+      "deadlines": [
+        {
+          "value": "Quiz 1: Week 8 по §5.1/5.2.1; Week 10 по расписанию",
+          "source_label": "Unit Outline",
+          "checked_at": "2026-09-15",
+          "source_path": "Materials/UnitOutline/00_UNIT_OUTLINE_BUS219_TSD2026.md"
+        },
+        {
+          "value": "Quiz 2: Week 14, точное время неизвестно",
+          "source_label": "Unit Outline",
+          "checked_at": "2026-09-15",
+          "source_path": "Materials/UnitOutline/00_UNIT_OUTLINE_BUS219_TSD2026.md"
+        }
+      ],
+      "evidence": [
+        {
+          "date": "2026-09-15",
+          "note": "Outline содержит конфликт недель Quiz 1.",
+          "path": "Materials/UnitOutline/00_UNIT_OUTLINE_BUS219_TSD2026.md",
+          "source": ""
+        }
+      ],
+      "unknown": "Точные даты, часы, прохождение и оценки не проверены.",
+      "show_on_overview": true,
+      "correction": ""
+    },
+    {
+      "id": "POSTER",
+      "title": "Постер предложения noon → Jordan, 0%",
+      "status": "в работе",
+      "next_action": "Сохранить исходный постер и выяснить результат выступления.",
+      "detail": "29 сентября в чате готовили речь на пять человек. Подготовка не доказывает состоявшееся выступление.",
+      "deadlines": [
+        {
+          "value": "Week 6; точная дата/время преподавателем в письме не указаны",
+          "source_label": "письмо Navneet Walia",
+          "checked_at": "2026-10-07",
+          "source_path": "Correspondence/2026-09-18_group-placement.md"
+        },
+        {
+          "value": "29 сентября по обсуждению команды, календарное время неизвестно",
+          "source_label": "пользователь и команда",
+          "checked_at": "2026-09-29",
+          "source_path": "Correspondence/2026-09-29_chat-evidence.md"
+        }
+      ],
+      "evidence": [
+        {
+          "date": "2026-09-18",
+          "note": "Преподавательница прямо указала Week 6.",
+          "path": "Correspondence/2026-09-18_group-placement.md",
+          "source": ""
+        },
+        {
+          "date": "2026-09-29",
+          "note": "Чат Bus219 Вторник: работа с обновлённым постером и речью.",
+          "path": "Correspondence/2026-09-29_chat-evidence.md",
+          "source": ""
+        }
+      ],
+      "unknown": "Временные фото недоступны. Одобрение темы преподавателем и итог выступления не установлены.",
+      "show_on_overview": false,
+      "correction": ""
+    },
+    {
+      "id": "A2",
+      "title": "Групповой бизнес-план, отчёт 4000 слов, 30%",
+      "status": "согласовано",
+      "next_action": "Продолжить часть Faiaz о рынке Иордании; подтвердить требования и срок команды.",
+      "detail": "Тема команды noon/Jordan; распределение на обновлённом постере разобрано 29 сентября. Рабочие гипотезы входа на рынок не являются доказанными операциями компании.",
+      "deadlines": [
+        {
+          "value": "К концу занятия Week 12",
+          "source_label": "Unit Outline, расписание/таблица",
+          "checked_at": "2026-09-15",
+          "source_path": "Materials/UnitOutline/00_UNIT_OUTLINE_BUS219_TSD2026.md"
+        },
+        {
+          "value": "Через 3 дня после занятия Week 12",
+          "source_label": "Unit Outline §5.2.2",
+          "checked_at": "2026-09-15",
+          "source_path": "Materials/UnitOutline/00_UNIT_OUTLINE_BUS219_TSD2026.md"
+        }
+      ],
+      "evidence": [
+        {
+          "date": "2026-09-29",
+          "note": "Роль Faiaz: Jordan; распределение пяти участников.",
+          "path": "Correspondence/2026-09-29_chat-evidence.md",
+          "source": ""
+        },
+        {
+          "date": "2026-09-15",
+          "note": "Объём и критерии отчёта.",
+          "path": "Materials/UnitOutline/00_UNIT_OUTLINE_BUS219_TSD2026.md",
+          "source": ""
+        }
+      ],
+      "unknown": "Противоречие сроков не разрешено; время и финальный загрузчик неизвестны.",
+      "show_on_overview": true,
+      "correction": ""
+    },
+    {
+      "id": "A3",
+      "title": "Итоговый экзамен, 50%",
+      "status": "предложено",
+      "next_action": "Проверить официальное расписание: Trimester S, 2026; место Dubai ISC.",
+      "detail": "Точная дата пока не получена.",
+      "deadlines": [],
+      "evidence": [
+        {
+          "date": "2026-09-30",
+          "note": "Уведомление об опубликованном расписании.",
+          "path": "../../Archive/Correspondence/2026-09-30_final-exam.md",
+          "source": ""
+        }
+      ],
+      "unknown": "Дата, время, аудитория и разрешённые материалы.",
+      "show_on_overview": false,
+      "correction": ""
+    }
+  ]
+}

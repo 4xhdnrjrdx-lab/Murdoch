@@ -1,0 +1,7 @@
+{
+  "base_url": "https://moodleprod.murdoch.edu.au",
+  "token_file": ".secrets/moodle.token",
+  "token_file_env": "MOODLE_TOKEN_FILE",
+  "mode": "read-only",
+  "note": "Documentary example. Client uses the fixed approved host and MOODLE_TOKEN_FILE or --token-file; no secret belongs in this file."
+}

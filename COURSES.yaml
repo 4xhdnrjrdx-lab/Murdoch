@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "format_note": "JSON is valid YAML 1.2; parsed with standard-library json to avoid dependencies.",
+  "student": {
+    "name": "Faiaz Dzhafarov",
+    "id": "35553299"
+  },
+  "timezone": "Asia/Dubai",
+  "course_states": [
+    "учимся",
+    "ожидаем итог",
+    "успешно завершён",
+    "требуется пересдача"
+  ],
+  "courses": [
+    {
+      "code": "BUS219",
+      "name": "International Business",
+      "period": "2026-TSD",
+      "path": "BUS219/2026-TSD",
+      "status": "учимся",
+      "moodle_course_id": 31585,
+      "checked_at": "2026-10-07",
+      "status_source": "Archive/LegacyNotes/tsd_2026_enrollment.md"
+    },
+    {
+      "code": "BUS225",
+      "name": "Services Marketing",
+      "period": "2026-TSD",
+      "path": "BUS225/2026-TSD",
+      "status": "учимся",
+      "moodle_course_id": 31320,
+      "checked_at": "2026-10-07",
+      "status_source": "Archive/LegacyNotes/tsd_2026_enrollment.md"
+    },
+    {
+      "code": "BUS230",
+      "name": "Change Management",
+      "period": "2026-TSD",
+      "path": "BUS230/2026-TSD",
+      "status": "учимся",
+      "moodle_course_id": 31305,
+      "checked_at": "2026-10-07",
+      "status_source": "Archive/LegacyNotes/tsd_2026_enrollment.md"
+    },
+    {
+      "code": "BUS334",
+      "name": "Business Analytics",
+      "period": "2026-TSD",
+      "path": "BUS334/2026-TSD",
+      "status": "учимся",
+      "moodle_course_id": 31274,
+      "checked_at": "2026-10-07",
+      "status_source": "Archive/LegacyNotes/tsd_2026_enrollment.md"
+    },
+    {
+      "code": "BUS279",
+      "name": "Digital and Social Media Marketing",
+      "period": "2026-TMD",
+      "path": "BUS279/2026-TMD",
+      "status": "успешно завершён",
+      "result": {
+        "mark": 78,
+        "grade": "D",
+        "credit_points": 3
+      },
+      "checked_at": "2026-09-15",
+      "status_source": "Archive/LegacyNotes/tmd_2026_final_results.md",
+      "source_note": "Официальная академическая запись myMurdoch, скриншот пользователя 15 сентября; текст сохранён, исходный скриншот пока не найден."
+    },
+    {
+      "code": "BUS293",
+      "name": "Organisational Theory and Behaviour",
+      "period": "2026-TMD",
+      "path": "BUS293/2026-TMD",
+      "status": "успешно завершён",
+      "result": {
+        "mark": 80,
+        "grade": "HD",
+        "credit_points": 3
+      },
+      "checked_at": "2026-09-15",
+      "status_source": "Archive/LegacyNotes/tmd_2026_final_results.md",
+      "source_note": "Официальная академическая запись myMurdoch, скриншот пользователя 15 сентября; текст сохранён, исходный скриншот пока не найден."
+    },
+    {
+      "code": "BUS363",
+      "name": "Scaling Agile Projects",
+      "period": "2026-TMD",
+      "path": "BUS363/2026-TMD",
+      "status": "успешно завершён",
+      "result": {
+        "mark": 70,
+        "grade": "D",
+        "credit_points": 3
+      },
+      "checked_at": "2026-09-15",
+      "status_source": "Archive/LegacyNotes/tmd_2026_final_results.md",
+      "source_note": "Официальная академическая запись myMurdoch, скриншот пользователя 15 сентября; текст сохранён, исходный скриншот пока не найден."
+    },
+    {
+      "code": "MSP200",
+      "name": "Building Employability Skills",
+      "period": "2026-TMD",
+      "path": "MSP200/2026-TMD",
+      "status": "успешно завершён",
+      "result": {
+        "mark": 67,
+        "grade": "C",
+        "credit_points": 3
+      },
+      "checked_at": "2026-09-15",
+      "status_source": "Archive/LegacyNotes/tmd_2026_final_results.md",
+      "source_note": "Официальная академическая запись myMurdoch, скриншот пользователя 15 сентября; текст сохранён, исходный скриншот пока не найден."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "checked_at_dubai": "2026-09-19T00:28:43.701224+04:00",
+  "assignment_id": 124855,
+  "assignment_name": "Assignment 2 Submission: Questionnaire (20%)",
+  "submission_status": "submitted",
+  "grading_status": "notgraded",
+  "submitted_at_dubai": "2026-09-19T00:26:26+04:00",
+  "due_at_dubai": "2026-09-20T19:59:00+04:00",
+  "files": [
+    {
+      "filename": "35553299_Dzhafarov_BUS334_Assignment2_Questionnaire.docx",
+      "filesize": 40749,
+      "timemodified": 1789763186,
+      "downloaded_sha256": "6b885e4ed1e252844368eb618d00d7f38f3b60a42d3f812c23c16fdd62a2d3e3",
+      "local_sha256": "6b885e4ed1e252844368eb618d00d7f38f3b60a42d3f812c23c16fdd62a2d3e3",
+      "matches_corrected_local_file": true
+    }
+  ]
+}

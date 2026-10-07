@@ -1,0 +1,8 @@
+# Override obsolete ancestor BUS225/.gitignore in the retained legacy local folder.
+# These sources are explicitly included by the 7 October unified-backup request.
+!**/.local-history/
+!**/.local-history/**
+!**/_lms_dump_*/
+!**/_lms_dump_*/**
+!**/index.html
+!*.webm

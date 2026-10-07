@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "course": "BUS230",
+  "period": "2026-TSD",
+  "reviewed_at": "2026-10-07",
+  "allowed_states": [
+    "предложено",
+    "согласовано",
+    "в работе",
+    "готово к сдаче",
+    "сдано",
+    "оценено"
+  ],
+  "notes": "",
+  "tasks": [
+    {
+      "id": "A1",
+      "title": "Individual reflective essay, 30%",
+      "status": "сдано",
+      "next_action": "После восстановления LMS проверить оценку и причину новой квитанции.",
+      "detail": "Локальная версия: 1536 слов основной части, 8 источников. Первичная официальная сдача подтверждена API, позднее пришла квитанция Turnitin.",
+      "deadlines": [
+        {
+          "value": "2026-09-18 19:59",
+          "source_label": "Moodle API",
+          "checked_at": "2026-09-19",
+          "source_path": "Archive/LegacyRecords/00_CHAT_CONTEXT.md"
+        }
+      ],
+      "evidence": [
+        {
+          "date": "2026-09-19",
+          "note": "API: submitted, notgraded; последнее изменение 17 сентября 18:08:19 Dubai.",
+          "path": "Archive/LegacyRecords/00_CHAT_CONTEXT.md",
+          "source": ""
+        },
+        {
+          "date": "2026-10-05",
+          "note": "Turnitin получил одноимённый файл; письмо не подтверждает новую официальную сдачу в Moodle.",
+          "path": "Correspondence/2026-10-05_turnitin-receipt.md",
+          "source": ""
+        }
+      ],
+      "unknown": "Текущая оценка, почему появилась квитанция 5 октября, изменилась ли версия файла.",
+      "show_on_overview": true,
+      "correction": ""
+    },
+    {
+      "id": "A2",
+      "title": "Group multimedia manager training presentation, 40%",
+      "status": "в работе",
+      "next_action": "Согласовать модель и роли, затем разработать и обосновать изменения модели.",
+      "detail": "Class 2 Group 4 зарегистрирована 23 сентября. Kotter 1996 предложен; решение команды не подтверждено. Максимум 30 слайдов и 30 минут; всем выступать; 15–20 академических источников. Полная проверка требований 23 сентября сохранена.",
+      "deadlines": [
+        {
+          "value": "2026-11-06 19:59, общий портал",
+          "source_label": "Moodle API",
+          "checked_at": "2026-09-19",
+          "source_path": "Archive/LegacyRecords/00_CHAT_CONTEXT.md"
+        },
+        {
+          "value": "Вечером накануне назначенного выступления, sessions 10/11",
+          "source_label": "Unit Outline §5.2.2",
+          "checked_at": "2026-09-23",
+          "source_path": "Materials/UnitOutline/00_UNIT_OUTLINE_BUS230_TSD2026.md"
+        }
+      ],
+      "evidence": [
+        {
+          "date": "2026-09-23",
+          "note": "Скриншот регистрации группы и предложения модели.",
+          "path": "Archive/LegacyRecords/00_CHAT_CONTEXT.md",
+          "source": ""
+        },
+        {
+          "date": "2026-09-23",
+          "note": "Полная проверка рубрики и требований.",
+          "path": "Archive/LegacyRecords/A2_ПРОВЕРКА_ТРЕБОВАНИЙ.md",
+          "source": ""
+        }
+      ],
+      "unknown": "Дата конкретной команды, согласованная модель, роли и окончательный стиль ссылок: Chicago 17 против APA в примерной структуре.",
+      "show_on_overview": true,
+      "correction": ""
+    },
+    {
+      "id": "PEER",
+      "title": "Peer assessment",
+      "status": "предложено",
+      "next_action": "Уточнить отдельные требования и срок в LMS.",
+      "detail": "В снимке курса есть peerwork; точная связь с A2 и актуальный срок требуют проверки.",
+      "deadlines": [],
+      "evidence": [
+        {
+          "date": "2026-09-15",
+          "note": "Снимок Moodle с модулем peerwork.",
+          "path": "Materials/LMS_Snapshots/_lms_dump_2026-09-15/course_contents.json",
+          "source": ""
+        }
+      ],
+      "unknown": "Текущий срок и прохождение.",
+      "show_on_overview": false,
+      "correction": ""
+    },
+    {
+      "id": "A3",
+      "title": "Final Exam, 30%",
+      "status": "предложено",
+      "next_action": "Проверить расписание Trimester S, 2026 и Dubai ISC.",
+      "detail": "Точная дата не проверена.",
+      "deadlines": [],
+      "evidence": [
+        {
+          "date": "2026-09-30",
+          "note": "Уведомление об экзаменах.",
+          "path": "../../Archive/Correspondence/2026-09-30_final-exam.md",
+          "source": ""
+        }
+      ],
+      "unknown": "Дата, время и аудитория.",
+      "show_on_overview": false,
+      "correction": ""
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+Imagine asking AI to help you buy food for dinner.
+Your budget is fifty dirhams.
+But it suggests food that costs eighty.
+Would you trust it again?
+
+I'm Faiaz.
+I chose the article Shopper AI by Kennedy and co-authors, from twenty twenty-six.
+My example is Carrefour.
+
+The study uses design science.
+The authors built a way to compare shopping AI.
+They used earlier studies, expert interviews, patents and real AI tools.
+Three hundred and twelve people helped check it.
+
+This system is called a taxonomy.
+It has fourteen features in two groups.
+Capabilities are what AI can do, such as using information and protecting data.
+Parasocial skills are how AI creates a feeling of human contact.
+AI can sound caring but has no real feelings.
+
+Both groups can affect the shopping experience.
+Advice that fits your needs may require more personal data.
+
+I think the study helps shops find problems.
+For example, AI may understand you but suggest a product the shop does not have.
+
+One strength is the use of several sources.
+They looked at both the technology and the customer.
+But the study mainly focuses on the USA.
+We need to test these ideas with UAE customers.
+Also, checking the taxonomy does not prove that AI makes customers happier or increases sales.
+
+In twenty twenty-one, Majid Al Futtaim opened Carrefour City Plus in Dubai.
+It used AI so shoppers could skip the normal checkout.
+
+In France, Carrefour announced Hopla in twenty twenty-three.
+This chatbot could suggest food based on a budget and food preferences.
+They do not prove that customers were happier, or that every UAE store has these tools.
+
+My idea for Carrefour UAE is an AI food shopping assistant.
+This is a proposal, not a service I have tested.
+
+A customer asks for a vegetarian dinner for two, under fifty dirhams.
+The AI checks today's prices and what is in stock.
+If a product is missing, it explains another option and asks the customer first.
+If the wrong item arrives, the customer can speak to a staff member.
+
+This links knowledge with personalisation.
+The customer keeps control.
+
+I would test this with a small group first.
+Customers should choose what personal data to share.
+Paid product suggestions should be clearly marked.
+
+I would compare the AI with normal product search.
+Do shoppers stay within their budget?
+Can they complete their basket?
+Does the AI make fewer mistakes?
+
+For me, friendly AI is not enough.
+Carrefour should give useful advice and leave customers in control.

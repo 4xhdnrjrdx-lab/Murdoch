@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "course": "BUS334",
+  "period": "2026-TSD",
+  "reviewed_at": "2026-10-07",
+  "allowed_states": [
+    "предложено",
+    "согласовано",
+    "в работе",
+    "готово к сдаче",
+    "сдано",
+    "оценено"
+  ],
+  "notes": "",
+  "tasks": [
+    {
+      "id": "A1",
+      "title": "Engagement, 10%",
+      "status": "в работе",
+      "next_action": "Продолжать участие в занятиях и фиксировать выполненное.",
+      "detail": "Coursework; выполнено упражнение Create Value с Nikita. Оценка участия не известна.",
+      "deadlines": [
+        {
+          "value": "2026-11-19 13:00",
+          "source_label": "Moodle API, сохранённая запись",
+          "checked_at": "2026-09-15",
+          "source_path": "../../Archive/LegacyNotes/tsd_2026_enrollment.md"
+        }
+      ],
+      "evidence": [
+        {
+          "date": "2026-09-19",
+          "note": "Контекст и выполненное упражнение.",
+          "path": "Archive/LegacyRecords/00_CHAT_CONTEXT.md",
+          "source": ""
+        }
+      ],
+      "unknown": "Текущая оценка участия.",
+      "show_on_overview": false,
+      "correction": ""
+    },
+    {
+      "id": "A2",
+      "title": "Individual questionnaire, 20%",
+      "status": "сдано",
+      "next_action": "После восстановления LMS прочитать оценку и обратную связь.",
+      "detail": "Grocery store для студентов; 20 вопросов, 17 закрытых и 3 открытых. Локальный DOCX совпал с загруженным файлом по SHA-256.",
+      "deadlines": [
+        {
+          "value": "2026-09-20 19:59",
+          "source_label": "Moodle API",
+          "checked_at": "2026-09-19",
+          "source_path": "Assignments/A2/_submission_checks/2026-09-19_A2.json"
+        }
+      ],
+      "evidence": [
+        {
+          "date": "2026-09-19",
+          "note": "API submitted, notgraded, совпадение SHA-256.",
+          "path": "Assignments/A2/_submission_checks/2026-09-19_A2.json",
+          "source": ""
+        },
+        {
+          "date": "2026-09-19",
+          "note": "Дополнительная квитанция Turnitin.",
+          "path": "Correspondence/2026-09-19_turnitin-receipt.md",
+          "source": ""
+        }
+      ],
+      "unknown": "Текущая оценка и комментарии преподавателя.",
+      "show_on_overview": false,
+      "correction": ""
+    },
+    {
+      "id": "A3",
+      "title": "Data Collection & Preliminary Analysis, 30%",
+      "status": "предложено",
+      "next_action": "Подтвердить состав группы и общую анкету перед сбором ответов.",
+      "detail": "Сбор данных и ответы респондентов в проверенных файлах не подтверждены.",
+      "deadlines": [
+        {
+          "value": "2026-10-25 19:59",
+          "source_label": "Moodle API, сохранённая запись",
+          "checked_at": "2026-09-15",
+          "source_path": "../../Archive/LegacyNotes/tsd_2026_enrollment.md"
+        }
+      ],
+      "evidence": [
+        {
+          "date": "2026-09-19",
+          "note": "Контекст: A2 готово, дальнейший сбор не выполнялся.",
+          "path": "Archive/LegacyRecords/00_CHAT_CONTEXT.md",
+          "source": ""
+        }
+      ],
+      "unknown": "Фактическая регистрация команды, объём данных и распределение.",
+      "show_on_overview": true,
+      "correction": ""
+    },
+    {
+      "id": "A4",
+      "title": "Data Analysis & Presentation, 40%",
+      "status": "предложено",
+      "next_action": "Уточнить дату выступления и подготовить анализ после A3.",
+      "detail": "В таблице outline отдельного итогового экзамена нет.",
+      "deadlines": [],
+      "evidence": [
+        {
+          "date": "2026-09-15",
+          "note": "Структура оценивания и портал без даты.",
+          "path": "Materials/UnitOutline/00_UNIT_OUTLINE_BUS334_TSD2026.md",
+          "source": ""
+        }
+      ],
+      "unknown": "Точная дата выступления и срок supporting materials.",
+      "show_on_overview": false,
+      "correction": ""
+    },
+    {
+      "id": "PEER",
+      "title": "Peer Evaluation",
+      "status": "предложено",
+      "next_action": "Проверить актуальное время и требования отдельного портала.",
+      "detail": "Снимок указывает календарный день, точное время в основной записи отсутствует.",
+      "deadlines": [
+        {
+          "value": "2026-11-28, время не подтверждено",
+          "source_label": "Сводка Moodle API",
+          "checked_at": "2026-09-15",
+          "source_path": "../../Archive/LegacyNotes/tsd_2026_enrollment.md"
+        }
+      ],
+      "evidence": [
+        {
+          "date": "2026-09-15",
+          "note": "Сохранённая сводка Moodle.",
+          "path": "../../Archive/LegacyNotes/tsd_2026_enrollment.md",
+          "source": ""
+        }
+      ],
+      "unknown": "Точный час и статус сдачи.",
+      "show_on_overview": false,
+      "correction": ""
+    }
+  ]
+}
