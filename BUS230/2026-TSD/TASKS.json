@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course": "BUS230",
   "period": "2026-TSD",
-  "reviewed_at": "2026-10-07T12:22:24.400329+04:00",
+  "reviewed_at": "2026-10-07T13:05:17.617533+04:00",
   "allowed_states": [
     "предложено",
     "согласовано",
@@ -24,7 +24,7 @@
           "value": "2026-09-18 19:59 Asia/Dubai",
           "source_label": "Moodle API timestamp",
           "checked_at": "2026-10-07",
-          "source_path": "Correspondence/2026-10-07_lms-check.json"
+          "source_path": "Correspondence/2026-10-07_continuation-check.json"
         }
       ],
       "evidence": [
@@ -45,6 +45,12 @@
           "note": "Прочитаны актуальные портал, срок и доступный статус. Submission submitted; grading graded. ",
           "path": "Correspondence/2026-10-07_lms-check.json",
           "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Повторная проверка: submitted и graded; число баллов и feedback по-прежнему недоступны.",
+          "path": "Correspondence/2026-10-07_continuation-check.json",
+          "source": ""
         }
       ],
       "unknown": "Число баллов/комментарий и причина новой квитанции Turnitin от 5 октября.",
@@ -55,14 +61,14 @@
       "id": "A2",
       "title": "Group multimedia manager training presentation, 40%",
       "status": "в работе",
-      "next_action": "Согласовать модель и роли, затем разработать и обосновать изменения модели.",
+      "next_action": "Согласовать с Class 2 Group 4 модель, роли и дату выступления; сообщить свою часть для подготовки A2.",
       "detail": "Class 2 Group 4 зарегистрирована 23 сентября. Kotter 1996 предложен; решение команды не подтверждено. Максимум 30 слайдов и 30 минут; всем выступать; 15–20 академических источников. Полная проверка требований 23 сентября сохранена.",
       "deadlines": [
         {
           "value": "2026-11-06 19:59 Asia/Dubai",
           "source_label": "Moodle API timestamp",
           "checked_at": "2026-10-07",
-          "source_path": "Correspondence/2026-10-07_lms-check.json"
+          "source_path": "Correspondence/2026-10-07_continuation-check.json"
         },
         {
           "value": "Вечером накануне назначенного выступления, sessions 10/11",
@@ -89,6 +95,12 @@
           "note": "Прочитаны актуальные портал, срок и доступный статус. ",
           "path": "Correspondence/2026-10-07_lms-check.json",
           "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Повторная проверка: срок 6 ноября 19:59 Dubai; групповая сдача new. Class 2 Group 4 подтверждена.",
+          "path": "Correspondence/2026-10-07_continuation-check.json",
+          "source": ""
         }
       ],
       "unknown": "Дата конкретной команды, согласованная модель, роли и окончательный стиль ссылок: Chicago 17 против APA в примерной структуре.",
@@ -106,7 +118,7 @@
           "value": "2026-12-01T19:59:00+04:00",
           "source_label": "Moodle course contents, Wednesday class peerwork",
           "checked_at": "2026-10-07",
-          "source_path": "Correspondence/2026-10-07_lms-check.json"
+          "source_path": "Correspondence/2026-10-07_continuation-check.json"
         }
       ],
       "evidence": [
@@ -120,6 +132,12 @@
           "date": "2026-10-07",
           "note": "Подтверждён срок отдельного Wednesday peerwork.",
           "path": "Correspondence/2026-10-07_lms-check.json",
+          "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Повторно подтверждён срок Wednesday class peerwork: 1 декабря 19:59 Dubai.",
+          "path": "Correspondence/2026-10-07_continuation-check.json",
           "source": ""
         }
       ],

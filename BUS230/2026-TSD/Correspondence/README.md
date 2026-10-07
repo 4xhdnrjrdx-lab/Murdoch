@@ -5,3 +5,5 @@
 - [2026-10-05_turnitin-receipt.md](2026-10-05_turnitin-receipt.md)
 
 - [Свежая проверка Moodle 7 октября](2026-10-07_lms-check.json)
+
+- [Проверка при продолжении BUS230 7 октября, 13:05 Dubai](2026-10-07_continuation-check.json)
