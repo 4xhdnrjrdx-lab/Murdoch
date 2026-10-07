@@ -26,6 +26,12 @@
         ],
         "evidence": "BUS230/2026-TSD/Correspondence/2026-10-07_continuation-check.json"
       },
+      "BUS225": {
+        "checked_at": "2026-10-07T13:05:58.219332+04:00",
+        "scope": "Gmail forwarded mail: BUS225 / Services Marketing since 20 September; Dana Khoury Eid / BUS225 since 15 September; blueprint email body read",
+        "result": "Latest relevant course email found: 1 October. Full university Outlook and WhatsApp not checked.",
+        "evidence": "BUS225/2026-TSD/Correspondence/2026-10-07_followup-check.md"
+      },
       "BUS334": {
         "checked_at": "2026-10-07T13:09:03.572349+04:00",
         "scope": "Gmail forwarded university mail since 15 September: BUS334 / BUS 334 / Business Analytics; Ashok Mitra sender search; receipt and finalised-groups email bodies read",
@@ -37,10 +43,10 @@
   "lms": {
     "checked_at": "2026-10-07T13:07:45.813958+04:00",
     "result": "ok",
-    "operation": "Latest check: BUS334 read-only course contents, assignments, own submissions, grades, own groups and news forums; other course checks preserved in last_success_by_course",
+    "operation": "Read-only course checks refreshed independently; exact per-course times and evidence are in last_success_by_course and evidence.",
     "last_success_by_course": {
       "BUS219": "2026-10-07T13:06:22.043074+04:00",
-      "BUS225": "2026-10-07T12:22:24.400329+04:00",
+      "BUS225": "2026-10-07T13:04:57.563432+04:00",
       "BUS230": "2026-10-07T13:05:17.617533+04:00",
       "BUS334": "2026-10-07T13:07:45.813958+04:00"
     },
@@ -56,7 +62,7 @@
     },
     "evidence": {
       "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-07_continuation-check.json",
-      "BUS225": "BUS225/2026-TSD/Correspondence/2026-10-07_lms-check.json",
+      "BUS225": "BUS225/2026-TSD/Correspondence/2026-10-07_1304_lms-check.json",
       "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-07_continuation-check.json",
       "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-07_followup-lms-check.json"
     }
