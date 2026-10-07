@@ -23,8 +23,8 @@
     },
     {
       "path": "ACCESS_STATUS.json",
-      "bytes": 4605,
-      "sha256": "3b02c9a0d2ee707d67ff55675af013f9036a76775e5558399fc28ff2c641b985",
+      "bytes": 4842,
+      "sha256": "a0106432ef0a26583933f37514dd55c04a01f8d05e86ac30b051429ab66e77af",
       "storage": "git"
     },
     {
@@ -61,6 +61,18 @@
       "path": "Archive/Correspondence/2026-10-07_exam-timetable.md",
       "bytes": 2278,
       "sha256": "48a90a0f52a812b616d4c2f3407c0eafc9ae983eebe93c7bff5388e4d6a7bec3",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/Correspondence/2026-10-07_general-study-check.json",
+      "bytes": 27770,
+      "sha256": "189b98c685de9e16287d20abd408ae35f2626321e5d0d2437829fc753e2a97c8",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/Correspondence/2026-10-07_general-study-overview.md",
+      "bytes": 4120,
+      "sha256": "2dc24efc3150dbca2405e76d1cb47fab22b6a147e10d98a83ceff397bdfcb120",
       "storage": "git"
     },
     {
@@ -3161,8 +3173,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4734,
-      "sha256": "4c08d41df55a575888c440f044b71a9aefaca7cd01fad5e31b41e9fb78d8812f",
+      "bytes": 4712,
+      "sha256": "fe9aef31591eff4ced1b6ad9ee6711c73805b207534c31ec970a267f401cd198",
       "storage": "git"
     },
     {
@@ -3232,6 +3244,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 538,
-  "total_bytes": 445781962
+  "file_count": 540,
+  "total_bytes": 445814067
 }

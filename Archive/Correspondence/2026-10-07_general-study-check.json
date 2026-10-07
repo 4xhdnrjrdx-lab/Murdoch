@@ -1,0 +1,916 @@
+{
+  "checked_at": "2026-10-07T13:30:44.543390+04:00",
+  "timezone": "Asia/Dubai",
+  "account_verified": true,
+  "courses": [
+    {
+      "course": "BUS219",
+      "courseid": 31585,
+      "checked_at": "2026-10-07T13:30:30.271599+04:00",
+      "operations": "read-only course contents, assignments, own submission status, quizzes, grades, news forums",
+      "assessment_modules": [],
+      "assignments": [],
+      "quizzes": [],
+      "grade_items": [
+        {
+          "itemname": "Lecture recording Session 2",
+          "itemmodule": "alplinks",
+          "iteminstance": 122780,
+          "graderaw": null,
+          "gradeformatted": "-",
+          "grademax": 100,
+          "feedback": ""
+        },
+        {
+          "itemname": "Lecture recording Session 3",
+          "itemmodule": "alplinks",
+          "iteminstance": 122781,
+          "graderaw": null,
+          "gradeformatted": "-",
+          "grademax": 100,
+          "feedback": ""
+        },
+        {
+          "itemname": "Lecture recording session 5",
+          "itemmodule": "alplinks",
+          "iteminstance": 122783,
+          "graderaw": null,
+          "gradeformatted": "-",
+          "grademax": 100,
+          "feedback": ""
+        },
+        {
+          "itemname": "Final Exam",
+          "itemmodule": null,
+          "iteminstance": null,
+          "graderaw": null,
+          "gradeformatted": "-",
+          "grademax": 40,
+          "feedback": ""
+        },
+        {
+          "itemname": "exam mark",
+          "itemmodule": null,
+          "iteminstance": null,
+          "graderaw": null,
+          "gradeformatted": "-",
+          "grademax": 100,
+          "feedback": ""
+        },
+        {
+          "itemname": "Participation (10 )                                            A ",
+          "itemmodule": null,
+          "iteminstance": null,
+          "graderaw": null,
+          "gradeformatted": "-",
+          "grademax": 100,
+          "feedback": ""
+        },
+        {
+          "itemname": "Total ",
+          "itemmodule": null,
+          "iteminstance": null,
+          "graderaw": null,
+          "gradeformatted": "-",
+          "grademax": 100,
+          "feedback": ""
+        },
+        {
+          "itemname": "",
+          "itemmodule": null,
+          "iteminstance": 47345,
+          "graderaw": null,
+          "gradeformatted": "-",
+          "grademax": 100,
+          "feedback": ""
+        }
+      ],
+      "news": [
+        {
+          "name": "Group Formation &amp; Pre- Workshop Reminder",
+          "modified": 1788942668,
+          "discussion": 984496
+        }
+      ],
+      "result": "ok",
+      "completed_at": "2026-10-07T13:30:37.197860+04:00"
+    },
+    {
+      "course": "BUS225",
+      "courseid": 31320,
+      "checked_at": "2026-10-07T13:30:30.271805+04:00",
+      "operations": "read-only course contents, assignments, own submission status, quizzes, grades, news forums",
+      "assessment_modules": [
+        {
+          "id": 3076824,
+          "name": "Service organisation profile submission (Non assessable item submitted end of Session 4) -One per group",
+          "type": "assign",
+          "dates": [
+            {
+              "label": "Opened:",
+              "timestamp": 1787788800,
+              "dataid": "allowsubmissionsfromdate"
+            },
+            {
+              "label": "Due:",
+              "timestamp": 1789707600,
+              "dataid": "duedate"
+            }
+          ]
+        },
+        {
+          "id": 3076825,
+          "name": "Video Presentation Submission",
+          "type": "assign",
+          "dates": [
+            {
+              "label": "Opened:",
+              "timestamp": 1789430400,
+              "dataid": "allowsubmissionsfromdate"
+            },
+            {
+              "label": "Due:",
+              "timestamp": 1790946000,
+              "dataid": "duedate"
+            }
+          ]
+        },
+        {
+          "id": 3076826,
+          "name": "Reflective Journal and Service Blueprint - Group submission (one per group)",
+          "type": "assign",
+          "dates": [
+            {
+              "label": "Opens:",
+              "timestamp": 1792022400,
+              "dataid": "allowsubmissionsfromdate"
+            },
+            {
+              "label": "Due:",
+              "timestamp": 1793970000,
+              "dataid": "duedate"
+            }
+          ]
+        },
+        {
+          "id": 3076827,
+          "name": "Peer review submission - Individual",
+          "type": "assign",
+          "dates": [
+            {
+              "label": "Opens:",
+              "timestamp": 1792454400,
+              "dataid": "allowsubmissionsfromdate"
+            },
+            {
+              "label": "Due:",
+              "timestamp": 1793970000,
+              "dataid": "duedate"
+            }
+          ]
+        },
+        {
+          "id": 3076842,
+          "name": "Quiz 1 - Services Marketing",
+          "type": "quiz",
+          "dates": []
+        },
+        {
+          "id": 3076849,
+          "name": "Quiz 2 - Service Consumers",
+          "type": "quiz",
+          "dates": []
+        },
+        {
+          "id": 3076858,
+          "name": "Quiz 3 - Positioning Services",
+          "type": "quiz",
+          "dates": []
+        },
+        {
+          "id": 3076865,
+          "name": "Quiz 4 - Service Products",
+          "type": "quiz",
+          "dates": []
+        },
+        {
+          "id": 3076872,
+          "name": "Quiz 5 - Service Distribution",
+          "type": "quiz",
+          "dates": []
+        },
+        {
+          "id": 3076880,
+          "name": "Setting Prices and Implementing Revenue Management",
+          "type": "quiz",
+          "dates": []
+        },
+        {
+          "id": 3076887,
+          "name": "Quiz 7 - Integrated Marketing Communications",
+          "type": "quiz",
+          "dates": []
+        },
+        {
+          "id": 3076896,
+          "name": "Quiz 8 - Designing service processes",
+          "type": "quiz",
+          "dates": []
+        },
+        {
+          "id": 3076903,
+          "name": "Quiz 9 - Crafting the Service Environment",
+          "type": "quiz",
+          "dates": []
+        },
+        {
+          "id": 3076910,
+          "name": "Quiz 10 - Managing People and Customer Service Function",
+          "type": "quiz",
+          "dates": []
+        },
+        {
+          "id": 3076917,
+          "name": "Quiz 11 - Managing Customer Relationships in Services",
+          "type": "quiz",
+          "dates": []
+        },
+        {
+          "id": 3076925,
+          "name": "Quiz 12 - Customer Satisfaction and Service Quality",
+          "type": "quiz",
+          "dates": []
+        }
+      ],
+      "assignments": [
+        {
+          "id": 125038,
+          "name": "Service organisation profile submission (Non assessable item submitted end of Session 4) -One per group",
+          "duedate": 1789707600,
+          "cutoffdate": 1790312400,
+          "grade": 100,
+          "submission": {
+            "status": null,
+            "timemodified": null,
+            "groupid": null
+          },
+          "teamsubmission": {
+            "status": "new",
+            "timemodified": 1787564048,
+            "groupid": 0
+          },
+          "gradingstatus": "notgraded",
+          "canedit": false,
+          "feedback_grade": null
+        },
+        {
+          "id": 125040,
+          "name": "Reflective Journal and Service Blueprint - Group submission (one per group)",
+          "duedate": 1793970000,
+          "cutoffdate": 1794574800,
+          "grade": 40,
+          "submission": {
+            "status": null,
+            "timemodified": null,
+            "groupid": null
+          },
+          "teamsubmission": {
+            "status": "new",
+            "timemodified": 1784539206,
+            "groupid": 0
+          },
+          "gradingstatus": "notgraded",
+          "canedit": false,
+          "feedback_grade": null
+        },
+        {
+          "id": 125039,
+          "name": "Video Presentation Submission",
+          "duedate": 1790946000,
+          "cutoffdate": 1791550800,
+          "grade": 30,
+          "submission": {
+            "status": "submitted",
+            "timemodified": 1790442532,
+            "groupid": 0
+          },
+          "teamsubmission": {
+            "status": null,
+            "timemodified": null,
+            "groupid": null
+          },
+          "gradingstatus": "notgraded",
+          "canedit": true,
+          "feedback_grade": null
+        },
+        {
+          "id": 125041,
+          "name": "Peer review submission - Individual",
+          "duedate": 1793970000,
+          "cutoffdate": 1794747600,
+          "grade": 100,
+          "submission": {
+            "status": "new",
+            "timemodified": 1791361358,
+            "groupid": 0
+          },
+          "teamsubmission": {
+            "status": null,
+            "timemodified": null,
+            "groupid": null
+          },
+          "gradingstatus": "notgraded",
+          "canedit": false,
+          "feedback_grade": null
+        }
+      ],
+      "quizzes": [
+        {
+          "id": 110572,
+          "name": "Quiz 1 - Services Marketing",
+          "timeopen": 0,
+          "timeclose": 0
+        },
+        {
+          "id": 110573,
+          "name": "Quiz 2 - Service Consumers",
+          "timeopen": 0,
+          "timeclose": 0
+        },
+        {
+          "id": 110574,
+          "name": "Quiz 3 - Positioning Services",
+          "timeopen": 0,
+          "timeclose": 0
+        },
+        {
+          "id": 110575,
+          "name": "Quiz 4 - Service Products",
+          "timeopen": 0,
+          "timeclose": 0
+        },
+        {
+          "id": 110576,
+          "name": "Quiz 5 - Service Distribution",
+          "timeopen": 0,
+          "timeclose": 0
+        },
+        {
+          "id": 110577,
+          "name": "Setting Prices and Implementing Revenue Management",
+          "timeopen": 0,
+          "timeclose": 0
+        },
+        {
+          "id": 110578,
+          "name": "Quiz 7 - Integrated Marketing Communications",
+          "timeopen": 0,
+          "timeclose": 0
+        },
+        {
+          "id": 110579,
+          "name": "Quiz 8 - Designing service processes",
+          "timeopen": 0,
+          "timeclose": 0
+        },
+        {
+          "id": 110580,
+          "name": "Quiz 9 - Crafting the Service Environment",
+          "timeopen": 0,
+          "timeclose": 0
+        },
+        {
+          "id": 110581,
+          "name": "Quiz 10 - Managing People and Customer Service Function",
+          "timeopen": 0,
+          "timeclose": 0
+        },
+        {
+          "id": 110582,
+          "name": "Quiz 11 - Managing Customer Relationships in Services",
+          "timeopen": 0,
+          "timeclose": 0
+        },
+        {
+          "id": 110583,
+          "name": "Quiz 12 - Customer Satisfaction and Service Quality",
+          "timeopen": 0,
+          "timeclose": 0
+        }
+      ],
+      "grade_items": [
+        {
+          "itemname": "",
+          "itemmodule": null,
+          "iteminstance": 46958,
+          "graderaw": null,
+          "gradeformatted": "-",
+          "grademax": 0,
+          "feedback": ""
+        },
+        {
+          "itemname": "Video Presentation Submission",
+          "itemmodule": "assign",
+          "iteminstance": 125039,
+          "graderaw": null,
+          "gradeformatted": "-",
+          "grademax": 30,
+          "feedback": ""
+        },
+        {
+          "itemname": "Reflective Journal and Service Blueprint - Group submission (one per group)",
+          "itemmodule": "assign",
+          "iteminstance": 125040,
+          "graderaw": null,
+          "gradeformatted": "-",
+          "grademax": 40,
+          "feedback": ""
+        },
+        {
+          "itemname": "Service organisation profile submission (Non assessable item submitted end of Session 4) -One per group",
+          "itemmodule": "assign",
+          "iteminstance": 125038,
+          "graderaw": null,
+          "gradeformatted": "-",
+          "grademax": 100,
+          "feedback": ""
+        },
+        {
+          "itemname": "Peer review submission - Individual",
+          "itemmodule": "assign",
+          "iteminstance": 125041,
+          "graderaw": null,
+          "gradeformatted": "-",
+          "grademax": 100,
+          "feedback": ""
+        }
+      ],
+      "news": [
+        {
+          "name": "Links for ONLINE students",
+          "modified": 1787234337,
+          "discussion": 978620
+        }
+      ],
+      "result": "ok",
+      "completed_at": "2026-10-07T13:30:42.457759+04:00"
+    },
+    {
+      "course": "BUS230",
+      "courseid": 31305,
+      "checked_at": "2026-10-07T13:30:30.271753+04:00",
+      "operations": "read-only course contents, assignments, own submission status, quizzes, grades, news forums",
+      "assessment_modules": [
+        {
+          "id": 3074733,
+          "name": "Assignment 2 peer assessment - Harshini Esther",
+          "type": "peerwork",
+          "dates": [
+            {
+              "label": "Due: ",
+              "timestamp": 1794671940
+            }
+          ]
+        },
+        {
+          "id": 3074734,
+          "name": "Assignment 2 peer assessment - Friday Class Shahinda Baig",
+          "type": "peerwork",
+          "dates": [
+            {
+              "label": "Opened: ",
+              "timestamp": 1788191940
+            },
+            {
+              "label": "Due: ",
+              "timestamp": 1794671940
+            }
+          ]
+        },
+        {
+          "id": 3074735,
+          "name": "Assignment 2 peer assessment - Wednesday Class Shahinda Baig",
+          "type": "peerwork",
+          "dates": [
+            {
+              "label": "Due: ",
+              "timestamp": 1796140740
+            }
+          ]
+        },
+        {
+          "id": 3074736,
+          "name": "Assessment 2: Presentation Material (Group) Submission Portal",
+          "type": "assign",
+          "dates": [
+            {
+              "label": "Due:",
+              "timestamp": 1793980740,
+              "dataid": "duedate"
+            }
+          ]
+        },
+        {
+          "id": 3074730,
+          "name": "Assessment 1: Essay (Individual) Submission Portal",
+          "type": "assign",
+          "dates": [
+            {
+              "label": "Opened:",
+              "timestamp": 1788105660,
+              "dataid": "allowsubmissionsfromdate"
+            },
+            {
+              "label": "Due:",
+              "timestamp": 1789747140,
+              "dataid": "duedate"
+            }
+          ]
+        }
+      ],
+      "assignments": [
+        {
+          "id": 124983,
+          "name": "Assessment 2: Presentation Material (Group) Submission Portal",
+          "duedate": 1793980740,
+          "cutoffdate": 0,
+          "grade": 100,
+          "submission": {
+            "status": null,
+            "timemodified": null,
+            "groupid": null
+          },
+          "teamsubmission": {
+            "status": "new",
+            "timemodified": 1791361364,
+            "groupid": 327929
+          },
+          "gradingstatus": "notgraded",
+          "canedit": true,
+          "feedback_grade": null
+        },
+        {
+          "id": 124982,
+          "name": "Assessment 1: Essay (Individual) Submission Portal",
+          "duedate": 1789747140,
+          "cutoffdate": 0,
+          "grade": 30,
+          "submission": {
+            "status": "submitted",
+            "timemodified": 1789654099,
+            "groupid": 0
+          },
+          "teamsubmission": {
+            "status": null,
+            "timemodified": null,
+            "groupid": null
+          },
+          "gradingstatus": "graded",
+          "canedit": true,
+          "feedback_grade": null
+        }
+      ],
+      "quizzes": [],
+      "grade_items": [],
+      "news": [],
+      "result": "ok",
+      "completed_at": "2026-10-07T13:30:40.735087+04:00"
+    },
+    {
+      "course": "BUS334",
+      "courseid": 31274,
+      "checked_at": "2026-10-07T13:30:30.272111+04:00",
+      "operations": "read-only course contents, assignments, own submission status, quizzes, grades, news forums",
+      "assessment_modules": [
+        {
+          "id": 3070558,
+          "name": "Assignment 1: Engagement (10%)",
+          "type": "assign",
+          "dates": [
+            {
+              "label": "Opened:",
+              "timestamp": 1787013000,
+              "dataid": "allowsubmissionsfromdate"
+            },
+            {
+              "label": "Due:",
+              "timestamp": 1795078800,
+              "dataid": "duedate"
+            }
+          ]
+        },
+        {
+          "id": 3070559,
+          "name": "Assignment 2 Submission: Questionnaire (20%)",
+          "type": "assign",
+          "dates": [
+            {
+              "label": "Opened:",
+              "timestamp": 1787531400,
+              "dataid": "allowsubmissionsfromdate"
+            },
+            {
+              "label": "Due:",
+              "timestamp": 1789919940,
+              "dataid": "duedate"
+            }
+          ]
+        },
+        {
+          "id": 3070560,
+          "name": "Assignment 3 Submission: Data Collection &amp; Preliminary Analysis (30%)",
+          "type": "assign",
+          "dates": [
+            {
+              "label": "Opened:",
+              "timestamp": 1787531400,
+              "dataid": "allowsubmissionsfromdate"
+            },
+            {
+              "label": "Due:",
+              "timestamp": 1792943940,
+              "dataid": "duedate"
+            }
+          ]
+        },
+        {
+          "id": 3070561,
+          "name": "Assignment 4 Supporting materials submission: Data Analysis &amp; Presentation (40%)",
+          "type": "assign",
+          "dates": [
+            {
+              "label": "Opens:",
+              "timestamp": 1792283400,
+              "dataid": "allowsubmissionsfromdate"
+            }
+          ]
+        },
+        {
+          "id": 3070562,
+          "name": "Peer Evaluation Form Submission (Individual)",
+          "type": "assign",
+          "dates": [
+            {
+              "label": "Opens:",
+              "timestamp": 1794384120,
+              "dataid": "allowsubmissionsfromdate"
+            },
+            {
+              "label": "Due:",
+              "timestamp": 1795881300,
+              "dataid": "duedate"
+            }
+          ]
+        }
+      ],
+      "assignments": [
+        {
+          "id": 124857,
+          "name": "Assignment 4 Supporting materials submission: Data Analysis &amp; Presentation (40%)",
+          "duedate": 0,
+          "cutoffdate": 0,
+          "grade": 40,
+          "submission": {
+            "status": null,
+            "timemodified": null,
+            "groupid": null
+          },
+          "teamsubmission": {
+            "status": "new",
+            "timemodified": 1784723880,
+            "groupid": 0
+          },
+          "gradingstatus": "notgraded",
+          "canedit": false,
+          "feedback_grade": null
+        },
+        {
+          "id": 124858,
+          "name": "Peer Evaluation Form Submission (Individual)",
+          "duedate": 1795881300,
+          "cutoffdate": 1795967700,
+          "grade": 100,
+          "submission": {
+            "status": "new",
+            "timemodified": 1791361374,
+            "groupid": 0
+          },
+          "teamsubmission": {
+            "status": null,
+            "timemodified": null,
+            "groupid": null
+          },
+          "gradingstatus": "notgraded",
+          "canedit": false,
+          "feedback_grade": null
+        },
+        {
+          "id": 124854,
+          "name": "Assignment 1: Engagement (10%)",
+          "duedate": 1795078800,
+          "cutoffdate": 1797843600,
+          "grade": 10,
+          "submission": {
+            "status": "new",
+            "timemodified": 1791361375,
+            "groupid": 0
+          },
+          "teamsubmission": {
+            "status": null,
+            "timemodified": null,
+            "groupid": null
+          },
+          "gradingstatus": "notgraded",
+          "canedit": true,
+          "feedback_grade": null
+        },
+        {
+          "id": 124855,
+          "name": "Assignment 2 Submission: Questionnaire (20%)",
+          "duedate": 1789919940,
+          "cutoffdate": 1790179140,
+          "grade": 20,
+          "submission": {
+            "status": "submitted",
+            "timemodified": 1789763186,
+            "groupid": 0
+          },
+          "teamsubmission": {
+            "status": null,
+            "timemodified": null,
+            "groupid": null
+          },
+          "gradingstatus": "graded",
+          "canedit": false,
+          "feedback_grade": "15.00000"
+        },
+        {
+          "id": 124856,
+          "name": "Assignment 3 Submission: Data Collection &amp; Preliminary Analysis (30%)",
+          "duedate": 1792943940,
+          "cutoffdate": 1793203140,
+          "grade": 30,
+          "submission": {
+            "status": "new",
+            "timemodified": 1791361378,
+            "groupid": 0
+          },
+          "teamsubmission": {
+            "status": null,
+            "timemodified": null,
+            "groupid": null
+          },
+          "gradingstatus": "notgraded",
+          "canedit": true,
+          "feedback_grade": null
+        }
+      ],
+      "quizzes": [],
+      "grade_items": [
+        {
+          "itemname": "Assignment 2 Submission: Questionnaire (20%)",
+          "itemmodule": "assign",
+          "iteminstance": 124855,
+          "graderaw": 15,
+          "gradeformatted": "15.00",
+          "grademax": 20,
+          "feedback": "By and large, a well composed questionnaire demonstrating a good understanding of questionnaire design. Most of the required components are included and relevant, with clear and well-structured questions. Good application of relevant concepts and terminology. Presentation, language and formatting are professional. Overall, a well-designed and usable research instrument demonstrating good research skills.      \r\n  However, the areas of improvement are :    \r\n \r\n  Absence of the 2 main profile variables (i.e., gender and nationality group)    \r\n  Abrupt introduction of Q 7  \r\n  Sequencing of questions  \r\n  Lack of aesthetic appeal of the questionnaire"
+        },
+        {
+          "itemname": "Peer Evaluation Form Submission (Individual)",
+          "itemmodule": "assign",
+          "iteminstance": 124858,
+          "graderaw": null,
+          "gradeformatted": "-",
+          "grademax": 100,
+          "feedback": ""
+        }
+      ],
+      "news": [],
+      "result": "ok",
+      "completed_at": "2026-10-07T13:30:44.542102+04:00"
+    }
+  ],
+  "mail": {
+    "checked_at": "2026-10-07T13:31:59.360199+04:00",
+    "scope": "Gmail forwarded university mail since 15 September 2026; four course keyword searches and Ashok Mitra sender search",
+    "searches": [
+      {
+        "course": "BUS219",
+        "query": "after:2026/09/15 (BUS219 OR \"International Business\")",
+        "messages": [
+          {
+            "id": "1a0b3c71389c0601",
+            "subject": "Re: BUS219 – Assessment 2 group placement",
+            "date": "2026-09-18T09:09:14+00:00"
+          }
+        ],
+        "pagination_complete": true
+      },
+      {
+        "course": "BUS225",
+        "query": "after:2026/09/15 (BUS225 OR \"Services Marketing\")",
+        "messages": [
+          {
+            "id": "1a0f6eb3eb984aa1",
+            "subject": "BLUEPRINT Slides - Chpt.8",
+            "date": "2026-10-01T10:02:43+00:00"
+          },
+          {
+            "id": "1a0b494e2c9a8b70",
+            "subject": "RE: BUS225 Group 9 - Service Organisation Profile - Carrefour UAE",
+            "date": "2026-09-18T12:54:01+00:00"
+          },
+          {
+            "id": "1a0b4717d84db39a",
+            "subject": "FW: BUS225 GROUPS for Assignment 2",
+            "date": "2026-09-18T12:15:19+00:00"
+          },
+          {
+            "id": "1a0b3b10a1af888d",
+            "subject": "BUS225 Group 9 - Service Organisation Profile - Carrefour UAE",
+            "date": "2026-09-18T08:44:44+00:00"
+          },
+          {
+            "id": "1a0b30f1837e1e09",
+            "subject": "Overdue: Service organisation profile submission (Non assessable item submitted end of Session 4) -One per group",
+            "date": "2026-09-18T05:48:04+00:00"
+          },
+          {
+            "id": "1a0a914702ca4d4f",
+            "subject": "Re: BUS225 Group 9 – Assignment 2 – retailer choice",
+            "date": "2026-09-16T07:17:52+00:00"
+          },
+          {
+            "id": "1a0a5b57cef05143",
+            "subject": "BUS225 GROUPS for Assignment 2",
+            "date": "2026-09-15T15:35:03+00:00"
+          }
+        ],
+        "pagination_complete": true
+      },
+      {
+        "course": "BUS230",
+        "query": "after:2026/09/15 (BUS230 OR \"Change Management\")",
+        "messages": [
+          {
+            "id": "1a10c54862e30ef9",
+            "subject": "This is your Turnitin Digital Receipt",
+            "date": "2026-10-05T13:50:19+00:00"
+          },
+          {
+            "id": "1a0aa9bd41ce278e",
+            "subject": "BUS230 Change Management (TSD, 2026): BUS230 Assessment 1 – Important Information and Preparation",
+            "date": "2026-09-16T14:25:22+00:00"
+          }
+        ],
+        "pagination_complete": true
+      },
+      {
+        "course": "BUS334",
+        "query": "after:2026/09/15 (BUS334 OR \"Business Analytics\")",
+        "messages": [
+          {
+            "id": "1a0b638e632513ea",
+            "subject": "This is your Turnitin Digital Receipt",
+            "date": "2026-09-18T20:32:49+00:00"
+          }
+        ],
+        "pagination_complete": true,
+        "additional_search": {
+          "query": "after:2026/09/15 from:(Ashok.Mitra@murdoch.edu.au)",
+          "messages": [
+            {
+              "id": "1a10651634ef4202",
+              "subject": "BUS 334 : Groups for Subsequent Assignments",
+              "date": "2026-10-04T09:49:09+00:00"
+            }
+          ]
+        }
+      }
+    ],
+    "bodies_rechecked": [
+      "1a0b3c71389c0601",
+      "1a0f6eb3eb984aa1",
+      "1a0b494e2c9a8b70",
+      "1a10c54862e30ef9",
+      "1a10651634ef4202"
+    ],
+    "result": "Новых уточнений по срокам и действиям в проверенном охвате нет. Письмо об утверждённой группе BUS334 от 4 октября повторно прочитано; состав соответствует main.",
+    "uncovered": [
+      "Полный университетский Outlook",
+      "WhatsApp"
+    ],
+    "outlook_attempt": {
+      "attempted_at": "2026-10-07T13:31:59.360199+04:00",
+      "result": "No accessible Outlook tab in connected browser inventory; no Outlook connector available in this chat",
+      "last_successful_check": "unknown"
+    }
+  },
+  "conclusions": {
+    "BUS219": "В API нет quiz/assign; конфликт сроков Quiz 1 Week 8/Week 10 и A2 остаётся открытым. Это не доказывает отсутствие заданий.",
+    "BUS225": "A1 submitted/notgraded, canedit true; технический cutoff 9 октября 17:00 Dubai не означает официальное продление. A2 и peer review 6 ноября 17:00.",
+    "BUS230": "A1 submitted/graded без доступного балла. A2 groupid 327929/new; портал 6 ноября 19:59, конкретная дата выступления неизвестна.",
+    "BUS334": "A2 15/20; A3 new, 25 октября 19:59; A4 точная дата неизвестна."
+  }
+}
