@@ -9,6 +9,6 @@
     "course branch merges with updated main, keeps both courses",
     "regenerated manifest and fresh final clone pass verify"
   ],
-  "test_directory": "/var/folders/10/3ffx0y4n14l57q_ysrmc8m6w0000gn/T/murdoch-concurrent-_9djlpwv",
-  "verification": "PASS: 514 files, 205220742 bytes; SHA-256, scope, sources, links, states and secret scan"
+  "test_directory": "/var/folders/10/3ffx0y4n14l57q_ysrmc8m6w0000gn/T/murdoch-concurrent-bzp6mxz6",
+  "verification": "PASS: 532 files, 445734580 bytes; SHA-256, scope, sources, links, states and secret scan"
 }

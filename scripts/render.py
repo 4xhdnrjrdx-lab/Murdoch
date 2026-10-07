@@ -22,12 +22,14 @@ for c in COURSES['courses']:
  for t in state['tasks']:rows.append(f'- {link("TASKS.md#"+t["id"].lower(),t["id"]+": "+t["title"])}')
  (ROOT/path/'README.md').write_text(f'# {c["code"]} {c["name"]} | {c["period"]}\n\n'+ '\n'.join([link(x+'.md',label) for x,label in [('CONTEXT','Контекст и неизвестное'),('TASKS','Задания и следующие шаги'),('TEAM','Команда'),('HISTORY','История')]])+'\n\n'+link('Materials/README.md','Материалы преподавателя и упражнения')+'\n\n'+link('Assignments/README.md','Рабочие файлы, версии и подтверждения')+'\n\n'+link('Correspondence/README.md','Письма и уточнения')+'\n\n'+ '\n'.join(rows)+'\n\n'+link('../../README.md','Общая база')+'\n',encoding='utf-8')
 access=read('ACCESS_STATUS.json')
-lines=['# Murdoch: моя учёба','','Faiaz Dzhafarov · student ID 35553299 · время Asia/Dubai (UTC+4).','','Это приватная база: материалы, задания, решения и история сохраняются в GitHub. Для нового чата начните с [AGENTS.md](AGENTS.md). Для другого устройства: [RESTORE.md](RESTORE.md).','','## Сейчас','','| Предмет | Состояние | Следующее действие |','|---|---|---|']
+lines=['# Murdoch: моя учёба','','Faiaz Dzhafarov · student ID 35553299 · время Asia/Dubai (UTC+4).','','Это приватная база: материалы, задания, решения и история сохраняются в GitHub. Для нового чата начните с [AGENTS.md](AGENTS.md). Для другого устройства: [RESTORE.md](RESTORE.md).','','## Сейчас','',]
 for c in COURSES['courses']:
  if c['status']=='учимся':
   state=read(c['path']+'/TASKS.json')
   actions='; '.join(f'{t["id"]}: {t["next_action"]}' for t in state['tasks'] if t.get('show_on_overview'))
-  lines.append(f'| {link(c["path"]+"/README.md",c["code"])} | {c["status"]} | {actions} |')
+  lines += [f'### {link(c["path"]+"/README.md",c["code"])} · {c["status"]}', '']
+  lines += [f'- {t["id"]}: {t["next_action"]}' for t in state['tasks'] if t.get('show_on_overview')]
+  lines += ['']
 lines+=['','Сроки, состояния отдельных работ и их основания доступны в таблицах заданий каждого предмета. Главная страница формируется из основных записей.','','## Завершённые предметы','','| Предмет | Итог по юниту | Период |','|---|---|---|']
 for c in COURSES['courses']:
  if c['status']!='учимся':lines.append(f'| {link(c["path"]+"/README.md",c["code"])} | {c["status"]}: {c["result"]["mark"]} / {c["result"]["grade"]}, {c["result"]["credit_points"]} CP | {c["period"]} |')
