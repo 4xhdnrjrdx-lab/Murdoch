@@ -275,8 +275,8 @@
     },
     {
       "path": "BUS219/2026-TSD/CONTEXT.md",
-      "bytes": 4094,
-      "sha256": "55d8c3cfa7ec90ce5fac5e6dba976850eb36a36c95afdffbda96580a768b6131",
+      "bytes": 4814,
+      "sha256": "148e2cad41a28a76fa100ee094cc49780eb9b40fbadaf56cdf84f439d8c7adb7",
       "storage": "git"
     },
     {
@@ -304,15 +304,21 @@
       "storage": "git"
     },
     {
+      "path": "BUS219/2026-TSD/Correspondence/2026-10-07_quiz1-outline-review.md",
+      "bytes": 2077,
+      "sha256": "4e98274a8a7bd27f0b90f4c6918587446410bc54ea491570a4ec0f312103abb0",
+      "storage": "git"
+    },
+    {
       "path": "BUS219/2026-TSD/Correspondence/README.md",
-      "bytes": 568,
-      "sha256": "bf7809fc9f0ccd3fb96824b60004c0cb33fc9b7db38895051fb924b943bc06d9",
+      "bytes": 711,
+      "sha256": "f85ae0cef4ae12b408fff0d8ef49a7ca6ad9a14a5885872b00cd7673cfae4294",
       "storage": "git"
     },
     {
       "path": "BUS219/2026-TSD/HISTORY.md",
-      "bytes": 1740,
-      "sha256": "5c5b6309e44dec9327c18de651d7364778945ed5ffafe2fae0aa364104c536d4",
+      "bytes": 2118,
+      "sha256": "0c9d70953f4a0a5992e4d2f91c663ff3762e5f6e6df1a2d3889c3f7c1f3a4012",
       "storage": "git"
     },
     {
@@ -647,14 +653,14 @@
     },
     {
       "path": "BUS219/2026-TSD/TASKS.json",
-      "bytes": 7970,
-      "sha256": "d06b7e5dd60e67fa2731efdfa9d63e0198591e031acf412204d2e338e38eedb8",
+      "bytes": 9435,
+      "sha256": "b4b4319392fdfde64ffd9401554c524147eed0b2f3cefa8337773d694687bc78",
       "storage": "git"
     },
     {
       "path": "BUS219/2026-TSD/TASKS.md",
-      "bytes": 5744,
-      "sha256": "8613f44ab42e33ac3439dcf768ecc0ee0e9b609f02c7e680e89af347456b3460",
+      "bytes": 6985,
+      "sha256": "71d8e887b8e6fa237146988e51ec16cf0c0300338cb266cec18fd842a6f2faf8",
       "storage": "git"
     },
     {
@@ -929,8 +935,8 @@
     },
     {
       "path": "BUS225/2026-TSD/CONTEXT.md",
-      "bytes": 4900,
-      "sha256": "29cf68b14ba74bf5446d8d515865cc7371eb119388f4e3743dea114f58b35cd0",
+      "bytes": 5629,
+      "sha256": "b7705773cac83fadeeeae2b2685e3f645bd15b04c9b03d9a5474fbb34cb2df8f",
       "storage": "git"
     },
     {
@@ -976,15 +982,21 @@
       "storage": "git"
     },
     {
+      "path": "BUS225/2026-TSD/Correspondence/2026-10-07_user-keeps-a1-video.md",
+      "bytes": 1067,
+      "sha256": "695792da7f9f073d29dca20d4d8d9acef165f8f19dd5abda5d94bab348a4620f",
+      "storage": "git"
+    },
+    {
       "path": "BUS225/2026-TSD/Correspondence/README.md",
-      "bytes": 598,
-      "sha256": "877317dd7471be7cd0f2e353259e024788e4e24708924b666e04714800ae9609",
+      "bytes": 740,
+      "sha256": "abafff865ee05d4e06067a560295bcbdac8521d6fc0ae8839f57d237c6257f28",
       "storage": "git"
     },
     {
       "path": "BUS225/2026-TSD/HISTORY.md",
-      "bytes": 1943,
-      "sha256": "1d55c5a580bfa45e36f0e35213e67c3c1f86a57d4a31512bedddeff2294b779c",
+      "bytes": 2267,
+      "sha256": "d1ee9f5410b2784bcb44d15d67aadf5805e5f138c2fd2207e12ae4de126488d7",
       "storage": "git"
     },
     {
@@ -1265,14 +1277,14 @@
     },
     {
       "path": "BUS225/2026-TSD/TASKS.json",
-      "bytes": 10963,
-      "sha256": "3cc144d01c40876efdf34a0b021d9a058bd824521270b561dd45953b27feb898",
+      "bytes": 11293,
+      "sha256": "b219a4885116b23280b0e454def755a7b503b3df6dab3e673070206b787210e4",
       "storage": "git"
     },
     {
       "path": "BUS225/2026-TSD/TASKS.md",
-      "bytes": 8139,
-      "sha256": "73121db3a22798aed68059bf3a403788fa27e5535466afbf1affcfa3463912b2",
+      "bytes": 8385,
+      "sha256": "45d9aa3e86c719e2429ea0d026981f2731d5f29e415adfb7c1fff4bdeb3b461c",
       "storage": "git"
     },
     {
@@ -3173,8 +3185,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4712,
-      "sha256": "fe9aef31591eff4ced1b6ad9ee6711c73805b207534c31ec970a267f401cd198",
+      "bytes": 4527,
+      "sha256": "da133774480be659c561e2aed4609e3cfd1831d9ab2caa5de0a80b1f501466bf",
       "storage": "git"
     },
     {
@@ -3244,6 +3256,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 540,
-  "total_bytes": 445814067
+  "file_count": 542,
+  "total_bytes": 445822744
 }

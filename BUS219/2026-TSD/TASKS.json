@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course": "BUS219",
   "period": "2026-TSD",
-  "reviewed_at": "2026-10-07T13:06:22.043074+04:00",
+  "reviewed_at": "2026-10-07T13:39:06.589538+04:00",
   "allowed_states": [
     "предложено",
     "согласовано",
@@ -17,13 +17,19 @@
       "id": "A1",
       "title": "Два онлайн-квиза, суммарно 20%",
       "status": "предложено",
-      "next_action": "Уточнить конфликтующие сроки первого квиза; в текущем LMS портал не показан.",
-      "detail": "Состояние означает планируемую работу; начало и сдача не установлены.",
+      "next_action": "Готовиться к Quiz 1 в Week 10 по расписанию Unit Outline: к концу занятия, 30 минут, open book. Точный час в outline не указан.",
+      "detail": "Два онлайн-квиза с multiple choice, open book, по 30 минут. Для подготовки к Quiz 1 используется Week 10 из §4, что согласуется с сообщением пользователя 7 октября. Начало подготовки, прохождение и сдача не установлены.",
       "deadlines": [
         {
-          "value": "Quiz 1: Week 8 по §5.1/5.2.1; Week 10 по расписанию",
-          "source_label": "Unit Outline",
-          "checked_at": "2026-09-15",
+          "value": "Quiz 1: к концу занятия Week 10; точный час не указан",
+          "source_label": "Unit Outline §4 Unit Schedule; рабочий ориентир подтверждён сообщением пользователя",
+          "checked_at": "2026-10-07",
+          "source_path": "Materials/UnitOutline/00_UNIT_OUTLINE_BUS219_TSD2026.md"
+        },
+        {
+          "value": "Quiz 1: Week 8 — противоречащая запись, сохранена для сверки",
+          "source_label": "Unit Outline §5.1 и §5.2.1",
+          "checked_at": "2026-10-07",
           "source_path": "Materials/UnitOutline/00_UNIT_OUTLINE_BUS219_TSD2026.md"
         },
         {
@@ -45,9 +51,15 @@
           "note": "Повторная проверка почты и Moodle в 13:06 Asia/Dubai: уточнений сроков нет; API не показывает quiz/assign.",
           "path": "Correspondence/2026-10-07_continuation-check.json",
           "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Повторно прочитан outline: §4 Quiz 1 к концу Week 10, §5.2.1 длительность 30 минут. Пользователь также ожидает Week 10; используется как рабочий ориентир, конфликт Week 8 сохранён.",
+          "path": "Correspondence/2026-10-07_quiz1-outline-review.md",
+          "source": ""
         }
       ],
-      "unknown": "Точные даты, часы, прохождение и оценки не проверены.",
+      "unknown": "Точная календарная дата и часы Quiz 1 не указаны в outline; прохождение и оценки неизвестны. Противоречие Week 8/Week 10 официально не исправлено; для подготовки используем Week 10 по §4 и сообщению пользователя.",
       "show_on_overview": true,
       "correction": ""
     },

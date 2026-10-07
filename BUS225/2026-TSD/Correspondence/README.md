@@ -8,3 +8,5 @@
 - [2026-10-01_blueprint_email_verified.md](2026-10-01_blueprint_email_verified.md)
 
 - [Свежая проверка Moodle 7 октября](2026-10-07_lms-check.json)
+
+- [Уточнение пользователя и текущего действия A1, 7 октября](2026-10-07_user-keeps-a1-video.md)
