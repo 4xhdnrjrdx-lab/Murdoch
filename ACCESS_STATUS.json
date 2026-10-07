@@ -2,15 +2,23 @@
   "mail": {
     "checked_at": "2026-10-07 Asia/Dubai",
     "scope": "Gmail forwarded university mail: BUS219, BUS225, BUS230, BUS334, TSD 2026 since 15 September",
-    "result": "Прочитаны подтверждения Turnitin, письма преподавателей и уведомление о расписании экзаменов. WhatsApp и полный университетский Outlook этой проверкой не охвачены."
+    "result": "Прочитаны подтверждения Turnitin, письма преподавателей и уведомление о расписании экзаменов. WhatsApp и полный университетский Outlook этой проверкой не охвачены.",
+    "last_check_by_course": {
+      "BUS225": {
+        "checked_at": "2026-10-07T13:05:58.219332+04:00",
+        "scope": "Gmail forwarded mail: BUS225 / Services Marketing since 20 September; Dana Khoury Eid / BUS225 since 15 September; blueprint email body read",
+        "result": "Latest relevant course email found: 1 October. Full university Outlook and WhatsApp not checked.",
+        "evidence": "BUS225/2026-TSD/Correspondence/2026-10-07_followup-check.md"
+      }
+    }
   },
   "lms": {
-    "checked_at": "2026-10-07T12:22:24.400329+04:00",
+    "checked_at": "2026-10-07T13:04:57.563432+04:00",
     "result": "ok",
-    "operation": "core_webservice_get_site_info and subsequent read-only course checks",
+    "operation": "Latest check: BUS225 read-only contents, assignments, own submission status, grades and news forums; other course timestamps remain in last_success_by_course",
     "last_success_by_course": {
       "BUS219": "2026-10-07T12:22:24.400329+04:00",
-      "BUS225": "2026-10-07T12:22:24.400329+04:00",
+      "BUS225": "2026-10-07T13:04:57.563432+04:00",
       "BUS230": "2026-10-07T12:22:24.400329+04:00",
       "BUS334": "2026-10-07T12:22:24.400329+04:00"
     },
@@ -26,7 +34,7 @@
     },
     "evidence": {
       "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-07_lms-check.json",
-      "BUS225": "BUS225/2026-TSD/Correspondence/2026-10-07_lms-check.json",
+      "BUS225": "BUS225/2026-TSD/Correspondence/2026-10-07_1304_lms-check.json",
       "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-07_lms-check.json",
       "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-07_lms-check.json"
     }
