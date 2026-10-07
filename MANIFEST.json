@@ -1330,6 +1330,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS230/2026-TSD/Assignments/A2/2026-10-07_ADKAR-artifact-verification.json",
+      "bytes": 2037,
+      "sha256": "e3595512afa2a11df1029538bda2274e36cdca5be19ad75da3782464b3b41d4c",
+      "storage": "git"
+    },
+    {
       "path": "BUS230/2026-TSD/Assignments/A2/2026-10-07_ADKAR-decision.md",
       "bytes": 2152,
       "sha256": "99bbadd216a7d057a959386b08d37ea5e755c8ea220ed53b2cc21326a8b14682",
@@ -1457,8 +1463,8 @@
     },
     {
       "path": "BUS230/2026-TSD/HISTORY.md",
-      "bytes": 5944,
-      "sha256": "4798793e81b87aad8b2821fba2fbab613f9697ce6fc0de09670942d5af4d64ec",
+      "bytes": 6494,
+      "sha256": "4cb0b5efcdde43570aa2ddd38fba5907e215823a4183e155f67882dfcfd9e093",
       "storage": "git"
     },
     {
@@ -3328,6 +3334,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 554,
-  "total_bytes": 446404023
+  "file_count": 555,
+  "total_bytes": 446406610
 }

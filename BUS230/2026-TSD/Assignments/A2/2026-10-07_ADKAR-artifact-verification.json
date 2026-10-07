@@ -1,0 +1,46 @@
+{
+  "verified_remote_head": "800395be6c23c7af8707751bdd3b65d5a9d8027e",
+  "scope": "Six new BUS230 ADKAR deliverable/evidence files independently restored from GitHub and compared byte for byte",
+  "files": [
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/A2_ADKAR_TEAM_PLAN_EN.md",
+      "sha256": "137c168ad0ba00a489c4f15628eb7255fdac2c545172752c39aa3dbe5acfa736",
+      "bytes": 41419
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/A2_ADKAR_TEAM_PLAN_EN.docx",
+      "sha256": "2440b3c2145f3704269d89c13c586b6f9c49d88accb7a4e76ce2a5832a53adbb",
+      "bytes": 56626
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/A2_ADKAR_TEAM_PLAN_EN.pdf",
+      "sha256": "15ee7f3e066a6c030dcd073b2049915ec4613065c7b30a405615309986fb9b3b",
+      "bytes": 274628
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/2026-10-07_ADKAR-materials-review.json",
+      "sha256": "1979347129459406f70f3ee2eb89618cba3d56609c0859acdca5456c40697f3a",
+      "bytes": 8985
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/2026-10-07_ADKAR-source-register.json",
+      "sha256": "adda4a35f6ef392dcebea4d2071d81fa02c416d69a5b1adad24ff7cb20db6de3",
+      "bytes": 24460
+    },
+    {
+      "path": "BUS230/2026-TSD/Correspondence/2026-10-07_ADKAR-preparation-check.json",
+      "sha256": "f654f12c09e54611cca30b342040eaf0a22dd8ce586bd540eba902dadd35e8eb",
+      "bytes": 1665
+    }
+  ],
+  "result": "PASS",
+  "checked_at": "2026-10-07T23:09:46.626257+04:00",
+  "artifact_checks": {
+    "pdf_pages": 14,
+    "visual_review": "All 14 rendered pages inspected; no clipping, overlap, blank carryover pages or broken tables",
+    "language": "English verified in Markdown, DOCX and extracted PDF text",
+    "academic_sources": "20 unique DOI entries, five per proposed member",
+    "previous_versions": "A2_TEAM_PLAN.md, A2_TEAM_PLAN_EN.md and A2_TEAM_PLAN_EN.pdf byte-identical to pre-task main",
+    "source_scope": "Full Hiatt book and all academic full texts not read; exact access scope remains in source register"
+  }
+}
