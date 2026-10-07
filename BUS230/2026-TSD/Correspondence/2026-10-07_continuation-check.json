@@ -1,0 +1,151 @@
+{
+  "checked_at": "2026-10-07T13:05:17.617533+04:00",
+  "course": "BUS230",
+  "operations": [
+    "core_webservice_get_site_info",
+    "core_course_get_contents",
+    "mod_assign_get_assignments",
+    "mod_assign_get_submission_status",
+    "mod_assign_get_submission_status",
+    "core_group_get_course_user_groups",
+    "gradereport_user_get_grade_items",
+    "mod_forum_get_forums_by_courses",
+    "mod_forum_get_forum_discussions"
+  ],
+  "account_matches": true,
+  "assessment_modules": [
+    {
+      "name": "Class 1 Team Sign-up Shahinda Baig - Friday Class",
+      "modname": "groupselect",
+      "instance": 9515,
+      "dates": []
+    },
+    {
+      "name": "Class 2 Team Sign-up 2 Shahinda Baig - Wednesday class",
+      "modname": "groupselect",
+      "instance": 9516,
+      "dates": []
+    },
+    {
+      "name": "Class 3 Team Sign-up Harshini Esther",
+      "modname": "groupselect",
+      "instance": 9517,
+      "dates": []
+    },
+    {
+      "name": "Assignment 2 peer assessment - Harshini Esther",
+      "modname": "peerwork",
+      "instance": 370,
+      "dates": [
+        {
+          "label": "Due: ",
+          "timestamp": 1794671940
+        }
+      ]
+    },
+    {
+      "name": "Assignment 2 peer assessment - Friday Class Shahinda Baig",
+      "modname": "peerwork",
+      "instance": 371,
+      "dates": [
+        {
+          "label": "Opened: ",
+          "timestamp": 1788191940
+        },
+        {
+          "label": "Due: ",
+          "timestamp": 1794671940
+        }
+      ]
+    },
+    {
+      "name": "Assignment 2 peer assessment - Wednesday Class Shahinda Baig",
+      "modname": "peerwork",
+      "instance": 372,
+      "dates": [
+        {
+          "label": "Due: ",
+          "timestamp": 1796140740
+        }
+      ]
+    },
+    {
+      "name": "Assessment 2: Presentation Material (Group) Submission Portal",
+      "modname": "assign",
+      "instance": 124983,
+      "dates": [
+        {
+          "label": "Due:",
+          "timestamp": 1793980740,
+          "dataid": "duedate"
+        }
+      ]
+    },
+    {
+      "name": "Assessment 1: Essay (Individual) Submission Portal",
+      "modname": "assign",
+      "instance": 124982,
+      "dates": [
+        {
+          "label": "Opened:",
+          "timestamp": 1788105660,
+          "dataid": "allowsubmissionsfromdate"
+        },
+        {
+          "label": "Due:",
+          "timestamp": 1789747140,
+          "dataid": "duedate"
+        }
+      ]
+    }
+  ],
+  "assignments": [
+    {
+      "id": 124983,
+      "name": "Assessment 2: Presentation Material (Group) Submission Portal",
+      "due_at_dubai": "2026-11-06T19:59:00+04:00",
+      "submission_status": null,
+      "grading_status": "notgraded",
+      "modified_at_dubai": null,
+      "team_status": "new",
+      "grade": null
+    },
+    {
+      "id": 124982,
+      "name": "Assessment 1: Essay (Individual) Submission Portal",
+      "due_at_dubai": "2026-09-18T19:59:00+04:00",
+      "submission_status": "submitted",
+      "grading_status": "graded",
+      "modified_at_dubai": "2026-09-17T18:08:19+04:00",
+      "team_status": null,
+      "grade": null
+    }
+  ],
+  "groups": [
+    {
+      "id": 327107,
+      "name": "BUS230 Class 2"
+    },
+    {
+      "id": 327929,
+      "name": "Class 2 Group 4"
+    },
+    {
+      "id": 318325,
+      "name": "SIS: BUS230_ATTD_DUBAI-ISC_FACE TO FACE"
+    }
+  ],
+  "grades": [],
+  "announcements": [],
+  "result": "ok",
+  "mail": {
+    "checked_at": "2026-10-07T13:06:22.896677+04:00",
+    "scope": "Пересланная университетская почта в Gmail; поиск BUS230 / Change Management с 1 сентября 2026",
+    "result": "Три письма; новых после квитанции Turnitin 5 октября не найдено. Квитанция прочитана повторно, не является отдельным подтверждением финальной сдачи.",
+    "latest_message_id": "1a10c54862e30ef9",
+    "uncovered": [
+      "Полный университетский Outlook",
+      "WhatsApp"
+    ]
+  }
+}
