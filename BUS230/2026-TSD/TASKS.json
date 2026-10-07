@@ -106,18 +106,31 @@
       "id": "A3",
       "title": "Final Exam, 30%",
       "status": "предложено",
-      "next_action": "Проверить расписание Trimester S, 2026 и Dubai ISC.",
-      "detail": "Точная дата не проверена.",
-      "deadlines": [],
+      "next_action": "Подготовиться к экзамену; ближе к дате проверить аудиторию и обновления.",
+      "detail": "Дата и время подтверждены официальным расписанием и правилом местного времени Dubai ISC. Допустимые материалы сохранены в источнике.",
+      "deadlines": [
+        {
+          "value": "2026-11-21 13:30 Asia/Dubai, Dubai ISC",
+          "source_label": "официальное расписание Trimester S, 2026",
+          "checked_at": "2026-10-07",
+          "source_path": "../../Archive/Correspondence/2026-10-07_exam-timetable.md"
+        }
+      ],
       "evidence": [
         {
           "date": "2026-09-30",
           "note": "Уведомление об экзаменах.",
           "path": "../../Archive/Correspondence/2026-09-30_final-exam.md",
           "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Строка Dubai ISC, допустимые материалы и правило местного времени TNE проверены на официальном сайте.",
+          "path": "../../Archive/Correspondence/2026-10-07_exam-timetable.md",
+          "source": ""
         }
       ],
-      "unknown": "Дата, время и аудитория.",
+      "unknown": "Номер аудитории и возможные поздние изменения.",
       "show_on_overview": false,
       "correction": ""
     }

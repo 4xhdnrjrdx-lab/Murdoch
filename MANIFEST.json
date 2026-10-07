@@ -58,6 +58,12 @@
       "storage": "git"
     },
     {
+      "path": "Archive/Correspondence/2026-10-07_exam-timetable.md",
+      "bytes": 2278,
+      "sha256": "48a90a0f52a812b616d4c2f3407c0eafc9ae983eebe93c7bff5388e4d6a7bec3",
+      "storage": "git"
+    },
+    {
       "path": "Archive/LegacyNotes/CLAUDE.md",
       "bytes": 2368,
       "sha256": "36d702f3f3aaee716d24c3b16b29322a8e03d24fe9b3b572ae5b39f6dac4a53d",
@@ -251,8 +257,8 @@
     },
     {
       "path": "BUS219/2026-TSD/CONTEXT.md",
-      "bytes": 2887,
-      "sha256": "0a4a102034ed955ede85575852b1a42e774480895c2b0a8216356ed5e4d718ae",
+      "bytes": 3263,
+      "sha256": "b495c73d6373483c08867a999a061d133105431175bad8a19b94be0b47c5cf6f",
       "storage": "git"
     },
     {
@@ -275,8 +281,8 @@
     },
     {
       "path": "BUS219/2026-TSD/HISTORY.md",
-      "bytes": 1107,
-      "sha256": "c7453a309dfea7522778a719e202f4ce7cb2568d3e464dbc08846c15046cc6b8",
+      "bytes": 1234,
+      "sha256": "10be79c86ae793502dd3ab0aa26326a73fcbf9e60052cd3d6b1e7158967b57d5",
       "storage": "git"
     },
     {
@@ -611,14 +617,14 @@
     },
     {
       "path": "BUS219/2026-TSD/TASKS.json",
-      "bytes": 6380,
-      "sha256": "545229fe5b916bfd23719ecc2faea5d35bb6b2edf428aa24297c52430e630dd6",
+      "bytes": 7249,
+      "sha256": "bde84e0b9926d6343a66039bef8ea4ef3a94478bc5404fa003053205b58b8265",
       "storage": "git"
     },
     {
       "path": "BUS219/2026-TSD/TASKS.md",
-      "bytes": 4601,
-      "sha256": "cf10d5aa90f4bad75ebde302a5d70d76b34f947e6b3a402f6d71a3f11da52d6d",
+      "bytes": 5211,
+      "sha256": "b17f964cae70edd40eef992e18f6419860b46be204f03d777350ebacf20fe34a",
       "storage": "git"
     },
     {
@@ -887,8 +893,8 @@
     },
     {
       "path": "BUS225/2026-TSD/CONTEXT.md",
-      "bytes": 3895,
-      "sha256": "c6e8be3fa703f6b074c1d8d1f7356cef249b56d5bd8b4688e647b9fa6f7673f4",
+      "bytes": 4230,
+      "sha256": "1f2077fbb0aa5b22075b0449c5f3b5ffef2a7b2401002e145cbc5f0cc642250d",
       "storage": "git"
     },
     {
@@ -923,8 +929,8 @@
     },
     {
       "path": "BUS225/2026-TSD/HISTORY.md",
-      "bytes": 1245,
-      "sha256": "4747da4954a4315d05560039a6b0ecf0d3240972094735ea56d3aaefed7e9724",
+      "bytes": 1372,
+      "sha256": "b4068c0effa11605227a64617c6346c73c09718bbde66e43465ec187f5422307",
       "storage": "git"
     },
     {
@@ -1205,14 +1211,14 @@
     },
     {
       "path": "BUS225/2026-TSD/TASKS.json",
-      "bytes": 6950,
-      "sha256": "d55f3286b5d32e2f93ded4c55ceca650a51515c545663e5ca7212b3f705f29e8",
+      "bytes": 7870,
+      "sha256": "25c5bbdd93462f1c3cae6d27ebdb2c80e370d2ab92dc54c9a64b6759a38c4f72",
       "storage": "git"
     },
     {
       "path": "BUS225/2026-TSD/TASKS.md",
-      "bytes": 5091,
-      "sha256": "29812f8155a53cc34357d50cc5f51e034a9d71605ed4626870f5b61f0c4bc5ee",
+      "bytes": 5752,
+      "sha256": "7cf7d7d227c5ff7ab6964e93f0ae8f2cb6fc77b5b4b779d169c122c14f27dbb4",
       "storage": "git"
     },
     {
@@ -1283,8 +1289,8 @@
     },
     {
       "path": "BUS230/2026-TSD/CONTEXT.md",
-      "bytes": 3368,
-      "sha256": "0e376ee7944eedb373a8f95a8c07689873031f349f8128b07d8f55aced6923f5",
+      "bytes": 3706,
+      "sha256": "5d162b3c4a6f558a2d041532ac6d782bcc61e862db6281ed3caf2002274160af",
       "storage": "git"
     },
     {
@@ -1301,8 +1307,8 @@
     },
     {
       "path": "BUS230/2026-TSD/HISTORY.md",
-      "bytes": 1061,
-      "sha256": "a796b7dabea3804a02514345198175d9938c8dbef810de8f62ade0d0b50cae12",
+      "bytes": 1188,
+      "sha256": "478d3d71bb83466cb117ad816337cc3bbc70f25e6b8f52213ccb90eac6e8ae5e",
       "storage": "git"
     },
     {
@@ -1649,14 +1655,14 @@
     },
     {
       "path": "BUS230/2026-TSD/TASKS.json",
-      "bytes": 5452,
-      "sha256": "f5b8a0978617466751e4efe263f6abbb159d42a78c679101d0d32e90a267b2c4",
+      "bytes": 6404,
+      "sha256": "1def1f274f0adafeb5580ae5bfe9576b0db1b2fe54b04e58dcd79c8315e9a9ad",
       "storage": "git"
     },
     {
       "path": "BUS230/2026-TSD/TASKS.md",
-      "bytes": 4203,
-      "sha256": "c439d8504162cbe64e650be88e67dc3b1f23cd32ff5a2ce42318e3f4b150f05f",
+      "bytes": 4896,
+      "sha256": "edc1b981e96ab981a38cf2250cad076012d3516a06b041d7bd789178845fbd96",
       "storage": "git"
     },
     {
@@ -3011,8 +3017,8 @@
     },
     {
       "path": "Migration/GAPS.md",
-      "bytes": 5113,
-      "sha256": "78ecaef90ff3254867f8ce4124431d4bdb4370cd473ec3e7d6a6e04f2399e571",
+      "bytes": 5175,
+      "sha256": "c76c9ef5b17b569417a09947f2391a3deba90627de442636745d66e3d39b4813",
       "storage": "git"
     },
     {
@@ -3082,6 +3088,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 513,
-  "total_bytes": 205212179
+  "file_count": 514,
+  "total_bytes": 205220654
 }
