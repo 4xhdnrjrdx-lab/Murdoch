@@ -1,0 +1,165 @@
+{
+  "checked_at": "2026-10-07",
+  "scope": "ADKAR baseline, course fit, four bounded limitations, English team allocation and source shortlist",
+  "course_materials": [
+    {
+      "path": "BUS230/2026-TSD/Materials/README.md",
+      "sha256": "a27742871b5bd52d327f32b8810c9138638aacab8a571dab5c0e2753da85242f",
+      "scope": "Full local Unit Outline"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/09 Session 4 - Political System/BUS230 Topic 4 Workshop Slides.pptx",
+      "sha256": "e0edbece2663d960464f08ed94653a00d399fec0aef3d94eb88818929d000a4e",
+      "scope": "Relevant text and slide numbers; SmartArt text read for Topics 2, 3, 7, 8"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/09 Session 4 - Political System/Podcast 4 Transcript.pdf",
+      "sha256": "89d6c1a467d89f95a001f547b37f832494374be03940682b2ab0c53af6145e00",
+      "scope": "Full transcript"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/09 Session 4 - Political System/BUS230 Topic 4 Podcast Slides.pptx",
+      "sha256": "f28ae108408d65564d10595f36cbdcb18c9a7d9ac936746e80de1b3150216958",
+      "scope": "Relevant text and slide numbers; SmartArt text read for Topics 2, 3, 7, 8"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/20 Assessment Two/BUS230 Ass 2 marking rubric.docx",
+      "sha256": "b2ed27e751de8694890e740e04349a9497d4ac6978d9d5d75dc86d727e159eb2",
+      "scope": "Full eleven-criterion rubric"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/11 Session 6 - Technical System/BUS230 Topic 6 Workshop Slides.pptx",
+      "sha256": "1607bf2af2698bbb654e79f82fee06a48ef8e9d590bcc281a1d2c73d1a4ee106",
+      "scope": "Relevant text and slide numbers; SmartArt text read for Topics 2, 3, 7, 8"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/11 Session 6 - Technical System/BUS230 Topic 6 Podcast Transcript.pdf",
+      "sha256": "ea932025f7f1df47360c86a47e6c886793c85ee984c90f43b249f5b0d54b227f",
+      "scope": "Full transcript"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/11 Session 6 - Technical System/BUS230 Topic 6 Podcast Slides.pptx",
+      "sha256": "9db1204364159cd518b7bd670452f53bc85f894ecaff0dadaba3566eb7dd066e",
+      "scope": "Relevant text and slide numbers; SmartArt text read for Topics 2, 3, 7, 8"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/12 Session 7 - Models and Theory/BUS230 Podcast 7 Transcript.pdf",
+      "sha256": "771751876b28e8e3eeb2982afeb23c3073fb86607afb3b60a8a958f040203cae",
+      "scope": "Full transcript"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/12 Session 7 - Models and Theory/BUS230 Topic 7 Workshop Slides.pptx",
+      "sha256": "37ebbf7677a31ace10a0e65788f209501c36666ee9e8f08d2e5f941eb6068279",
+      "scope": "Relevant text and slide numbers; SmartArt text read for Topics 2, 3, 7, 8"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/12 Session 7 - Models and Theory/BUS230 Topic 7 Podcast Slides.pptx",
+      "sha256": "ebf851608a0a4373dff8f7b2b6286ecc7c30f4ed345b65c8fa4b4e6c77ee4cc2",
+      "scope": "Relevant text and slide numbers; SmartArt text read for Topics 2, 3, 7, 8"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/13 Session 8 - Communicating Change/BUS230 Topic 8 Lecture Podcast.pdf",
+      "sha256": "c6502371f8c00e1077bff396d7e4eccb4b69cfa80714524ad97338e8f0607b9e",
+      "scope": "Full transcript"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/13 Session 8 - Communicating Change/BUS230 Topic 8 Podcast Slides.pptx",
+      "sha256": "c166d3279fe99c17780edbe35c45a0a26b808d8d9659e5995883ba87c0819bf5",
+      "scope": "Relevant text and slide numbers; SmartArt text read for Topics 2, 3, 7, 8"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/13 Session 8 - Communicating Change/BUS230 Topic 8 Workshop Slides.pptx",
+      "sha256": "42ddea6b6f762b0fb27b5a836c60604e6dc95d37176a93fec900f36f62a64154",
+      "scope": "Relevant text and slide numbers; SmartArt text read for Topics 2, 3, 7, 8"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/06 Session 1 - Drivers of Change/BUS230 Topic 1 Case Studies.pdf",
+      "sha256": "02c3c8b7081f7528366c9f1870aacf5c1dc87e5ed662bc8137724fc6a8ecd8da",
+      "scope": "Full transcript"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/06 Session 1 - Drivers of Change/BUS230 Topic 1 Workshop Slides.pptx",
+      "sha256": "d6538f71a6ce157fd414507d4a59a4a9c8325fddf1349ea6ae7b130ea0238fb8",
+      "scope": "Relevant text and slide numbers; SmartArt text read for Topics 2, 3, 7, 8"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/06 Session 1 - Drivers of Change/BUS230 Lecture Podcast Topic 1.pptx",
+      "sha256": "fb2fa41d8faf34682b4b24e23c47ccc505a3e550272e14cecb9a0095661f181a",
+      "scope": "Relevant text and slide numbers; SmartArt text read for Topics 2, 3, 7, 8"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/06 Session 1 - Drivers of Change/BUS230 Topic 1 Podcast Transcript.pdf",
+      "sha256": "e8448fce5cd5aeac278d16a4b333f20b5d9e0846dc6a2f71c165d5ee2ad152fe",
+      "scope": "Full transcript"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/10 Session 5 - Cultural System/BUS230 Topic 5 Workshop Slides.pptx",
+      "sha256": "52daa3faf9a461d8124c4fe4844239dcf2d0b933238ef171aab84d99f568c77a",
+      "scope": "Relevant text and slide numbers; SmartArt text read for Topics 2, 3, 7, 8"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/10 Session 5 - Cultural System/BUS230 Topic 5 Podcast Transcript.pdf",
+      "sha256": "547daa55db7468d6f75d25d30c3e1db502f0e5e74cc496a8740e23ba9a17bb85",
+      "scope": "Full transcript"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/10 Session 5 - Cultural System/BUS230 Topic 5 Podcast Slides.pptx",
+      "sha256": "d6bae30a3ecc403fcdf2adb4086476ecd0da1e3c357ed9479bf831faa7de50de",
+      "scope": "Relevant text and slide numbers; SmartArt text read for Topics 2, 3, 7, 8"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/07 Session 2 - Change Actors/Topic 2 Podcast Transcript.pdf",
+      "sha256": "2f9b08c1cc5190da22238fd85cd2260c1d03991041748553b0b2069971c3a7b9",
+      "scope": "Full transcript"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/07 Session 2 - Change Actors/BUS230 Topic 2 Podcast Slides.pptx",
+      "sha256": "ee7874cb41164638fd1cdaa9d88c2e5ca07ad050b02156509f5ecff4f4abf5cf",
+      "scope": "Relevant text and slide numbers; SmartArt text read for Topics 2, 3, 7, 8"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/07 Session 2 - Change Actors/BUS230 Topic 2 Workshop Slides.pptx",
+      "sha256": "61eddcb140ee542a4196305122719efae32c0ba2f53e109e785899d9994c9b6f",
+      "scope": "Relevant text and slide numbers; SmartArt text read for Topics 2, 3, 7, 8"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/08 Session 3 - Resistance to Change/BUS230 Topic 3 Workshop Slides.pptx",
+      "sha256": "0da7d826180a37042dbf7cc460e16175a91651f92905956639c74464935226b6",
+      "scope": "Relevant text and slide numbers; SmartArt text read for Topics 2, 3, 7, 8"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/08 Session 3 - Resistance to Change/Podcast 3 Transcript.pdf",
+      "sha256": "f6a02abd21dbaf88ca84f0dea15649ebab0d92a0fa251dee01894b28f9d9f269",
+      "scope": "Full transcript"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/08 Session 3 - Resistance to Change/BUS230 Topic 3 Podcast Slides.pptx",
+      "sha256": "2abb875600a90cc971386fd3f7e5ce7c58db533a3ff767c110a8a700167dde1e",
+      "scope": "Relevant text and slide numbers; SmartArt text read for Topics 2, 3, 7, 8"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/UnitOutline/00_UNIT_OUTLINE_BUS230_TSD2026.md",
+      "sha256": "33cbb7413561f3801869e27a921b00b9096877c1fe2f9284c167f96ddbd00419",
+      "scope": "Full local Unit Outline"
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/14 Sessions 9 - Embedding/Engaging Toolkit/List of Tools, Models, and Frameworks.pdf",
+      "sha256": "3d1edb5d9f1464b8a0889b121d80555d66ce185354640c4b839447e22ccdc326",
+      "scope": "Full toolkit list"
+    }
+  ],
+  "videos": "Not watched in this task; local transcripts used",
+  "external_source_boundary": "Hiatt 2006 full book not read. No empirical test of proposed adaptation, staff survey or team consent claimed.",
+  "key_course_links": {
+    "Topic 2": "Actors, active co-producers and readiness; podcast slides 2-6, transcript pp. 1-4",
+    "Topic 3": "Resistance can be constructive and multidimensional; slides 2, 8-12, transcript pp. 1-4",
+    "Topic 7": "ADKAR as checklist; local judgement; process and contingency; slides 3, 7-11, transcript pp. 1-7",
+    "Topic 8": "Dialogue and communication continuum; slides 2-8, transcript pp. 1-5"
+  },
+  "limitations_mapping": {
+    "L1": "Joint conditions with owner and prerequisite",
+    "L2": "Reasoned sponsor response to design concern",
+    "L3": "Cross-role dependency routing alongside personal prerequisites",
+    "L4": "Disagreement between report, performance and conditions leads to not yet verified"
+  }
+}

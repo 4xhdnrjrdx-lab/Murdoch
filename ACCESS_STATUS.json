@@ -1,8 +1,8 @@
 {
   "mail": {
-    "checked_at": "2026-10-07T13:31:59.360199+04:00",
-    "scope": "Gmail forwarded university mail since 15 September 2026; four course keyword searches and Ashok Mitra sender search",
-    "result": "Повторно проверены пересланные письма по четырём предметам; новых уточнений сроков нет. Полный университетский Outlook и WhatsApp не охвачены.",
+    "checked_at": "2026-10-07T22:48:17+04:00",
+    "scope": "Latest check: forwarded BUS230 university mail in Gmail after 1 October; other course check records retained",
+    "result": "BUS230: новых уточнений A2 не найдено; последнее письмо в охвате — receipt A1 от 5 октября. Полный Outlook и WhatsApp не проверены.",
     "last_check_by_course": {
       "BUS219": {
         "checked_at": "2026-10-07T13:31:59.360199+04:00",
@@ -15,14 +15,14 @@
         "evidence": "Archive/Correspondence/2026-10-07_general-study-check.json"
       },
       "BUS230": {
-        "checked_at": "2026-10-07T13:31:59.360199+04:00",
-        "scope": "after:2026/09/15 (BUS230 OR \"Change Management\")",
-        "result": "Последняя найденная квитанция Turnitin от 5 октября повторно прочитана; она подтверждает similarity checking, не новую финальную сдачу.",
+        "checked_at": "2026-10-07T22:48:17+04:00",
+        "scope": "Gmail forwarded university mail; after 1 October: BUS230, Change Management or Shahinda",
+        "result": "Only the 5 October BUS230 A1 Turnitin receipt found; no new A2 deadline or group presentation message found in this scope",
         "uncovered": [
-          "Полный университетский Outlook",
+          "Full university Outlook",
           "WhatsApp"
         ],
-        "evidence": "Archive/Correspondence/2026-10-07_general-study-check.json"
+        "evidence": "BUS230/2026-TSD/Correspondence/2026-10-07_ADKAR-preparation-check.json"
       },
       "BUS225": {
         "checked_at": "2026-10-07T13:31:59.360199+04:00",
@@ -53,13 +53,13 @@
     }
   },
   "lms": {
-    "checked_at": "2026-10-07T13:30:44.542102+04:00",
+    "checked_at": "2026-10-07T22:30:30.833591+04:00",
     "result": "ok",
-    "operation": "General study overview: read-only course contents, assignments, own submission status, quizzes, grade items and news forums for all four current courses",
+    "operation": "Latest check: BUS230 A2 portal, own group and course news, read only; other course check records retained",
     "last_success_by_course": {
       "BUS219": "2026-10-07T13:30:37.197860+04:00",
       "BUS225": "2026-10-07T13:30:42.457759+04:00",
-      "BUS230": "2026-10-07T13:30:40.735087+04:00",
+      "BUS230": "2026-10-07T22:30:30.833591+04:00",
       "BUS334": "2026-10-07T13:30:44.542102+04:00"
     },
     "token_expiry": "unknown",
@@ -75,7 +75,7 @@
     "evidence": {
       "BUS219": "Archive/Correspondence/2026-10-07_general-study-check.json",
       "BUS225": "Archive/Correspondence/2026-10-07_general-study-check.json",
-      "BUS230": "Archive/Correspondence/2026-10-07_general-study-check.json",
+      "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-07_ADKAR-preparation-check.json",
       "BUS334": "Archive/Correspondence/2026-10-07_general-study-check.json"
     }
   },

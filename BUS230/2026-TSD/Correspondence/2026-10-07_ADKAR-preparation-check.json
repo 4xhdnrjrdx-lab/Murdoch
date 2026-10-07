@@ -1,0 +1,62 @@
+{
+  "checked_at": "2026-10-07T22:30:30.833591+04:00",
+  "course": "BUS230",
+  "scope": "Read-only A2 portal, own group membership, course contents and announcements",
+  "operations": [
+    "core_webservice_get_site_info",
+    "core_course_get_contents",
+    "mod_assign_get_assignments",
+    "mod_assign_get_submission_status",
+    "core_group_get_course_user_groups",
+    "mod_forum_get_forums_by_courses",
+    "mod_forum_get_forum_discussions"
+  ],
+  "account_matches": true,
+  "assessment_modules": [
+    {
+      "name": "Assessment 2: Presentation Material (Group) Submission Portal",
+      "modname": "assign",
+      "instance": 124983,
+      "dates": [
+        {
+          "label": "Due:",
+          "timestamp": 1793980740,
+          "dataid": "duedate"
+        }
+      ]
+    }
+  ],
+  "a2": {
+    "id": 124983,
+    "due_timestamp": 1793980740,
+    "due_at_dubai": "2026-11-06T19:59:00+04:00",
+    "cutoff_at_dubai": null,
+    "team_submission_status": "new",
+    "grading_status": "notgraded"
+  },
+  "groups": [
+    {
+      "id": 327107,
+      "name": "BUS230 Class 2"
+    },
+    {
+      "id": 327929,
+      "name": "Class 2 Group 4"
+    },
+    {
+      "id": 318325,
+      "name": "SIS: BUS230_ATTD_DUBAI-ISC_FACE TO FACE"
+    }
+  ],
+  "announcements": [],
+  "result": "ok",
+  "mail": {
+    "checked_at": "2026-10-07T22:48:17+04:00",
+    "scope": "Gmail forwarded university mail; after 1 October: BUS230, Change Management or Shahinda",
+    "result": "Only the 5 October BUS230 A1 Turnitin receipt found; no new A2 deadline or group presentation message found in this scope",
+    "uncovered": [
+      "Full university Outlook",
+      "WhatsApp"
+    ]
+  }
+}
