@@ -19,6 +19,8 @@
 
 - 2026-09-15: Outline содержит конфликт недель Quiz 1. [Источник](Materials/UnitOutline/00_UNIT_OUTLINE_BUS219_TSD2026.md)
 
+- 2026-10-07: Повторная проверка почты и Moodle в 13:06 Asia/Dubai: уточнений сроков нет; API не показывает quiz/assign. [Источник](Correspondence/2026-10-07_continuation-check.json)
+
 **Неизвестно:** Точные даты, часы, прохождение и оценки не проверены.
 
 ## POSTER
@@ -42,6 +44,8 @@
 - 2026-09-29: Роль Faiaz: Jordan; распределение пяти участников. [Источник](Correspondence/2026-09-29_chat-evidence.md)
 
 - 2026-09-15: Объём и критерии отчёта. [Источник](Materials/UnitOutline/00_UNIT_OUTLINE_BUS219_TSD2026.md)
+
+- 2026-10-07: Повторная проверка почты и Moodle в 13:06 Asia/Dubai: уточнений сроков нет; API не показывает quiz/assign. [Источник](Correspondence/2026-10-07_continuation-check.json)
 
 **Неизвестно:** Противоречие сроков не разрешено; время и финальный загрузчик неизвестны.
 
