@@ -1354,9 +1354,15 @@
       "storage": "git"
     },
     {
+      "path": "BUS230/2026-TSD/Assignments/A2/A2_TOOL_OPTIONS_EN.md",
+      "bytes": 7697,
+      "sha256": "bdeacdf359afdf399ffd2391b2dbde415e09dddce20ffa9d7cf832c5c97ffdad",
+      "storage": "git"
+    },
+    {
       "path": "BUS230/2026-TSD/Assignments/A2/README.md",
-      "bytes": 885,
-      "sha256": "57fa90207fa2ce463984e72e2b25c68b1102f56fd33c7299c953188c8aa96bef",
+      "bytes": 1067,
+      "sha256": "840c7240cc7ec9e135e8db43137e7a9ec03bb963509af846b16aaa5045854a25",
       "storage": "git"
     },
     {
@@ -1409,8 +1415,8 @@
     },
     {
       "path": "BUS230/2026-TSD/HISTORY.md",
-      "bytes": 3400,
-      "sha256": "48e741057e08b1cfb6000dba801c0c3efce93c391cddf0bfd2da2fb62de3580f",
+      "bytes": 3992,
+      "sha256": "da7f9c710e833a41449828d7c7866b69c48928cd17ac556992d636c9f8f8f845",
       "storage": "git"
     },
     {
@@ -3280,6 +3286,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 546,
-  "total_bytes": 445975116
+  "file_count": 547,
+  "total_bytes": 445983587
 }
