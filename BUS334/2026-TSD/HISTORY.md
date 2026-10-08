@@ -13,3 +13,5 @@
 - 2026-10-07: повторно проверены Moodle и пересланная университетская почта Gmail. A2 15/20, A3 до 25 октября 19:59 Dubai, A4 без точной даты; новых news announcements нет. Источник: [проверка LMS](Correspondence/2026-10-07_followup-lms-check.json). Полный Outlook и WhatsApp не охвачены.
 
 - 2026-10-08: по просьбе пользователя прочитано письмо Ashok Mitra «BUS 334 : Final Groups for Subsequent Assignments» (11:00:56 Dubai). Group 1 прежняя: Faiaz, Nikita, Khushal, Vishal, Irzakov; новых требований и сроков в письме нет. Повторная проверка LMS подтверждает прежний срок A3, A2 15/20 и отсутствие due A4; news announcements нет. Источники: [письмо](Correspondence/2026-10-08_final-groups.md), [Moodle](Correspondence/2026-10-08_lms-check.json).
+
+- 2026-10-08: по просьбе пользователя найдены университетские почты Nikita, Khushal, Vishal и Aliaskar Irzakov в списке получателей письма преподавателя. Подготовлен [текст запроса WhatsApp-номеров](Correspondence/2026-10-08_whatsapp-group-email-draft.md) для самостоятельной отправки через Outlook; письмо не отправлялось.

@@ -2512,15 +2512,21 @@
       "storage": "git"
     },
     {
+      "path": "BUS334/2026-TSD/Correspondence/2026-10-08_whatsapp-group-email-draft.md",
+      "bytes": 1437,
+      "sha256": "23e96575e27ecbc1fd5666b77d419bc30eff27cae181b54b3380bdbaf9959977",
+      "storage": "git"
+    },
+    {
       "path": "BUS334/2026-TSD/Correspondence/README.md",
-      "bytes": 796,
-      "sha256": "1f935c0aae9b16d19b695b4e5aae6f822592066ffeb95952d576c6876431bced",
+      "bytes": 910,
+      "sha256": "f64d24b6731400d5fce473e3bd03dad1bd17d0c1f28e64c81209f94a019f982a",
       "storage": "git"
     },
     {
       "path": "BUS334/2026-TSD/HISTORY.md",
-      "bytes": 2707,
-      "sha256": "1919ec4794e6d1a603ed9a33bbcf13bde60e5abf761b1aafbef90964ac1d9f9f",
+      "bytes": 3199,
+      "sha256": "f267429b4740b4d0ee3d77bb07fff9c38d502352c06336ddfe56ef507c5ae6e8",
       "storage": "git"
     },
     {
@@ -2813,8 +2819,8 @@
     },
     {
       "path": "BUS334/2026-TSD/TEAM.md",
-      "bytes": 2057,
-      "sha256": "4f9a02e2e6b85e11a06c8a5514aa041a47e0a9ff5b630a1ae84cfddb835c15ec",
+      "bytes": 2627,
+      "sha256": "57f36fb926eb2c712b9922623f94484f6a686189a09a82aed927b1c5026af9f0",
       "storage": "git"
     },
     {
@@ -3346,6 +3352,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 557,
-  "total_bytes": 446419839
+  "file_count": 558,
+  "total_bytes": 446422452
 }
