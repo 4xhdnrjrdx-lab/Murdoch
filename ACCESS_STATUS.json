@@ -55,8 +55,8 @@
       "preferred_account": "jafarovfayaz@gmail.com",
       "preference_source": "Прямое сообщение пользователя 8 октября 2026: основная почта fayaz201499@gmail.com; для учёбы подключить jafarovfayaz@gmail.com",
       "last_verified_connected_account": "fayaz201499@gmail.com",
-      "profile_verified_at": "2026-10-08T16:57:50.490839+04:00",
-      "switch_status": "pending_user_google_connection",
+      "profile_verified_at": "2026-10-08T17:09:04.826806+04:00",
+      "switch_status": "target_connected_in_ui_tool_routing_unverified",
       "personal_account_for_study_checks": "do_not_use",
       "forwarding_observation": {
         "observed_at": "2026-10-08",
@@ -66,7 +66,21 @@
         "displayed_keep_copy": true,
         "actual_delivery_to_preferred_account": "not_verified"
       },
-      "evidence": "Access/Mail/README.md"
+      "evidence": "Access/Mail/README.md",
+      "connected_accounts_observation": {
+        "source": "User screenshot 2026-10-08 17:07 Dubai: Gmail connected accounts",
+        "accounts": [
+          {
+            "email": "fayaz201499@gmail.com",
+            "label": "Primary"
+          },
+          {
+            "email": "jafarovfayaz@gmail.com",
+            "label": "Учёба"
+          }
+        ]
+      },
+      "note": "Учебный аккаунт уже подключён, что видно в настройках. Повторное подключение не требуется. Доступный get_profile возвращает основной аккаунт; выбор учебного аккаунта через инструменты этой сессии не подтверждён. Не читать основную почту и не требовать её отключения."
     }
   },
   "lms": {
