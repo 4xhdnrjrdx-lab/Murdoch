@@ -1,0 +1,201 @@
+{
+  "checked_at": "2026-10-08T17:17:16.679157+04:00",
+  "course_id": 31274,
+  "operations": "read-only course contents, assignments, own submission status, grades, own groups and news forums",
+  "assignments": [
+    {
+      "id": 124857,
+      "name": "Assignment 4 Supporting materials submission: Data Analysis &amp; Presentation (40%)",
+      "due_at_dubai": null,
+      "cutoff_at_dubai": null,
+      "teamsubmission": 1,
+      "max_grade": 40,
+      "submission_status": null,
+      "grading_status": "notgraded",
+      "modified_at_dubai": null,
+      "team_status": "new",
+      "team_group_id": 0,
+      "files": [],
+      "grade": null
+    },
+    {
+      "id": 124858,
+      "name": "Peer Evaluation Form Submission (Individual)",
+      "due_at_dubai": "2026-11-28T19:55:00+04:00",
+      "cutoff_at_dubai": "2026-11-29T19:55:00+04:00",
+      "teamsubmission": 0,
+      "max_grade": 100,
+      "submission_status": "new",
+      "grading_status": "notgraded",
+      "modified_at_dubai": "2026-10-07T12:22:54+04:00",
+      "team_status": null,
+      "team_group_id": null,
+      "files": [],
+      "grade": null
+    },
+    {
+      "id": 124854,
+      "name": "Assignment 1: Engagement (10%)",
+      "due_at_dubai": "2026-11-19T13:00:00+04:00",
+      "cutoff_at_dubai": "2026-12-21T13:00:00+04:00",
+      "teamsubmission": 0,
+      "max_grade": 10,
+      "submission_status": "new",
+      "grading_status": "notgraded",
+      "modified_at_dubai": "2026-10-07T12:22:55+04:00",
+      "team_status": null,
+      "team_group_id": null,
+      "files": [],
+      "grade": null
+    },
+    {
+      "id": 124855,
+      "name": "Assignment 2 Submission: Questionnaire (20%)",
+      "due_at_dubai": "2026-09-20T19:59:00+04:00",
+      "cutoff_at_dubai": "2026-09-23T19:59:00+04:00",
+      "teamsubmission": 0,
+      "max_grade": 20,
+      "submission_status": "submitted",
+      "grading_status": "graded",
+      "modified_at_dubai": "2026-09-19T00:26:26+04:00",
+      "team_status": null,
+      "team_group_id": null,
+      "files": [
+        {
+          "filename": "35553299_Dzhafarov_BUS334_Assignment2_Questionnaire.docx",
+          "filesize": 40749,
+          "timemodified": 1789763186
+        }
+      ],
+      "grade": "15.00000"
+    },
+    {
+      "id": 124856,
+      "name": "Assignment 3 Submission: Data Collection &amp; Preliminary Analysis (30%)",
+      "due_at_dubai": "2026-10-25T19:59:00+04:00",
+      "cutoff_at_dubai": "2026-10-28T19:59:00+04:00",
+      "teamsubmission": 0,
+      "max_grade": 30,
+      "submission_status": "new",
+      "grading_status": "notgraded",
+      "modified_at_dubai": "2026-10-07T12:22:58+04:00",
+      "team_status": null,
+      "team_group_id": null,
+      "files": [],
+      "grade": null
+    }
+  ],
+  "groups": [
+    {
+      "id": 327113,
+      "name": "BUS334 Class 1",
+      "courseid": 31274
+    },
+    {
+      "id": 318211,
+      "name": "SIS: BUS334_ATTD_DUBAI-ISC_FACE TO FACE",
+      "courseid": 31274
+    }
+  ],
+  "grades": [
+    {
+      "itemname": "Assignment 2 Submission: Questionnaire (20%)",
+      "itemmodule": "assign",
+      "iteminstance": 124855,
+      "graderaw": 15,
+      "gradeformatted": "15.00",
+      "feedback": "<p class=\"MsoNormal\"><span style=\"font-size: 9.0pt; font-family: 'Calibri',sans-serif;\">By and large, a well composed questionnaire demonstrating a good understanding of questionnaire design. Most of the required components are included and relevant, with clear and well-structured questions. Good application of relevant concepts and terminology. Presentation, language and formatting are professional. Overall, a well-designed and usable research instrument demonstrating good research skills.  <o:p></o:p></span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 9.0pt; font-family: 'Calibri',sans-serif;\">However, the areas of improvement are :<o:p></o:p></span></p>\r\n<ul style=\"margin-top: 0cm;\" type=\"disc\">\r\n<li class=\"MsoListParagraph\" style=\"margin-left: 0cm; mso-list: l0 level1 lfo1;\"><span style=\"font-size: 9.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: 'Times New Roman';\">Absence of the 2 main profile variables (i.e., gender and nationality group)<o:p></o:p></span></li>\r\n<li class=\"MsoListParagraph\" style=\"margin-left: 0cm; mso-list: l0 level1 lfo1;\"><span style=\"font-size: 9.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: 'Times New Roman';\">Abrupt introduction of Q 7</span></li>\r\n<li class=\"MsoListParagraph\" style=\"margin-left: 0cm; mso-list: l0 level1 lfo1;\"><span style=\"font-size: 9.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: 'Times New Roman';\">Sequencing of questions</span></li>\r\n<li class=\"MsoListParagraph\" style=\"margin-left: 0cm; mso-list: l0 level1 lfo1;\"><span style=\"font-size: 9.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: 'Times New Roman';\">Lack of aesthetic appeal of the questionnaire</span></li>\r\n</ul>"
+    },
+    {
+      "itemname": "Peer Evaluation Form Submission (Individual)",
+      "itemmodule": "assign",
+      "iteminstance": 124858,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "feedback": ""
+    }
+  ],
+  "assessment_modules": [
+    {
+      "name": "Assignment 1: Engagement (10%)",
+      "instance": 124854,
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3070558",
+      "dates": [
+        {
+          "label": "Opened:",
+          "timestamp": 1787013000,
+          "dataid": "allowsubmissionsfromdate"
+        },
+        {
+          "label": "Due:",
+          "timestamp": 1795078800,
+          "dataid": "duedate"
+        }
+      ]
+    },
+    {
+      "name": "Assignment 2 Submission: Questionnaire (20%)",
+      "instance": 124855,
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3070559",
+      "dates": [
+        {
+          "label": "Opened:",
+          "timestamp": 1787531400,
+          "dataid": "allowsubmissionsfromdate"
+        },
+        {
+          "label": "Due:",
+          "timestamp": 1789919940,
+          "dataid": "duedate"
+        }
+      ]
+    },
+    {
+      "name": "Assignment 3 Submission: Data Collection &amp; Preliminary Analysis (30%)",
+      "instance": 124856,
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3070560",
+      "dates": [
+        {
+          "label": "Opened:",
+          "timestamp": 1787531400,
+          "dataid": "allowsubmissionsfromdate"
+        },
+        {
+          "label": "Due:",
+          "timestamp": 1792943940,
+          "dataid": "duedate"
+        }
+      ]
+    },
+    {
+      "name": "Assignment 4 Supporting materials submission: Data Analysis &amp; Presentation (40%)",
+      "instance": 124857,
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3070561",
+      "dates": [
+        {
+          "label": "Opens:",
+          "timestamp": 1792283400,
+          "dataid": "allowsubmissionsfromdate"
+        }
+      ]
+    },
+    {
+      "name": "Peer Evaluation Form Submission (Individual)",
+      "instance": 124858,
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3070562",
+      "dates": [
+        {
+          "label": "Opens:",
+          "timestamp": 1794384120,
+          "dataid": "allowsubmissionsfromdate"
+        },
+        {
+          "label": "Due:",
+          "timestamp": 1795881300,
+          "dataid": "duedate"
+        }
+      ]
+    }
+  ],
+  "announcements": []
+}

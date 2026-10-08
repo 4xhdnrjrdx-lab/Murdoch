@@ -15,3 +15,6 @@
 - [Контакты Group 1 и текст письма для Outlook](2026-10-08_whatsapp-group-email-draft.md)
 
 - [Отправление запроса WhatsApp-номеров — подтверждение Outlook](2026-10-08_whatsapp-group-email-sent.md)
+
+- [WhatsApp-группа создана: дальнейший порядок](2026-10-08_whatsapp-group-created.md)
+- [Проверка Moodle после создания группы](2026-10-08_group-followup-lms-check.json)
