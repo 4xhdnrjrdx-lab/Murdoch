@@ -22,7 +22,7 @@ Faiaz Dzhafarov · student ID 35553299 · время Asia/Dubai (UTC+4).
 
 ### [BUS334](BUS334/2026-TSD/README.md) · учимся
 
-- A3: Получить WhatsApp-номера участников и создать группу; согласовать с Nikita, Khushal, Vishal и Irzakov тему и общую анкету из 20 вопросов с учётом feedback A2; затем собрать минимум 15 полных ответов лично.
+- A3: Согласовать общую бизнес-тему в созданной WhatsApp-группе, собрать анкеты A2 и feedback участников и составить общую анкету из 20 вопросов; затем каждому собрать минимум 15 полных ответов.
 
 
 Сроки, состояния отдельных работ и их основания доступны в таблицах заданий каждого предмета. Главная страница формируется из основных записей.
@@ -40,8 +40,8 @@ Faiaz Dzhafarov · student ID 35553299 · время Asia/Dubai (UTC+4).
 
 ## Свежесть и сохранение
 
-- Почта: проверена 2026-10-08T16:46:19.184576+04:00. 8 October final groups email confirms Group 1 unchanged: Faiaz, Nikita, Khushal, Vishal, Irzakov. No new assignment instructions or deadlines in the email.
-- LMS: проверка 2026-10-08T16:45:28.475231+04:00, результат `ok`. Даты и подтверждения по предметам приведены в заданиях.
+- Почта: проверена 2026-10-08T17:18:37.213029+04:00. Found 8 October teacher final-groups email and replies from Aliaskar and Vishal to WhatsApp request. Phone numbers not saved. User confirms WhatsApp group created.
+- LMS: проверка 2026-10-08T17:17:16.679157+04:00, результат `ok`. Даты и подтверждения по предметам приведены в заданиях.
 - GitHub: текущая опубликованная версия определяется SHA ветки main, показанным GitHub. Проверка локальной синхронизации: `python3 scripts/sync.py status`. Сверка файлов: `python3 scripts/verify.py`.
 - Проверки выполняются при начале работы по предмету или запросе статуса. Фоновых заданий нет.
 

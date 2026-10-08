@@ -1,8 +1,8 @@
 {
   "mail": {
-    "checked_at": "2026-10-08T16:46:19.184576+04:00",
-    "scope": "Gmail forwarded university mail after 6 October: Ashok Mitra / BUS334 / BUS 334 / Business Analytics; new email body read",
-    "result": "8 October final groups email confirms Group 1 unchanged: Faiaz, Nikita, Khushal, Vishal, Irzakov. No new assignment instructions or deadlines in the email.",
+    "checked_at": "2026-10-08T17:18:37.213029+04:00",
+    "scope": "after:2026/10/07 (from:Ashok.Mitra@murdoch.edu.au OR BUS334 OR \"BUS 334\" OR \"Business Analytics\"); two replies read",
+    "result": "Found 8 October teacher final-groups email and replies from Aliaskar and Vishal to WhatsApp request. Phone numbers not saved. User confirms WhatsApp group created.",
     "last_check_by_course": {
       "BUS219": {
         "checked_at": "2026-10-07T13:31:59.360199+04:00",
@@ -35,17 +35,18 @@
         "evidence": "Archive/Correspondence/2026-10-07_general-study-check.json"
       },
       "BUS334": {
-        "checked_at": "2026-10-08T16:46:19.184576+04:00",
-        "scope": "Gmail forwarded university mail after 6 October: Ashok Mitra / BUS334 / BUS 334 / Business Analytics; new email body read",
-        "result": "8 October final groups email confirms Group 1 unchanged: Faiaz, Nikita, Khushal, Vishal, Irzakov. No new assignment instructions or deadlines in the email.",
+        "checked_at": "2026-10-08T17:18:37.213029+04:00",
+        "account": "jafarovfayaz@gmail.com",
+        "scope": "after:2026/10/07 (from:Ashok.Mitra@murdoch.edu.au OR BUS334 OR \"BUS 334\" OR \"Business Analytics\"); two replies read",
+        "result": "Found 8 October teacher final-groups email and replies from Aliaskar and Vishal to WhatsApp request. Phone numbers not saved. User confirms WhatsApp group created.",
         "uncovered": [
           "Full university Outlook",
-          "WhatsApp"
+          "WhatsApp contents"
         ],
-        "evidence": "BUS334/2026-TSD/Correspondence/2026-10-08_final-groups.md"
+        "evidence": "BUS334/2026-TSD/Correspondence/2026-10-08_whatsapp-group-created.md"
       }
     },
-    "evidence": "BUS334/2026-TSD/Correspondence/2026-10-08_final-groups.md",
+    "evidence": "BUS334/2026-TSD/Correspondence/2026-10-08_whatsapp-group-created.md",
     "outlook_attempt": {
       "attempted_at": "2026-10-07T13:31:59.360199+04:00",
       "result": "No accessible Outlook tab in connected browser inventory; no Outlook connector available in this chat",
@@ -77,7 +78,8 @@
         ]
       },
       "note": "Учебный Gmail подтверждён профильным API и поиском университетских писем. Основная почта отключена пользователем. Для всех предметных чатов использовать только учебный Gmail.",
-      "personal_account_disconnected_by_user": true
+      "personal_account_disconnected_by_user": true,
+      "independent_course_verification": "BUS334/2026-TSD/Correspondence/2026-10-08_whatsapp-group-created.md"
     },
     "connection_delivery_check": {
       "checked_at": "2026-10-08T17:18:38.595375+04:00",
@@ -88,14 +90,14 @@
     }
   },
   "lms": {
-    "checked_at": "2026-10-08T16:45:28.475231+04:00",
+    "checked_at": "2026-10-08T17:17:16.679157+04:00",
     "result": "ok",
-    "operation": "Latest check: BUS334 contents, assignments, own submissions and grades, own groups and news forums, read only; other course records retained",
+    "operation": "Latest check: BUS334 read-only course contents, assignments, own submissions, grades, own groups and news forums",
     "last_success_by_course": {
       "BUS219": "2026-10-07T13:30:37.197860+04:00",
       "BUS225": "2026-10-07T13:30:42.457759+04:00",
       "BUS230": "2026-10-07T22:30:30.833591+04:00",
-      "BUS334": "2026-10-08T16:45:28.475231+04:00"
+      "BUS334": "2026-10-08T17:17:16.679157+04:00"
     },
     "token_expiry": "unknown",
     "successful_account_check": {
@@ -111,7 +113,7 @@
       "BUS219": "Archive/Correspondence/2026-10-07_general-study-check.json",
       "BUS225": "Archive/Correspondence/2026-10-07_general-study-check.json",
       "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-07_ADKAR-preparation-check.json",
-      "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-08_lms-check.json"
+      "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-08_group-followup-lms-check.json"
     }
   },
   "secret_storage": {
