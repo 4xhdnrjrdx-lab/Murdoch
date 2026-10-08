@@ -23,14 +23,20 @@
     },
     {
       "path": "ACCESS_STATUS.json",
-      "bytes": 4651,
-      "sha256": "2477e6712777c0632ceea3f7cb5158f8d4b73ac86a4c71528348c15d39f05fa0",
+      "bytes": 5596,
+      "sha256": "0780ef3f9414d345e06a7dc49a1fd4c04e734737c25ca8d9afaa27d5b8e2229c",
       "storage": "git"
     },
     {
       "path": "AGENTS.md",
       "bytes": 11251,
       "sha256": "94598ee673cc97253be726135d1fc9a1b82889eb4dc74bd920ba51471dd62fcc",
+      "storage": "git"
+    },
+    {
+      "path": "Access/Mail/README.md",
+      "bytes": 3027,
+      "sha256": "356f7ee4a7d85fa033987ea709e7b260006e7a7acd39ea89c23361852898fb30",
       "storage": "git"
     },
     {
@@ -3364,6 +3370,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 560,
-  "total_bytes": 447369365
+  "file_count": 561,
+  "total_bytes": 447373337
 }

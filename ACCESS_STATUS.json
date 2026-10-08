@@ -50,6 +50,23 @@
       "attempted_at": "2026-10-07T13:31:59.360199+04:00",
       "result": "No accessible Outlook tab in connected browser inventory; no Outlook connector available in this chat",
       "last_successful_check": "unknown"
+    },
+    "connection": {
+      "preferred_account": "jafarovfayaz@gmail.com",
+      "preference_source": "Прямое сообщение пользователя 8 октября 2026: основная почта fayaz201499@gmail.com; для учёбы подключить jafarovfayaz@gmail.com",
+      "last_verified_connected_account": "fayaz201499@gmail.com",
+      "profile_verified_at": "2026-10-08T16:57:50.490839+04:00",
+      "switch_status": "pending_user_google_connection",
+      "personal_account_for_study_checks": "do_not_use",
+      "forwarding_observation": {
+        "observed_at": "2026-10-08",
+        "source": "User screenshot of Outlook forwarding settings, 16:53 Dubai",
+        "displayed_destination": "jafarovfayaz@gmail.com",
+        "displayed_enabled": true,
+        "displayed_keep_copy": true,
+        "actual_delivery_to_preferred_account": "not_verified"
+      },
+      "evidence": "Access/Mail/README.md"
     }
   },
   "lms": {
