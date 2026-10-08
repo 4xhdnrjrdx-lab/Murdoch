@@ -54,9 +54,9 @@
     "connection": {
       "preferred_account": "jafarovfayaz@gmail.com",
       "preference_source": "Прямое сообщение пользователя 8 октября 2026: основная почта fayaz201499@gmail.com; для учёбы подключить jafarovfayaz@gmail.com",
-      "last_verified_connected_account": "fayaz201499@gmail.com",
-      "profile_verified_at": "2026-10-08T17:09:04.826806+04:00",
-      "switch_status": "target_connected_in_ui_tool_routing_unverified",
+      "last_verified_connected_account": "jafarovfayaz@gmail.com",
+      "profile_verified_at": "2026-10-08T17:18:38.595375+04:00",
+      "switch_status": "verified",
       "personal_account_for_study_checks": "do_not_use",
       "forwarding_observation": {
         "observed_at": "2026-10-08",
@@ -64,23 +64,27 @@
         "displayed_destination": "jafarovfayaz@gmail.com",
         "displayed_enabled": true,
         "displayed_keep_copy": true,
-        "actual_delivery_to_preferred_account": "not_verified"
+        "actual_delivery_to_preferred_account": "verified_university_messages_present"
       },
-      "evidence": "Access/Mail/README.md",
+      "evidence": "Access/Mail/2026-10-08_connection-check.json",
       "connected_accounts_observation": {
-        "source": "User screenshot 2026-10-08 17:07 Dubai: Gmail connected accounts",
+        "source": "User screenshot 2026-10-08 17:17 Dubai; Gmail profile verified in current chat",
         "accounts": [
-          {
-            "email": "fayaz201499@gmail.com",
-            "label": "Primary"
-          },
           {
             "email": "jafarovfayaz@gmail.com",
             "label": "Учёба"
           }
         ]
       },
-      "note": "Учебный аккаунт уже подключён, что видно в настройках. Повторное подключение не требуется. Доступный get_profile возвращает основной аккаунт; выбор учебного аккаунта через инструменты этой сессии не подтверждён. Не читать основную почту и не требовать её отключения."
+      "note": "Учебный Gmail подтверждён профильным API и поиском университетских писем. Основная почта отключена пользователем. Для всех предметных чатов использовать только учебный Gmail.",
+      "personal_account_disconnected_by_user": true
+    },
+    "connection_delivery_check": {
+      "checked_at": "2026-10-08T17:18:38.595375+04:00",
+      "account": "jafarovfayaz@gmail.com",
+      "scope": "after:2026/10/01 (from:murdoch.edu.au OR from:student.murdoch.edu.au); first 8 search results, message metadata only",
+      "result": "Учебный Gmail доступен. Есть университетские письма, включая два ответа BUS334 от 8 октября. Это проверка подключения и доставки; полный обзор всех предметов не выполнялся.",
+      "evidence": "Access/Mail/2026-10-08_connection-check.json"
     }
   },
   "lms": {

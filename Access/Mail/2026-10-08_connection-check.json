@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-08",
+  "timezone": "Asia/Dubai",
+  "verified_account": "jafarovfayaz@gmail.com",
+  "operation": "Gmail get_profile and search_emails; message search metadata only, not full body review",
+  "query": "after:2026/10/01 (from:murdoch.edu.au OR from:student.murdoch.edu.au)",
+  "max_results": 8,
+  "pagination_complete": false,
+  "university_delivery_verified": true,
+  "course_message_examples": [
+    {
+      "id": "1a11ba2c665136db",
+      "subject": "Re: BUS334 Group 1 – WhatsApp Group",
+      "email_ts": "2026-10-08T13:10:04+00:00"
+    },
+    {
+      "id": "1a11b97c4342b092",
+      "subject": "Re: BUS334 Group 1 – WhatsApp Group",
+      "email_ts": "2026-10-08T12:58:06+00:00"
+    },
+    {
+      "id": "1a11a50c60be8cb6",
+      "subject": "BUS 334 : Final Groups for Subsequent Assignments",
+      "email_ts": "2026-10-08T07:00:56+00:00"
+    }
+  ],
+  "result": "Учебный Gmail доступен. Есть университетские письма, включая два ответа BUS334 от 8 октября. Это проверка подключения и доставки; полный обзор всех предметов не выполнялся.",
+  "checked_at": "2026-10-08T17:18:38.595375+04:00"
+}
