@@ -1,8 +1,8 @@
 {
   "mail": {
-    "checked_at": "2026-10-07T22:48:17+04:00",
-    "scope": "Latest check: forwarded BUS230 university mail in Gmail after 1 October; other course check records retained",
-    "result": "BUS230: новых уточнений A2 не найдено; последнее письмо в охвате — receipt A1 от 5 октября. Полный Outlook и WhatsApp не проверены.",
+    "checked_at": "2026-10-08T16:46:19.184576+04:00",
+    "scope": "Gmail forwarded university mail after 6 October: Ashok Mitra / BUS334 / BUS 334 / Business Analytics; new email body read",
+    "result": "8 October final groups email confirms Group 1 unchanged: Faiaz, Nikita, Khushal, Vishal, Irzakov. No new assignment instructions or deadlines in the email.",
     "last_check_by_course": {
       "BUS219": {
         "checked_at": "2026-10-07T13:31:59.360199+04:00",
@@ -35,17 +35,17 @@
         "evidence": "Archive/Correspondence/2026-10-07_general-study-check.json"
       },
       "BUS334": {
-        "checked_at": "2026-10-07T13:31:59.360199+04:00",
-        "scope": "after:2026/09/15 (BUS334 OR \"Business Analytics\") plus Ashok Mitra sender search",
-        "result": "Письмо Ashok Mitra от 4 октября повторно подтверждает Group 1: Faiaz, Nikita, Khushal, Vishal, Irzakov; новых уточнений нет.",
+        "checked_at": "2026-10-08T16:46:19.184576+04:00",
+        "scope": "Gmail forwarded university mail after 6 October: Ashok Mitra / BUS334 / BUS 334 / Business Analytics; new email body read",
+        "result": "8 October final groups email confirms Group 1 unchanged: Faiaz, Nikita, Khushal, Vishal, Irzakov. No new assignment instructions or deadlines in the email.",
         "uncovered": [
-          "Полный университетский Outlook",
+          "Full university Outlook",
           "WhatsApp"
         ],
-        "evidence": "Archive/Correspondence/2026-10-07_general-study-check.json"
+        "evidence": "BUS334/2026-TSD/Correspondence/2026-10-08_final-groups.md"
       }
     },
-    "evidence": "Archive/Correspondence/2026-10-07_general-study-check.json",
+    "evidence": "BUS334/2026-TSD/Correspondence/2026-10-08_final-groups.md",
     "outlook_attempt": {
       "attempted_at": "2026-10-07T13:31:59.360199+04:00",
       "result": "No accessible Outlook tab in connected browser inventory; no Outlook connector available in this chat",
@@ -53,14 +53,14 @@
     }
   },
   "lms": {
-    "checked_at": "2026-10-07T22:30:30.833591+04:00",
+    "checked_at": "2026-10-08T16:45:28.475231+04:00",
     "result": "ok",
-    "operation": "Latest check: BUS230 A2 portal, own group and course news, read only; other course check records retained",
+    "operation": "Latest check: BUS334 contents, assignments, own submissions and grades, own groups and news forums, read only; other course records retained",
     "last_success_by_course": {
       "BUS219": "2026-10-07T13:30:37.197860+04:00",
       "BUS225": "2026-10-07T13:30:42.457759+04:00",
       "BUS230": "2026-10-07T22:30:30.833591+04:00",
-      "BUS334": "2026-10-07T13:30:44.542102+04:00"
+      "BUS334": "2026-10-08T16:45:28.475231+04:00"
     },
     "token_expiry": "unknown",
     "successful_account_check": {
@@ -76,7 +76,7 @@
       "BUS219": "Archive/Correspondence/2026-10-07_general-study-check.json",
       "BUS225": "Archive/Correspondence/2026-10-07_general-study-check.json",
       "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-07_ADKAR-preparation-check.json",
-      "BUS334": "Archive/Correspondence/2026-10-07_general-study-check.json"
+      "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-08_lms-check.json"
     }
   },
   "secret_storage": {

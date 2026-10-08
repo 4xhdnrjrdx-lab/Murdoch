@@ -7,3 +7,5 @@ Ashok Mitra утвердил **Class 1 (четверг), Group 1** для пос
 Тема Faiaz — grocery store для студентов Murdoch Dubai. Решение всей группы использовать эту тему, общая анкета и начало сбора данных пока неизвестны.
 
 Ранее Faiaz и Nikita выполняли Create Value, две неназванные девушки — Design Value, одна — Capture Value. Это распределение было только для упражнения и не определяет нынешние роли. Источники: [контекст от 19 сентября](Archive/LegacyRecords/00_CHAT_CONTEXT.md), [упражнение](Materials/07%20Session%204%20-%20Analysing%20the%20Business%20Itself/Create_Value_Faiaz_Nikita.md).
+
+[Обновлённое письмо Ashok Mitra от 8 октября](Correspondence/2026-10-08_final-groups.md) повторно подтверждает тот же состав Group 1. Проверка [Moodle 8 октября](Correspondence/2026-10-08_lms-check.json): регистрация команды в портале A4 по-прежнему не подтверждена (team_group_id 0).

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course": "BUS334",
   "period": "2026-TSD",
-  "reviewed_at": "2026-10-07T13:09:03.572349+04:00",
+  "reviewed_at": "2026-10-08T16:46:19.184576+04:00",
   "allowed_states": [
     "предложено",
     "согласовано",
@@ -23,8 +23,8 @@
         {
           "value": "2026-11-19 13:00 Asia/Dubai",
           "source_label": "Moodle API timestamp",
-          "checked_at": "2026-10-07",
-          "source_path": "Correspondence/2026-10-07_followup-lms-check.json"
+          "checked_at": "2026-10-08",
+          "source_path": "Correspondence/2026-10-08_lms-check.json"
         }
       ],
       "evidence": [
@@ -61,8 +61,8 @@
         {
           "value": "2026-09-20 19:59 Asia/Dubai",
           "source_label": "Moodle API timestamp",
-          "checked_at": "2026-10-07",
-          "source_path": "Correspondence/2026-10-07_followup-lms-check.json"
+          "checked_at": "2026-10-08",
+          "source_path": "Correspondence/2026-10-08_lms-check.json"
         }
       ],
       "evidence": [
@@ -97,8 +97,8 @@
       "grade": {
         "value": 15,
         "maximum": 20,
-        "source_path": "Correspondence/2026-10-07_followup-lms-check.json",
-        "checked_at": "2026-10-07"
+        "source_path": "Correspondence/2026-10-08_lms-check.json",
+        "checked_at": "2026-10-08"
       }
     },
     {
@@ -111,8 +111,8 @@
         {
           "value": "2026-10-25 19:59 Asia/Dubai",
           "source_label": "Moodle API timestamp",
-          "checked_at": "2026-10-07",
-          "source_path": "Correspondence/2026-10-07_followup-lms-check.json"
+          "checked_at": "2026-10-08",
+          "source_path": "Correspondence/2026-10-08_lms-check.json"
         }
       ],
       "evidence": [
@@ -144,6 +144,18 @@
           "date": "2026-10-07",
           "note": "Локальный Unit Outline, §4.2.3: общая анкета 20 вопросов, минимум 15 полных ответов на человека, индивидуальный анализ и отчёт.",
           "path": "Materials/UnitOutline/00_UNIT_OUTLINE_BUS334_TSD2026.md",
+          "source": ""
+        },
+        {
+          "date": "2026-10-08",
+          "note": "Новое письмо Ashok Mitra подтверждает прежний состав Class 1, Group 1; новых сроков или требований в письме нет.",
+          "path": "Correspondence/2026-10-08_final-groups.md",
+          "source": ""
+        },
+        {
+          "date": "2026-10-08",
+          "note": "Повторная сверка LMS: A3 new, срок 25 октября 19:59 Dubai; A4 без due, team_group_id 0; новых news announcements нет.",
+          "path": "Correspondence/2026-10-08_lms-check.json",
           "source": ""
         }
       ],
@@ -182,6 +194,18 @@
           "note": "Ashok Mitra утвердил Group 1 (четверг): Faiaz, Nikita, Khushal, Vishal, Irzakov; письмо прочитано 7 октября.",
           "path": "Correspondence/2026-10-04_finalised-groups.md",
           "source": ""
+        },
+        {
+          "date": "2026-10-08",
+          "note": "Новое письмо Ashok Mitra подтверждает прежний состав Class 1, Group 1; новых сроков или требований в письме нет.",
+          "path": "Correspondence/2026-10-08_final-groups.md",
+          "source": ""
+        },
+        {
+          "date": "2026-10-08",
+          "note": "Повторная сверка LMS: A3 new, срок 25 октября 19:59 Dubai; A4 без due, team_group_id 0; новых news announcements нет.",
+          "path": "Correspondence/2026-10-08_lms-check.json",
+          "source": ""
         }
       ],
       "unknown": "Дата выступления остаётся неизвестной; due в API отсутствует. Команда для последующих заданий утверждена письмом 4 октября, но её регистрация в портале A4 не подтверждена (team_group_id 0).",
@@ -198,8 +222,8 @@
         {
           "value": "2026-11-28 19:55 Asia/Dubai",
           "source_label": "Moodle API timestamp",
-          "checked_at": "2026-10-07",
-          "source_path": "Correspondence/2026-10-07_followup-lms-check.json"
+          "checked_at": "2026-10-08",
+          "source_path": "Correspondence/2026-10-08_lms-check.json"
         }
       ],
       "evidence": [
