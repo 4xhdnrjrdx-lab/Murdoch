@@ -29,3 +29,5 @@ Could you please reply to me with your WhatsApp number, including the country co
 Thanks!
 Faiaz Dzhafarov
 ```
+
+Последующее событие: пользователь отправил этот текст 8 октября; [подтверждение Outlook](2026-10-08_whatsapp-group-email-sent.md). Первоначальная отметка «не отправлено» выше относится к моменту подготовки текста.

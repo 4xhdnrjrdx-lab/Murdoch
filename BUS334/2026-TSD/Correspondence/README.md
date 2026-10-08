@@ -13,3 +13,5 @@
 - [Проверка Moodle 8 октября](2026-10-08_lms-check.json)
 
 - [Контакты Group 1 и текст письма для Outlook](2026-10-08_whatsapp-group-email-draft.md)
+
+- [Отправление запроса WhatsApp-номеров — подтверждение Outlook](2026-10-08_whatsapp-group-email-sent.md)

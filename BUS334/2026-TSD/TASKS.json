@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course": "BUS334",
   "period": "2026-TSD",
-  "reviewed_at": "2026-10-08T16:46:19.184576+04:00",
+  "reviewed_at": "2026-10-08T16:52:51.745009+04:00",
   "allowed_states": [
     "предложено",
     "согласовано",
@@ -105,7 +105,7 @@
       "id": "A3",
       "title": "Data Collection & Preliminary Analysis, 30%",
       "status": "предложено",
-      "next_action": "Согласовать с Nikita, Khushal, Vishal и Irzakov тему и общую анкету из 20 вопросов с учётом feedback A2; затем собрать минимум 15 полных ответов лично.",
+      "next_action": "Получить WhatsApp-номера участников и создать группу; согласовать с Nikita, Khushal, Vishal и Irzakov тему и общую анкету из 20 вопросов с учётом feedback A2; затем собрать минимум 15 полных ответов лично.",
       "detail": "Состав группы утверждён Ashok Mitra 4 октября. Тема Faiaz — grocery store для студентов Murdoch Dubai; выбор этой темы всей группой ещё не подтверждён. По Unit Outline общая анкета включает 20 вопросов, каждый собирает минимум 15 полных ответов; анализ и отчёт A3 выполняются и оцениваются индивидуально. Сбор данных и ответы респондентов не подтверждены.",
       "deadlines": [
         {
@@ -156,6 +156,12 @@
           "date": "2026-10-08",
           "note": "Повторная сверка LMS: A3 new, срок 25 октября 19:59 Dubai; A4 без due, team_group_id 0; новых news announcements нет.",
           "path": "Correspondence/2026-10-08_lms-check.json",
+          "source": ""
+        },
+        {
+          "date": "2026-10-08",
+          "note": "Пользователь отправил запрос WhatsApp-номеров всем четырём участникам; скриншот Outlook подтверждает отправление. Ответы и создание группы пока неизвестны.",
+          "path": "Correspondence/2026-10-08_whatsapp-group-email-sent.md",
           "source": ""
         }
       ],
