@@ -1,0 +1,18 @@
+{
+  "method": "SHA-256 of user source and copied bytes, matched before publication",
+  "files": [
+    {
+      "source_path": "/Users/king1/Downloads/Новая запись 5.m4a",
+      "stored_path": "Audio/Recording_05_Downloads.m4a",
+      "bytes": 16775286,
+      "sha256": "71646ab789ef455509c6e24c18e1d6f9247a051a364e56493871f76c1998e586"
+    },
+    {
+      "source_path": "/Users/king1/Downloads/Новая запись 6.m4a",
+      "stored_path": "Audio/Recording_06_Downloads.m4a",
+      "bytes": 5066035,
+      "sha256": "283036abec928470ffc42ed8e7a69ad80f5ad616385fe5103e87141f4bd152be"
+    }
+  ],
+  "note": "Downloads recording 6 is distinct from previously supplied Documents recording 6; both preserved."
+}

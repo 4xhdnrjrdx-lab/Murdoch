@@ -58,3 +58,5 @@
 
 - [Конспект лекции 13 октября: стратегия и mission / vision / goals / values](Lectures/2026-10-13/NOTES_RU.md)
 - [Ответ для занятия: noon, простой английский](Lectures/2026-10-13/NOON_CLASS_RESPONSE_EN.md)
+
+- [Ryanair: ответ на задание о cost leadership, английский](Lectures/2026-10-13/RYANAIR_CLASS_RESPONSE_EN.md)

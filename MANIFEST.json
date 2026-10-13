@@ -287,8 +287,8 @@
     },
     {
       "path": "BUS219/2026-TSD/CONTEXT.md",
-      "bytes": 6532,
-      "sha256": "5f1b7487942e9a77e92e99156e6c0d88afb6578a16b75c9fe09560cd8cd247aa",
+      "bytes": 7281,
+      "sha256": "caa05529148bf39fa9af47de43e37debb743df828ebaa67046c22e7a5a796e1b",
       "storage": "git"
     },
     {
@@ -341,8 +341,8 @@
     },
     {
       "path": "BUS219/2026-TSD/HISTORY.md",
-      "bytes": 3364,
-      "sha256": "0921aecff7cc3b49684e624acd08662a30a0b8f4d929c7efcee4cc6343e929f8",
+      "bytes": 4315,
+      "sha256": "33d525a1802d18e07fe9dc2ba2c2924ddabe3124c44e76cc1b8415825aba26e1",
       "storage": "git"
     },
     {
@@ -622,9 +622,27 @@
       "storage": "git"
     },
     {
+      "path": "BUS219/2026-TSD/Materials/Lectures/2026-10-13/2026-10-13_audio-integrity.json",
+      "bytes": 723,
+      "sha256": "6ef1c7da5191752ba02d6cb4274a1f692f97bc87c59789697b8268d40a04eae4",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Materials/Lectures/2026-10-13/Audio/Recording_05_Downloads.m4a",
+      "bytes": 16775286,
+      "sha256": "71646ab789ef455509c6e24c18e1d6f9247a051a364e56493871f76c1998e586",
+      "storage": "git"
+    },
+    {
       "path": "BUS219/2026-TSD/Materials/Lectures/2026-10-13/Audio/Recording_06.m4a",
       "bytes": 2446103,
       "sha256": "b5357a6ce7cf999d3a476ada8ca6c210c19abddd995055da7d2c11983911ae23",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Materials/Lectures/2026-10-13/Audio/Recording_06_Downloads.m4a",
+      "bytes": 5066035,
+      "sha256": "283036abec928470ffc42ed8e7a69ad80f5ad616385fe5103e87141f4bd152be",
       "storage": "git"
     },
     {
@@ -635,8 +653,26 @@
     },
     {
       "path": "BUS219/2026-TSD/Materials/Lectures/2026-10-13/NOTES_RU.md",
-      "bytes": 6125,
-      "sha256": "ac8d39eea37edfda50c9c27e0d0978b35c43c901e5720b0f74770be1f2e80216",
+      "bytes": 13598,
+      "sha256": "bfeda30d3313847ebfc2790f87f1de9c0a73c04b370fbdad438c2f65baa60fdf",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Materials/Lectures/2026-10-13/RYANAIR_CLASS_RESPONSE_EN.md",
+      "bytes": 3374,
+      "sha256": "418818e58df9ac95808ed8aa079453b8150069240a81bec11bbe3b654967459d",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Materials/Lectures/2026-10-13/Transcripts/Recording_05_Downloads_auto.md",
+      "bytes": 17201,
+      "sha256": "fd4e374b3b9419ff4a27a9db5fec9e254d7493ed462b40821136051dbb0d16bd",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Materials/Lectures/2026-10-13/Transcripts/Recording_06_Downloads_auto.md",
+      "bytes": 5307,
+      "sha256": "55f53fa3df45e6cfc232519e6b0e71c0f412f30acdef1ee2d1922ea13fe7549b",
       "storage": "git"
     },
     {
@@ -683,8 +719,8 @@
     },
     {
       "path": "BUS219/2026-TSD/Materials/README.md",
-      "bytes": 9346,
-      "sha256": "185c5fdeada0fd9e73a9170cb466edabacee3c5b5dd72a7b15f906ec412fea11",
+      "bytes": 9482,
+      "sha256": "ad6f3f03293179cc0a60c6c437f9e8e651aab488c2483a47beedab3be7491ce6",
       "storage": "git"
     },
     {
@@ -701,14 +737,14 @@
     },
     {
       "path": "BUS219/2026-TSD/TASKS.json",
-      "bytes": 12053,
-      "sha256": "b074350df7dbdd00e41da89cf998c87ea80b2fec2ac3d9edf42100a78fd6dbea",
+      "bytes": 12672,
+      "sha256": "91aa6be549ccebb2b948e03b54935534d1220c7b0fb0d6d481a1faebc4121961",
       "storage": "git"
     },
     {
       "path": "BUS219/2026-TSD/TASKS.md",
-      "bytes": 8964,
-      "sha256": "90c1d4181cfb809501df532f11c515e912190d1c21386b8570a75293701d415f",
+      "bytes": 9500,
+      "sha256": "987b8e412fa8f37dcf8d4d1868323a3619ef2a12752ca7a082dc4167b9072333",
       "storage": "git"
     },
     {
@@ -3424,6 +3460,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 570,
-  "total_bytes": 449863282
+  "file_count": 576,
+  "total_bytes": 471741672
 }

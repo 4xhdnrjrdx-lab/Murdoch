@@ -1,0 +1,258 @@
+# BUS219, 13 октября: запись 5 из Downloads
+
+Источник: Audio/Recording_05_Downloads.m4a. Исходное имя: «Новая запись 5.m4a».
+Длительность: 16:43. Автоматическое локальное распознавание faster-whisper small, английский. Не является заверенной дословной стенограммой.
+
+Ошибки распознавания сохранены ниже. В конспекте использованы ясные смысловые части; слова вроде locally responsible означают по контексту local responsiveness, Ryan Ayer — Ryanair. Числа в примерах BP и Unilever, названия брендов и отдельные реплики участников требуют сверки; не использовать их как проверенные факты.
+
+- **00:00–00:02:** From the Atlantic and the leisure realm,
+- **00:02–00:04:** then we also have the electronics.
+- **00:04–00:08:** All three of them have very different mission and wishes,
+- **00:08–00:11:** but the key thing to note is that they're defining,
+- **00:11–00:15:** they're keeping the stakeholders as a priority.
+- **00:15–00:21:** Anyone else feeling to talk about their brands?
+- **00:21–00:22:** Yes, Belina.
+- **00:22–00:24:** So I think Faber-Castell.
+- **00:24–00:26:** Sorry, you can turn it back.
+- **00:26–00:31:** Faber-Castell, it's like a company that uses art products.
+- **00:31–00:32:** All right, thank you for educating me.
+- **00:32–00:33:** I never knew that.
+- **00:33–00:34:** All right.
+- **00:34–00:37:** So their mission statement is to motivate people
+- **00:37–00:40:** to bring their ideas which reality and express themselves
+- **00:40–00:43:** by delivering inspiring product concepts.
+- **00:43–00:45:** All right.
+- **00:45–00:48:** And their vision statement is to unleash
+- **00:48–00:50:** the innate creative potential of humanity
+- **00:50–00:52:** from childhood to adult life and serve
+- **00:52–00:54:** as the reference for creative expression.
+- **00:54–00:55:** Wow.
+- **00:55–00:59:** So we can see such a unique endeavor
+- **00:59–01:03:** and looking at entire societal generation-wise.
+- **01:03–01:07:** It's not just a need for a particular moment,
+- **01:07–01:10:** but you can see the entire lifetime that is covered.
+- **01:10–01:11:** Very interesting.
+- **01:11–01:16:** So we can see that how this mission and vision,
+- **01:16–01:20:** along with their organizational values,
+- **01:20–01:23:** are going to become a part of this strategy.
+- **01:23–01:27:** So, and please note, this is just what we often feel
+- **01:27–01:33:** is that it's published, it's for the annual report,
+- **01:33–01:36:** but effectively, the organization who
+- **01:36–01:39:** can walk the talk, they are the ones
+- **01:39–01:44:** who can bring their organizations to life.
+- **01:44–01:47:** And it's important to realize that there's
+- **01:47–01:51:** a lot of discussion today about the importance
+- **01:51–01:57:** of stakeholders versus shareholder perspective.
+- **01:57–02:01:** Part of it, as some of you have already discussed it
+- **02:01–02:06:** in the previous unit, while for some it might be new.
+- **02:06–02:11:** But shareholder perspective is as simple as it could be,
+- **02:13–02:16:** where we are effectively trying to say
+- **02:16–02:18:** that the purpose of any business
+- **02:18–02:22:** is to maximize financial returns
+- **02:22–02:26:** for the shareholders who are investing in.
+- **02:26–02:28:** That's it.
+- **02:28–02:31:** All the options which the farm is going to take
+- **02:31–02:37:** is essentially to increase the shareholding of the cows.
+- **02:37–02:44:** So at the point when they have an annual general meeting,
+- **02:44–02:48:** they are able to see and satisfy the needs
+- **02:48–02:54:** of the shareholders, such that their dividends are high.
+- **02:54–02:59:** Now, we have, in contrast, a stakeholder perspective.
+- **02:59–03:04:** We suggest that we have to look, as in organizations,
+- **03:04–03:07:** we are deeply rooted in a society,
+- **03:07–03:11:** and we cannot be just focused on the shareholder needs.
+- **03:11–03:17:** We have to look at everyone who is directly or indirectly
+- **03:17–03:19:** related to an organization,
+- **03:19–03:24:** And how can we meet their needs and their expectations?
+- **03:24–03:31:** Employees, suppliers, consumers, your community,
+- **03:31–03:35:** local government, all of them are involved.
+- **03:35–03:40:** Organization is essentially binded in an ecosystem.
+- **03:40–03:45:** And we cannot suggest that shareholder model
+- **03:45–03:46:** is the only model.
+- **03:46–03:49:** So as simple as you can put, the shareholder
+- **03:49–03:54:** older models completely says, the business of the business
+- **03:54–03:57:** is business.
+- **03:57–04:00:** No matter what happens.
+- **04:00–04:01:** Going back to the time when we talked
+- **04:01–04:07:** about the British petroleum oil spin in the Gulf of Mexico,
+- **04:07–04:13:** which led to the biggest marine disaster ever
+- **04:13–04:16:** because 100 billion barrels of oil
+- **04:16–04:19:** just went all over the ocean floor,
+- **04:19–04:23:** killing marine life, destroying the livelihood
+- **04:23–04:27:** of the fishermen, the people who are dependent on the water.
+- **04:27–04:30:** And that's what's a big lesson that you cannot always
+- **04:30–04:33:** prioritize shareholder returns.
+- **04:33–04:37:** You have to modify the way you do the business.
+- **04:37–04:41:** So yes, so that's why we have moved towards
+- **04:41–04:44:** the model of the stakeholders.
+- **04:44–04:49:** So stakeholders are those who have a legitimate claim
+- **04:49–04:52:** on the organization, they have,
+- **04:52–04:55:** they fulfill a certain responsibility
+- **04:55–04:57:** for the particular firm,
+- **04:57–05:00:** and therefore they have an expectation as well.
+- **05:01–05:06:** And the companies, they try to have stakeholders
+- **05:06–05:08:** on their side are using a lot of
+- **05:08–05:13:** convincing, lobbying, et cetera.
+- **05:13–05:14:** All right then.
+- **05:15–05:19:** Guys, all three of you, can you split up please?
+- **05:19–05:21:** There's a lot of chips that are happening,
+- **05:21–05:22:** And I can't ignore it.
+- **05:22–05:26:** Please, give me this gap and spread it into different faces.
+- **05:26–05:31:** Because I don't want my class to get this talk together.
+- **05:31–05:35:** Kindly do so.
+- **05:35–05:37:** Set separation with this.
+- **05:37–05:40:** And it's been going on and on and on.
+- **05:40–05:42:** This is week eight.
+- **05:42–05:53:** And I believe this is how we're going to be.
+- **05:53–05:58:** Looks like I'm back to kindergarten, right?
+- **05:58–06:00:** Here we have.
+- **06:00–06:03:** We have a different list of the stakeholders,
+- **06:03–06:08:** such as charities who have the duty for the organizations,
+- **06:09–06:13:** and their expectation is that they get dividends,
+- **06:13–06:15:** they get returns at the end of it.
+- **06:17–06:19:** Creditors, they're slow.
+- **06:19–06:24:** They want timely repayment, managers,
+- **06:24–06:27:** they're working, and they're, you know,
+- **06:27–06:31:** contributing their expertise, their time, their skills,
+- **06:31–06:35:** so that an organization's functions significantly higher
+- **06:35–06:37:** than what it's used to be.
+- **06:37–06:40:** And so they are expecting very much.
+- **06:40–06:44:** Likewise, we have all these stakeholders involved
+- **06:44–06:46:** with the organizations.
+- **06:46–06:51:** So stakeholder perspective is asking any organizing team
+- **06:51–06:56:** to work in tandem with the environment.
+- **06:56–06:59:** So whether it is corporate social responsibility,
+- **06:59–07:05:** United Nations Sustainable Development Goals, Fair Play,
+- **07:05–07:07:** or working relationships, working environment
+- **07:07–07:11:** that they're creating for their employees.
+- **07:11–07:15:** Any of that matter, all ethical practices
+- **07:15–07:19:** come down to the stakeholder views.
+- **07:19–07:24:** Do you consider them when you're developing your own analysis?
+- **07:24–07:27:** So we have internal stakeholders.
+- **07:27–07:32:** We have employees, managers, executives, or members.
+- **07:32–07:37:** We also have external stakeholders, customers, suppliers,
+- **07:37–07:44:** who do know that this is a stakeholder perspective,
+- **07:44–07:52:** and it's involving both internal and internal.
+- **07:52–07:56:** And the CSR, the Corporate Social Responsibility,
+- **07:56–08:00:** generally takes a stakeholder approach.
+- **08:00–08:03:** We expect any organization to work
+- **08:03–08:12:** across all the different stakeholders to us, not just to one as the shareholder.
+- **08:12–08:17:** And here we have the SDGs.
+- **08:17–08:24:** And that's an interesting one because you might want to consider that as you move into reform,
+- **08:24–08:27:** goes to internationalization to a different country,
+- **08:27–08:33:** how can you ensure that you are complying with the United Nations SDGs?
+- **08:33–08:41:** So whether it is working towards innovation in the structure, providing clean water for
+- **08:41–08:45:** the communities, not for those communities in which you are operating, but even for the
+- **08:45–08:47:** communities which are far off, right?
+- **08:47–08:55:** So we have different organizations and meetings with a lot of UN SDGs.
+- **08:55–08:59:** We have the Unilumis projects in India.
+- **08:59–09:06:** So they have this unique way of facilitating entrepreneurship,
+- **09:06–09:11:** where we ask they involve the local community members
+- **09:11–09:17:** and ask them to sell the household products across
+- **09:17–09:18:** the small communities.
+- **09:18–09:21:** They go from door to door, and they
+- **09:21–09:23:** try to sell the products.
+- **09:23–09:29:** So that has constituted about 150% revenue of Unilever.
+- **09:29–09:33:** Along with that, they have another initiatives
+- **09:33–09:39:** towards water purification, disability management.
+- **09:39–09:43:** So organizations are working towards
+- **09:43–09:48:** because this is the need of the environment.
+- **09:48–09:50:** This is the need of their customers.
+- **09:50–09:56:** They want to see ethical organization.
+- **09:56–10:01:** And now, moving on to internationalization strategy,
+- **10:01–10:06:** here we go beyond the mode of entry.
+- **10:06–10:11:** There are two pressures when the firms go international.
+- **10:11–10:17:** One is the pressure to reduce the cost.
+- **10:17–10:21:** And that the best way to do is sell the same product
+- **10:21–10:26:** across all the countries, with a very little customization
+- **10:26–10:29:** to setting up the standardized product.
+- **10:29–10:35:** Alternatively, you're going to have to be locally responsible.
+- **10:35–10:40:** So whichever country that you have selected for your firm's
+- **10:40–10:46:** entry, how effectively are you customizing the products there?
+- **10:46–10:51:** How do you meet the needs of the target market?
+- **10:51–10:54:** So that's what is the customization.
+- **10:54–10:57:** But it's a conflicting pressure.
+- **10:57–11:01:** You want to reduce the cost by selling the same product
+- **11:01–11:04:** everywhere, but then you also want
+- **11:04–11:08:** to meet the needs of the target customer.
+- **11:08–11:09:** And that's conflicting.
+- **11:09–11:13:** And that's bound to increase the cost.
+- **11:13–11:16:** So any internationalization firms
+- **11:16–11:23:** somehow falls into global versus local dilemma,
+- **11:23–11:27:** which is the extent to which the product and the services
+- **11:27–11:31:** needs to be standardized across the national boundaries,
+- **11:31–11:34:** or they need to be adapted.
+- **11:34–11:38:** That's the dilemma which the firm faces.
+- **11:38–11:41:** And all of you in your group report,
+- **11:41–11:44:** this is exactly that you're going to face
+- **11:44–11:50:** with a unique product or a service that you're offering.
+- **11:50–11:53:** And on the basis of this, please
+- **11:53–11:58:** note that standardization is quite simple.
+- **11:58–12:01:** is economically efficient.
+- **12:01–12:04:** And that's the way it has always worked.
+- **12:04–12:09:** However, customization is extremely expensive.
+- **12:09–12:13:** The firms which do not engage in customization
+- **12:13–12:17:** can sometimes exit the market as well.
+- **12:17–12:22:** For example, these baristas were shut down in Shanghai
+- **12:22–12:25:** because Chinese customers were not quite
+- **12:25–12:31:** and trapped it with the whole phenomena of a modern Barbie.
+- **12:31–12:33:** They didn't like the whole idea, the concept
+- **12:33–12:36:** that the Barbie was too westernized.
+- **12:36–12:38:** And it was not something that they
+- **12:38–12:44:** have always been fascinated by the dolls such as Hello Kitty,
+- **12:44–12:47:** which are cute-looking dolls, while Barbie
+- **12:47–12:50:** was quite modernized for young girls.
+- **12:50–12:54:** And ultimately, it led to a swear culture of backlash.
+- **12:54–12:59:** So Barbi didn't really customize the products.
+- **12:59–13:03:** Nevertheless, we have a fine example of McDonald's,
+- **13:03–13:05:** irrespective of the countries in which
+- **13:05–13:18:** those they know how to customize and adapt the loop of miles.
+- **13:18–13:25:** To these two freshers, there are four distinct
+- **13:25–13:27:** international strategies.
+- **13:27–13:32:** Your firm may adopt any one of them at any stage,
+- **13:32–13:37:** depending on the country of operation.
+- **13:37–13:41:** We are global, transnational, international,
+- **13:41–13:46:** and multi-domestic.
+- **13:46–13:50:** When the pressure for the standardization is low,
+- **13:50–13:54:** at the same time, the need for the local responsiveness
+- **13:54–13:55:** is quite low.
+- **13:55–14:01:** the firm would adapt an international strategy.
+- **14:01–14:03:** It will centralize the product development
+- **14:03–14:08:** in one particular country, and will manufacture
+- **14:08–14:11:** and market it globally.
+- **14:11–14:15:** That means, I repeat again, in this scenario,
+- **14:15–14:17:** the need to customize the product according
+- **14:17–14:20:** to the local market is quite low.
+- **14:20–14:23:** And the need to reduce the cost is also low.
+- **14:23–14:30:** I'm talking about the brand with high luxury fashion,
+- **14:30–14:32:** such as Rolls Royce.
+- **14:32–14:37:** Customers across the world, they want
+- **14:37–14:41:** the original Rolls Royce.
+- **14:41–14:45:** They want that uniqueness the product has.
+- **14:45–14:48:** They don't want anything to change into that.
+- **14:48–14:50:** They want that masterpiece.
+- **14:50–14:54:** So Rolls Royce is under no pressure
+- **14:54–14:58:** to reduce the cost is under no requirement
+- **14:58–15:00:** to customize the product.
+- **15:00–15:02:** They follow an international strategy,
+- **15:02–15:06:** keeping the prices as they like.
+- **15:06–15:10:** This is distinct from a multi-domestic firm
+- **15:10–15:16:** where the need of local responsiveness is quite high.
+- **15:16–15:20:** In that scenario, they would have to adapt,
+- **15:20–15:24:** adapt to the climate, adapt to the taste,
+- **15:24–15:29:** after the coffee culture, Nestle and Starbucks would do it.
+- **15:29–15:32:** So local responsiveness quite high
+- **15:32–15:35:** and the pressure of standardization is low.
+- **15:35–15:40:** The cost reduction pressure is quite low.
+- **15:40–15:45:** In contrast, the firms pursuing the local strategy,
+- **15:46–15:51:** for them, the pressure of standardization is very, very high.
+- **15:51–15:59:** very hard. They would have a very unique or a low need for response at best. And I'm talking
+- **15:59–16:10:** about the firms engaged in electronics. They can conveniently sell the same product with
+- **16:10–16:18:** very little customization, maybe some USB ports, maybe some chargers, as per the government
+- **16:18–16:22:** regulations, and they can literally sell the product as such.
+- **16:22–16:26:** So the need of the standardization is quite high,
+- **16:26–16:28:** but responsiveness is quite low.
+- **16:28–16:31:** And that's why they sit right there
+- **16:31–16:35:** in the upper left quadrant, following a global strategy.
+- **16:35–16:39:** Question?
+- **16:39–16:41:** I'm just giving the examples here.
+- **16:41–16:42:** Applewood.
