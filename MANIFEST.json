@@ -341,8 +341,8 @@
     },
     {
       "path": "BUS219/2026-TSD/HISTORY.md",
-      "bytes": 4315,
-      "sha256": "33d525a1802d18e07fe9dc2ba2c2924ddabe3124c44e76cc1b8415825aba26e1",
+      "bytes": 4789,
+      "sha256": "e95af95931186afcd2c4d7fcfd5d8bc42a1d3d11540f0919e806998d48538b6a",
       "storage": "git"
     },
     {
@@ -646,6 +646,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS219/2026-TSD/Materials/Lectures/2026-10-13/MCDONALDS_CASE_ANSWERS_EN.md",
+      "bytes": 3589,
+      "sha256": "974f97a0f7247e3a26bf4583f0e222c31e2b132e93031ec522f6bab00cb01b20",
+      "storage": "git"
+    },
+    {
       "path": "BUS219/2026-TSD/Materials/Lectures/2026-10-13/NOON_CLASS_RESPONSE_EN.md",
       "bytes": 3853,
       "sha256": "499fbe33b7a9e3ba351a9f5ae14cb8fec46ef09b999e99da9cc15abce017ed37",
@@ -653,8 +659,14 @@
     },
     {
       "path": "BUS219/2026-TSD/Materials/Lectures/2026-10-13/NOTES_RU.md",
-      "bytes": 13598,
-      "sha256": "bfeda30d3313847ebfc2790f87f1de9c0a73c04b370fbdad438c2f65baa60fdf",
+      "bytes": 15255,
+      "sha256": "79433981dfc1c1cb16abe7965f0ea7eaa63ee72b40e5350b1b486c5679d5f07e",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Materials/Lectures/2026-10-13/Photos/IMG_0082.HEIC",
+      "bytes": 3007237,
+      "sha256": "cea644a065ce2e5910b4a16effb6da35f3c74e56d2ebf80f2998d1c9726a4ccb",
       "storage": "git"
     },
     {
@@ -719,8 +731,8 @@
     },
     {
       "path": "BUS219/2026-TSD/Materials/README.md",
-      "bytes": 9482,
-      "sha256": "ad6f3f03293179cc0a60c6c437f9e8e651aab488c2483a47beedab3be7491ce6",
+      "bytes": 9632,
+      "sha256": "5d2ff3bd5fdf76712b3df56351e36c31ec6df10d7aea44658c0fc17ca837f94f",
       "storage": "git"
     },
     {
@@ -3460,6 +3472,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 576,
-  "total_bytes": 471741672
+  "file_count": 578,
+  "total_bytes": 474754779
 }

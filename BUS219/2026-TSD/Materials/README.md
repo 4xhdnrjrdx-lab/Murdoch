@@ -60,3 +60,5 @@
 - [Ответ для занятия: noon, простой английский](Lectures/2026-10-13/NOON_CLASS_RESPONSE_EN.md)
 
 - [Ryanair: ответ на задание о cost leadership, английский](Lectures/2026-10-13/RYANAIR_CLASS_RESPONSE_EN.md)
+
+- [Кейс McDonald’s: ответы на два вопроса по фото из класса](Lectures/2026-10-13/MCDONALDS_CASE_ANSWERS_EN.md)
