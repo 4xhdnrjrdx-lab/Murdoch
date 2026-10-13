@@ -55,3 +55,6 @@
 - [Poland_case_2026-09-22/.build/validation.json](Poland_case_2026-09-22/.build/validation.json)
 - [Poland_case_2026-09-22/output/Poland_speaking_notes.md](Poland_case_2026-09-22/output/Poland_speaking_notes.md)
 - [UnitOutline/00_UNIT_OUTLINE_BUS219_TSD2026.md](UnitOutline/00_UNIT_OUTLINE_BUS219_TSD2026.md)
+
+- [Конспект лекции 13 октября: стратегия и mission / vision / goals / values](Lectures/2026-10-13/NOTES_RU.md)
+- [Ответ для занятия: noon, простой английский](Lectures/2026-10-13/NOON_CLASS_RESPONSE_EN.md)

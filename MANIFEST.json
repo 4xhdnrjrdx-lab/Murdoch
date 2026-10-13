@@ -287,8 +287,8 @@
     },
     {
       "path": "BUS219/2026-TSD/CONTEXT.md",
-      "bytes": 5777,
-      "sha256": "283ba3fcb624a0ce9f63e8c99f37c2f40a2513a0d4794d17f5b20458c250c783",
+      "bytes": 6532,
+      "sha256": "5f1b7487942e9a77e92e99156e6c0d88afb6578a16b75c9fe09560cd8cd247aa",
       "storage": "git"
     },
     {
@@ -341,8 +341,8 @@
     },
     {
       "path": "BUS219/2026-TSD/HISTORY.md",
-      "bytes": 2594,
-      "sha256": "cfbb2b14948cacd0ef7697bef788b3d8fa0f200c64fccbba4014a47504c45991",
+      "bytes": 3364,
+      "sha256": "0921aecff7cc3b49684e624acd08662a30a0b8f4d929c7efcee4cc6343e929f8",
       "storage": "git"
     },
     {
@@ -622,6 +622,30 @@
       "storage": "git"
     },
     {
+      "path": "BUS219/2026-TSD/Materials/Lectures/2026-10-13/Audio/Recording_06.m4a",
+      "bytes": 2446103,
+      "sha256": "b5357a6ce7cf999d3a476ada8ca6c210c19abddd995055da7d2c11983911ae23",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Materials/Lectures/2026-10-13/NOON_CLASS_RESPONSE_EN.md",
+      "bytes": 3853,
+      "sha256": "499fbe33b7a9e3ba351a9f5ae14cb8fec46ef09b999e99da9cc15abce017ed37",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Materials/Lectures/2026-10-13/NOTES_RU.md",
+      "bytes": 6125,
+      "sha256": "ac8d39eea37edfda50c9c27e0d0978b35c43c901e5720b0f74770be1f2e80216",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Materials/Lectures/2026-10-13/Transcripts/Recording_06_auto.md",
+      "bytes": 5210,
+      "sha256": "13f89479c847c0ff0217c7c7d9e3499fb1432c0d21e5759bf0fe4e199b0714ca",
+      "storage": "git"
+    },
+    {
       "path": "BUS219/2026-TSD/Materials/Poland_case_2026-09-22/.build/build.mjs",
       "bytes": 7345,
       "sha256": "f38b16401220efe0d7eb09deb0bfc8cad53ad3032314ca4643733f2670f90a10",
@@ -659,8 +683,8 @@
     },
     {
       "path": "BUS219/2026-TSD/Materials/README.md",
-      "bytes": 9076,
-      "sha256": "3b09d20499dc002538cfaebd59afca51a3510f7ebf9491f240c21fd2954a38f1",
+      "bytes": 9346,
+      "sha256": "185c5fdeada0fd9e73a9170cb466edabacee3c5b5dd72a7b15f906ec412fea11",
       "storage": "git"
     },
     {
@@ -3400,6 +3424,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 566,
-  "total_bytes": 447400196
+  "file_count": 570,
+  "total_bytes": 449863282
 }

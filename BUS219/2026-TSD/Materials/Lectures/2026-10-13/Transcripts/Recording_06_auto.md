@@ -1,0 +1,64 @@
+# BUS219, 13 октября: автоматическая расшифровка записи 6
+
+Источник: Audio/Recording_06.m4a; исходное имя пользователя: «Новая запись 6.m4a». Длительность 4:53. Распознано локально faster-whisper small, английский, без загрузки аудио в сторонний сервис. Это автоматическая расшифровка, не заверенная дословная стенограмма. Начало записи обрезает предыдущую фразу.
+
+В распознавании около 01:44 «Pesto» означает по контексту PESTEL, около 01:48 «microportals by forces» — Porter's Five Forces. Эти исправления использованы в конспекте; исходный вывод ниже сохранён. Последние слова около 04:42 неразборчивы, для задания они не нужны.
+
+- **00:00–00:08:** isn't really about moving on to a different, you know, a segment.
+- **00:08–00:11:** Is it about geographical market?
+- **00:11–00:16:** Is it about increasing the product efficiency or process efficiency?
+- **00:16–00:19:** Which direction it wants to take?
+- **00:19–00:21:** The scope.
+- **00:21–00:23:** The scope is what?
+- **00:23–00:27:** Is it going to have a broader geographical spread?
+- **00:27–00:33:** What is it going to become a narrow? Is it going to serve the entire customer base?
+- **00:33–00:42:** Or decided to be extremely specific? So how broader or narrow the scope of the organization is going to be?
+- **00:42–00:45:** And then we'll talk about long term.
+- **00:45–00:54:** None of the firms wants a competitive advantage as we call superior profitability for a short period.
+- **00:54–01:01:** it has to be over a long period because you don't want to fall back and forth into that
+- **01:01–01:11:** yo-yo effect which achieves advantage. Advantage always remember its competitive advantage.
+- **01:11–01:20:** That means the average profitability of the firm needs to be higher as compared to its competitors.
+- **01:20–01:26:** And finally, we have a configuration of the resources.
+- **01:26–01:31:** How effectively can a firm align its human resources,
+- **01:31–01:35:** technological resources, financial resources?
+- **01:35–01:37:** How do you align them?
+- **01:37–01:40:** What unique capabilities the firms have got?
+- **01:40–01:44:** And it is a dynamic environment.
+- **01:44–01:46:** You already covered Pesto, right?
+- **01:46–01:48:** Political, economic, social.
+- **01:48–01:52:** social, you only covered microportals by forces.
+- **01:52–01:56:** Which shows that environment is always changing.
+- **01:56–01:58:** It has to be dynamic.
+- **01:58–02:02:** And you are able to fulfill the needs of the market,
+- **02:02–02:07:** whatever it is, and your stakeholder expectations.
+- **02:07–02:12:** The 360 degree, as we call it, the stakeholder perspective,
+- **02:12–02:17:** each and everyone involved with the organization,
+- **02:17–02:20:** any kind of contact becomes a stakeholder.
+- **02:20–02:23:** I'm not talking about shareholders,
+- **02:23–02:26:** I'm talking about stakeholder perspective.
+- **02:26–02:28:** We'll be talking about it in a brief,
+- **02:28–02:31:** but have a look at this.
+- **02:31–02:35:** This is, by far, the most comprehensive definition
+- **02:35–02:39:** of what a firm's strategy should be.
+- **02:39–02:44:** Direction, scope, long term,
+- **02:44–02:49:** configuration of resources and capabilities,
+- **02:49–02:53:** changing environment, the needs of the market,
+- **02:53–03:04:** and the stakeholder strategy is defining the vision.
+- **03:04–03:12:** Definition of what the vision is,
+- **03:12–03:17:** where it like to be 10 years, the values,
+- **03:17–03:19:** the corporate values.
+- **03:19–03:22:** So it, I mean, the existence of every organization,
+- **03:22–03:26:** Murdoch has its own corporate value.
+- **03:26–03:32:** Accenture will have its own corporate orders.
+- **03:32–03:39:** Organization is bind with the core corporate values
+- **03:39–03:42:** and, of course, the goals of the corporation.
+- **03:42–03:44:** So before we move on to that,
+- **03:44–03:51:** let's take about some time and look at what a mission is.
+- **03:51–03:55:** A mission describes what a company does
+- **03:56–03:58:** and a key indicator,
+- **03:58–04:03:** how an organization views its stakeholders,
+- **04:03–04:11:** much important is given to stakeholders. Depending on the type of the mission statement, it could be
+- **04:11–04:24:** a product oriented. Let's focus on the product. Why don't you search the mission and the mission
+- **04:24–04:33:** statement of your favorite. Please go ahead, take some time, scroll to the net, tell me about the
+- **04:33–04:41:** mission, the vision, the corporate goals, the values of your favorite brand. I'm sure all of
+- **04:41–04:46:** of us have one of that. So let's go last.
