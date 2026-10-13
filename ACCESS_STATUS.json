@@ -1,18 +1,19 @@
 {
   "mail": {
-    "checked_at": "2026-10-08T17:18:37.213029+04:00",
-    "scope": "after:2026/10/07 (from:Ashok.Mitra@murdoch.edu.au OR BUS334 OR \"BUS 334\" OR \"Business Analytics\"); two replies read",
-    "result": "Found 8 October teacher final-groups email and replies from Aliaskar and Vishal to WhatsApp request. Phone numbers not saved. User confirms WhatsApp group created.",
+    "checked_at": "2026-10-13T14:09:10.323874+04:00",
+    "scope": "after:2026/09/01 (BUS219 OR \"International Business\" OR from:Navneet.Walia@murdoch.edu.au); 4 results, Quiz 1 and old group announcement bodies read",
+    "result": "Новое письмо Dr Walia 12 октября: Quiz 1 открыт, завершить до 20 октября.",
     "last_check_by_course": {
       "BUS219": {
-        "checked_at": "2026-10-07T13:31:59.360199+04:00",
-        "scope": "after:2026/09/15 (BUS219 OR \"International Business\")",
-        "result": "Последнее найденное письмо от 18 сентября о группах и постере Week 6. Уточнений Quiz 1 и A2 нет.",
+        "checked_at": "2026-10-13T14:09:10.323874+04:00",
+        "account": "jafarovfayaz@gmail.com",
+        "scope": "after:2026/09/01 (BUS219 OR \"International Business\" OR from:Navneet.Walia@murdoch.edu.au); 4 results, Quiz 1 and old group announcement bodies read",
+        "result": "Новое письмо Dr Walia 12 октября: Quiz 1 открыт, завершить до 20 октября.",
         "uncovered": [
           "Полный университетский Outlook",
           "WhatsApp"
         ],
-        "evidence": "Archive/Correspondence/2026-10-07_general-study-check.json"
+        "evidence": "BUS219/2026-TSD/Correspondence/2026-10-12_assessment-quiz1-email.md"
       },
       "BUS230": {
         "checked_at": "2026-10-07T22:48:17+04:00",
@@ -46,7 +47,7 @@
         "evidence": "BUS334/2026-TSD/Correspondence/2026-10-08_whatsapp-group-created.md"
       }
     },
-    "evidence": "BUS334/2026-TSD/Correspondence/2026-10-08_whatsapp-group-created.md",
+    "evidence": "BUS219/2026-TSD/Correspondence/2026-10-12_assessment-quiz1-email.md",
     "outlook_attempt": {
       "attempted_at": "2026-10-07T13:31:59.360199+04:00",
       "result": "No accessible Outlook tab in connected browser inventory; no Outlook connector available in this chat",
@@ -56,7 +57,7 @@
       "preferred_account": "jafarovfayaz@gmail.com",
       "preference_source": "Прямое сообщение пользователя 8 октября 2026: основная почта fayaz201499@gmail.com; для учёбы подключить jafarovfayaz@gmail.com",
       "last_verified_connected_account": "jafarovfayaz@gmail.com",
-      "profile_verified_at": "2026-10-08T17:18:38.595375+04:00",
+      "profile_verified_at": "2026-10-13T14:09:10.323874+04:00",
       "switch_status": "verified",
       "personal_account_for_study_checks": "do_not_use",
       "forwarding_observation": {
@@ -90,11 +91,11 @@
     }
   },
   "lms": {
-    "checked_at": "2026-10-08T17:17:16.679157+04:00",
+    "checked_at": "2026-10-13T14:07:24.846640+04:00",
     "result": "ok",
-    "operation": "Latest check: BUS334 read-only course contents, assignments, own submissions, grades, own groups and news forums",
+    "operation": "Latest check: BUS219 read-only site info, course contents, quiz and assignment metadata, news discussions; own attempts/submissions/grades not checked",
     "last_success_by_course": {
-      "BUS219": "2026-10-07T13:30:37.197860+04:00",
+      "BUS219": "2026-10-13T14:07:24.846640+04:00",
       "BUS225": "2026-10-07T13:30:42.457759+04:00",
       "BUS230": "2026-10-07T22:30:30.833591+04:00",
       "BUS334": "2026-10-08T17:17:16.679157+04:00"
@@ -110,7 +111,7 @@
       "BUS334": true
     },
     "evidence": {
-      "BUS219": "Archive/Correspondence/2026-10-07_general-study-check.json",
+      "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-13_lms-deadlines.json",
       "BUS225": "Archive/Correspondence/2026-10-07_general-study-check.json",
       "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-07_ADKAR-preparation-check.json",
       "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-08_group-followup-lms-check.json"

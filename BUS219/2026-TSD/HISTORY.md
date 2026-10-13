@@ -14,3 +14,5 @@
 - 2026-10-07 13:06 Asia/Dubai: при продолжении повторно проверены Gmail и Moodle; конфликтующие сроки Quiz 1 и A2 не разрешены. [Проверка](Correspondence/2026-10-07_continuation-check.json).
 
 - 2026-10-07: Повторно прочитан outline: §4 Quiz 1 к концу Week 10, §5.2.1 длительность 30 минут. Пользователь также ожидает Week 10; используется как рабочий ориентир, конфликт Week 8 сохранён. [Источник](Correspondence/2026-10-07_quiz1-outline-review.md).
+
+- 2026-10-13: проверен учебный Gmail; письмо Dr Walia от 12 октября объявляет открытие Quiz 1 до 20 октября. Moodle подтвердил Quiz 1 20 октября, Quiz 2 24 ноября, A2 6 ноября, все в 19:55 Asia/Dubai; записи сроков обновлены. [Письмо](Correspondence/2026-10-12_assessment-quiz1-email.md), [метаданные](Correspondence/2026-10-13_lms-deadlines.json).

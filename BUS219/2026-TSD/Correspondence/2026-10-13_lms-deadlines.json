@@ -1,0 +1,66 @@
+{
+  "checked_at": "2026-10-13T14:07:24.846640+04:00",
+  "courseid": 31585,
+  "operations": "read-only site info, quiz metadata, contents and news discussions, assignment metadata",
+  "assessment_modules": [
+    {
+      "id": 3111389,
+      "name": "Quiz 1 due:  by 23:55, 20th of Oct",
+      "modname": "quiz",
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3111389"
+    },
+    {
+      "id": 3111390,
+      "name": "Quiz 2 due: 23:55, 24th of Nov",
+      "modname": "quiz",
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3111390"
+    },
+    {
+      "id": 3111392,
+      "name": "Business project report due:  at 23.55pm, 6th of Nov",
+      "modname": "assign",
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3111392"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": 111647,
+      "name": "Quiz 1 due:  by 23:55, 20th of Oct",
+      "timeopen": 0,
+      "timeclose": 1792511700,
+      "timelimit": 1800,
+      "attempts": 1,
+      "grademethod": 1,
+      "timeclose_dubai": "2026-10-20T19:55:00+04:00"
+    },
+    {
+      "id": 111648,
+      "name": "Quiz 2 due: 23:55, 24th of Nov",
+      "timeopen": 0,
+      "timeclose": 1795535700,
+      "timelimit": 1800,
+      "attempts": 1,
+      "grademethod": 1,
+      "timeclose_dubai": "2026-11-24T19:55:00+04:00"
+    }
+  ],
+  "announcements": [
+    {
+      "name": "Assessment Quiz 1 ",
+      "modified": 1791781638,
+      "discussion": 992510,
+      "summary": "Quiz 1 открыт; завершить до вторника 20 октября. Час в объявлении не указан."
+    }
+  ],
+  "result": "ok",
+  "assignments": [
+    {
+      "id": 126475,
+      "name": "Business project report due:  at 23.55pm, 6th of Nov",
+      "duedate": 1793980500,
+      "cutoffdate": 0,
+      "allowsubmissionsfromdate": 0,
+      "duedate_dubai": "2026-11-06T19:55:00+04:00"
+    }
+  ]
+}

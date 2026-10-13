@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course": "BUS219",
   "period": "2026-TSD",
-  "reviewed_at": "2026-10-07T13:39:06.589538+04:00",
+  "reviewed_at": "2026-10-13T14:09:10.323874+04:00",
   "allowed_states": [
     "предложено",
     "согласовано",
@@ -17,23 +17,35 @@
       "id": "A1",
       "title": "Два онлайн-квиза, суммарно 20%",
       "status": "предложено",
-      "next_action": "Готовиться к Quiz 1 в Week 10 по расписанию Unit Outline: к концу занятия, 30 минут, open book. Точный час в outline не указан.",
-      "detail": "Два онлайн-квиза с multiple choice, open book, по 30 минут. Для подготовки к Quiz 1 используется Week 10 из §4, что согласуется с сообщением пользователя 7 октября. Начало подготовки, прохождение и сдача не установлены.",
+      "next_action": "Пройти открытый Quiz 1 до 20 октября 2026, 19:55 Asia/Dubai; 30 минут, одна попытка. Начать заранее.",
+      "detail": "Quiz 1 открыт по объявлению Dr Walia от 12 октября; Moodle подтверждает 30 минут и одну попытку. Open book / multiple choice указаны в Unit Outline. Собственные попытки и оценки при этой проверке не запрашивались.",
       "deadlines": [
         {
-          "value": "Quiz 1: к концу занятия Week 10; точный час не указан",
+          "value": "Quiz 1: 2026-10-20 19:55 Asia/Dubai (timeclose=1792511700)",
+          "source_label": "Moodle API, quiz 111647; письмо Dr Walia от 12 октября подтверждает дату",
+          "checked_at": "2026-10-13",
+          "source_path": "Correspondence/2026-10-13_lms-deadlines.json"
+        },
+        {
+          "value": "Quiz 2: 2026-11-24 19:55 Asia/Dubai (timeclose=1795535700)",
+          "source_label": "Moodle API, quiz 111648",
+          "checked_at": "2026-10-13",
+          "source_path": "Correspondence/2026-10-13_lms-deadlines.json"
+        },
+        {
+          "value": "Quiz 1: к концу занятия Week 10; точный час не указан — прежний ориентир; актуальная дата установлена Moodle 13 октября",
           "source_label": "Unit Outline §4 Unit Schedule; рабочий ориентир подтверждён сообщением пользователя",
           "checked_at": "2026-10-07",
           "source_path": "Materials/UnitOutline/00_UNIT_OUTLINE_BUS219_TSD2026.md"
         },
         {
-          "value": "Quiz 1: Week 8 — противоречащая запись, сохранена для сверки",
+          "value": "Quiz 1: Week 8 — противоречащая запись, сохранена для сверки — прежний ориентир; актуальная дата установлена Moodle 13 октября",
           "source_label": "Unit Outline §5.1 и §5.2.1",
           "checked_at": "2026-10-07",
           "source_path": "Materials/UnitOutline/00_UNIT_OUTLINE_BUS219_TSD2026.md"
         },
         {
-          "value": "Quiz 2: Week 14, точное время неизвестно",
+          "value": "Quiz 2: Week 14, точное время неизвестно — прежний ориентир; актуальная дата установлена Moodle 13 октября",
           "source_label": "Unit Outline",
           "checked_at": "2026-09-15",
           "source_path": "Materials/UnitOutline/00_UNIT_OUTLINE_BUS219_TSD2026.md"
@@ -57,9 +69,21 @@
           "note": "Повторно прочитан outline: §4 Quiz 1 к концу Week 10, §5.2.1 длительность 30 минут. Пользователь также ожидает Week 10; используется как рабочий ориентир, конфликт Week 8 сохранён.",
           "path": "Correspondence/2026-10-07_quiz1-outline-review.md",
           "source": ""
+        },
+        {
+          "date": "2026-10-12",
+          "note": "Dr Walia: Quiz 1 уже открыт, завершить до вторника 20 октября; письмо прочитано 13 октября.",
+          "path": "Correspondence/2026-10-12_assessment-quiz1-email.md",
+          "source": ""
+        },
+        {
+          "date": "2026-10-13",
+          "note": "Серверные даты Quiz 1/Quiz 2 переведены в Asia/Dubai; лимит каждого 30 минут, одна попытка.",
+          "path": "Correspondence/2026-10-13_lms-deadlines.json",
+          "source": ""
         }
       ],
-      "unknown": "Точная календарная дата и часы Quiz 1 не указаны в outline; прохождение и оценки неизвестны. Противоречие Week 8/Week 10 официально не исправлено; для подготовки используем Week 10 по §4 и сообщению пользователя.",
+      "unknown": "Собственные попытки и оценки неизвестны. Час 23:55 в названиях модулей указан без зоны; timestamp соответствует 19:55 Asia/Dubai. Старые недели сохранены как прежние источники, текущие сроки определяются Moodle.",
       "show_on_overview": true,
       "correction": ""
     },
@@ -105,17 +129,23 @@
       "id": "A2",
       "title": "Групповой бизнес-план, отчёт 4000 слов, 30%",
       "status": "согласовано",
-      "next_action": "Продолжить часть Faiaz о рынке Иордании; подтвердить требования и срок команды.",
+      "next_action": "Продолжить часть Faiaz о рынке Иордании; согласовать внутренний срок команды и загрузчика. Срок отчёта: 6 ноября, 19:55 Asia/Dubai.",
       "detail": "Тема команды noon/Jordan; распределение на обновлённом постере разобрано 29 сентября. Рабочие гипотезы входа на рынок не являются доказанными операциями компании.",
       "deadlines": [
         {
-          "value": "К концу занятия Week 12",
+          "value": "2026-11-06 19:55 Asia/Dubai (duedate=1793980500)",
+          "source_label": "Moodle API, assignment 126475",
+          "checked_at": "2026-10-13",
+          "source_path": "Correspondence/2026-10-13_lms-deadlines.json"
+        },
+        {
+          "value": "К концу занятия Week 12 — прежняя запись outline; текущий срок установлен Moodle 13 октября",
           "source_label": "Unit Outline, расписание/таблица",
           "checked_at": "2026-09-15",
           "source_path": "Materials/UnitOutline/00_UNIT_OUTLINE_BUS219_TSD2026.md"
         },
         {
-          "value": "Через 3 дня после занятия Week 12",
+          "value": "Через 3 дня после занятия Week 12 — прежняя запись outline; текущий срок установлен Moodle 13 октября",
           "source_label": "Unit Outline §5.2.2",
           "checked_at": "2026-09-15",
           "source_path": "Materials/UnitOutline/00_UNIT_OUTLINE_BUS219_TSD2026.md"
@@ -139,9 +169,15 @@
           "note": "Повторная проверка почты и Moodle в 13:06 Asia/Dubai: уточнений сроков нет; API не показывает quiz/assign.",
           "path": "Correspondence/2026-10-07_continuation-check.json",
           "source": ""
+        },
+        {
+          "date": "2026-10-13",
+          "note": "Портал отчёта появился; duedate подтверждает 6 ноября 19:55 Asia/Dubai. cutoffdate=0 не является официальным продлением.",
+          "path": "Correspondence/2026-10-13_lms-deadlines.json",
+          "source": ""
         }
       ],
-      "unknown": "Противоречие сроков не разрешено; время и финальный загрузчик неизвестны.",
+      "unknown": "Финальный загрузчик и внутренний срок команды неизвестны. В названии модуля 23:55 без зоны; серверный duedate соответствует 19:55 Asia/Dubai. Сдача и оценка при этой проверке не проверялись.",
       "show_on_overview": true,
       "correction": ""
     },
