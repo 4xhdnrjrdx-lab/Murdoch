@@ -25,7 +25,13 @@
           "Full university Outlook",
           "WhatsApp"
         ],
-        "evidence": "BUS230/2026-TSD/Correspondence/2026-10-14_delivery-format-check.json"
+        "evidence": "BUS230/2026-TSD/Correspondence/2026-10-14_delivery-format-check.json",
+        "additional_check": {
+          "checked_on": "2026-10-14",
+          "scope": "after:2026/10/07 (BUS230 OR \"Change Management\")",
+          "result": "No matching messages found; full Outlook and WhatsApp not checked",
+          "evidence": "BUS230/2026-TSD/Correspondence/2026-10-14_1414_continuation-check.json"
+        }
       },
       "BUS225": {
         "checked_at": "2026-10-07T13:31:59.360199+04:00",
@@ -93,13 +99,13 @@
     }
   },
   "lms": {
-    "checked_at": "2026-10-14T13:49:32.974546+04:00",
+    "checked_at": "2026-10-14T14:14:52.531048+04:00",
     "result": "ok",
     "operation": "Latest read-only check: BUS230 A2 portal and own group; other course records retained",
     "last_success_by_course": {
       "BUS219": "2026-10-13T14:07:24.846640+04:00",
       "BUS225": "2026-10-07T13:30:42.457759+04:00",
-      "BUS230": "2026-10-14T13:49:32.974546+04:00",
+      "BUS230": "2026-10-14T14:14:52.531048+04:00",
       "BUS334": "2026-10-08T17:17:16.679157+04:00"
     },
     "token_expiry": "unknown",
@@ -115,7 +121,7 @@
     "evidence": {
       "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-13_lms-deadlines.json",
       "BUS225": "Archive/Correspondence/2026-10-07_general-study-check.json",
-      "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-14_delivery-format-check.json",
+      "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-14_1414_continuation-check.json",
       "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-08_group-followup-lms-check.json"
     }
   },

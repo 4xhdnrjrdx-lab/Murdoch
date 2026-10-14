@@ -1,0 +1,1607 @@
+{
+  "title": "Using ADKAR with Context and Evidence",
+  "prepared_on": "2026-10-14",
+  "group": "Class 2 Group 4",
+  "students": [
+    "Mohammad Mazin Mohammad Al Mili",
+    "Beryl Soria",
+    "Faiaz Dzhafarov (35553299)",
+    "Aram Avetisyan"
+  ],
+  "slide_count": 30,
+  "target_seconds": 1770,
+  "academic_source_count": 20,
+  "team_agreement": "Unknown. Faiaz authorised preparation using this basis.",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Using ADKAR with\nContext and Evidence",
+      "kind": "cover",
+      "body": [],
+      "notes": "Good afternoon. We are Class 2 Group 4. Today we will run a formal training session for managers using ADKAR with context and evidence. Our aim is to help you decide what to do when a colleague understands a change, but the working conditions still prevent them from carrying it out.\n\nWe will explain the original model, examine four bounded limitations of using it alone, and demonstrate our modified decision record. The retail case is fictional. The record is a teaching adaptation developed for this assessment, and its effectiveness has not been tested in a real organisation.",
+      "cites": "Prosci n.d.-a; BUS230 Unit Outline §5.2.2",
+      "seconds": 55,
+      "presenter": "Mazin"
+    },
+    {
+      "number": 2,
+      "title": "Session overview",
+      "kind": "table",
+      "body": [
+        [
+          "Section",
+          "Manager question"
+        ],
+        [
+          "Introduction and context",
+          "What task is changing?"
+        ],
+        [
+          "Analytical foundation",
+          "What does ADKAR explain?"
+        ],
+        [
+          "Tool modification",
+          "Who owns the next action?"
+        ],
+        [
+          "Research and evidence",
+          "What supports this decision?"
+        ],
+        [
+          "Communication and engagement",
+          "How will people question and practise it?"
+        ],
+        [
+          "Conclusion",
+          "What should the manager do next?"
+        ]
+      ],
+      "notes": "Our session has six sections. First, we define the change and the manager's task. We then explain ADKAR and its useful features, before examining where a simple individual checklist needs more explicit decision rules.\n\nNext, we show the modified record, including actions, responsibilities, and evidence. We connect those design choices to academic research and compare our addition with what Prosci already provides. Finally, we demonstrate a short scenario and return to the manager's next decision.\n\nMazin will introduce the model. Beryl will develop the analysis and the first records. Faiaz will connect the actions into one tool. Aram will explain the evidence and lead the demonstration. The presentation does not require printed material.",
+      "cites": "BUS230 Unit Outline §5.2.2",
+      "seconds": 60,
+      "presenter": "Mazin"
+    },
+    {
+      "number": 3,
+      "title": "Cedar Retail: the change",
+      "kind": "case",
+      "body": [
+        [
+          "Setting",
+          "A fictional retailer introduces barcode stock receiving across two shifts."
+        ],
+        [
+          "Affected task",
+          "Receive a delivery, identify a stock mismatch and report it correctly."
+        ],
+        [
+          "Manager problem",
+          "The evening shift lacks reliable scanner access and protected practice time."
+        ],
+        [
+          "Employee concern",
+          "Inherited stock errors may reduce the colleague's performance rating."
+        ]
+      ],
+      "notes": "Cedar Retail is a fictional retailer introducing barcode stock receiving across its day and evening shifts. The affected task is specific: receive a delivery, identify a stock mismatch, and report it correctly. We use one task so that the manager can observe a concrete behaviour rather than claim that the whole store is ready.\n\nIn the scenario, the evening colleague understands the purpose and procedure. However, reliable scanner access and protected practice time are missing. The colleague also worries that old stock errors will reduce their performance rating.\n\nThese are scenario assumptions, not findings from employee interviews or company data. They let us examine technology, staffing, authority, rewards, and individual support in the same decision. There is no invented performance improvement or consent from real employees.",
+      "cites": "Fictional teaching scenario; no company research data",
+      "seconds": 70,
+      "presenter": "Mazin"
+    },
+    {
+      "number": 4,
+      "title": "Manager learning objectives",
+      "kind": "objectives",
+      "body": [
+        [
+          "Diagnose",
+          "Identify an individual ADKAR barrier and the support it calls for."
+        ],
+        [
+          "Connect",
+          "Link the affected task to organisational conditions and accountable owners."
+        ],
+        [
+          "Decide",
+          "Explain continue, revise or pause using evidence and prerequisites."
+        ]
+      ],
+      "notes": "By the end of the training, a manager should be able to do three things. First, identify a personal ADKAR barrier and explain the relevant support. Second, connect that barrier to working conditions and the people who can change them. Third, explain a decision to continue, revise, or pause an affected task using evidence.\n\nWe will check these objectives with a delivery scenario near the end. The learning check asks for a reasoned decision, not a memorised list of letters. A manager must explain the missing prerequisite, name its owner, and say what would need to change before the decision is reviewed.\n\nThese objectives are preparation targets for this training. They do not claim that the class demonstration can establish business benefits or validate a readiness measure.",
+      "cites": "Prosci n.d.-a; Nilsen 2015",
+      "seconds": 65,
+      "presenter": "Mazin"
+    },
+    {
+      "number": 5,
+      "title": "The original ADKAR model",
+      "kind": "table",
+      "body": [
+        [
+          "Outcome",
+          "Meaning",
+          "Relevant manager support"
+        ],
+        [
+          "Awareness",
+          "Understanding why change is needed",
+          "Explain the purpose and consequences"
+        ],
+        [
+          "Desire",
+          "Willingness to participate and support it",
+          "Explore interests and concerns"
+        ],
+        [
+          "Knowledge",
+          "Knowing how to change",
+          "Explain and teach the new task"
+        ],
+        [
+          "Ability",
+          "Applying skills and behaviours",
+          "Provide practice and usable conditions"
+        ],
+        [
+          "Reinforcement",
+          "Sustaining the change",
+          "Recognise, review and support use"
+        ]
+      ],
+      "notes": "ADKAR stands for Awareness, Desire, Knowledge, Ability, and Reinforcement. Prosci presents it as a model of individual change. Each element identifies a different outcome that the person needs. Understanding the purpose does not automatically create willingness. Knowing the procedure does not automatically demonstrate the ability to perform it.\n\nThe model provides a memorable language for choosing support. A knowledge difficulty may call for instruction. An ability difficulty may require practice or changes to working conditions. Reinforcement helps sustain use after the initial introduction.\n\nThe elements are individual prerequisites rather than five fixed calendar phases for an entire project. In our case, the colleague can explain the receiving procedure. That supports a Knowledge judgement, but the manager still needs to observe performance with usable equipment and time. We retain this distinction in the modified tool.",
+      "cites": "Prosci n.d.-a; Creasey 2025",
+      "seconds": 85,
+      "presenter": "Mazin"
+    },
+    {
+      "number": 6,
+      "title": "Strengths, assessment and scope",
+      "kind": "columns",
+      "body": [
+        [
+          "Useful baseline",
+          "Shared language\nEarliest barrier\nTargeted individual support\nRepeated assessment"
+        ],
+        [
+          "Wider Prosci Methodology",
+          "PCT: success, sponsorship and project health\n3-Phase Process: prepare, manage and sustain\nADKAR: individual adoption"
+        ]
+      ],
+      "notes": "The model's strengths are clarity and focus. It helps managers avoid giving the same training to every person. Prosci's public assessment uses a one-to-five scale and identifies the first element at three or below as a barrier point. We use that as a conversation prompt, without treating it as a universal prediction of success.\n\nAssessment, targeted action, practice, and reassessment already exist. They are not innovations from our group. More importantly, the full Prosci Methodology also includes the PCT Model and the 3-Phase Process. These address sponsorship, project health, planning, and sustainment.\n\nOur critique therefore concerns the standalone five-outcome checklist and the explicit rules in a small manager record. It would be inaccurate to say that Prosci has no organisational planning or evaluation. Beryl will now examine the four remaining gaps.",
+      "cites": "Prosci 2022; Prosci n.d.-b, n.d.-c, n.d.-d; Holt et al. 2007",
+      "seconds": 85,
+      "presenter": "Mazin"
+    },
+    {
+      "number": 7,
+      "title": "L1: shared working conditions",
+      "kind": "columns",
+      "body": [
+        [
+          "ADKAR provision",
+          "Ability can involve external conditions. Individual support remains relevant."
+        ],
+        [
+          "Remaining gap",
+          "The five outcomes alone do not allocate coupled conditions across organisational owners."
+        ],
+        [
+          "Cedar Retail",
+          "Scanner access belongs to IT. Protected practice time belongs to the store manager."
+        ]
+      ],
+      "notes": "The first limitation concerns shared working conditions. Ability can include external constraints, so we are not arguing that ADKAR ignores resources. The narrower gap is that the five outcome labels do not provide a complete shared record of conditions, owners, and prerequisites across roles.\n\nWeiner distinguishes organisational readiness from individual readiness. Rafferty and colleagues also examine readiness at individual, group, and organisational levels. Oreg and colleagues show that responses to change involve both personal and contextual factors. These works support examining the wider setting. They do not test our record.\n\nAt Cedar Retail, more instruction cannot repair a scanner or protect time in the roster. The manager must connect those conditions to the task and assign them to people with authority. Our first addition makes that ownership and prerequisite explicit.",
+      "cites": "Weiner 2009; Rafferty, Jimmieson, and Armenakis 2013; Oreg, Vakola, and Armenakis 2011",
+      "seconds": 70,
+      "presenter": "Beryl"
+    },
+    {
+      "number": 8,
+      "title": "L2: a reasonable objection",
+      "kind": "columns",
+      "body": [
+        [
+          "Mixed response",
+          "The colleague supports better stock records but questions the penalty rule."
+        ],
+        [
+          "Remaining gap",
+          "A Desire barrier does not itself require a sponsor to review the design."
+        ],
+        [
+          "Added rule",
+          "Record the concern and alternative. Require a reasoned retain, revise or stop decision."
+        ]
+      ],
+      "notes": "The second limitation concerns reasonable objections. A colleague can support accurate stock records while disagreeing with a penalty rule. Piderit describes responses to change as multidimensional and potentially ambivalent. Oreg's research connects resistance with context as well as personal characteristics. The recent review by Oreg and Sverdlik also draws attention to ambivalence and timing.\n\nA low Desire score therefore does not tell the manager whether the proposed requirement is fair or workable. Ford and colleagues argue that change agents can contribute to resistance through their own actions and inactions. This supports treating a concern as information rather than automatically as a problem inside the employee.\n\nWe retain the Desire conversation, but add an accountable sponsor response. The sponsor must explain whether to retain, revise, or stop the disputed requirement. This rule does not guarantee agreement or remove unequal power.",
+      "cites": "Piderit 2000; Oreg 2006; Ford, Ford, and D'Amelio 2008; Oreg and Sverdlik 2026",
+      "seconds": 75,
+      "presenter": "Beryl"
+    },
+    {
+      "number": 9,
+      "title": "L3: dependencies across roles",
+      "kind": "columns",
+      "body": [
+        [
+          "Individual route",
+          "The earliest personal barrier guides the colleague's support."
+        ],
+        [
+          "Organisational route",
+          "IT and the store manager can resolve enabling conditions in parallel."
+        ],
+        [
+          "Remaining gap",
+          "A personal sequence alone does not schedule the linked work across roles."
+        ]
+      ],
+      "notes": "The third limitation concerns the order of actions across roles. The earliest individual barrier helps target support for the colleague. It does not, by itself, provide a project schedule for IT, the store manager, and the sponsor.\n\nBurke and Litwin describe links between organisational systems, management practices, motivation, and performance. Herold and colleagues investigate how contextual and personal factors interact in commitment to change. Pettigrew and colleagues emphasise context, levels of analysis, time, and process. Together, these perspectives justify making dependencies visible.\n\nIn the scenario, the manager can discuss the colleague's concern while IT works on access. Those activities can happen in parallel. The affected receiving task still pauses if an essential condition is missing. We keep personal prerequisites and add a separate rule for coordinating organisational work.",
+      "cites": "Burke and Litwin 1992; Herold, Fedor, and Caldwell 2007; Pettigrew, Woodman, and Cameron 2001; BUS230 Topic 7",
+      "seconds": 70,
+      "presenter": "Beryl"
+    },
+    {
+      "number": 10,
+      "title": "L4 and the analysis summary",
+      "kind": "table",
+      "body": [
+        [
+          "Gap in a standalone checklist",
+          "Explicit addition"
+        ],
+        [
+          "L1: shared conditions and ownership",
+          "Joint conditions record"
+        ],
+        [
+          "L2: justified challenge to the design",
+          "Accountable sponsor response"
+        ],
+        [
+          "L3: actions across dependent roles",
+          "Dependency routing rule"
+        ],
+        [
+          "L4: conflicting readiness evidence",
+          "Evidence disagreement rule"
+        ]
+      ],
+      "notes": "The fourth limitation concerns evidence. A brief score is a useful snapshot, but it cannot automatically prove workplace performance. ADKAR already distinguishes Knowledge from Ability and supports observation. Our remaining question is what the manager should do when self-report, task performance, and working conditions disagree.\n\nHolt and colleagues developed a multidimensional readiness instrument through a systematic process. Jo and Hong's newer scale also involves substantial development and testing. Their work reminds us that a readiness judgement needs a clear construct and appropriate evidence. Our classroom record has not undergone that validation.\n\nThe table brings all four bounded gaps together. Each has a specific addition, and each addition has a limit. We are examining a use case, not claiming four proven defects in every application of ADKAR.",
+      "cites": "Holt et al. 2007; Jo and Hong 2023; Prosci n.d.-d",
+      "seconds": 70,
+      "presenter": "Beryl"
+    },
+    {
+      "number": 11,
+      "title": "Modified tool overview",
+      "kind": "diagram",
+      "body": [
+        [
+          "Retained baseline",
+          "Individual ADKAR needs and relevant support"
+        ],
+        [
+          "Added records",
+          "Conditions, challenge, dependencies and evidence"
+        ],
+        [
+          "Manager output",
+          "A justified task decision, named owners and a review trigger"
+        ]
+      ],
+      "notes": "Our modified tool is a digital decision record attached to the individual ADKAR assessment. We retain the five outcomes and the support they guide. Around that baseline, we add four connected records: working conditions, a response to a challenge, cross-role dependencies, and an evidence disagreement rule.\n\nThe output is a specific task decision. It names what can continue, what needs revision, and what must pause. It also names the people responsible and the evidence needed for review.\n\nThis is a teaching adaptation informed by academic work. It is not an official Prosci product or a replacement for the full methodology. Its contribution is the explicit connection between the records and the decision. The ideas of dialogue, learning, and reassessment already exist, so we do not present those alone as new.",
+      "cites": "Prosci n.d.-a, n.d.-b, n.d.-c, n.d.-d; design proposal",
+      "seconds": 65,
+      "presenter": "Beryl"
+    },
+    {
+      "number": 12,
+      "title": "Conditions and challenge records",
+      "kind": "table",
+      "body": [
+        [
+          "Record",
+          "Cedar Retail entry",
+          "Accountable owner"
+        ],
+        [
+          "Condition",
+          "Reliable scanner login is missing",
+          "IT lead"
+        ],
+        [
+          "Condition",
+          "Practice time is missing from the roster",
+          "Store manager"
+        ],
+        [
+          "Challenge",
+          "Inherited errors may trigger a rating penalty",
+          "Operations sponsor"
+        ],
+        [
+          "Response required",
+          "Retain, revise or stop the rule, with a reason",
+          "Operations sponsor"
+        ]
+      ],
+      "notes": "Here are the first two records filled with our fictional case. The IT lead owns reliable scanner access. The store manager owns protected practice time. Each entry needs completion evidence rather than a promise that someone will fix it.\n\nThe concern record preserves the colleague's meaning: inherited errors may reduce their performance rating. It asks for evidence and an alternative, such as separating inherited errors from new receiving mistakes. The operations sponsor owns the response because that role controls the policy.\n\nFor demonstration, the record requests a decision before the affected task goes live. We have not invented a sponsor approval. A staff representative can check that the concern is represented accurately, without implying everyone consents. Faiaz will now connect these records to the actions and the final decision.",
+      "cites": "Ford, Ford, and D'Amelio 2008; design proposal; fictional entries",
+      "seconds": 70,
+      "presenter": "Beryl"
+    },
+    {
+      "number": 13,
+      "title": "Dependency register",
+      "kind": "table",
+      "body": [
+        [
+          "Upstream condition",
+          "Dependent action",
+          "Owner",
+          "Completion evidence"
+        ],
+        [
+          "Scanner access",
+          "Practise receiving a delivery",
+          "IT lead",
+          "Successful login on the actual shift"
+        ],
+        [
+          "Protected time",
+          "Complete realistic practice",
+          "Store manager",
+          "Rostered time and completed task"
+        ],
+        [
+          "Penalty rule response",
+          "Clarify the disputed requirement",
+          "Sponsor",
+          "Written decision and reason"
+        ]
+      ],
+      "notes": "My part connects the records into a usable decision. The dependency register links an upstream condition to a downstream task, its owner, and completion evidence.\n\nFor example, the colleague's practice depends on reliable access. IT owns that condition. The store manager controls time in the roster. The sponsor controls the response to the disputed rating rule. Naming the employee on every action would hide these differences in authority.\n\nThe three organisational owners can work while the manager continues the individual support conversation. However, parallel work does not mean the receiving task is ready to go live. Essential prerequisites still need verification.\n\nThis rule draws on systems and contextual perspectives. It does not prove that the ADKAR prerequisite sequence is false. It makes the separate organisational action order visible and links it to the colleague's support.",
+      "cites": "Burke and Litwin 1992; Herold, Fedor, and Caldwell 2007; Pettigrew, Woodman, and Cameron 2001",
+      "seconds": 75,
+      "presenter": "Faiaz"
+    },
+    {
+      "number": 14,
+      "title": "Complete decision record",
+      "kind": "record",
+      "body": [
+        [
+          "Task and person",
+          "Which change, role, shift and specific task?"
+        ],
+        [
+          "Individual support",
+          "Which ADKAR need and relevant action?"
+        ],
+        [
+          "Conditions / concern",
+          "What is missing or disputed, and who owns it?"
+        ],
+        [
+          "Dependencies / evidence",
+          "What must happen first, and what is verified?"
+        ],
+        [
+          "Decision and review",
+          "Continue, revise or pause, with a reason and trigger"
+        ]
+      ],
+      "notes": "The complete record begins with the task, role, and shift. That prevents a decision about one activity from turning into an unsupported statement that the entire organisation is ready.\n\nNext, the manager records the individual ADKAR need and the appropriate support. The conditions and challenge fields then identify organisational inputs and disputed requirements. The dependency fields link those inputs to the affected action. The evidence fields keep self-report, task performance, and working conditions separate.\n\nFinally, the manager records a decision, its reason, the owners, and the trigger for review. The same version of the record is used across the case, so one presenter does not quietly change another presenter's prerequisite.\n\nThe accompanying PDF is fillable. It contains a blank record for another task and a completed fictional example. It is a decision aid that still requires informed judgement.",
+      "cites": "Design proposal informed by Weiner 2009 and Pettigrew, Woodman, and Cameron 2001",
+      "seconds": 75,
+      "presenter": "Faiaz"
+    },
+    {
+      "number": 15,
+      "title": "Implementation steps and owners",
+      "kind": "table",
+      "body": [
+        [
+          "Step",
+          "Manager action",
+          "Responsible role"
+        ],
+        [
+          "1. Define",
+          "Agree the task, scope and evidence criteria",
+          "Store manager with colleague"
+        ],
+        [
+          "2. Resolve",
+          "Allocate conditions and answer the concern",
+          "IT, manager and sponsor"
+        ],
+        [
+          "3. Practise",
+          "Observe the task in usable conditions",
+          "Colleague with coach"
+        ],
+        [
+          "4. Review",
+          "Record the decision and follow-up trigger",
+          "Store manager"
+        ]
+      ],
+      "notes": "Implementation starts by agreeing the exact task and what acceptable evidence would look like. For Cedar Retail, the colleague receives a delivery, spots an unexpected quantity, and follows the agreed reporting route. These are local teaching criteria, not thresholds validated by Prosci.\n\nThe manager then allocates conditions and obtains a reasoned response to the policy concern. IT demonstrates access on the actual shift. The manager makes time available. The sponsor explains the rule decision to affected colleagues.\n\nPractice follows when the essential inputs are usable. The manager records what actually happened and reviews the decision when equipment, staffing, or the procedure changes. This reflects the course's emphasis on process and context. A universal timetable would be inappropriate, so each action receives a locally agreed date in the working record.",
+      "cites": "Pettigrew, Woodman, and Cameron 2001; BUS230 Topics 4-7",
+      "seconds": 65,
+      "presenter": "Faiaz"
+    },
+    {
+      "number": 16,
+      "title": "Continue, revise or pause",
+      "kind": "table",
+      "body": [
+        [
+          "Decision",
+          "Condition",
+          "Manager action"
+        ],
+        [
+          "PAUSE",
+          "An essential prerequisite is missing",
+          "Hold the affected task and resolve it"
+        ],
+        [
+          "REVISE",
+          "The design is disputed or unsuitable",
+          "Obtain a reasoned design decision"
+        ],
+        [
+          "CONTINUE",
+          "Prerequisites and task evidence are verified",
+          "Proceed with support and review"
+        ]
+      ],
+      "notes": "The record has three decision states. Pause means an essential prerequisite is missing. The manager holds the affected task and assigns the condition to its owner. This is a scoped pause, not automatically a stop to the entire change.\n\nRevise means the proposed design or requirement needs a reasoned decision. A concern about penalties goes to the sponsor. If the sponsor retains the rule, the reason still needs review and communication. A recorded response does not automatically make the policy acceptable or eliminate the employee's concern.\n\nContinue means essential prerequisites and suitable task evidence have been verified, with support and reinforcement continuing. A high average score cannot override a missing condition. The overall judgement remains with the manager. When evidence is incomplete or contradictory, the record says not yet verified and triggers investigation.",
+      "cites": "Design proposal; Prosci n.d.-d; Nilsen 2015",
+      "seconds": 80,
+      "presenter": "Faiaz"
+    },
+    {
+      "number": 17,
+      "title": "Feasibility and benefits to test",
+      "kind": "columns",
+      "body": [
+        [
+          "Practical use",
+          "One shared PDF record\nExisting manager, IT and sponsor roles\nCompletion evidence beside each action"
+        ],
+        [
+          "Proposed evaluation",
+          "Task completion accuracy\nUnresolved dependencies\nReasoned concern responses\nTime spent maintaining the record"
+        ]
+      ],
+      "notes": "The tool is feasible as a small shared record using existing roles. It does not require new software, a company-wide survey, or a numerical readiness index. Managers still need time, authority, and a clear task definition.\n\nWe expect the record could make responsibility and decision reasons easier to inspect. Those are proposed benefits, not achieved results. A pilot would track task completion accuracy, unresolved dependencies, reasoned responses, and the time spent maintaining the record.\n\nNilsen distinguishes approaches that guide implementation from those that explain or evaluate it. That distinction prevents us from treating a useful guide as proof of effectiveness. Errida and Lotfi also show the importance of context in a model review and a construction-company case. Their findings cannot simply be treated as validation for retail or for our adaptation.",
+      "cites": "Nilsen 2015; Errida and Lotfi 2021",
+      "seconds": 65,
+      "presenter": "Faiaz"
+    },
+    {
+      "number": 18,
+      "title": "Risks and mitigation",
+      "kind": "table",
+      "body": [
+        [
+          "Risk",
+          "Practical mitigation"
+        ],
+        [
+          "More paperwork",
+          "Limit the record to the affected task and essential fields"
+        ],
+        [
+          "Sponsor inaction",
+          "Name an escalation route and review date"
+        ],
+        [
+          "Poor task criteria",
+          "Agree a representative task before assessing Ability"
+        ],
+        [
+          "False confidence",
+          "Keep evidence gaps visible and test before wider use"
+        ]
+      ],
+      "notes": "The added record creates trade-offs. More detail can become paperwork, so the manager should record only what is necessary for the affected task. A sponsor may fail to respond, which means the tool needs an escalation route and a review date.\n\nPoorly chosen practice can also create false confidence. The manager should agree a representative task and check the conditions in which it is performed. We must not use a small classroom demonstration to claim causal superiority or business benefits.\n\nThe tool improves the visibility of a judgement. It cannot create resources, guarantee fair treatment, or replace managerial authority. Aram will now explain how research and task evidence support the decision.",
+      "cites": "Nilsen 2015; design risks",
+      "seconds": 60,
+      "presenter": "Faiaz"
+    },
+    {
+      "number": 19,
+      "title": "Research and benchmarking",
+      "kind": "columns",
+      "body": [
+        [
+          "Evidence-informed change",
+          "Stouten et al.: compare practice advice with research.\nErrida and Lotfi: wider success factors and context."
+        ],
+        [
+          "Benchmark for our design",
+          "Check diagnosis, enabling conditions, participation and review.\nUse the research to justify fields, not to claim validation."
+        ]
+      ],
+      "notes": "Our benchmark combines existing Prosci provision with change research. Stouten and colleagues connect practitioner models with scholarly evidence. Errida and Lotfi review change models and apply success factors in a construction-company case.\n\nWe use these works to justify examining diagnosis, enabling conditions, participation, and review. Their settings and methods also limit the conclusion. Neither source tests our retail record. They support the design rationale without establishing the adaptation's effectiveness.",
+      "cites": "Stouten, Rousseau, and De Cremer 2018; Errida and Lotfi 2021; Rafferty, Jimmieson, and Armenakis 2013",
+      "seconds": 40,
+      "presenter": "Aram"
+    },
+    {
+      "number": 20,
+      "title": "Evidence disagreement rule",
+      "kind": "table",
+      "body": [
+        [
+          "Evidence source",
+          "Fictional starting entry",
+          "Readiness judgement"
+        ],
+        [
+          "Self-report",
+          "I understand the procedure",
+          "Supports Knowledge only"
+        ],
+        [
+          "Task demonstration",
+          "Not yet observed in usable conditions",
+          "Ability not yet verified"
+        ],
+        [
+          "Conditions check",
+          "Access and practice time missing",
+          "Essential prerequisite missing"
+        ]
+      ],
+      "notes": "The evidence rule keeps self-report, task performance, and conditions separate. The colleague understands the procedure, but the task has not been observed with usable inputs. Ability remains not yet verified.\n\nBaldwin and Ford explain training transfer as application and maintenance at work. Edmondson links psychological safety with learning behaviour. Kluger and DeNisi show that feedback effects vary. These findings support representative, safe practice and careful feedback.\n\nThe manager investigates disagreements rather than averaging them into a pass. This rule has not been validated as a readiness measure.",
+      "cites": "Baldwin and Ford 1988; Edmondson 1999; Kluger and DeNisi 1996; Holt et al. 2007; Jo and Hong 2023",
+      "seconds": 55,
+      "presenter": "Aram"
+    },
+    {
+      "number": 21,
+      "title": "Worked case: a different decision",
+      "kind": "columns",
+      "body": [
+        [
+          "Initial suggestion",
+          "Give another motivational talk and launch receiving."
+        ],
+        [
+          "Decision using the record",
+          "Pause the affected task.\nResolve access and time.\nReview the rating rule.\nObserve realistic practice."
+        ]
+      ],
+      "notes": "The initial suggestion is another motivational talk followed by launch. The same scenario instead calls for a pause to the affected task.\n\nIT verifies access, the manager protects practice time, and the sponsor reviews the rating rule. The manager then observes realistic practice and records actual evidence.\n\nThis worked example compares decisions, not business outcomes. Individual support and reinforcement continue.",
+      "cites": "Fictional application; Prosci n.d.-d; design proposal",
+      "seconds": 40,
+      "presenter": "Aram"
+    },
+    {
+      "number": 22,
+      "title": "What the research does and does not establish",
+      "kind": "table",
+      "body": [
+        [
+          "Approach",
+          "Useful contribution",
+          "Boundary"
+        ],
+        [
+          "ADKAR",
+          "Individual support needs",
+          "Five outcomes alone are not a project plan"
+        ],
+        [
+          "Wider Prosci",
+          "Sponsorship and organisational process",
+          "Existing provisions deserve credit"
+        ],
+        [
+          "Research literature",
+          "Context, voice, learning and evaluation",
+          "Different settings and study designs"
+        ],
+        [
+          "Our record",
+          "Explicit owners and decision evidence",
+          "Usability and effectiveness need testing"
+        ]
+      ],
+      "notes": "ADKAR identifies individual support needs. Wider Prosci already provides organisational process and sponsorship. Research adds perspectives on context, voice, learning, and evidence.\n\nOur record makes owners and decision reasons explicit. It draws on those existing ideas. Nilsen helps distinguish a guide to action from an approach to evaluation.\n\nThe next step is a local usability check, followed by suitable evaluation before wider use. The classroom exercise can check understanding, but cannot establish business impact.",
+      "cites": "Nilsen 2015; Stouten, Rousseau, and De Cremer 2018; Prosci n.d.-b, n.d.-c",
+      "seconds": 40,
+      "presenter": "Aram"
+    },
+    {
+      "number": 23,
+      "title": "Manager workflow",
+      "kind": "record",
+      "body": [
+        [
+          "1. Define",
+          "Name the task, role and shift"
+        ],
+        [
+          "2. Diagnose",
+          "Record the personal ADKAR need"
+        ],
+        [
+          "3. Connect",
+          "Allocate conditions, concerns and dependencies"
+        ],
+        [
+          "4. Verify",
+          "Compare task evidence with the conditions"
+        ],
+        [
+          "5. Decide and review",
+          "Record the reason, owner and next trigger"
+        ]
+      ],
+      "notes": "The manager defines a task, diagnoses the person's support needs, and connects them to conditions and responsibilities. They then verify evidence, record a decision, and set a review trigger.\n\nThis workflow keeps both individual support and organisational responsibility visible. Each decision stays linked to the affected task and its evidence.",
+      "cites": "Design synthesis; BUS230 Topic 7",
+      "seconds": 30,
+      "presenter": "Aram"
+    },
+    {
+      "number": 24,
+      "title": "Communication and employee voice",
+      "kind": "table",
+      "body": [
+        [
+          "Audience",
+          "Channel and message",
+          "Response owner"
+        ],
+        [
+          "Stock colleagues",
+          "Shift briefing, practice and open questions",
+          "Store manager"
+        ],
+        [
+          "IT and store manager",
+          "Shared dependencies and completion evidence",
+          "Named condition owner"
+        ],
+        [
+          "Operations sponsor",
+          "Concern, alternative and policy decision",
+          "Sponsor with a response date"
+        ]
+      ],
+      "notes": "Colleagues on both shifts receive an explanation, practice, and a chance to question the design. IT and the manager confirm dependencies. The sponsor explains the policy decision.\n\nLewis examines information-giving and input-seeking channels. Morrison reviews employee voice and silence. Oreg and Sverdlik highlight context and timing. These works support asking how communication affects a decision.\n\nFollowing Topic 8's underscore and explore approach, the manager explains the purpose and invites useful questions. An invitation alone does not guarantee meaningful participation. The record therefore includes a response owner.",
+      "cites": "Lewis 1999; Morrison 2023; Oreg and Sverdlik 2026; BUS230 Topic 8",
+      "seconds": 55,
+      "presenter": "Aram"
+    },
+    {
+      "number": 25,
+      "title": "Your manager decision",
+      "kind": "exercise",
+      "body": [
+        [
+          "Scenario",
+          "An evening colleague understands stock receiving, but lacks reliable scanner access and protected practice time. Inherited errors may reduce their performance rating."
+        ],
+        [
+          "Question",
+          "Would you continue, revise or pause the affected task, and why?"
+        ]
+      ],
+      "notes": "Here is the manager scenario. An evening colleague understands stock receiving, but lacks reliable scanner access and protected practice time. The colleague is also worried about penalties for inherited errors.\n\nWould you continue, revise, or pause the affected task, and why?\n\n[Read the scenario for about 20 seconds. Allow up to 15 seconds for thinking or a brief oral answer. Move to the prepared explanation even if the lecturer does not answer.]",
+      "cites": "Fictional training exercise",
+      "seconds": 35,
+      "presenter": "Aram"
+    },
+    {
+      "number": 26,
+      "title": "Worked answer and learning check",
+      "kind": "table",
+      "body": [
+        [
+          "Decision element",
+          "Prepared answer"
+        ],
+        [
+          "Affected task",
+          "PAUSE until essential conditions are usable"
+        ],
+        [
+          "Conditions",
+          "IT verifies access. The manager protects practice time."
+        ],
+        [
+          "Disputed design",
+          "Sponsor reviews the rating rule and gives a reason"
+        ],
+        [
+          "Evidence",
+          "Observe a realistic task before verifying Ability"
+        ]
+      ],
+      "notes": "The prepared answer is to pause the affected receiving task until reliable access and protected practice time are usable. IT owns access. The store manager owns the time. The sponsor should review the rating rule and explain whether it is retained, revised, or stopped.\n\nAfter the essential inputs are addressed, the manager observes a realistic receiving task and records the actual evidence. Another motivational talk alone cannot resolve the missing inputs. The manager still continues the individual Desire conversation and relevant learning support.\n\nThe learning check is this: why does understanding the procedure fail to prove Ability here? Because Knowledge describes understanding, while Ability requires performance in the relevant conditions. The second check is to name who must answer the policy concern. That is the sponsor, with a reasoned response.\n\n[Point to each owner and the evidence entry. Together, slides 25 and 26 form a two-minute demonstration. No audience reply is required.]",
+      "cites": "Prosci n.d.-a; fictional application of the proposed rules",
+      "seconds": 85,
+      "presenter": "Aram"
+    },
+    {
+      "number": 27,
+      "title": "Conclusion and next action",
+      "kind": "objectives",
+      "body": [
+        [
+          "Keep",
+          "ADKAR's clear language for individual support"
+        ],
+        [
+          "Add",
+          "Visible organisational owners, dependencies and evidence"
+        ],
+        [
+          "Next action",
+          "Test one task locally, review the decision and retain support"
+        ]
+      ],
+      "notes": "The manager can now identify an individual barrier, connect it to organisational conditions, and explain a task decision using evidence.\n\nThe design lesson is that a clear checklist still needs judgement about context and responsibility. The next action is to test the record on one task, inspect usability, and review actual evidence. Benefits remain proposals to evaluate. Continued support and the adaptation's limits stay visible.",
+      "cites": "Design reflection; BUS230 Topic 7",
+      "seconds": 40,
+      "presenter": "Aram"
+    },
+    {
+      "number": 28,
+      "title": "Questions and source acknowledgements",
+      "kind": "questions",
+      "body": [
+        [
+          "Discussion",
+          "Which prerequisite would you verify first, and what evidence would satisfy you?"
+        ],
+        [
+          "Original model",
+          "Prosci ADKAR, PCT Model, 3-Phase Process and assessment guidance"
+        ],
+        [
+          "Course material",
+          "BUS230 Unit Outline §5.2.2, A2 rubric and Topics 2-8"
+        ]
+      ],
+      "notes": "Thank you. We welcome your questions.\n\n[Allow up to 90 seconds for questions. If there are no questions, use the short recap below and allow time to review the decision. Display reference slides 29 and 30 when relevant. Keep the total session within 29 minutes and 30 seconds.]\n\nThe key practical point is to identify the affected task, name the people who control its conditions, and verify suitable evidence before continuing. A concern may call for a design response as well as individual support. Our record is a teaching proposal that needs local testing. It credits the existing Prosci practices and does not establish business results.\n\n[Decision check after the recap if there are no questions]\n\nWe can also check how the decision would change. If scanner access becomes usable but practice time is still missing, the affected task stays paused. If both conditions become usable, the manager still needs suitable task evidence and a reasoned response to the concern. A completed action is evidence for that action, not proof of readiness everywhere.\n\nContinue applies to the specified task when its prerequisites and evidence are acceptable. Revise addresses a disputed or unsuitable requirement. Pause holds a task with an essential input missing. That distinction gives the manager a clear next action while preserving judgement and continued support.",
+      "cites": "Prosci n.d.-a, n.d.-b, n.d.-c, n.d.-d; Prosci 2022; Creasey 2025; Murdoch University 2026",
+      "seconds": 90,
+      "presenter": "Aram"
+    },
+    {
+      "number": 29,
+      "title": "References A-L",
+      "kind": "references",
+      "body": [
+        "Baldwin, Timothy T., and J. Kevin Ford. 1988. “Transfer of Training: A Review and Directions for Future Research.” *Personnel Psychology* 41 (1): 63-105. https://doi.org/10.1111/j.1744-6570.1988.tb00632.x.",
+        "Burke, W. Warner, and George H. Litwin. 1992. “A Causal Model of Organizational Performance and Change.” *Journal of Management* 18 (3): 523-45. https://doi.org/10.1177/014920639201800306.",
+        "Edmondson, Amy. 1999. “Psychological Safety and Learning Behavior in Work Teams.” *Administrative Science Quarterly* 44 (2): 350-83. https://doi.org/10.2307/2666999.",
+        "Errida, Abdelouahab, and Bouchra Lotfi. 2021. “The Determinants of Organizational Change Management Success: Literature Review and Case Study.” *International Journal of Engineering Business Management* 13. https://doi.org/10.1177/18479790211016273.",
+        "Ford, Jeffrey D., Laurie W. Ford, and Angelo D'Amelio. 2008. “Resistance to Change: The Rest of the Story.” *Academy of Management Review* 33 (2): 362-77. https://doi.org/10.5465/amr.2008.31193235.",
+        "Herold, David M., Donald B. Fedor, and Steven D. Caldwell. 2007. “Beyond Change Management: A Multilevel Investigation of Contextual and Personal Influences on Employees' Commitment to Change.” *Journal of Applied Psychology* 92 (4): 942-51. https://doi.org/10.1037/0021-9010.92.4.942.",
+        "Holt, Daniel T., Achilles A. Armenakis, Hubert S. Feild, and Stanley G. Harris. 2007. “Readiness for Organizational Change: The Systematic Development of a Scale.” *Journal of Applied Behavioral Science* 43 (2): 232-55. https://doi.org/10.1177/0021886306295295.",
+        "Jo, Yunseong, and Ah Jeong Hong. 2023. “Development and Validation of a Readiness for Organizational Change Scale.” *SAGE Open* 13 (4). https://doi.org/10.1177/21582440231207705.",
+        "Kluger, Avraham N., and Angelo DeNisi. 1996. “The Effects of Feedback Interventions on Performance: A Historical Review, a Meta-Analysis, and a Preliminary Feedback Intervention Theory.” *Psychological Bulletin* 119 (2): 254-84. https://doi.org/10.1037/0033-2909.119.2.254.",
+        "Lewis, Laurie K. 1999. “Disseminating Information and Soliciting Input during Planned Organizational Change: Implementers' Targets, Sources, and Channels for Communicating.” *Management Communication Quarterly* 13 (1): 43-75. https://doi.org/10.1177/0893318999131002."
+      ],
+      "notes": "Reference display. Do not read the list aloud. These ten sources are part of the twenty academic journal publications used in the analysis. Full clickable references and access notes are in the companion source guide.",
+      "cites": "Chicago 17 author-date",
+      "seconds": 0,
+      "presenter": "Aram"
+    },
+    {
+      "number": 30,
+      "title": "References M-W",
+      "kind": "references",
+      "body": [
+        "Morrison, Elizabeth Wolfe. 2023. “Employee Voice and Silence: Taking Stock a Decade Later.” *Annual Review of Organizational Psychology and Organizational Behavior* 10: 79-107. https://doi.org/10.1146/annurev-orgpsych-120920-054654.",
+        "Nilsen, Per. 2015. “Making Sense of Implementation Theories, Models and Frameworks.” *Implementation Science* 10: 53. https://doi.org/10.1186/s13012-015-0242-0.",
+        "Oreg, Shaul. 2006. “Personality, Context, and Resistance to Organizational Change.” *European Journal of Work and Organizational Psychology* 15 (1): 73-101. https://doi.org/10.1080/13594320500451247.",
+        "Oreg, Shaul, and Noga Sverdlik. 2026. “Responses to Organizational Change: Evolution of the Concept, Established Findings, and Future Directions.” *Annual Review of Organizational Psychology and Organizational Behavior* 13: 387-413. https://doi.org/10.1146/annurev-orgpsych-020924-064623.",
+        "Oreg, Shaul, Maria Vakola, and Achilles Armenakis. 2011. “Change Recipients' Reactions to Organizational Change: A 60-Year Review of Quantitative Studies.” *Journal of Applied Behavioral Science* 47 (4): 461-524. https://doi.org/10.1177/0021886310396550.",
+        "Pettigrew, Andrew M., Richard W. Woodman, and Kim S. Cameron. 2001. “Studying Organizational Change and Development: Challenges for Future Research.” *Academy of Management Journal* 44 (4): 697-713. https://doi.org/10.5465/3069411.",
+        "Piderit, Sandy Kristin. 2000. “Rethinking Resistance and Recognizing Ambivalence: A Multidimensional View of Attitudes toward an Organizational Change.” *Academy of Management Review* 25 (4): 783-94. https://doi.org/10.5465/amr.2000.3707722.",
+        "Rafferty, Alannah E., Nerina L. Jimmieson, and Achilles A. Armenakis. 2013. “Change Readiness: A Multilevel Review.” *Journal of Management* 39 (1): 110-35. https://doi.org/10.1177/0149206312457417.",
+        "Stouten, Jeroen, Denise M. Rousseau, and David De Cremer. 2018. “Successful Organizational Change: Integrating the Management Practice and Scholarly Literatures.” *Academy of Management Annals* 12 (2): 752-88. https://doi.org/10.5465/annals.2016.0095.",
+        "Weiner, Bryan J. 2009. “A Theory of Organizational Readiness for Change.” *Implementation Science* 4: 67. https://doi.org/10.1186/1748-5908-4-67."
+      ],
+      "notes": "Reference display. Do not read the list aloud. These ten sources complete the twenty academic journal publications. The professional and course sources on slide 28 are acknowledged separately. Website references do not fill the academic quota.",
+      "cites": "Chicago 17 author-date",
+      "seconds": 0,
+      "presenter": "Aram"
+    }
+  ],
+  "sources": [
+    {
+      "id": "M1",
+      "doi": "10.1186/1748-5908-4-67",
+      "title": [
+        "A Theory of Organizational Readiness for Change"
+      ],
+      "authors": [
+        "Bryan J. Weiner"
+      ],
+      "journal": [
+        "Implementation Science"
+      ],
+      "year": [
+        [
+          2009
+        ]
+      ],
+      "volume": "4",
+      "article_number": "67",
+      "verification": "Primary full-text article metadata at PMC and publisher; Crossref lookup failed",
+      "owner": "Mazin",
+      "primary_content_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2770024/",
+      "purpose": "Collective readiness and conditions",
+      "content_access_scope": "Primary text available; relevant abstract and sections/excerpts checked, not a full-page-by-page review",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "checked_at": "2026-10-07",
+      "url": "https://doi.org/10.1186/1748-5908-4-67",
+      "citation": "Weiner, Bryan J. 2009. “A Theory of Organizational Readiness for Change.” *Implementation Science* 4: 67. https://doi.org/10.1186/1748-5908-4-67."
+    },
+    {
+      "id": "M2",
+      "doi": "10.1177/0021886306295295",
+      "title": [
+        "Readiness for Organizational Change"
+      ],
+      "authors": [
+        "Daniel T. Holt",
+        "Achilles A. Armenakis",
+        "Hubert S. Feild",
+        "Stanley G. Harris"
+      ],
+      "year": [
+        [
+          2007,
+          6
+        ]
+      ],
+      "journal": [
+        "The Journal of Applied Behavioral Science"
+      ],
+      "volume": "43",
+      "issue": "2",
+      "pages": "232-255",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.1177/0021886306295295",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Mazin",
+      "primary_content_url": "https://journals.sagepub.com/doi/10.1177/0021886306295295",
+      "purpose": "Readiness measurement design",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "citation": "Holt, Daniel T., Achilles A. Armenakis, Hubert S. Feild, and Stanley G. Harris. 2007. “Readiness for Organizational Change: The Systematic Development of a Scale.” *Journal of Applied Behavioral Science* 43 (2): 232-55. https://doi.org/10.1177/0021886306295295."
+    },
+    {
+      "id": "M3",
+      "doi": "10.1177/0149206312457417",
+      "title": [
+        "Change Readiness"
+      ],
+      "authors": [
+        "Alannah E. Rafferty",
+        "Nerina L. Jimmieson",
+        "Achilles A. Armenakis"
+      ],
+      "year": [
+        [
+          2013
+        ]
+      ],
+      "journal": [
+        "Journal of Management"
+      ],
+      "volume": "39",
+      "issue": "1",
+      "pages": "110-135",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.1177/0149206312457417",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Mazin",
+      "primary_content_url": "https://journals.sagepub.com/doi/abs/10.1177/0149206312457417",
+      "purpose": "Individual, group and organisational levels",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "date_note": "Issue year 2013; first online 2012",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "citation": "Rafferty, Alannah E., Nerina L. Jimmieson, and Achilles A. Armenakis. 2013. “Change Readiness: A Multilevel Review.” *Journal of Management* 39 (1): 110-35. https://doi.org/10.1177/0149206312457417."
+    },
+    {
+      "id": "M4",
+      "doi": "10.5465/annals.2016.0095",
+      "title": [
+        "Successful Organizational Change: Integrating the Management Practice and Scholarly Literatures"
+      ],
+      "authors": [
+        "Jeroen Stouten",
+        "Denise M. Rousseau",
+        "David De Cremer"
+      ],
+      "journal": [
+        "Academy of Management Annals"
+      ],
+      "year": [
+        [
+          2018
+        ]
+      ],
+      "volume": "12",
+      "issue": "2",
+      "pages": "752-788",
+      "verification": "Primary publisher abstract/metadata and BUS230 Topic 7; Crossref lookup failed; university PDF request returned HTML and was not read",
+      "owner": "Mazin",
+      "primary_content_url": "https://journals.aom.org/doi/10.5465/annals.2016.0095",
+      "purpose": "Compare practice frameworks with research; evidence-based actions",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "checked_at": "2026-10-07",
+      "url": "https://doi.org/10.5465/annals.2016.0095",
+      "citation": "Stouten, Jeroen, Denise M. Rousseau, and David De Cremer. 2018. “Successful Organizational Change: Integrating the Management Practice and Scholarly Literatures.” *Academy of Management Annals* 12 (2): 752-88. https://doi.org/10.5465/annals.2016.0095."
+    },
+    {
+      "id": "M5",
+      "doi": "10.1177/21582440231207705",
+      "title": [
+        "Development and Validation of a Readiness for Organizational Change Scale"
+      ],
+      "authors": [
+        "Yunseong Jo",
+        "Ah Jeong Hong"
+      ],
+      "year": [
+        [
+          2023,
+          10
+        ]
+      ],
+      "journal": [
+        "Sage Open"
+      ],
+      "volume": "13",
+      "issue": "4",
+      "pages": null,
+      "article_number": "21582440231207705",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1177/21582440231207705",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Mazin",
+      "primary_content_url": "https://journals.sagepub.com/doi/10.1177/21582440231207705",
+      "purpose": "Measurement validation and boundaries",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "citation": "Jo, Yunseong, and Ah Jeong Hong. 2023. “Development and Validation of a Readiness for Organizational Change Scale.” *SAGE Open* 13 (4). https://doi.org/10.1177/21582440231207705."
+    },
+    {
+      "id": "B1",
+      "doi": "10.5465/amr.2000.3707722",
+      "title": [
+        "Rethinking Resistance and Recognizing Ambivalence: A Multidimensional View of Attitudes toward an Organizational Change"
+      ],
+      "authors": [
+        "Sandy Kristin Piderit"
+      ],
+      "year": [
+        [
+          2000,
+          10
+        ]
+      ],
+      "journal": [
+        "The Academy of Management Review"
+      ],
+      "volume": "25",
+      "issue": "4",
+      "pages": "783-794",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.5465/amr.2000.3707722",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Beryl",
+      "primary_content_url": "https://journals.aom.org/doi/10.5465/amr.2000.3707722",
+      "purpose": "Ambivalence and multidimensional responses",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "citation": "Piderit, Sandy Kristin. 2000. “Rethinking Resistance and Recognizing Ambivalence: A Multidimensional View of Attitudes toward an Organizational Change.” *Academy of Management Review* 25 (4): 783-94. https://doi.org/10.5465/amr.2000.3707722."
+    },
+    {
+      "id": "B2",
+      "doi": "10.1080/13594320500451247",
+      "title": [
+        "Personality, context, and resistance to organizational change"
+      ],
+      "authors": [
+        "Shaul Oreg"
+      ],
+      "year": [
+        [
+          2006,
+          3
+        ]
+      ],
+      "journal": [
+        "European Journal of Work and Organizational Psychology"
+      ],
+      "volume": "15",
+      "issue": "1",
+      "pages": "73-101",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.1080/13594320500451247",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Beryl",
+      "primary_content_url": "https://bschool-en.huji.ac.il/sites/default/files/businesshe/files/oreg_2006_ejwop.pdf",
+      "purpose": "Personality and context; do not infer teammates skills",
+      "content_access_scope": "Primary university-hosted article abstract checked, full article not reviewed",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "citation": "Oreg, Shaul. 2006. “Personality, Context, and Resistance to Organizational Change.” *European Journal of Work and Organizational Psychology* 15 (1): 73-101. https://doi.org/10.1080/13594320500451247."
+    },
+    {
+      "id": "B3",
+      "doi": "10.5465/amr.2008.31193235",
+      "title": [
+        "Resistance to Change: The Rest of the Story"
+      ],
+      "authors": [
+        "Jeffrey D. Ford",
+        "Laurie W. Ford",
+        "Angelo D'Amelio"
+      ],
+      "journal": [
+        "Academy of Management Review"
+      ],
+      "year": [
+        [
+          2008
+        ]
+      ],
+      "volume": "33",
+      "issue": "2",
+      "pages": "362-377",
+      "verification": "Primary publisher abstract/metadata; Crossref lookup failed",
+      "owner": "Beryl",
+      "primary_content_url": "https://journals.aom.org/doi/abs/10.5465/amr.2008.31193235",
+      "purpose": "Change agent contribution and useful resistance",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "checked_at": "2026-10-07",
+      "url": "https://doi.org/10.5465/amr.2008.31193235",
+      "citation": "Ford, Jeffrey D., Laurie W. Ford, and Angelo D'Amelio. 2008. “Resistance to Change: The Rest of the Story.” *Academy of Management Review* 33 (2): 362-77. https://doi.org/10.5465/amr.2008.31193235."
+    },
+    {
+      "id": "B4",
+      "doi": "10.1177/0021886310396550",
+      "title": [
+        "Change Recipients’ Reactions to Organizational Change"
+      ],
+      "authors": [
+        "Shaul Oreg",
+        "Maria Vakola",
+        "Achilles Armenakis"
+      ],
+      "year": [
+        [
+          2011,
+          2,
+          7
+        ]
+      ],
+      "journal": [
+        "The Journal of Applied Behavioral Science"
+      ],
+      "volume": "47",
+      "issue": "4",
+      "pages": "461-524",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.1177/0021886310396550",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Beryl",
+      "primary_content_url": "https://journals.sagepub.com/doi/10.1177/0021886310396550",
+      "purpose": "Reactions, antecedents and consequences",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "citation": "Oreg, Shaul, Maria Vakola, and Achilles Armenakis. 2011. “Change Recipients' Reactions to Organizational Change: A 60-Year Review of Quantitative Studies.” *Journal of Applied Behavioral Science* 47 (4): 461-524. https://doi.org/10.1177/0021886310396550."
+    },
+    {
+      "id": "B5",
+      "doi": "10.1146/annurev-orgpsych-020924-064623",
+      "title": [
+        "Responses to Organizational Change: Evolution of the Concept, Established Findings, and Future Directions"
+      ],
+      "authors": [
+        "Shaul Oreg",
+        "Noga Sverdlik"
+      ],
+      "year": [
+        [
+          2026,
+          1,
+          21
+        ]
+      ],
+      "journal": [
+        "Annual Review of Organizational Psychology and Organizational Behavior"
+      ],
+      "volume": "13",
+      "issue": "1",
+      "pages": "387-413",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.1146/annurev-orgpsych-020924-064623",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Beryl",
+      "primary_content_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-orgpsych-020924-064623",
+      "purpose": "Recent review; timing and ambivalence",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "citation": "Oreg, Shaul, and Noga Sverdlik. 2026. “Responses to Organizational Change: Evolution of the Concept, Established Findings, and Future Directions.” *Annual Review of Organizational Psychology and Organizational Behavior* 13: 387-413. https://doi.org/10.1146/annurev-orgpsych-020924-064623."
+    },
+    {
+      "id": "F1",
+      "doi": "10.1177/014920639201800306",
+      "title": [
+        "A Causal Model of Organizational Performance and Change"
+      ],
+      "authors": [
+        "W. Warner Burke",
+        "George H. Litwin"
+      ],
+      "year": [
+        [
+          1992,
+          9
+        ]
+      ],
+      "journal": [
+        "Journal of Management"
+      ],
+      "volume": "18",
+      "issue": "3",
+      "pages": "523-545",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.1177/014920639201800306",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Faiaz",
+      "primary_content_url": "https://journals.sagepub.com/doi/10.1177/014920639201800306",
+      "purpose": "Coupled organisational systems",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "citation": "Burke, W. Warner, and George H. Litwin. 1992. “A Causal Model of Organizational Performance and Change.” *Journal of Management* 18 (3): 523-45. https://doi.org/10.1177/014920639201800306."
+    },
+    {
+      "id": "F2",
+      "doi": "10.1037/0021-9010.92.4.942",
+      "title": [
+        "Beyond change management: A multilevel investigation of contextual and personal influences on employees' commitment to change."
+      ],
+      "authors": [
+        "David M. Herold",
+        "Donald B. Fedor",
+        "Steven D. Caldwell"
+      ],
+      "year": [
+        [
+          2007
+        ]
+      ],
+      "journal": [
+        "Journal of Applied Psychology"
+      ],
+      "volume": "92",
+      "issue": "4",
+      "pages": "942-951",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.1037/0021-9010.92.4.942",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Faiaz",
+      "primary_content_url": "https://pubmed.ncbi.nlm.nih.gov/17638456/",
+      "purpose": "Personal and contextual influences",
+      "content_access_scope": "Primary PubMed search excerpt and publisher-deposited Crossref metadata; direct page later returned CAPTCHA",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "citation": "Herold, David M., Donald B. Fedor, and Steven D. Caldwell. 2007. “Beyond Change Management: A Multilevel Investigation of Contextual and Personal Influences on Employees' Commitment to Change.” *Journal of Applied Psychology* 92 (4): 942-51. https://doi.org/10.1037/0021-9010.92.4.942."
+    },
+    {
+      "id": "F3",
+      "doi": "10.5465/3069411",
+      "title": [
+        "STUDYING ORGANIZATIONAL CHANGE AND DEVELOPMENT: CHALLENGES FOR FUTURE RESEARCH."
+      ],
+      "authors": [
+        "A. M. Pettigrew",
+        "R. W. Woodman",
+        "K. S. Cameron"
+      ],
+      "year": [
+        [
+          2001,
+          8,
+          1
+        ]
+      ],
+      "journal": [
+        "Academy of Management Journal"
+      ],
+      "volume": "44",
+      "issue": "4",
+      "pages": "697-713",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.5465/3069411",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Faiaz",
+      "primary_content_url": "https://journals.aom.org/doi/10.5465/3069411",
+      "purpose": "Time, process, context and levels",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "citation": "Pettigrew, Andrew M., Richard W. Woodman, and Kim S. Cameron. 2001. “Studying Organizational Change and Development: Challenges for Future Research.” *Academy of Management Journal* 44 (4): 697-713. https://doi.org/10.5465/3069411."
+    },
+    {
+      "id": "F4",
+      "doi": "10.1186/s13012-015-0242-0",
+      "title": [
+        "Making sense of implementation theories, models and frameworks"
+      ],
+      "authors": [
+        "Per Nilsen"
+      ],
+      "year": [
+        [
+          2015,
+          4,
+          21
+        ]
+      ],
+      "journal": [
+        "Implementation Science"
+      ],
+      "volume": "10",
+      "issue": "1",
+      "pages": null,
+      "article_number": "53",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1186/s13012-015-0242-0",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Faiaz",
+      "primary_content_url": "https://link.springer.com/article/10.1186/s13012-015-0242-0",
+      "purpose": "Different purposes of theory, models and frameworks; healthcare scope",
+      "content_access_scope": "Primary text available; relevant abstract and sections/excerpts checked, not a full-page-by-page review",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "citation": "Nilsen, Per. 2015. “Making Sense of Implementation Theories, Models and Frameworks.” *Implementation Science* 10: 53. https://doi.org/10.1186/s13012-015-0242-0."
+    },
+    {
+      "id": "F5",
+      "doi": "10.1177/18479790211016273",
+      "title": [
+        "The determinants of organizational change management success: Literature review and case study"
+      ],
+      "authors": [
+        "Abdelouahab Errida",
+        "Bouchra Lotfi"
+      ],
+      "year": [
+        [
+          2021,
+          1,
+          1
+        ]
+      ],
+      "journal": [
+        "International Journal of Engineering Business Management"
+      ],
+      "volume": "13",
+      "issue": null,
+      "pages": null,
+      "article_number": "18479790211016273",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1177/18479790211016273",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Faiaz",
+      "primary_content_url": "https://journals.sagepub.com/doi/10.1177/18479790211016273",
+      "purpose": "Holistic model comparisons; literature review and case limits",
+      "content_access_scope": "Primary text available; relevant abstract and sections/excerpts checked, not a full-page-by-page review",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "citation": "Errida, Abdelouahab, and Bouchra Lotfi. 2021. “The Determinants of Organizational Change Management Success: Literature Review and Case Study.” *International Journal of Engineering Business Management* 13. https://doi.org/10.1177/18479790211016273."
+    },
+    {
+      "id": "A1",
+      "doi": "10.2307/2666999",
+      "title": [
+        "Psychological Safety and Learning Behavior in Work Teams"
+      ],
+      "authors": [
+        "Amy Edmondson"
+      ],
+      "year": [
+        [
+          1999,
+          6
+        ]
+      ],
+      "journal": [
+        "Administrative Science Quarterly"
+      ],
+      "volume": "44",
+      "issue": "2",
+      "pages": "350-383",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.2307/2666999",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Aram",
+      "primary_content_url": "https://journals.sagepub.com/doi/abs/10.2307/2666999",
+      "purpose": "Psychological safety for learning",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "citation": "Edmondson, Amy. 1999. “Psychological Safety and Learning Behavior in Work Teams.” *Administrative Science Quarterly* 44 (2): 350-83. https://doi.org/10.2307/2666999."
+    },
+    {
+      "id": "A2",
+      "doi": "10.1146/annurev-orgpsych-120920-054654",
+      "title": [
+        "Employee Voice and Silence: Taking Stock a Decade Later"
+      ],
+      "authors": [
+        "Elizabeth Wolfe Morrison"
+      ],
+      "year": [
+        [
+          2023,
+          1,
+          23
+        ]
+      ],
+      "journal": [
+        "Annual Review of Organizational Psychology and Organizational Behavior"
+      ],
+      "volume": "10",
+      "issue": "1",
+      "pages": "79-107",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.1146/annurev-orgpsych-120920-054654",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Aram",
+      "primary_content_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-orgpsych-120920-054654",
+      "purpose": "Voice and silence; recent review",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "citation": "Morrison, Elizabeth Wolfe. 2023. “Employee Voice and Silence: Taking Stock a Decade Later.” *Annual Review of Organizational Psychology and Organizational Behavior* 10: 79-107. https://doi.org/10.1146/annurev-orgpsych-120920-054654."
+    },
+    {
+      "id": "A3",
+      "doi": "10.1037/0033-2909.119.2.254",
+      "title": [
+        "The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary feedback intervention theory."
+      ],
+      "authors": [
+        "Avraham N. Kluger",
+        "Angelo DeNisi"
+      ],
+      "year": [
+        [
+          1996,
+          3
+        ]
+      ],
+      "journal": [
+        "Psychological Bulletin"
+      ],
+      "volume": "119",
+      "issue": "2",
+      "pages": "254-284",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.1037/0033-2909.119.2.254",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Aram",
+      "primary_content_url": "https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/",
+      "purpose": "Feedback effects vary; task-focused design rationale",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "citation": "Kluger, Avraham N., and Angelo DeNisi. 1996. “The Effects of Feedback Interventions on Performance: A Historical Review, a Meta-Analysis, and a Preliminary Feedback Intervention Theory.” *Psychological Bulletin* 119 (2): 254-84. https://doi.org/10.1037/0033-2909.119.2.254."
+    },
+    {
+      "id": "A4",
+      "doi": "10.1111/j.1744-6570.1988.tb00632.x",
+      "title": [
+        "TRANSFER OF TRAINING: A REVIEW AND DIRECTIONS FOR FUTURE RESEARCH"
+      ],
+      "authors": [
+        "TIMOTHY T. BALDWIN",
+        "J. KEVIN FORD"
+      ],
+      "year": [
+        [
+          1988,
+          3
+        ]
+      ],
+      "journal": [
+        "Personnel Psychology"
+      ],
+      "volume": "41",
+      "issue": "1",
+      "pages": "63-105",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.1111/j.1744-6570.1988.tb00632.x",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Aram",
+      "primary_content_url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1744-6570.1988.tb00632.x",
+      "purpose": "Learning transfer to work",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "citation": "Baldwin, Timothy T., and J. Kevin Ford. 1988. “Transfer of Training: A Review and Directions for Future Research.” *Personnel Psychology* 41 (1): 63-105. https://doi.org/10.1111/j.1744-6570.1988.tb00632.x."
+    },
+    {
+      "id": "A5",
+      "doi": "10.1177/0893318999131002",
+      "title": [
+        "Disseminating Information and Soliciting Input during Planned Organizational Change"
+      ],
+      "authors": [
+        "Laurie K. Lewis"
+      ],
+      "year": [
+        [
+          1999,
+          8
+        ]
+      ],
+      "journal": [
+        "Management Communication Quarterly"
+      ],
+      "volume": "13",
+      "issue": "1",
+      "pages": "43-75",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.1177/0893318999131002",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Aram",
+      "primary_content_url": "https://journals.sagepub.com/doi/10.1177/0893318999131002",
+      "purpose": "Disseminating information and soliciting input",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "citation": "Lewis, Laurie K. 1999. “Disseminating Information and Soliciting Input during Planned Organizational Change: Implementers' Targets, Sources, and Channels for Communicating.” *Management Communication Quarterly* 13 (1): 43-75. https://doi.org/10.1177/0893318999131002."
+    }
+  ],
+  "referenceLayouts": {
+    "29": [
+      {
+        "x": 64,
+        "y": 154,
+        "h": 67.6
+      },
+      {
+        "x": 64,
+        "y": 232.6,
+        "h": 67.6
+      },
+      {
+        "x": 64,
+        "y": 311.2,
+        "h": 67.6
+      },
+      {
+        "x": 64,
+        "y": 389.79999999999995,
+        "h": 88.8
+      },
+      {
+        "x": 64,
+        "y": 489.59999999999997,
+        "h": 88.8
+      },
+      {
+        "x": 664,
+        "y": 154,
+        "h": 110.0
+      },
+      {
+        "x": 664,
+        "y": 275.0,
+        "h": 88.8
+      },
+      {
+        "x": 664,
+        "y": 374.8,
+        "h": 67.6
+      },
+      {
+        "x": 664,
+        "y": 453.4,
+        "h": 88.8
+      },
+      {
+        "x": 664,
+        "y": 553.1999999999999,
+        "h": 110.0
+      }
+    ],
+    "30": [
+      {
+        "x": 64,
+        "y": 154,
+        "h": 88.8
+      },
+      {
+        "x": 64,
+        "y": 253.8,
+        "h": 67.6
+      },
+      {
+        "x": 64,
+        "y": 332.4,
+        "h": 88.8
+      },
+      {
+        "x": 64,
+        "y": 432.2,
+        "h": 110.0
+      },
+      {
+        "x": 64,
+        "y": 553.2,
+        "h": 88.8
+      },
+      {
+        "x": 664,
+        "y": 154,
+        "h": 88.8
+      },
+      {
+        "x": 664,
+        "y": 253.8,
+        "h": 88.8
+      },
+      {
+        "x": 664,
+        "y": 353.6,
+        "h": 88.8
+      },
+      {
+        "x": 664,
+        "y": 453.40000000000003,
+        "h": 88.8
+      },
+      {
+        "x": 664,
+        "y": 553.2,
+        "h": 67.6
+      }
+    ]
+  }
+}

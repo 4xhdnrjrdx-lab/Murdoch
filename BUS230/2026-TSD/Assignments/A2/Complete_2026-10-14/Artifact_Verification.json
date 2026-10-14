@@ -1,0 +1,118 @@
+{
+  "checked_at": "2026-10-14T14:57:21.401167+04:00",
+  "scope": "Prepared A2 pack only",
+  "slide_count": 30,
+  "speaker_notes_parts": 30,
+  "native_tables": 12,
+  "academic_references": 20,
+  "planned_seconds": 1770,
+  "actual_rehearsal": "not performed",
+  "visual_review": "All 30 slide previews, corrected affected slides and final PDF documents inspected",
+  "presentation_finalizer": "Package, geometry, font policy, required native tables and first-party reimport passed",
+  "native_powerpoint_app_test": "not performed",
+  "pdfs": {
+    "BUS230A2_Digital_Decision_Record_EN_2026-10-14.pdf": {
+      "pages": 3,
+      "form_fields": 33,
+      "canonical_and_widget_values_match": true
+    },
+    "BUS230A2_Research_and_References_EN_2026-10-14.pdf": {
+      "pages": 8,
+      "hyperlinks": 46
+    },
+    "BUS230Assessment2Class2Group4_2026-10-14.pdf": {
+      "pages": 30
+    },
+    "BUS230A2_Speaker_Scripts_EN_2026-10-14.pdf": {
+      "pages": 14
+    },
+    "BUS230A2_Cedar_Retail_Worked_Record_EN_2026-10-14.pdf": {
+      "pages": 3,
+      "form_fields": 33,
+      "canonical_and_widget_values_match": true
+    }
+  },
+  "artifacts": [
+    {
+      "path": "BUS230A2_Aram_Script_EN_2026-10-14.md",
+      "bytes": 7767,
+      "sha256": "0593279784d24f2a2831f439a8e3d2b7bec7c2f40d568eb02a88662a1bca1fbf"
+    },
+    {
+      "path": "BUS230A2_Beryl_Script_EN_2026-10-14.md",
+      "bytes": 6265,
+      "sha256": "163cd5966ae0d28881dd94060958eafa163486a19a1cdad6ec5847d4766c07d6"
+    },
+    {
+      "path": "BUS230A2_Cedar_Retail_Worked_Record_EN_2026-10-14.pdf",
+      "bytes": 41511,
+      "sha256": "2e55c9cad159e6a4e611082956599be6a54170771e04bc2d592de98ad98d51f2"
+    },
+    {
+      "path": "BUS230A2_Digital_Decision_Record_EN_2026-10-14.pdf",
+      "bytes": 35479,
+      "sha256": "d4f198c7a83a282995b87751cd9ba3abc4db7e5b08d537322648218013a6dadf"
+    },
+    {
+      "path": "BUS230A2_Faiaz_Script_EN_2026-10-14.md",
+      "bytes": 6010,
+      "sha256": "583b72674d1f4d3a25f1f1b605a7d4df6408644b689f01ba35a490fd882a56cf"
+    },
+    {
+      "path": "BUS230A2_Mazin_Script_EN_2026-10-14.md",
+      "bytes": 5514,
+      "sha256": "f29c0e67c7351a4e2790a5215f56629cb7b9aefbfe24ac6cfd0cae246df62836"
+    },
+    {
+      "path": "BUS230A2_Research_and_References_EN_2026-10-14.pdf",
+      "bytes": 116925,
+      "sha256": "49f81e3d4df997906c4607dc01c89a621928cbd1039e97a61bd6ff3378153fb5"
+    },
+    {
+      "path": "BUS230A2_Source_Verification_2026-10-14.json",
+      "bytes": 24342,
+      "sha256": "f725488b746f79e5e78a15d4921544bf63f9d60876aa85f5fb8bdbb573e82a53"
+    },
+    {
+      "path": "BUS230A2_Speaker_Scripts_EN_2026-10-14.pdf",
+      "bytes": 92064,
+      "sha256": "917c14b5c80e00211bf68734ef596d65aef1cf62f1e7c0a3831690b575d37648"
+    },
+    {
+      "path": "BUS230Assessment2Class2Group4_2026-10-14.pdf",
+      "bytes": 3423069,
+      "sha256": "db3e8cfd5b507445792197d1cfb5725210ec02d1bd770f4dfb9b7e83df8c196f"
+    },
+    {
+      "path": "BUS230Assessment2Class2Group4_2026-10-14.pptx",
+      "bytes": 2199380,
+      "sha256": "bc847e31aa4c6054386b33b1393438f0143cff2930584bdbf07a93b2f84f07dd"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3870,
+      "sha256": "9087ce3284ba31f73bb2a16f5b959cb1f1b1337103faef17e13132159a509f9e"
+    },
+    {
+      "path": "Rubric_and_Assignment_Coverage_EN.md",
+      "bytes": 4300,
+      "sha256": "8f4fdba96499db24fbcd959540b474b9b0285ae27e2b0a50d0bf646a1364882e"
+    },
+    {
+      "path": "Sources/Cedar_Retail_Illustration.png",
+      "bytes": 2154343,
+      "sha256": "ba604154d03d61e370253fc7b78da00d52bb7d6f0424d3b4f5119a0319560ac8"
+    },
+    {
+      "path": "Sources/Illustration_Provenance.json",
+      "bytes": 1058,
+      "sha256": "66de65cdc3d17e2478c036ed4354062d903de2edf93afa2884c47c43d94e2f41"
+    },
+    {
+      "path": "Sources/Slide_Content_and_Notes_EN.json",
+      "bytes": 77763,
+      "sha256": "6226a0af04ee9012e9cca4cc143b3aef7754ef639c881bdd69533abf2ac2436f"
+    }
+  ],
+  "presentation_sha256": "bc847e31aa4c6054386b33b1393438f0143cff2930584bdbf07a93b2f84f07dd"
+}

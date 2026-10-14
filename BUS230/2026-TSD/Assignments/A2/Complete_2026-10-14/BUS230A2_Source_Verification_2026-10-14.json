@@ -1,0 +1,469 @@
+{
+  "checked_on": "2026-10-14",
+  "academic_count": 20,
+  "sources": [
+    {
+      "id": "A4",
+      "owner": "Aram",
+      "citation": "Baldwin, Timothy T., and J. Kevin Ford. 1988. “Transfer of Training: A Review and Directions for Future Research.” *Personnel Psychology* 41 (1): 63-105. https://doi.org/10.1111/j.1744-6570.1988.tb00632.x.",
+      "doi": "10.1111/j.1744-6570.1988.tb00632.x",
+      "doi_alias_returned": "10.1111/j.1744-6570.1988.tb00632.x",
+      "supported_claim": "Training transfer concerns applying learning to work and maintaining it over time.",
+      "boundary": "A foundational review supports representative practice, not a universal pass threshold.",
+      "content_checked": "Publisher abstract",
+      "slides": [
+        20
+      ],
+      "primary_content_url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1744-6570.1988.tb00632.x",
+      "link_check": {
+        "url": "https://doi.org/10.1111/j.1744-6570.1988.tb00632.x",
+        "status": 403,
+        "landing_page": "https://onlinelibrary.wiley.com/doi/10.1111/j.1744-6570.1988.tb00632.x"
+      },
+      "verification": "Publisher or author-hosted content; current DOI/metadata checks recorded",
+      "full_text_read_claim": false
+    },
+    {
+      "id": "F1",
+      "owner": "Faiaz",
+      "citation": "Burke, W. Warner, and George H. Litwin. 1992. “A Causal Model of Organizational Performance and Change.” *Journal of Management* 18 (3): 523-45. https://doi.org/10.1177/014920639201800306.",
+      "doi": "10.1177/014920639201800306",
+      "doi_alias_returned": "10.1177/014920639201800306",
+      "supported_claim": "The model proposes links between organisational factors, motivation and performance.",
+      "boundary": "A systems model supports inspecting dependencies. It does not empirically verify our routing rule.",
+      "content_checked": "Publisher abstract",
+      "slides": [
+        9,
+        13
+      ],
+      "primary_content_url": "https://journals.sagepub.com/doi/10.1177/014920639201800306",
+      "link_check": {
+        "url": "https://doi.org/10.1177/014920639201800306",
+        "status": 403,
+        "landing_page": "https://journals.sagepub.com/doi/10.1177/014920639201800306"
+      },
+      "verification": "Publisher or author-hosted content; current DOI/metadata checks recorded",
+      "full_text_read_claim": false
+    },
+    {
+      "id": "A1",
+      "owner": "Aram",
+      "citation": "Edmondson, Amy. 1999. “Psychological Safety and Learning Behavior in Work Teams.” *Administrative Science Quarterly* 44 (2): 350-83. https://doi.org/10.2307/2666999.",
+      "doi": "10.2307/2666999",
+      "doi_alias_returned": "10.2307/2666999",
+      "supported_claim": "Psychological safety is associated with learning behaviour in the reported field study.",
+      "boundary": "An association in manufacturing teams does not prove the causal effects of our practice rule.",
+      "content_checked": "Publisher abstract and deposited Crossref abstract",
+      "slides": [
+        20
+      ],
+      "primary_content_url": "https://journals.sagepub.com/doi/abs/10.2307/2666999",
+      "link_check": {
+        "url": "https://doi.org/10.2307/2666999",
+        "status": 403,
+        "landing_page": "https://journals.sagepub.com/doi/10.2307/2666999"
+      },
+      "verification": "Publisher or author-hosted content; current DOI/metadata checks recorded",
+      "full_text_read_claim": false
+    },
+    {
+      "id": "F5",
+      "owner": "Faiaz",
+      "citation": "Errida, Abdelouahab, and Bouchra Lotfi. 2021. “The Determinants of Organizational Change Management Success: Literature Review and Case Study.” *International Journal of Engineering Business Management* 13. https://doi.org/10.1177/18479790211016273.",
+      "doi": "10.1177/18479790211016273",
+      "doi_alias_returned": "10.1177/18479790211016273",
+      "supported_claim": "The paper combines a review of change models with a construction-company case. Context limits generalisation.",
+      "boundary": "The construction case does not establish effectiveness in retail or for our adaptation.",
+      "content_checked": "Publisher abstract and case-scope sections",
+      "slides": [
+        17,
+        19
+      ],
+      "primary_content_url": "https://journals.sagepub.com/doi/10.1177/18479790211016273",
+      "link_check": {
+        "url": "https://doi.org/10.1177/18479790211016273",
+        "status": 403,
+        "landing_page": "https://journals.sagepub.com/doi/10.1177/18479790211016273"
+      },
+      "verification": "Publisher or author-hosted content; current DOI/metadata checks recorded",
+      "full_text_read_claim": false
+    },
+    {
+      "id": "B3",
+      "owner": "Beryl",
+      "citation": "Ford, Jeffrey D., Laurie W. Ford, and Angelo D'Amelio. 2008. “Resistance to Change: The Rest of the Story.” *Academy of Management Review* 33 (2): 362-77. https://doi.org/10.5465/amr.2008.31193235.",
+      "doi": "10.5465/amr.2008.31193235",
+      "doi_alias_returned": null,
+      "supported_claim": "Change agents can contribute to resistance through their actions and inactions. Resistance can provide useful information.",
+      "boundary": "A theoretical argument supports examining the concern, without guaranteeing agreement.",
+      "content_checked": "Publisher abstract",
+      "slides": [
+        8,
+        12
+      ],
+      "primary_content_url": "https://journals.aom.org/doi/abs/10.5465/amr.2008.31193235",
+      "link_check": {
+        "url": "https://doi.org/10.5465/amr.2008.31193235",
+        "status": 403,
+        "landing_page": "https://journals.aom.org/doi/10.5465/amr.2008.31193235"
+      },
+      "verification": "Publisher or author-hosted content; current DOI/metadata checks recorded",
+      "full_text_read_claim": false
+    },
+    {
+      "id": "F2",
+      "owner": "Faiaz",
+      "citation": "Herold, David M., Donald B. Fedor, and Steven D. Caldwell. 2007. “Beyond Change Management: A Multilevel Investigation of Contextual and Personal Influences on Employees' Commitment to Change.” *Journal of Applied Psychology* 92 (4): 942-51. https://doi.org/10.1037/0021-9010.92.4.942.",
+      "doi": "10.1037/0021-9010.92.4.942",
+      "doi_alias_returned": "10.1037/0021-9010.92.4.942",
+      "supported_claim": "Contextual and personal factors interact in employees' commitment to specific changes.",
+      "boundary": "The multilevel study is not a test of parallel actions or our decision states.",
+      "content_checked": "PubMed abstract",
+      "slides": [
+        9,
+        13
+      ],
+      "primary_content_url": "https://pubmed.ncbi.nlm.nih.gov/17638456/",
+      "link_check": {
+        "url": "https://doi.org/10.1037/0021-9010.92.4.942",
+        "status": 403,
+        "landing_page": "https://doi.apa.org/doi/10.1037/0021-9010.92.4.942"
+      },
+      "verification": "Publisher or author-hosted content; current DOI/metadata checks recorded",
+      "full_text_read_claim": false
+    },
+    {
+      "id": "M2",
+      "owner": "Mazin",
+      "citation": "Holt, Daniel T., Achilles A. Armenakis, Hubert S. Feild, and Stanley G. Harris. 2007. “Readiness for Organizational Change: The Systematic Development of a Scale.” *Journal of Applied Behavioral Science* 43 (2): 232-55. https://doi.org/10.1177/0021886306295295.",
+      "doi": "10.1177/0021886306295295",
+      "doi_alias_returned": null,
+      "supported_claim": "Readiness is multidimensional. The authors develop and evaluate a scale through a systematic procedure.",
+      "boundary": "This instrument differs from an ADKAR five-score conversation and from our record.",
+      "content_checked": "Publisher abstract",
+      "slides": [
+        6,
+        10,
+        20
+      ],
+      "primary_content_url": "https://journals.sagepub.com/doi/10.1177/0021886306295295",
+      "link_check": {
+        "url": "https://doi.org/10.1177/0021886306295295",
+        "status": 403,
+        "landing_page": "https://journals.sagepub.com/doi/10.1177/0021886306295295"
+      },
+      "verification": "Publisher or author-hosted content; current DOI/metadata checks recorded",
+      "full_text_read_claim": false
+    },
+    {
+      "id": "M5",
+      "owner": "Mazin",
+      "citation": "Jo, Yunseong, and Ah Jeong Hong. 2023. “Development and Validation of a Readiness for Organizational Change Scale.” *SAGE Open* 13 (4). https://doi.org/10.1177/21582440231207705.",
+      "doi": "10.1177/21582440231207705",
+      "doi_alias_returned": "10.1177/21582440231207705",
+      "supported_claim": "A readiness scale requires definition, item development and reliability/validity testing.",
+      "boundary": "Its reported scale development does not confer validity on our classroom rule.",
+      "content_checked": "Publisher abstract and relevant scale-development sections",
+      "slides": [
+        10,
+        20
+      ],
+      "primary_content_url": "https://journals.sagepub.com/doi/10.1177/21582440231207705",
+      "link_check": {
+        "url": "https://doi.org/10.1177/21582440231207705",
+        "status": 403,
+        "landing_page": "https://journals.sagepub.com/doi/10.1177/21582440231207705"
+      },
+      "verification": "Publisher or author-hosted content; current DOI/metadata checks recorded",
+      "full_text_read_claim": false
+    },
+    {
+      "id": "A3",
+      "owner": "Aram",
+      "citation": "Kluger, Avraham N., and Angelo DeNisi. 1996. “The Effects of Feedback Interventions on Performance: A Historical Review, a Meta-Analysis, and a Preliminary Feedback Intervention Theory.” *Psychological Bulletin* 119 (2): 254-84. https://doi.org/10.1037/0033-2909.119.2.254.",
+      "doi": "10.1037/0033-2909.119.2.254",
+      "doi_alias_returned": "10.1037/0033-2909.119.2.254",
+      "supported_claim": "Feedback effects vary, and attention to the task versus the self matters in the reported theory and analysis.",
+      "boundary": "Use for cautious feedback design. Do not claim every task-focused intervention will work.",
+      "content_checked": "Author university research-record abstract",
+      "slides": [
+        20
+      ],
+      "primary_content_url": "https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/",
+      "link_check": {
+        "url": "https://doi.org/10.1037/0033-2909.119.2.254",
+        "status": 403,
+        "landing_page": "https://doi.apa.org/doi/10.1037/0033-2909.119.2.254"
+      },
+      "verification": "Publisher or author-hosted content; current DOI/metadata checks recorded",
+      "full_text_read_claim": false
+    },
+    {
+      "id": "A5",
+      "owner": "Aram",
+      "citation": "Lewis, Laurie K. 1999. “Disseminating Information and Soliciting Input during Planned Organizational Change: Implementers' Targets, Sources, and Channels for Communicating.” *Management Communication Quarterly* 13 (1): 43-75. https://doi.org/10.1177/0893318999131002.",
+      "doi": "10.1177/0893318999131002",
+      "doi_alias_returned": "10.1177/0893318999131002",
+      "supported_claim": "The study examines information-giving and input-seeking channels in planned change.",
+      "boundary": "It does not prove the causal benefit of our chosen shift briefings.",
+      "content_checked": "Publisher abstract",
+      "slides": [
+        24
+      ],
+      "primary_content_url": "https://journals.sagepub.com/doi/10.1177/0893318999131002",
+      "link_check": {
+        "url": "https://doi.org/10.1177/0893318999131002",
+        "status": 403,
+        "landing_page": "https://journals.sagepub.com/doi/10.1177/0893318999131002"
+      },
+      "verification": "Publisher or author-hosted content; current DOI/metadata checks recorded",
+      "full_text_read_claim": false
+    },
+    {
+      "id": "A2",
+      "owner": "Aram",
+      "citation": "Morrison, Elizabeth Wolfe. 2023. “Employee Voice and Silence: Taking Stock a Decade Later.” *Annual Review of Organizational Psychology and Organizational Behavior* 10: 79-107. https://doi.org/10.1146/annurev-orgpsych-120920-054654.",
+      "doi": "10.1146/annurev-orgpsych-120920-054654",
+      "doi_alias_returned": "10.1146/annurev-orgpsych-120920-054654",
+      "supported_claim": "The review examines when and why employees speak up or remain silent.",
+      "boundary": "Inviting feedback does not automatically create meaningful voice or eliminate retaliation.",
+      "content_checked": "Publisher abstract",
+      "slides": [
+        24
+      ],
+      "primary_content_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-orgpsych-120920-054654",
+      "link_check": {
+        "url": "https://doi.org/10.1146/annurev-orgpsych-120920-054654",
+        "status": 200,
+        "landing_page": "https://www.annualreviews.org/content/journals/10.1146/annurev-orgpsych-120920-054654"
+      },
+      "verification": "Publisher or author-hosted content; current DOI/metadata checks recorded",
+      "full_text_read_claim": false
+    },
+    {
+      "id": "F4",
+      "owner": "Faiaz",
+      "citation": "Nilsen, Per. 2015. “Making Sense of Implementation Theories, Models and Frameworks.” *Implementation Science* 10: 53. https://doi.org/10.1186/s13012-015-0242-0.",
+      "doi": "10.1186/s13012-015-0242-0",
+      "doi_alias_returned": null,
+      "supported_claim": "Implementation approaches have different purposes, including guiding, explaining and evaluating.",
+      "boundary": "The taxonomy comes from implementation science. Apply the distinction carefully in retail.",
+      "content_checked": "Abstract and taxonomy discussion",
+      "slides": [
+        16,
+        17,
+        18,
+        22
+      ],
+      "primary_content_url": "https://link.springer.com/article/10.1186/s13012-015-0242-0",
+      "link_check": {
+        "url": "https://doi.org/10.1186/s13012-015-0242-0",
+        "status": 200,
+        "landing_page": "https://link.springer.com/article/10.1186/s13012-015-0242-0"
+      },
+      "verification": "Publisher or author-hosted content; current DOI/metadata checks recorded",
+      "full_text_read_claim": false
+    },
+    {
+      "id": "B4",
+      "owner": "Beryl",
+      "citation": "Oreg, Shaul, Maria Vakola, and Achilles Armenakis. 2011. “Change Recipients' Reactions to Organizational Change: A 60-Year Review of Quantitative Studies.” *Journal of Applied Behavioral Science* 47 (4): 461-524. https://doi.org/10.1177/0021886310396550.",
+      "doi": "10.1177/0021886310396550",
+      "doi_alias_returned": "10.1177/0021886310396550",
+      "supported_claim": "The review groups reactions, antecedents and consequences, including change content, process and context.",
+      "boundary": "The reviewed studies differ in setting and design. They do not test our record.",
+      "content_checked": "Publisher abstract",
+      "slides": [
+        7
+      ],
+      "primary_content_url": "https://journals.sagepub.com/doi/10.1177/0021886310396550",
+      "link_check": {
+        "url": "https://doi.org/10.1177/0021886310396550",
+        "status": 403,
+        "landing_page": "https://journals.sagepub.com/doi/10.1177/0021886310396550"
+      },
+      "verification": "Publisher or author-hosted content; current DOI/metadata checks recorded",
+      "full_text_read_claim": false
+    },
+    {
+      "id": "B5",
+      "owner": "Beryl",
+      "citation": "Oreg, Shaul, and Noga Sverdlik. 2026. “Responses to Organizational Change: Evolution of the Concept, Established Findings, and Future Directions.” *Annual Review of Organizational Psychology and Organizational Behavior* 13: 387-413. https://doi.org/10.1146/annurev-orgpsych-020924-064623.",
+      "doi": "10.1146/annurev-orgpsych-020924-064623",
+      "doi_alias_returned": null,
+      "supported_claim": "The current review highlights ambivalence, levels of analysis, culture and timing in responses to change.",
+      "boundary": "Review findings guide questions about context, not a prediction of this fictional employee.",
+      "content_checked": "Publisher abstract",
+      "slides": [
+        8,
+        24
+      ],
+      "primary_content_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-orgpsych-020924-064623",
+      "link_check": {
+        "url": "https://doi.org/10.1146/annurev-orgpsych-020924-064623",
+        "status": 403,
+        "landing_page": "https://www.annualreviews.org/content/journals/10.1146/annurev-orgpsych-020924-064623"
+      },
+      "verification": "Publisher or author-hosted content; current DOI/metadata checks recorded",
+      "full_text_read_claim": false
+    },
+    {
+      "id": "B2",
+      "owner": "Beryl",
+      "citation": "Oreg, Shaul. 2006. “Personality, Context, and Resistance to Organizational Change.” *European Journal of Work and Organizational Psychology* 15 (1): 73-101. https://doi.org/10.1080/13594320500451247.",
+      "doi": "10.1080/13594320500451247",
+      "doi_alias_returned": "10.1080/13594320500451247",
+      "supported_claim": "Reactions to change relate to context as well as personal characteristics.",
+      "boundary": "Do not use the study to label team members or claim personality alone causes resistance.",
+      "content_checked": "Author university-hosted article, abstract and relevant discussion",
+      "slides": [
+        8
+      ],
+      "primary_content_url": "https://bschool-en.huji.ac.il/sites/default/files/businesshe/files/oreg_2006_ejwop.pdf",
+      "link_check": {
+        "url": "https://doi.org/10.1080/13594320500451247",
+        "status": 403,
+        "landing_page": "https://www.tandfonline.com/doi/abs/10.1080/13594320500451247"
+      },
+      "verification": "Publisher or author-hosted content; current DOI/metadata checks recorded",
+      "full_text_read_claim": false
+    },
+    {
+      "id": "F3",
+      "owner": "Faiaz",
+      "citation": "Pettigrew, Andrew M., Richard W. Woodman, and Kim S. Cameron. 2001. “Studying Organizational Change and Development: Challenges for Future Research.” *Academy of Management Journal* 44 (4): 697-713. https://doi.org/10.5465/3069411.",
+      "doi": "10.5465/3069411",
+      "doi_alias_returned": "10.2307/3069411",
+      "supported_claim": "Change research should examine context, time, process and multiple levels of analysis.",
+      "boundary": "A research agenda supports contextual judgement rather than a universal action order.",
+      "content_checked": "Publisher abstract",
+      "slides": [
+        9,
+        13,
+        15
+      ],
+      "primary_content_url": "https://journals.aom.org/doi/10.5465/3069411",
+      "link_check": {
+        "url": "https://doi.org/10.5465/3069411",
+        "status": 403,
+        "landing_page": "https://journals.aom.org/doi/10.5465/3069411"
+      },
+      "verification": "Publisher or author-hosted content; current DOI/metadata checks recorded",
+      "full_text_read_claim": false
+    },
+    {
+      "id": "B1",
+      "owner": "Beryl",
+      "citation": "Piderit, Sandy Kristin. 2000. “Rethinking Resistance and Recognizing Ambivalence: A Multidimensional View of Attitudes toward an Organizational Change.” *Academy of Management Review* 25 (4): 783-94. https://doi.org/10.5465/amr.2000.3707722.",
+      "doi": "10.5465/amr.2000.3707722",
+      "doi_alias_returned": null,
+      "supported_claim": "Responses to change can be multidimensional and ambivalent, and may evolve over time.",
+      "boundary": "A conceptual argument, rather than proof that every objection is valid.",
+      "content_checked": "Publisher abstract",
+      "slides": [
+        8
+      ],
+      "primary_content_url": "https://journals.aom.org/doi/10.5465/amr.2000.3707722",
+      "link_check": {
+        "url": "https://doi.org/10.5465/amr.2000.3707722",
+        "status": 200,
+        "landing_page": "https://www.jstor.org/stable/259206"
+      },
+      "verification": "Publisher or author-hosted content; current DOI/metadata checks recorded",
+      "full_text_read_claim": false
+    },
+    {
+      "id": "M3",
+      "owner": "Mazin",
+      "citation": "Rafferty, Alannah E., Nerina L. Jimmieson, and Achilles A. Armenakis. 2013. “Change Readiness: A Multilevel Review.” *Journal of Management* 39 (1): 110-35. https://doi.org/10.1177/0149206312457417.",
+      "doi": "10.1177/0149206312457417",
+      "doi_alias_returned": "10.1177/0149206312457417",
+      "supported_claim": "Readiness needs attention to affect and to individual, group and organisational levels.",
+      "boundary": "A multilevel review supplies a perspective, not a retail trial of our tool.",
+      "content_checked": "Publisher abstract",
+      "slides": [
+        7,
+        19
+      ],
+      "primary_content_url": "https://journals.sagepub.com/doi/abs/10.1177/0149206312457417",
+      "link_check": {
+        "url": "https://doi.org/10.1177/0149206312457417",
+        "status": 403,
+        "landing_page": "https://journals.sagepub.com/doi/10.1177/0149206312457417"
+      },
+      "verification": "Publisher or author-hosted content; current DOI/metadata checks recorded",
+      "full_text_read_claim": false
+    },
+    {
+      "id": "M4",
+      "owner": "Mazin",
+      "citation": "Stouten, Jeroen, Denise M. Rousseau, and David De Cremer. 2018. “Successful Organizational Change: Integrating the Management Practice and Scholarly Literatures.” *Academy of Management Annals* 12 (2): 752-88. https://doi.org/10.5465/annals.2016.0095.",
+      "doi": "10.5465/annals.2016.0095",
+      "doi_alias_returned": null,
+      "supported_claim": "The review integrates practitioner change advice with scholarly evidence and identifies evidence-based steps.",
+      "boundary": "Use as a benchmark for diagnosis and implementation. It does not validate our adaptation.",
+      "content_checked": "Publisher abstract and local Topic 7 transcript pages 4-5",
+      "slides": [
+        19,
+        22
+      ],
+      "primary_content_url": "https://journals.aom.org/doi/10.5465/annals.2016.0095",
+      "link_check": {
+        "url": "https://doi.org/10.5465/annals.2016.0095",
+        "status": 403,
+        "landing_page": "https://journals.aom.org/doi/10.5465/annals.2016.0095"
+      },
+      "verification": "Publisher or author-hosted content; current DOI/metadata checks recorded",
+      "full_text_read_claim": false
+    },
+    {
+      "id": "M1",
+      "owner": "Mazin",
+      "citation": "Weiner, Bryan J. 2009. “A Theory of Organizational Readiness for Change.” *Implementation Science* 4: 67. https://doi.org/10.1186/1748-5908-4-67.",
+      "doi": "10.1186/1748-5908-4-67",
+      "doi_alias_returned": "10.1186/1748-5908-4-67",
+      "supported_claim": "Organisational readiness involves shared commitment and capability, with task demands and resources informing the judgement.",
+      "boundary": "Conceptual theory, developed with healthcare systems in view. It does not test our worksheet.",
+      "content_checked": "Abstract and organisational-readiness/conditions sections",
+      "slides": [
+        7,
+        14
+      ],
+      "primary_content_url": "https://link.springer.com/article/10.1186/1748-5908-4-67",
+      "link_check": {
+        "url": "https://doi.org/10.1186/1748-5908-4-67",
+        "status": 200,
+        "landing_page": "https://link.springer.com/article/10.1186/1748-5908-4-67"
+      },
+      "verification": "Publisher or author-hosted content; current DOI/metadata checks recorded",
+      "full_text_read_claim": false
+    }
+  ],
+  "professional_sources": [
+    [
+      "Prosci. n.d.-a. \"The Prosci ADKAR Model.\"",
+      "https://www.prosci.com/methodology/adkar"
+    ],
+    [
+      "Prosci. n.d.-b. \"The Prosci Change Triangle PCT Model.\"",
+      "https://www.prosci.com/methodology/pct-model"
+    ],
+    [
+      "Prosci. n.d.-c. \"Prosci 3-Phase Process.\"",
+      "https://www.prosci.com/methodology/3-phase-process"
+    ],
+    [
+      "Prosci. n.d.-d. \"ADKAR Assessments.\"",
+      "https://www.prosci.com/migration/en/help-center/adkar-assessments"
+    ],
+    [
+      "Prosci. 2022. \"ADKAR Assessment.\"",
+      "https://www.prosci.com/hubfs/2.downloads/webinars/ADKAR-Assessment-Personal-Fillable-2022.pdf"
+    ],
+    [
+      "Creasey, Tim. 2025. \"The Prosci ADKAR Model: Why It Works.\"",
+      "https://www.prosci.com/blog/why-the-adkar-model-works"
+    ]
+  ],
+  "unresolved": "Outline maximum 20 vs HD 20+; explicit Chicago 17 vs APA example. Working choice authorised for preparation; lecturer clarification absent."
+}
