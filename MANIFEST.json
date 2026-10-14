@@ -1468,6 +1468,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS230/2026-TSD/Assignments/A2/2026-10-14_full-pack-cloud-restore.json",
+      "bytes": 4110,
+      "sha256": "c2ece3167a1dbdf8c68111788b5d6598fc266538c51db2d5cc962fee0c387fa7",
+      "storage": "git"
+    },
+    {
       "path": "BUS230/2026-TSD/Assignments/A2/2026-10-14_full-pack-decisions.md",
       "bytes": 1032,
       "sha256": "da95b622f1b438b32d995f85aa4fc64130417b58b6d85ecf8cac897c39413fa3",
@@ -1637,8 +1643,8 @@
     },
     {
       "path": "BUS230/2026-TSD/Assignments/A2/README.md",
-      "bytes": 2972,
-      "sha256": "2e1e838c8c742737518ae70c016357bde960d075c1501d11fbb12c4854e7d7e1",
+      "bytes": 3152,
+      "sha256": "4a7eae790862104a598c30eeb2022fa85395da14e00d12c1a8af339eb4a5fbe9",
       "storage": "git"
     },
     {
@@ -1709,8 +1715,8 @@
     },
     {
       "path": "BUS230/2026-TSD/HISTORY.md",
-      "bytes": 8965,
-      "sha256": "ea4ac582416840857c6f7b5168c88dd55f67776207b937d452be678c399a030c",
+      "bytes": 9492,
+      "sha256": "160944cd1377fed9694a3e325cbd5a596b591cb5279a1ad14f36e1bb43096383",
       "storage": "git"
     },
     {
@@ -3622,6 +3628,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 603,
-  "total_bytes": 483378159
+  "file_count": 604,
+  "total_bytes": 483382976
 }
