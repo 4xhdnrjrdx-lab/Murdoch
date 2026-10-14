@@ -1,0 +1,79 @@
+{
+  "checked_at": "2026-10-14T15:38:40.378553+04:00",
+  "course": "BUS230",
+  "scope": "Read-only A2 portal, own group, course contents and accessible course forums",
+  "operations": [
+    "core_webservice_get_site_info",
+    "core_course_get_contents",
+    "mod_assign_get_assignments",
+    "mod_assign_get_submission_status",
+    "core_group_get_course_user_groups",
+    "mod_forum_get_forums_by_courses",
+    "mod_forum_get_forum_discussions",
+    "mod_forum_get_forum_discussions"
+  ],
+  "account_matches": true,
+  "a2": {
+    "id": 124983,
+    "due_timestamp": 1793980740,
+    "due_at_dubai": "2026-11-06T19:59:00+04:00",
+    "cutoff_timestamp": 0,
+    "team_submission_status": "new",
+    "individual_submission_status": null
+  },
+  "groups": [
+    {
+      "id": 327107,
+      "name": "BUS230 Class 2"
+    },
+    {
+      "id": 327929,
+      "name": "Class 2 Group 4"
+    },
+    {
+      "id": 318325,
+      "name": "SIS: BUS230_ATTD_DUBAI-ISC_FACE TO FACE"
+    }
+  ],
+  "forums": [
+    {
+      "id": 149752,
+      "name": "Welcome to BUS230",
+      "first_page_count": 0,
+      "a2_relevant": [],
+      "result": "No A2-specific clarification found on the accessible first page. Existing A1 advice does not resolve A2 conflicts."
+    },
+    {
+      "id": 149753,
+      "name": "Team Discussion Forum",
+      "first_page_count": 2,
+      "a2_relevant": [],
+      "result": "No A2-specific clarification found on the accessible first page. Existing A1 advice does not resolve A2 conflicts."
+    }
+  ],
+  "result": "ok",
+  "unknown": [
+    "Agreement of other team members on the prepared pack",
+    "Assigned presentation date and uploader",
+    "Actual rehearsal and delivery computer test",
+    "Lecturer resolution of reference-count and citation-style conflicts"
+  ],
+  "actions": "Prepared pack unchanged. No messages sent and no assessment submitted.",
+  "mail": {
+    "checked_at": "2026-10-14T15:39:16+04:00",
+    "account": "jafarovfayaz@gmail.com",
+    "scope": "after:2026/10/07 (BUS230 OR \"BUS 230\" OR \"Change Management\" OR from:Shahinda.Baig@murdoch.edu.au)",
+    "matching_messages": 0,
+    "result": "No matching messages found",
+    "uncovered": [
+      "Full university Outlook",
+      "WhatsApp"
+    ]
+  },
+  "restoration": {
+    "source_commit": "7057811dc06feeabe5b23ea2632f94e0fd16959b",
+    "separate_clone": "Used because the shared checkout contains uncommitted BUS225 and BUS230 changes; shared files were left unchanged",
+    "repository_check": "scripts/verify.py passed: 604 files; SHA-256, scope, sources, links, states and secret scan",
+    "academic_registry_check": "20 distinct academic publications and DOIs; five assigned to each presenter. Earlier source-verification record dated 14 October reviewed; external links were not rechecked during this continuation."
+  }
+}
