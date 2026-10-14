@@ -1,0 +1,59 @@
+{
+  "checked_at": "2026-10-14T13:49:32.974546+04:00",
+  "course": "BUS230",
+  "scope": "Read-only A2 portal, own group and latest contents",
+  "operations": [
+    "core_webservice_get_site_info",
+    "core_course_get_contents",
+    "mod_assign_get_assignments",
+    "mod_assign_get_submission_status",
+    "core_group_get_course_user_groups"
+  ],
+  "account_matches": true,
+  "a2_modules": [
+    {
+      "name": "Assessment 2: Presentation Material (Group) Submission Portal",
+      "instance": 124983,
+      "dates": [
+        {
+          "label": "Due:",
+          "timestamp": 1793980740,
+          "dataid": "duedate"
+        }
+      ]
+    }
+  ],
+  "a2": {
+    "id": 124983,
+    "due_timestamp": 1793980740,
+    "due_at_dubai": "2026-11-06T19:59:00+04:00",
+    "team_submission_status": "new",
+    "grading_status": "notgraded"
+  },
+  "groups": [
+    {
+      "id": 327107,
+      "name": "BUS230 Class 2"
+    },
+    {
+      "id": 327929,
+      "name": "Class 2 Group 4"
+    },
+    {
+      "id": 318325,
+      "name": "SIS: BUS230_ATTD_DUBAI-ISC_FACE TO FACE"
+    }
+  ],
+  "result": "ok",
+  "mail": {
+    "checked_at": "2026-10-14T13:57:20+04:00",
+    "account": "jafarovfayaz@gmail.com",
+    "profile_verified": true,
+    "scope": "Gmail after 7 October; BUS230, Change Management or Shahinda",
+    "result": "No matching messages found in this scope",
+    "uncovered": [
+      "Full university Outlook",
+      "WhatsApp"
+    ]
+  }
+}

@@ -1,0 +1,704 @@
+{
+  "checked_at": "2026-10-07",
+  "style": "Chicago 17 author-date working style; APA inconsistency unresolved",
+  "academic_target": 20,
+  "academic_sources": [
+    {
+      "id": "M1",
+      "doi": "10.1186/1748-5908-4-67",
+      "title": [
+        "A Theory of Organizational Readiness for Change"
+      ],
+      "authors": [
+        "Bryan J. Weiner"
+      ],
+      "journal": [
+        "Implementation Science"
+      ],
+      "year": [
+        [
+          2009
+        ]
+      ],
+      "volume": "4",
+      "article_number": "67",
+      "verification": "Primary full-text article metadata at PMC and publisher; Crossref lookup failed",
+      "owner": "Mazin",
+      "primary_content_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2770024/",
+      "purpose": "Collective readiness and conditions",
+      "content_access_scope": "Primary text available; relevant abstract and sections/excerpts checked, not a full-page-by-page review",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "checked_at": "2026-10-07",
+      "url": "https://doi.org/10.1186/1748-5908-4-67"
+    },
+    {
+      "id": "M2",
+      "doi": "10.1177/0021886306295295",
+      "title": [
+        "Readiness for Organizational Change"
+      ],
+      "authors": [
+        "Daniel T. Holt",
+        "Achilles A. Armenakis",
+        "Hubert S. Feild",
+        "Stanley G. Harris"
+      ],
+      "year": [
+        [
+          2007,
+          6
+        ]
+      ],
+      "journal": [
+        "The Journal of Applied Behavioral Science"
+      ],
+      "volume": "43",
+      "issue": "2",
+      "pages": "232-255",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.1177/0021886306295295",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Mazin",
+      "primary_content_url": "https://journals.sagepub.com/doi/10.1177/0021886306295295",
+      "purpose": "Readiness measurement design",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation"
+    },
+    {
+      "id": "M3",
+      "doi": "10.1177/0149206312457417",
+      "title": [
+        "Change Readiness"
+      ],
+      "authors": [
+        "Alannah E. Rafferty",
+        "Nerina L. Jimmieson",
+        "Achilles A. Armenakis"
+      ],
+      "year": [
+        [
+          2013
+        ]
+      ],
+      "journal": [
+        "Journal of Management"
+      ],
+      "volume": "39",
+      "issue": "1",
+      "pages": "110-135",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.1177/0149206312457417",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Mazin",
+      "primary_content_url": "https://journals.sagepub.com/doi/abs/10.1177/0149206312457417",
+      "purpose": "Individual, group and organisational levels",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "date_note": "Issue year 2013; first online 2012",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation"
+    },
+    {
+      "id": "M4",
+      "doi": "10.5465/annals.2016.0095",
+      "title": [
+        "Successful Organizational Change: Integrating the Management Practice and Scholarly Literatures"
+      ],
+      "authors": [
+        "Jeroen Stouten",
+        "Denise M. Rousseau",
+        "David De Cremer"
+      ],
+      "journal": [
+        "Academy of Management Annals"
+      ],
+      "year": [
+        [
+          2018
+        ]
+      ],
+      "volume": "12",
+      "issue": "2",
+      "pages": "752-788",
+      "verification": "Primary publisher abstract/metadata and BUS230 Topic 7; Crossref lookup failed; university PDF request returned HTML and was not read",
+      "owner": "Mazin",
+      "primary_content_url": "https://journals.aom.org/doi/10.5465/annals.2016.0095",
+      "purpose": "Compare practice frameworks with research; evidence-based actions",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "checked_at": "2026-10-07",
+      "url": "https://doi.org/10.5465/annals.2016.0095"
+    },
+    {
+      "id": "M5",
+      "doi": "10.1177/21582440231207705",
+      "title": [
+        "Development and Validation of a Readiness for Organizational Change Scale"
+      ],
+      "authors": [
+        "Yunseong Jo",
+        "Ah Jeong Hong"
+      ],
+      "year": [
+        [
+          2023,
+          10
+        ]
+      ],
+      "journal": [
+        "Sage Open"
+      ],
+      "volume": "13",
+      "issue": "4",
+      "pages": null,
+      "article_number": "21582440231207705",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1177/21582440231207705",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Mazin",
+      "primary_content_url": "https://journals.sagepub.com/doi/10.1177/21582440231207705",
+      "purpose": "Measurement validation and boundaries",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation"
+    },
+    {
+      "id": "B1",
+      "doi": "10.5465/amr.2000.3707722",
+      "title": [
+        "Rethinking Resistance and Recognizing Ambivalence: A Multidimensional View of Attitudes toward an Organizational Change"
+      ],
+      "authors": [
+        "Sandy Kristin Piderit"
+      ],
+      "year": [
+        [
+          2000,
+          10
+        ]
+      ],
+      "journal": [
+        "The Academy of Management Review"
+      ],
+      "volume": "25",
+      "issue": "4",
+      "pages": "783-794",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.5465/amr.2000.3707722",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Beryl",
+      "primary_content_url": "https://journals.aom.org/doi/10.5465/amr.2000.3707722",
+      "purpose": "Ambivalence and multidimensional responses",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation"
+    },
+    {
+      "id": "B2",
+      "doi": "10.1080/13594320500451247",
+      "title": [
+        "Personality, context, and resistance to organizational change"
+      ],
+      "authors": [
+        "Shaul Oreg"
+      ],
+      "year": [
+        [
+          2006,
+          3
+        ]
+      ],
+      "journal": [
+        "European Journal of Work and Organizational Psychology"
+      ],
+      "volume": "15",
+      "issue": "1",
+      "pages": "73-101",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.1080/13594320500451247",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Beryl",
+      "primary_content_url": "https://bschool-en.huji.ac.il/sites/default/files/businesshe/files/oreg_2006_ejwop.pdf",
+      "purpose": "Personality and context; do not infer teammates skills",
+      "content_access_scope": "Primary university-hosted article abstract checked, full article not reviewed",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation"
+    },
+    {
+      "id": "B3",
+      "doi": "10.5465/amr.2008.31193235",
+      "title": [
+        "Resistance to Change: The Rest of the Story"
+      ],
+      "authors": [
+        "Jeffrey D. Ford",
+        "Laurie W. Ford",
+        "Angelo D'Amelio"
+      ],
+      "journal": [
+        "Academy of Management Review"
+      ],
+      "year": [
+        [
+          2008
+        ]
+      ],
+      "volume": "33",
+      "issue": "2",
+      "pages": "362-377",
+      "verification": "Primary publisher abstract/metadata; Crossref lookup failed",
+      "owner": "Beryl",
+      "primary_content_url": "https://journals.aom.org/doi/abs/10.5465/amr.2008.31193235",
+      "purpose": "Change agent contribution and useful resistance",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation",
+      "checked_at": "2026-10-07",
+      "url": "https://doi.org/10.5465/amr.2008.31193235"
+    },
+    {
+      "id": "B4",
+      "doi": "10.1177/0021886310396550",
+      "title": [
+        "Change Recipients\u2019 Reactions to Organizational Change"
+      ],
+      "authors": [
+        "Shaul Oreg",
+        "Maria Vakola",
+        "Achilles Armenakis"
+      ],
+      "year": [
+        [
+          2011,
+          2,
+          7
+        ]
+      ],
+      "journal": [
+        "The Journal of Applied Behavioral Science"
+      ],
+      "volume": "47",
+      "issue": "4",
+      "pages": "461-524",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.1177/0021886310396550",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Beryl",
+      "primary_content_url": "https://journals.sagepub.com/doi/10.1177/0021886310396550",
+      "purpose": "Reactions, antecedents and consequences",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation"
+    },
+    {
+      "id": "B5",
+      "doi": "10.1146/annurev-orgpsych-020924-064623",
+      "title": [
+        "Responses to Organizational Change: Evolution of the Concept, Established Findings, and Future Directions"
+      ],
+      "authors": [
+        "Shaul Oreg",
+        "Noga Sverdlik"
+      ],
+      "year": [
+        [
+          2026,
+          1,
+          21
+        ]
+      ],
+      "journal": [
+        "Annual Review of Organizational Psychology and Organizational Behavior"
+      ],
+      "volume": "13",
+      "issue": "1",
+      "pages": "387-413",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.1146/annurev-orgpsych-020924-064623",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Beryl",
+      "primary_content_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-orgpsych-020924-064623",
+      "purpose": "Recent review; timing and ambivalence",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation"
+    },
+    {
+      "id": "F1",
+      "doi": "10.1177/014920639201800306",
+      "title": [
+        "A Causal Model of Organizational Performance and Change"
+      ],
+      "authors": [
+        "W. Warner Burke",
+        "George H. Litwin"
+      ],
+      "year": [
+        [
+          1992,
+          9
+        ]
+      ],
+      "journal": [
+        "Journal of Management"
+      ],
+      "volume": "18",
+      "issue": "3",
+      "pages": "523-545",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.1177/014920639201800306",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Faiaz",
+      "primary_content_url": "https://journals.sagepub.com/doi/10.1177/014920639201800306",
+      "purpose": "Coupled organisational systems",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation"
+    },
+    {
+      "id": "F2",
+      "doi": "10.1037/0021-9010.92.4.942",
+      "title": [
+        "Beyond change management: A multilevel investigation of contextual and personal influences on employees' commitment to change."
+      ],
+      "authors": [
+        "David M. Herold",
+        "Donald B. Fedor",
+        "Steven D. Caldwell"
+      ],
+      "year": [
+        [
+          2007
+        ]
+      ],
+      "journal": [
+        "Journal of Applied Psychology"
+      ],
+      "volume": "92",
+      "issue": "4",
+      "pages": "942-951",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.1037/0021-9010.92.4.942",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Faiaz",
+      "primary_content_url": "https://pubmed.ncbi.nlm.nih.gov/17638456/",
+      "purpose": "Personal and contextual influences",
+      "content_access_scope": "Primary PubMed search excerpt and publisher-deposited Crossref metadata; direct page later returned CAPTCHA",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation"
+    },
+    {
+      "id": "F3",
+      "doi": "10.5465/3069411",
+      "title": [
+        "STUDYING ORGANIZATIONAL CHANGE AND DEVELOPMENT: CHALLENGES FOR FUTURE RESEARCH."
+      ],
+      "authors": [
+        "A. M. Pettigrew",
+        "R. W. Woodman",
+        "K. S. Cameron"
+      ],
+      "year": [
+        [
+          2001,
+          8,
+          1
+        ]
+      ],
+      "journal": [
+        "Academy of Management Journal"
+      ],
+      "volume": "44",
+      "issue": "4",
+      "pages": "697-713",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.5465/3069411",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Faiaz",
+      "primary_content_url": "https://journals.aom.org/doi/10.5465/3069411",
+      "purpose": "Time, process, context and levels",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation"
+    },
+    {
+      "id": "F4",
+      "doi": "10.1186/s13012-015-0242-0",
+      "title": [
+        "Making sense of implementation theories, models and frameworks"
+      ],
+      "authors": [
+        "Per Nilsen"
+      ],
+      "year": [
+        [
+          2015,
+          4,
+          21
+        ]
+      ],
+      "journal": [
+        "Implementation Science"
+      ],
+      "volume": "10",
+      "issue": "1",
+      "pages": null,
+      "article_number": "53",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1186/s13012-015-0242-0",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Faiaz",
+      "primary_content_url": "https://link.springer.com/article/10.1186/s13012-015-0242-0",
+      "purpose": "Different purposes of theory, models and frameworks; healthcare scope",
+      "content_access_scope": "Primary text available; relevant abstract and sections/excerpts checked, not a full-page-by-page review",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation"
+    },
+    {
+      "id": "F5",
+      "doi": "10.1177/18479790211016273",
+      "title": [
+        "The determinants of organizational change management success: Literature review and case study"
+      ],
+      "authors": [
+        "Abdelouahab Errida",
+        "Bouchra Lotfi"
+      ],
+      "year": [
+        [
+          2021,
+          1,
+          1
+        ]
+      ],
+      "journal": [
+        "International Journal of Engineering Business Management"
+      ],
+      "volume": "13",
+      "issue": null,
+      "pages": null,
+      "article_number": "18479790211016273",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1177/18479790211016273",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Faiaz",
+      "primary_content_url": "https://journals.sagepub.com/doi/10.1177/18479790211016273",
+      "purpose": "Holistic model comparisons; literature review and case limits",
+      "content_access_scope": "Primary text available; relevant abstract and sections/excerpts checked, not a full-page-by-page review",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation"
+    },
+    {
+      "id": "A1",
+      "doi": "10.2307/2666999",
+      "title": [
+        "Psychological Safety and Learning Behavior in Work Teams"
+      ],
+      "authors": [
+        "Amy Edmondson"
+      ],
+      "year": [
+        [
+          1999,
+          6
+        ]
+      ],
+      "journal": [
+        "Administrative Science Quarterly"
+      ],
+      "volume": "44",
+      "issue": "2",
+      "pages": "350-383",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.2307/2666999",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Aram",
+      "primary_content_url": "https://journals.sagepub.com/doi/abs/10.2307/2666999",
+      "purpose": "Psychological safety for learning",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation"
+    },
+    {
+      "id": "A2",
+      "doi": "10.1146/annurev-orgpsych-120920-054654",
+      "title": [
+        "Employee Voice and Silence: Taking Stock a Decade Later"
+      ],
+      "authors": [
+        "Elizabeth Wolfe Morrison"
+      ],
+      "year": [
+        [
+          2023,
+          1,
+          23
+        ]
+      ],
+      "journal": [
+        "Annual Review of Organizational Psychology and Organizational Behavior"
+      ],
+      "volume": "10",
+      "issue": "1",
+      "pages": "79-107",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.1146/annurev-orgpsych-120920-054654",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Aram",
+      "primary_content_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-orgpsych-120920-054654",
+      "purpose": "Voice and silence; recent review",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation"
+    },
+    {
+      "id": "A3",
+      "doi": "10.1037/0033-2909.119.2.254",
+      "title": [
+        "The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary feedback intervention theory."
+      ],
+      "authors": [
+        "Avraham N. Kluger",
+        "Angelo DeNisi"
+      ],
+      "year": [
+        [
+          1996,
+          3
+        ]
+      ],
+      "journal": [
+        "Psychological Bulletin"
+      ],
+      "volume": "119",
+      "issue": "2",
+      "pages": "254-284",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.1037/0033-2909.119.2.254",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Aram",
+      "primary_content_url": "https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/",
+      "purpose": "Feedback effects vary; task-focused design rationale",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation"
+    },
+    {
+      "id": "A4",
+      "doi": "10.1111/j.1744-6570.1988.tb00632.x",
+      "title": [
+        "TRANSFER OF TRAINING: A REVIEW AND DIRECTIONS FOR FUTURE RESEARCH"
+      ],
+      "authors": [
+        "TIMOTHY T. BALDWIN",
+        "J. KEVIN FORD"
+      ],
+      "year": [
+        [
+          1988,
+          3
+        ]
+      ],
+      "journal": [
+        "Personnel Psychology"
+      ],
+      "volume": "41",
+      "issue": "1",
+      "pages": "63-105",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.1111/j.1744-6570.1988.tb00632.x",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Aram",
+      "primary_content_url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1744-6570.1988.tb00632.x",
+      "purpose": "Learning transfer to work",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation"
+    },
+    {
+      "id": "A5",
+      "doi": "10.1177/0893318999131002",
+      "title": [
+        "Disseminating Information and Soliciting Input during Planned Organizational Change"
+      ],
+      "authors": [
+        "Laurie K. Lewis"
+      ],
+      "year": [
+        [
+          1999,
+          8
+        ]
+      ],
+      "journal": [
+        "Management Communication Quarterly"
+      ],
+      "volume": "13",
+      "issue": "1",
+      "pages": "43-75",
+      "article_number": null,
+      "type": "journal-article",
+      "url": "https://doi.org/10.1177/0893318999131002",
+      "checked_at": "2026-10-07",
+      "verification": "Crossref publisher-deposited metadata; content access recorded separately",
+      "owner": "Aram",
+      "primary_content_url": "https://journals.sagepub.com/doi/10.1177/0893318999131002",
+      "purpose": "Disseminating information and soliciting input",
+      "content_access_scope": "Primary abstract/metadata checked; full article not reviewed in full",
+      "team_reading_status": "Proposed allocation only; obtain full passage and slide link before final presentation"
+    }
+  ],
+  "baseline_professional_sources": [
+    {
+      "title": "ADKAR Model",
+      "url": "https://www.prosci.com/methodology/adkar",
+      "scope": "Five individual outcomes and wider-methodology distinction"
+    },
+    {
+      "title": "ADKAR Assessment 2022",
+      "url": "https://www.prosci.com/hubfs/2.downloads/webinars/ADKAR-Assessment-Personal-Fillable-2022.pdf",
+      "scope": "Full four-page personal worksheet read; 1-5 and first <=3 rule; linked but not redistributed"
+    },
+    {
+      "title": "Why the ADKAR Model Works",
+      "url": "https://www.prosci.com/blog/why-the-adkar-model-works",
+      "scope": "Official prerequisite sequence and model purpose"
+    },
+    {
+      "title": "PCT Model",
+      "url": "https://www.prosci.com/methodology/pct-model",
+      "scope": "Success, sponsorship, project management and change management"
+    },
+    {
+      "title": "3-Phase Process",
+      "url": "https://www.prosci.com/methodology/3-phase-process",
+      "scope": "Organisational process including tracking, adaptation and sustainment"
+    },
+    {
+      "title": "ADKAR Assessments",
+      "url": "https://www.prosci.com/migration/en/help-center/adkar-assessments",
+      "scope": "Repeated assessments and barrier actions already exist"
+    }
+  ],
+  "not_claimed": [
+    "All full texts read",
+    "Empirical validation of ADKAR adaptation",
+    "Originality across entire literature",
+    "Team acceptance",
+    "Real company results"
+  ],
+  "allocation_updated_at": "2026-10-14",
+  "note": "Sources and original access scope are unchanged from 7 October; only proposed Beryl/Aram ownership changed to fit the supplied speaker order. No new full-text reading is claimed."
+}
