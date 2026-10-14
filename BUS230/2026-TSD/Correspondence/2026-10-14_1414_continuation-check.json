@@ -1,0 +1,40 @@
+{
+  "checked_at": "2026-10-14T14:14:52.531048+04:00",
+  "course": "BUS230",
+  "scope": "Read-only A2 portal, current course contents and own groups",
+  "result": "ok",
+  "account_matches": true,
+  "operations": [
+    "core_webservice_get_site_info",
+    "core_course_get_contents",
+    "mod_assign_get_assignments",
+    "mod_assign_get_submission_status",
+    "core_group_get_course_user_groups"
+  ],
+  "a2": {
+    "id": 124983,
+    "due_timestamp": 1793980740,
+    "due_at_dubai": "2026-11-06T19:59:00+04:00",
+    "cutoff_timestamp": 0,
+    "team_submission_status": "new"
+  },
+  "group": {
+    "id": 327929,
+    "name": "Class 2 Group 4"
+  },
+  "mail": {
+    "checked_on": "2026-10-14",
+    "scope": "Gmail query after:2026/10/07 (BUS230 OR \"Change Management\")",
+    "result": "No matching messages found; broader BUS230 search returned existing correspondence",
+    "uncovered": [
+      "Full university Outlook",
+      "WhatsApp"
+    ]
+  },
+  "unknown": [
+    "Team agreement on ADKAR, content allocation and fictional case",
+    "Assigned presentation date and uploader",
+    "Reference count and citation style conflicts"
+  ],
+  "actions": "No messages sent and no assessment submitted. Current plan unchanged."
+}

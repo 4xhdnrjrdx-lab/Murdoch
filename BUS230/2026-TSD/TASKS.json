@@ -137,6 +137,12 @@
           "note": "Moodle: срок 6 ноября 19:59 Dubai, A2 new; Class 2 Group 4 подтверждена. Проверен учебный Gmail, новых писем в заданном охвате нет.",
           "path": "Correspondence/2026-10-14_delivery-format-check.json",
           "source": "Read-only Moodle API and verified study Gmail"
+        },
+        {
+          "date": "2026-10-14",
+          "note": "При продолжении в 14:14 Dubai Moodle снова подтвердил A2 new, срок 6 ноября 19:59 и Class 2 Group 4; новых писем в заданном поиске Gmail нет. План не изменён.",
+          "path": "Correspondence/2026-10-14_1414_continuation-check.json",
+          "source": "Read-only Moodle API and Gmail search"
         }
       ],
       "unknown": "Согласие команды с детальным перераспределением, моделью ADKAR и кейсом; дата выступления и загрузчик; Chicago 17 против APA и 15–20 источников против HD 20+. Полные тексты/фрагменты источников, мультимедийные слайды и репетиция ещё не подтверждены. Первый контакт в опросе отображён сокращённо и отнесён к Mazin по контексту группы.",
