@@ -1,0 +1,255 @@
+{
+  "course": "BUS334",
+  "courseid": 31274,
+  "checked_at": "2026-10-17T03:02:08.983357+04:00",
+  "operations": "Read-only contents, assignments, own submission statuses, quizzes and own attempts, grade items, news discussions",
+  "assessment_modules": [
+    {
+      "id": 3070558,
+      "instance": 124854,
+      "name": "Assignment 1: Engagement (10%)",
+      "type": "assign",
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3070558",
+      "dates": [
+        {
+          "label": "Opened:",
+          "timestamp": 1787013000,
+          "dataid": "allowsubmissionsfromdate"
+        },
+        {
+          "label": "Due:",
+          "timestamp": 1795078800,
+          "dataid": "duedate"
+        }
+      ],
+      "description": "This portal is for the lecturer's use only to record grades and provide feedback; no student submission is required. Following the marking guide, Class participation is assessed based on students’ active engagement across all sessions, including participation activities and discussions, as observed by the lecturer(s)."
+    },
+    {
+      "id": 3070559,
+      "instance": 124855,
+      "name": "Assignment 2 Submission: Questionnaire (20%)",
+      "type": "assign",
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3070559",
+      "dates": [
+        {
+          "label": "Opened:",
+          "timestamp": 1787531400,
+          "dataid": "allowsubmissionsfromdate"
+        },
+        {
+          "label": "Due:",
+          "timestamp": 1789919940,
+          "dataid": "duedate"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 3070560,
+      "instance": 124856,
+      "name": "Assignment 3 Submission: Data Collection &amp; Preliminary Analysis (30%)",
+      "type": "assign",
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3070560",
+      "dates": [
+        {
+          "label": "Opened:",
+          "timestamp": 1787531400,
+          "dataid": "allowsubmissionsfromdate"
+        },
+        {
+          "label": "Due:",
+          "timestamp": 1792943940,
+          "dataid": "duedate"
+        }
+      ],
+      "description": "The data collection and analysis is to be conducted individually, the assignment should be also submitted and marked individually."
+    },
+    {
+      "id": 3070561,
+      "instance": 124857,
+      "name": "Assignment 4 Supporting materials submission: Data Analysis &amp; Presentation (40%)",
+      "type": "assign",
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3070561",
+      "dates": [
+        {
+          "label": "Opens:",
+          "timestamp": 1792283400,
+          "dataid": "allowsubmissionsfromdate"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 3070562,
+      "instance": 124858,
+      "name": "Peer Evaluation Form Submission (Individual)",
+      "type": "assign",
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3070562",
+      "dates": [
+        {
+          "label": "Opens:",
+          "timestamp": 1794384120,
+          "dataid": "allowsubmissionsfromdate"
+        },
+        {
+          "label": "Due:",
+          "timestamp": 1795881300,
+          "dataid": "duedate"
+        }
+      ],
+      "description": "Each student, please make sure to submit your peer evaluation form independently and individually."
+    }
+  ],
+  "assignments": [
+    {
+      "id": 124857,
+      "name": "Assignment 4 Supporting materials submission: Data Analysis &amp; Presentation (40%)",
+      "duedate": 0,
+      "cutoffdate": 0,
+      "grade": 40,
+      "teamsubmission": {
+        "status": "new",
+        "timemodified": 1784723880,
+        "groupid": 0,
+        "file_count": 0
+      },
+      "allowsubmissionsfromdate": 1792283400,
+      "due_dubai": null,
+      "intro": "",
+      "submission": {
+        "status": null,
+        "timemodified": null,
+        "groupid": null,
+        "file_count": 0
+      },
+      "gradingstatus": "notgraded",
+      "canedit": false,
+      "feedback_grade": null
+    },
+    {
+      "id": 124858,
+      "name": "Peer Evaluation Form Submission (Individual)",
+      "duedate": 1795881300,
+      "cutoffdate": 1795967700,
+      "grade": 100,
+      "teamsubmission": {
+        "status": null,
+        "timemodified": null,
+        "groupid": null,
+        "file_count": 0
+      },
+      "allowsubmissionsfromdate": 1794384120,
+      "due_dubai": "2026-11-28T19:55:00+04:00",
+      "intro": "Each student, please make sure to submit your peer evaluation form independently and individually.",
+      "submission": {
+        "status": "new",
+        "timemodified": 1791361374,
+        "groupid": 0,
+        "file_count": 0
+      },
+      "gradingstatus": "notgraded",
+      "canedit": false,
+      "feedback_grade": null
+    },
+    {
+      "id": 124854,
+      "name": "Assignment 1: Engagement (10%)",
+      "duedate": 1795078800,
+      "cutoffdate": 1797843600,
+      "grade": 10,
+      "teamsubmission": {
+        "status": null,
+        "timemodified": null,
+        "groupid": null,
+        "file_count": 0
+      },
+      "allowsubmissionsfromdate": 1787013000,
+      "due_dubai": "2026-11-19T13:00:00+04:00",
+      "intro": "This portal is for the lecturer's use only to record grades and provide feedback; no student submission is required. Following the marking guide, Class participation is assessed based on students’ active engagement across all sessions, including participation activities and discussions, as observed by the lecturer(s).",
+      "submission": {
+        "status": "new",
+        "timemodified": 1791361375,
+        "groupid": 0,
+        "file_count": 0
+      },
+      "gradingstatus": "notgraded",
+      "canedit": true,
+      "feedback_grade": null
+    },
+    {
+      "id": 124855,
+      "name": "Assignment 2 Submission: Questionnaire (20%)",
+      "duedate": 1789919940,
+      "cutoffdate": 1790179140,
+      "grade": 20,
+      "teamsubmission": {
+        "status": null,
+        "timemodified": null,
+        "groupid": null,
+        "file_count": 0
+      },
+      "allowsubmissionsfromdate": 1787531400,
+      "due_dubai": "2026-09-20T19:59:00+04:00",
+      "intro": "The questionnaire to be submitted electronically here",
+      "submission": {
+        "status": "submitted",
+        "timemodified": 1789763186,
+        "groupid": 0,
+        "file_count": 1
+      },
+      "gradingstatus": "graded",
+      "canedit": false,
+      "feedback_grade": "15.00000"
+    },
+    {
+      "id": 124856,
+      "name": "Assignment 3 Submission: Data Collection &amp; Preliminary Analysis (30%)",
+      "duedate": 1792943940,
+      "cutoffdate": 1793203140,
+      "grade": 30,
+      "teamsubmission": {
+        "status": null,
+        "timemodified": null,
+        "groupid": null,
+        "file_count": 0
+      },
+      "allowsubmissionsfromdate": 1787531400,
+      "due_dubai": "2026-10-25T19:59:00+04:00",
+      "intro": "The data collection and analysis is to be conducted individually, the assignment should be also submitted and marked individually.",
+      "submission": {
+        "status": "new",
+        "timemodified": 1791361378,
+        "groupid": 0,
+        "file_count": 0
+      },
+      "gradingstatus": "notgraded",
+      "canedit": true,
+      "feedback_grade": null
+    }
+  ],
+  "quizzes": [],
+  "grade_items": [
+    {
+      "itemname": "Assignment 2 Submission: Questionnaire (20%)",
+      "itemmodule": "assign",
+      "iteminstance": 124855,
+      "graderaw": 15,
+      "gradeformatted": "15.00",
+      "grademax": 20,
+      "feedback": "By and large, a well composed questionnaire demonstrating a good understanding of questionnaire design. Most of the required components are included and relevant, with clear and well-structured questions. Good application of relevant concepts and terminology. Presentation, language and formatting are professional. Overall, a well-designed and usable research instrument demonstrating good research skills.      \r\n  However, the areas of improvement are :    \r\n \r\n  Absence of the 2 main profile variables (i.e., gender and nationality group)    \r\n  Abrupt introduction of Q 7  \r\n  Sequencing of questions  \r\n  Lack of aesthetic appeal of the questionnaire"
+    },
+    {
+      "itemname": "Peer Evaluation Form Submission (Individual)",
+      "itemmodule": "assign",
+      "iteminstance": 124858,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "grademax": 100,
+      "feedback": ""
+    }
+  ],
+  "news": [],
+  "result": "ok",
+  "completed_at": "2026-10-17T03:02:21.807042+04:00",
+  "data_note": "Selected read-only fields only; quiz questions were not requested, no attempts started, no submissions changed."
+}

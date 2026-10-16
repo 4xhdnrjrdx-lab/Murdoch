@@ -1,0 +1,61 @@
+{
+  "checked_at": "2026-10-17T03:04:05.007342+04:00",
+  "timezone": "Asia/Dubai",
+  "lms_completed_at": "2026-10-17T03:02:21.808105+04:00",
+  "mail": {
+    "account": "jafarovfayaz@gmail.com",
+    "course_search": {
+      "query": "after:2026/10/07 (BUS219 OR BUS225 OR BUS230 OR BUS334 OR \"BUS 219\" OR \"BUS 225\" OR \"BUS 230\" OR \"BUS 334\" OR from:Navneet.Walia@murdoch.edu.au OR from:Dana.KhouryEid@murdoch.edu.au OR from:Shahinda.Baig@murdoch.edu.au OR from:Ashok.Mitra@murdoch.edu.au)",
+      "pagination_complete": true,
+      "messages": [
+        {
+          "id": "1a12e9f7426d465e",
+          "subject": "BUS219 International Business (TSD, 2026): Assessment Quiz 1",
+          "date": "2026-10-12T05:39:17+00:00"
+        },
+        {
+          "id": "1a11bc0c14982a4c",
+          "subject": "Re: BUS334 Group 1 – WhatsApp Group",
+          "date": "2026-10-08T13:42:51+00:00"
+        },
+        {
+          "id": "1a11ba2c665136db",
+          "subject": "Re: BUS334 Group 1 – WhatsApp Group",
+          "date": "2026-10-08T13:10:04+00:00"
+        },
+        {
+          "id": "1a11b97c4342b092",
+          "subject": "Re: BUS334 Group 1 – WhatsApp Group",
+          "date": "2026-10-08T12:58:06+00:00"
+        },
+        {
+          "id": "1a11a50c60be8cb6",
+          "subject": "BUS 334 : Final Groups for Subsequent Assignments",
+          "date": "2026-10-08T07:00:56+00:00"
+        }
+      ]
+    },
+    "general_search": {
+      "query": "after:2026/10/10 (from:murdoch.edu.au OR from:student.murdoch.edu.au)",
+      "pagination_complete": true
+    },
+    "bodies_read": [
+      "1a12e9f7426d465e",
+      "1a134103e3b2d07e",
+      "1a1340a200c386a6"
+    ],
+    "conclusion": "По предметам наиболее новое найденное объявление — BUS219 Quiz 1 от 12 октября, завершить до 20 октября. Более поздних писем с новыми условиями заданий в указанном охвате нет. 13 октября пришли два напоминания об экзаменах: выбирать Dubai ISC, проверить Exam Aids, принести физический Murdoch Student ID, прибыть за 15 минут; аудитории сообщат позднее. Полный Outlook и WhatsApp не проверены.",
+    "checked_at": "2026-10-17T03:04:05.007342+04:00"
+  },
+  "lms_sources": {
+    "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-17_general-lms-check.json",
+    "BUS225": "BUS225/2026-TSD/Correspondence/2026-10-17_general-lms-check.json",
+    "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-17_general-lms-check.json",
+    "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-17_general-lms-check.json"
+  },
+  "notes": [
+    "Initial transient network errors resolved with bounded read-only retries.",
+    "Existing Unit Outlines used locally; none downloaded.",
+    "No messages sent, no quiz attempts started, no assignment submissions changed."
+  ]
+}

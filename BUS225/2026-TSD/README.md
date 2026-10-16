@@ -16,5 +16,6 @@
 - [A2: Reflective Journal + Service Blueprint, 40%](TASKS.md#a2)
 - [PEER: Individual peer review](TASKS.md#peer)
 - [A3: Final Exam, 30%](TASKS.md#a3)
+- [PRACTICE: 12 квизов по главам для повторения](TASKS.md#practice)
 
 [Общая база](../../README.md)

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course": "BUS230",
   "period": "2026-TSD",
-  "reviewed_at": "2026-10-14T15:38:40.378553+04:00",
+  "reviewed_at": "2026-10-17T03:04:05.007342+04:00",
   "allowed_states": [
     "предложено",
     "согласовано",
@@ -17,14 +17,14 @@
       "id": "A1",
       "title": "Individual reflective essay, 30%",
       "status": "оценено",
-      "next_action": "При необходимости открыть оценку в LMS вручную; API подтвердил оценивание без числа.",
-      "detail": "7 октября API: submitted, gradingstatus graded; последнее изменение остаётся 17 сентября 18:08:19 Dubai. Число баллов и feedback API не вернул. Максимум задания 30 баллов не является результатом студента.",
+      "next_action": "Учесть оценку A1 и продолжать подготовку A2; число баллов теперь подтверждено.",
+      "detail": "Текущий Moodle: submitted/graded, 23.4/30; последнее изменение сдачи остаётся 17 сентября. Повторная квитанция Turnitin от 5 октября не является отдельным подтверждением новой финальной сдачи.",
       "deadlines": [
         {
           "value": "2026-09-18 19:59 Asia/Dubai",
           "source_label": "Moodle API timestamp",
-          "checked_at": "2026-10-07",
-          "source_path": "Correspondence/2026-10-07_continuation-check.json"
+          "checked_at": "2026-10-17",
+          "source_path": "Correspondence/2026-10-17_general-lms-check.json"
         }
       ],
       "evidence": [
@@ -51,11 +51,23 @@
           "note": "Повторная проверка: submitted и graded; число баллов и feedback по-прежнему недоступны.",
           "path": "Correspondence/2026-10-07_continuation-check.json",
           "source": ""
+        },
+        {
+          "date": "2026-10-17",
+          "note": "A1: submitted/graded, теперь подтверждено 23.4/30. A2: new, срок портала 6 ноября 19:59 Dubai. Подготовленный полный комплект ADKAR сохранён; согласие команды, дата выступления и загрузчик по-прежнему неизвестны. Квизов API не вернул.",
+          "path": "Correspondence/2026-10-17_general-lms-check.json",
+          "source": ""
         }
       ],
-      "unknown": "Число баллов/комментарий и причина новой квитанции Turnitin от 5 октября.",
-      "show_on_overview": true,
-      "correction": ""
+      "unknown": "Развёрнутый feedback в ответе grade_items отсутствует; причина повторной квитанции Turnitin неизвестна.",
+      "show_on_overview": false,
+      "correction": "",
+      "grade": {
+        "value": 23.4,
+        "maximum": 30,
+        "source_path": "Correspondence/2026-10-17_general-lms-check.json",
+        "checked_at": "2026-10-17"
+      }
     },
     {
       "id": "A2",
@@ -67,8 +79,8 @@
         {
           "value": "2026-11-06 19:59 Asia/Dubai",
           "source_label": "Moodle API timestamp",
-          "checked_at": "2026-10-14",
-          "source_path": "Correspondence/2026-10-14_1538_continuation-check.json"
+          "checked_at": "2026-10-17",
+          "source_path": "Correspondence/2026-10-17_general-lms-check.json"
         },
         {
           "value": "Вечером накануне назначенного выступления, sessions 10/11",
@@ -155,6 +167,12 @@
           "note": "Продолжение в отдельном клоне main 7057811: A2 new, срок 6 ноября 19:59 Dubai и Class 2 Group 4 подтверждены; новых уточнений A2 в доступных форумах и учебном Gmail нет. Готовый комплект не изменён; замечания команды ещё не предоставлены в этом чате.",
           "path": "Correspondence/2026-10-14_1538_continuation-check.json",
           "source": "Read-only Moodle API and study Gmail search; retained assignment and rubric"
+        },
+        {
+          "date": "2026-10-17",
+          "note": "A1: submitted/graded, теперь подтверждено 23.4/30. A2: new, срок портала 6 ноября 19:59 Dubai. Подготовленный полный комплект ADKAR сохранён; согласие команды, дата выступления и загрузчик по-прежнему неизвестны. Квизов API не вернул.",
+          "path": "Correspondence/2026-10-17_general-lms-check.json",
+          "source": ""
         }
       ],
       "unknown": "Согласие остальных участников с ADKAR, содержанием и кейсом; назначенная дата выступления и загрузчик; уточнение преподавателя о Chicago 17 против APA и максимуме 20 источников против HD 20+. Объём доступа к источникам записан: не все полные тексты и книга Hiatt прочитаны. Фактический хронометраж репетиции и проверка на компьютере выступления ещё неизвестны.",
@@ -171,8 +189,8 @@
         {
           "value": "2026-12-01T19:59:00+04:00",
           "source_label": "Moodle course contents, Wednesday class peerwork",
-          "checked_at": "2026-10-07",
-          "source_path": "Correspondence/2026-10-07_continuation-check.json"
+          "checked_at": "2026-10-17",
+          "source_path": "Correspondence/2026-10-17_general-lms-check.json"
         }
       ],
       "evidence": [
@@ -192,6 +210,12 @@
           "date": "2026-10-07",
           "note": "Повторно подтверждён срок Wednesday class peerwork: 1 декабря 19:59 Dubai.",
           "path": "Correspondence/2026-10-07_continuation-check.json",
+          "source": ""
+        },
+        {
+          "date": "2026-10-17",
+          "note": "A1: submitted/graded, теперь подтверждено 23.4/30. A2: new, срок портала 6 ноября 19:59 Dubai. Подготовленный полный комплект ADKAR сохранён; согласие команды, дата выступления и загрузчик по-прежнему неизвестны. Квизов API не вернул.",
+          "path": "Correspondence/2026-10-17_general-lms-check.json",
           "source": ""
         }
       ],

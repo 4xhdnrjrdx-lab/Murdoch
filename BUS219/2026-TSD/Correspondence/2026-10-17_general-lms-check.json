@@ -1,0 +1,232 @@
+{
+  "course": "BUS219",
+  "courseid": 31585,
+  "checked_at": "2026-10-17T03:01:50.584139+04:00",
+  "operations": "Read-only contents, assignments, own submission statuses, quizzes and own attempts, grade items, news discussions",
+  "assessment_modules": [
+    {
+      "id": 3111389,
+      "instance": 111647,
+      "name": "Quiz 1 due:  by 23:55, 20th of Oct",
+      "type": "quiz",
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3111389",
+      "dates": [
+        {
+          "label": "Closes:",
+          "timestamp": 1792511700,
+          "dataid": "timeclose"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 3111390,
+      "instance": 111648,
+      "name": "Quiz 2 due: 23:55, 24th of Nov",
+      "type": "quiz",
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3111390",
+      "dates": [
+        {
+          "label": "Closes:",
+          "timestamp": 1795535700,
+          "dataid": "timeclose"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 3111392,
+      "instance": 126475,
+      "name": "Business project report due:  at 23.55pm, 6th of Nov",
+      "type": "assign",
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3111392",
+      "dates": [
+        {
+          "label": "Due:",
+          "timestamp": 1793980500,
+          "dataid": "duedate"
+        }
+      ],
+      "description": "Group leaders please submit the report on behalf of your groups"
+    }
+  ],
+  "assignments": [
+    {
+      "id": 126475,
+      "name": "Business project report due:  at 23.55pm, 6th of Nov",
+      "duedate": 1793980500,
+      "cutoffdate": 0,
+      "grade": 30,
+      "teamsubmission": {
+        "status": null,
+        "timemodified": null,
+        "groupid": null,
+        "file_count": 0
+      },
+      "allowsubmissionsfromdate": 0,
+      "due_dubai": "2026-11-06T19:55:00+04:00",
+      "intro": "Group leaders please submit the report on behalf of your groups",
+      "submission": {
+        "status": "new",
+        "timemodified": 1792191688,
+        "groupid": 0,
+        "file_count": 0
+      },
+      "gradingstatus": "notgraded",
+      "canedit": true,
+      "feedback_grade": null
+    }
+  ],
+  "quizzes": [
+    {
+      "id": 111647,
+      "coursemodule": 3111389,
+      "name": "Quiz 1 due:  by 23:55, 20th of Oct",
+      "timeopen": 0,
+      "timeclose": 1792511700,
+      "timelimit": 1800,
+      "attempts": 1,
+      "grade": 10,
+      "sumgrades": 15,
+      "open_dubai": null,
+      "close_dubai": "2026-10-20T19:55:00+04:00",
+      "intro": "",
+      "own_attempts": [],
+      "attempts_result": "ok"
+    },
+    {
+      "id": 111648,
+      "coursemodule": 3111390,
+      "name": "Quiz 2 due: 23:55, 24th of Nov",
+      "timeopen": 0,
+      "timeclose": 1795535700,
+      "timelimit": 1800,
+      "attempts": 1,
+      "grade": 10,
+      "sumgrades": 15,
+      "open_dubai": null,
+      "close_dubai": "2026-11-24T19:55:00+04:00",
+      "intro": "",
+      "own_attempts": [],
+      "attempts_result": "ok"
+    }
+  ],
+  "grade_items": [
+    {
+      "itemname": "Quiz 1 due:  by 23:55, 20th of Oct",
+      "itemmodule": "quiz",
+      "iteminstance": 111647,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "grademax": 10,
+      "feedback": ""
+    },
+    {
+      "itemname": "Quiz 2 due: 23:55, 24th of Nov",
+      "itemmodule": "quiz",
+      "iteminstance": 111648,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "grademax": 10,
+      "feedback": ""
+    },
+    {
+      "itemname": "Business project report due:  at 23.55pm, 6th of Nov",
+      "itemmodule": "assign",
+      "iteminstance": 126475,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "grademax": 30,
+      "feedback": ""
+    },
+    {
+      "itemname": "Lecture recording Session 2",
+      "itemmodule": "alplinks",
+      "iteminstance": 122780,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "grademax": 100,
+      "feedback": ""
+    },
+    {
+      "itemname": "Lecture recording Session 3",
+      "itemmodule": "alplinks",
+      "iteminstance": 122781,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "grademax": 100,
+      "feedback": ""
+    },
+    {
+      "itemname": "Lecture recording session 5",
+      "itemmodule": "alplinks",
+      "iteminstance": 122783,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "grademax": 100,
+      "feedback": ""
+    },
+    {
+      "itemname": "Final Exam",
+      "itemmodule": null,
+      "iteminstance": null,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "grademax": 40,
+      "feedback": ""
+    },
+    {
+      "itemname": "exam mark",
+      "itemmodule": null,
+      "iteminstance": null,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "grademax": 100,
+      "feedback": ""
+    },
+    {
+      "itemname": "Participation (10 )                                            A ",
+      "itemmodule": null,
+      "iteminstance": null,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "grademax": 100,
+      "feedback": ""
+    },
+    {
+      "itemname": "Total ",
+      "itemmodule": null,
+      "iteminstance": null,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "grademax": 100,
+      "feedback": ""
+    },
+    {
+      "itemname": "",
+      "itemmodule": null,
+      "iteminstance": 47345,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "grademax": 100,
+      "feedback": ""
+    }
+  ],
+  "news": [
+    {
+      "name": "Assessment Quiz 1 ",
+      "modified": 1791781638,
+      "discussion": 992510,
+      "message": "Dear Students,    \r\n  Hope you are well.    \r\n  Assessment Quiz 1 is now open on the LMS and must be completed by Tuesday, 20th October. Please attempt it in good time so that any technical issues can be resolved before the deadline.    \r\n  If you have any questions, please get in touch.         \r\n  Best,    \r\n  Navneet"
+    },
+    {
+      "name": "Group Formation &amp; Pre- Workshop Reminder",
+      "modified": 1788942668,
+      "discussion": 984496,
+      "message": "Dear Students, \r\n I hope you're doing well. \r\n This is a gentle reminder to please form groups of four for the upcoming presentations in Week 6. Kindly email me the names of your group members. \r\n I've also included a link to the McKinsey report we discussed yesterday, \"Geopolitics and the Geometry of Global Trade: 2026 Update\" —  https://www.mckinsey.com/mgi/our-research/geopolitics-and-the-geometry-of-global-trade-2026-update  \r\n Lastly, please make sure to go through the slides and recording ahead of next week's lecture, so we can have an engaging discussion in class. \r\n Thank you very much for your cooperation. \r\n Best, Navneet"
+    }
+  ],
+  "result": "ok",
+  "completed_at": "2026-10-17T03:01:58.945787+04:00",
+  "data_note": "Selected read-only fields only; quiz questions were not requested, no attempts started, no submissions changed."
+}

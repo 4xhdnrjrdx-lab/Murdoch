@@ -1,0 +1,550 @@
+{
+  "course": "BUS225",
+  "courseid": 31320,
+  "checked_at": "2026-10-17T03:01:50.584237+04:00",
+  "operations": "Read-only contents, assignments, own submission statuses, quizzes and own attempts, grade items, news discussions",
+  "assessment_modules": [
+    {
+      "id": 3076824,
+      "instance": 125038,
+      "name": "Service organisation profile submission (Non assessable item submitted end of Session 4) -One per group",
+      "type": "assign",
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3076824",
+      "dates": [
+        {
+          "label": "Opened:",
+          "timestamp": 1787788800,
+          "dataid": "allowsubmissionsfromdate"
+        },
+        {
+          "label": "Due:",
+          "timestamp": 1789707600,
+          "dataid": "duedate"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 3076825,
+      "instance": 125039,
+      "name": "Video Presentation Submission",
+      "type": "assign",
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3076825",
+      "dates": [
+        {
+          "label": "Opened:",
+          "timestamp": 1789430400,
+          "dataid": "allowsubmissionsfromdate"
+        },
+        {
+          "label": "Due:",
+          "timestamp": 1790946000,
+          "dataid": "duedate"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 3076826,
+      "instance": 125040,
+      "name": "Reflective Journal and Service Blueprint - Group submission (one per group)",
+      "type": "assign",
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3076826",
+      "dates": [
+        {
+          "label": "Opened:",
+          "timestamp": 1792022400,
+          "dataid": "allowsubmissionsfromdate"
+        },
+        {
+          "label": "Due:",
+          "timestamp": 1793970000,
+          "dataid": "duedate"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 3076827,
+      "instance": 125041,
+      "name": "Peer review submission - Individual",
+      "type": "assign",
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3076827",
+      "dates": [
+        {
+          "label": "Opens:",
+          "timestamp": 1792454400,
+          "dataid": "allowsubmissionsfromdate"
+        },
+        {
+          "label": "Due:",
+          "timestamp": 1793970000,
+          "dataid": "duedate"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 3076842,
+      "instance": 110572,
+      "name": "Quiz 1 - Services Marketing",
+      "type": "quiz",
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076842",
+      "dates": [],
+      "description": ""
+    },
+    {
+      "id": 3076849,
+      "instance": 110573,
+      "name": "Quiz 2 - Service Consumers",
+      "type": "quiz",
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076849",
+      "dates": [],
+      "description": ""
+    },
+    {
+      "id": 3076858,
+      "instance": 110574,
+      "name": "Quiz 3 - Positioning Services",
+      "type": "quiz",
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076858",
+      "dates": [],
+      "description": ""
+    },
+    {
+      "id": 3076865,
+      "instance": 110575,
+      "name": "Quiz 4 - Service Products",
+      "type": "quiz",
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076865",
+      "dates": [],
+      "description": ""
+    },
+    {
+      "id": 3076872,
+      "instance": 110576,
+      "name": "Quiz 5 - Service Distribution",
+      "type": "quiz",
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076872",
+      "dates": [],
+      "description": ""
+    },
+    {
+      "id": 3076880,
+      "instance": 110577,
+      "name": "Setting Prices and Implementing Revenue Management",
+      "type": "quiz",
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076880",
+      "dates": [],
+      "description": ""
+    },
+    {
+      "id": 3076887,
+      "instance": 110578,
+      "name": "Quiz 7 - Integrated Marketing Communications",
+      "type": "quiz",
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076887",
+      "dates": [],
+      "description": ""
+    },
+    {
+      "id": 3076896,
+      "instance": 110579,
+      "name": "Quiz 8 - Designing service processes",
+      "type": "quiz",
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076896",
+      "dates": [],
+      "description": ""
+    },
+    {
+      "id": 3076903,
+      "instance": 110580,
+      "name": "Quiz 9 - Crafting the Service Environment",
+      "type": "quiz",
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076903",
+      "dates": [],
+      "description": ""
+    },
+    {
+      "id": 3076910,
+      "instance": 110581,
+      "name": "Quiz 10 - Managing People and Customer Service Function",
+      "type": "quiz",
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076910",
+      "dates": [],
+      "description": ""
+    },
+    {
+      "id": 3076917,
+      "instance": 110582,
+      "name": "Quiz 11 - Managing Customer Relationships in Services",
+      "type": "quiz",
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076917",
+      "dates": [],
+      "description": ""
+    },
+    {
+      "id": 3076925,
+      "instance": 110583,
+      "name": "Quiz 12 - Customer Satisfaction and Service Quality",
+      "type": "quiz",
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3076925",
+      "dates": [],
+      "description": ""
+    }
+  ],
+  "assignments": [
+    {
+      "id": 125038,
+      "name": "Service organisation profile submission (Non assessable item submitted end of Session 4) -One per group",
+      "duedate": 1789707600,
+      "cutoffdate": 1790312400,
+      "grade": 100,
+      "teamsubmission": {
+        "status": "new",
+        "timemodified": 1787564048,
+        "groupid": 0,
+        "file_count": 0
+      },
+      "allowsubmissionsfromdate": 1787788800,
+      "due_dubai": "2026-09-18T09:00:00+04:00",
+      "intro": "",
+      "submission": {
+        "status": null,
+        "timemodified": null,
+        "groupid": null,
+        "file_count": 0
+      },
+      "gradingstatus": "notgraded",
+      "canedit": false,
+      "feedback_grade": null
+    },
+    {
+      "id": 125039,
+      "name": "Video Presentation Submission",
+      "duedate": 1790946000,
+      "cutoffdate": 1791550800,
+      "grade": 30,
+      "teamsubmission": {
+        "status": null,
+        "timemodified": null,
+        "groupid": null,
+        "file_count": 0
+      },
+      "allowsubmissionsfromdate": 1789430400,
+      "due_dubai": "2026-10-02T17:00:00+04:00",
+      "intro": "",
+      "submission": {
+        "status": "submitted",
+        "timemodified": 1790442532,
+        "groupid": 0,
+        "file_count": 0
+      },
+      "gradingstatus": "graded",
+      "canedit": false,
+      "feedback_grade": "14.00000"
+    },
+    {
+      "id": 125041,
+      "name": "Peer review submission - Individual",
+      "duedate": 1793970000,
+      "cutoffdate": 1794747600,
+      "grade": 100,
+      "teamsubmission": {
+        "status": null,
+        "timemodified": null,
+        "groupid": null,
+        "file_count": 0
+      },
+      "allowsubmissionsfromdate": 1792454400,
+      "due_dubai": "2026-11-06T17:00:00+04:00",
+      "intro": "",
+      "submission": {
+        "status": "new",
+        "timemodified": 1791361358,
+        "groupid": 0,
+        "file_count": 0
+      },
+      "gradingstatus": "notgraded",
+      "canedit": false,
+      "feedback_grade": null
+    },
+    {
+      "id": 125040,
+      "name": "Reflective Journal and Service Blueprint - Group submission (one per group)",
+      "duedate": 1793970000,
+      "cutoffdate": 1794574800,
+      "grade": 40,
+      "teamsubmission": {
+        "status": "new",
+        "timemodified": 1784539206,
+        "groupid": 0,
+        "file_count": 0
+      },
+      "allowsubmissionsfromdate": 1792022400,
+      "due_dubai": "2026-11-06T17:00:00+04:00",
+      "intro": "",
+      "submission": {
+        "status": null,
+        "timemodified": null,
+        "groupid": null,
+        "file_count": 0
+      },
+      "gradingstatus": "notgraded",
+      "canedit": false,
+      "feedback_grade": null
+    }
+  ],
+  "quizzes": [
+    {
+      "id": 110572,
+      "coursemodule": 3076842,
+      "name": "Quiz 1 - Services Marketing",
+      "timeopen": 0,
+      "timeclose": 0,
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 100,
+      "sumgrades": 3,
+      "open_dubai": null,
+      "close_dubai": null,
+      "intro": "",
+      "own_attempts": [],
+      "attempts_result": "ok"
+    },
+    {
+      "id": 110573,
+      "coursemodule": 3076849,
+      "name": "Quiz 2 - Service Consumers",
+      "timeopen": 0,
+      "timeclose": 0,
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 3,
+      "sumgrades": 3,
+      "open_dubai": null,
+      "close_dubai": null,
+      "intro": "",
+      "own_attempts": [],
+      "attempts_result": "ok"
+    },
+    {
+      "id": 110574,
+      "coursemodule": 3076858,
+      "name": "Quiz 3 - Positioning Services",
+      "timeopen": 0,
+      "timeclose": 0,
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 3,
+      "sumgrades": 3,
+      "open_dubai": null,
+      "close_dubai": null,
+      "intro": "",
+      "own_attempts": [],
+      "attempts_result": "ok"
+    },
+    {
+      "id": 110575,
+      "coursemodule": 3076865,
+      "name": "Quiz 4 - Service Products",
+      "timeopen": 0,
+      "timeclose": 0,
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 3,
+      "sumgrades": 3,
+      "open_dubai": null,
+      "close_dubai": null,
+      "intro": "",
+      "own_attempts": [],
+      "attempts_result": "ok"
+    },
+    {
+      "id": 110576,
+      "coursemodule": 3076872,
+      "name": "Quiz 5 - Service Distribution",
+      "timeopen": 0,
+      "timeclose": 0,
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 3,
+      "sumgrades": 3,
+      "open_dubai": null,
+      "close_dubai": null,
+      "intro": "",
+      "own_attempts": [],
+      "attempts_result": "ok"
+    },
+    {
+      "id": 110577,
+      "coursemodule": 3076880,
+      "name": "Setting Prices and Implementing Revenue Management",
+      "timeopen": 0,
+      "timeclose": 0,
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 3,
+      "sumgrades": 3,
+      "open_dubai": null,
+      "close_dubai": null,
+      "intro": "",
+      "own_attempts": [],
+      "attempts_result": "ok"
+    },
+    {
+      "id": 110578,
+      "coursemodule": 3076887,
+      "name": "Quiz 7 - Integrated Marketing Communications",
+      "timeopen": 0,
+      "timeclose": 0,
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 100,
+      "sumgrades": 3,
+      "open_dubai": null,
+      "close_dubai": null,
+      "intro": "",
+      "own_attempts": [],
+      "attempts_result": "ok"
+    },
+    {
+      "id": 110579,
+      "coursemodule": 3076896,
+      "name": "Quiz 8 - Designing service processes",
+      "timeopen": 0,
+      "timeclose": 0,
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 3,
+      "sumgrades": 3,
+      "open_dubai": null,
+      "close_dubai": null,
+      "intro": "",
+      "own_attempts": [],
+      "attempts_result": "ok"
+    },
+    {
+      "id": 110580,
+      "coursemodule": 3076903,
+      "name": "Quiz 9 - Crafting the Service Environment",
+      "timeopen": 0,
+      "timeclose": 0,
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 100,
+      "sumgrades": 3,
+      "open_dubai": null,
+      "close_dubai": null,
+      "intro": "",
+      "own_attempts": [],
+      "attempts_result": "ok"
+    },
+    {
+      "id": 110581,
+      "coursemodule": 3076910,
+      "name": "Quiz 10 - Managing People and Customer Service Function",
+      "timeopen": 0,
+      "timeclose": 0,
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 100,
+      "sumgrades": 3,
+      "open_dubai": null,
+      "close_dubai": null,
+      "intro": "",
+      "own_attempts": [],
+      "attempts_result": "ok"
+    },
+    {
+      "id": 110582,
+      "coursemodule": 3076917,
+      "name": "Quiz 11 - Managing Customer Relationships in Services",
+      "timeopen": 0,
+      "timeclose": 0,
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 100,
+      "sumgrades": 3,
+      "open_dubai": null,
+      "close_dubai": null,
+      "intro": "",
+      "own_attempts": [],
+      "attempts_result": "ok"
+    },
+    {
+      "id": 110583,
+      "coursemodule": 3076925,
+      "name": "Quiz 12 - Customer Satisfaction and Service Quality",
+      "timeopen": 0,
+      "timeclose": 0,
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 100,
+      "sumgrades": 3,
+      "open_dubai": null,
+      "close_dubai": null,
+      "intro": "",
+      "own_attempts": [],
+      "attempts_result": "ok"
+    }
+  ],
+  "grade_items": [
+    {
+      "itemname": "",
+      "itemmodule": null,
+      "iteminstance": 46958,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "grademax": 0,
+      "feedback": ""
+    },
+    {
+      "itemname": "Video Presentation Submission",
+      "itemmodule": "assign",
+      "iteminstance": 125039,
+      "graderaw": 14,
+      "gradeformatted": "14.00",
+      "grademax": 30,
+      "feedback": "Feedback in the attached Word doc."
+    },
+    {
+      "itemname": "Reflective Journal and Service Blueprint - Group submission (one per group)",
+      "itemmodule": "assign",
+      "iteminstance": 125040,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "grademax": 40,
+      "feedback": ""
+    },
+    {
+      "itemname": "Service organisation profile submission (Non assessable item submitted end of Session 4) -One per group",
+      "itemmodule": "assign",
+      "iteminstance": 125038,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "grademax": 100,
+      "feedback": ""
+    },
+    {
+      "itemname": "Peer review submission - Individual",
+      "itemmodule": "assign",
+      "iteminstance": 125041,
+      "graderaw": null,
+      "gradeformatted": "-",
+      "grademax": 100,
+      "feedback": ""
+    }
+  ],
+  "news": [
+    {
+      "name": "Links for ONLINE students",
+      "modified": 1787234337,
+      "discussion": 978620,
+      "message": "Dear BUS225 Students, \r\n Welcome to SERVICE MARKETING! A course that promises to be as intellectually engaging as it is demanding.  \r\n Please make every effort to attend the first class (26th / 27th August). Beyond covering our first chapter, this session will lay out the assignment requirements and expectations that are essential to your success in the course. Missing it will put you at a real disadvantage from day one. \r\n  Online  students, please note the following: \r\n \r\n  Wednesday  class, please join the first link on LMS ( Class 1 ) \r\n   Thursday   class, please join the second link on LMS ( Class 2 ). \r\n \r\n I look forward to meeting you all and to the term ahead. \r\n Regards, \r\n Dana Khoury Eid"
+    }
+  ],
+  "result": "ok",
+  "completed_at": "2026-10-17T03:02:12.923855+04:00",
+  "data_note": "Selected read-only fields only; quiz questions were not requested, no attempts started, no submissions changed."
+}

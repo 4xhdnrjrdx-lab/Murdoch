@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course": "BUS219",
   "period": "2026-TSD",
-  "reviewed_at": "2026-10-13T14:09:10.323874+04:00",
+  "reviewed_at": "2026-10-17T03:04:05.007342+04:00",
   "allowed_states": [
     "предложено",
     "согласовано",
@@ -17,20 +17,20 @@
       "id": "A1",
       "title": "Два онлайн-квиза, суммарно 20%",
       "status": "предложено",
-      "next_action": "Пройти открытый Quiz 1 до 20 октября 2026, 19:55 Asia/Dubai; 30 минут, одна попытка. Начать заранее.",
-      "detail": "Quiz 1 открыт по объявлению Dr Walia от 12 октября; Moodle подтверждает 30 минут и одну попытку. Open book / multiple choice указаны в Unit Outline. Собственные попытки и оценки при этой проверке не запрашивались.",
+      "next_action": "Пройти Quiz 1 заранее, лучше 17–19 октября; закрытие 20 октября 19:55 Asia/Dubai. 30 минут, одна попытка; попыток пока нет.",
+      "detail": "Quiz 1 открыт; текущий API подтвердил 30 минут, одну попытку и отсутствие собственных попыток. Open book / multiple choice указаны в Unit Outline. Quiz 2 также без попыток, срок 24 ноября 19:55 Dubai.",
       "deadlines": [
         {
           "value": "Quiz 1: 2026-10-20 19:55 Asia/Dubai (timeclose=1792511700)",
           "source_label": "Moodle API, quiz 111647; письмо Dr Walia от 12 октября подтверждает дату",
-          "checked_at": "2026-10-13",
-          "source_path": "Correspondence/2026-10-13_lms-deadlines.json"
+          "checked_at": "2026-10-17",
+          "source_path": "Correspondence/2026-10-17_general-lms-check.json"
         },
         {
           "value": "Quiz 2: 2026-11-24 19:55 Asia/Dubai (timeclose=1795535700)",
           "source_label": "Moodle API, quiz 111648",
-          "checked_at": "2026-10-13",
-          "source_path": "Correspondence/2026-10-13_lms-deadlines.json"
+          "checked_at": "2026-10-17",
+          "source_path": "Correspondence/2026-10-17_general-lms-check.json"
         },
         {
           "value": "Quiz 1: к концу занятия Week 10; точный час не указан — прежний ориентир; актуальная дата установлена Moodle 13 октября",
@@ -81,9 +81,15 @@
           "note": "Серверные даты Quiz 1/Quiz 2 переведены в Asia/Dubai; лимит каждого 30 минут, одна попытка.",
           "path": "Correspondence/2026-10-13_lms-deadlines.json",
           "source": ""
+        },
+        {
+          "date": "2026-10-17",
+          "note": "Quiz 1: до 20 октября 19:55 Dubai, 30 минут, одна попытка; собственных попыток нет. Quiz 2: 24 ноября 19:55. Отчёт A2: 6 ноября 19:55, new. Последнее найденное учебное объявление от 12 октября повторно прочитано.",
+          "path": "Correspondence/2026-10-17_general-lms-check.json",
+          "source": ""
         }
       ],
-      "unknown": "Собственные попытки и оценки неизвестны. Час 23:55 в названиях модулей указан без зоны; timestamp соответствует 19:55 Asia/Dubai. Старые недели сохранены как прежние источники, текущие сроки определяются Moodle.",
+      "unknown": "Оценок нет, попыток нет. Точный перечень глав для Quiz 1 в объявлении не указан. Час 23:55 в названии модуля без зоны; текущий timestamp соответствует 19:55 Dubai.",
       "show_on_overview": true,
       "correction": ""
     },
@@ -135,8 +141,8 @@
         {
           "value": "2026-11-06 19:55 Asia/Dubai (duedate=1793980500)",
           "source_label": "Moodle API, assignment 126475",
-          "checked_at": "2026-10-13",
-          "source_path": "Correspondence/2026-10-13_lms-deadlines.json"
+          "checked_at": "2026-10-17",
+          "source_path": "Correspondence/2026-10-17_general-lms-check.json"
         },
         {
           "value": "К концу занятия Week 12 — прежняя запись outline; текущий срок установлен Moodle 13 октября",
@@ -181,9 +187,15 @@
           "note": "Новая запись 6 из Downloads, 02:48–03:48: для группового отчёта обосновать подходящий тип international strategy; он может меняться по странам и времени.",
           "path": "Materials/Lectures/2026-10-13/NOTES_RU.md",
           "source": ""
+        },
+        {
+          "date": "2026-10-17",
+          "note": "Quiz 1: до 20 октября 19:55 Dubai, 30 минут, одна попытка; собственных попыток нет. Quiz 2: 24 ноября 19:55. Отчёт A2: 6 ноября 19:55, new. Последнее найденное учебное объявление от 12 октября повторно прочитано.",
+          "path": "Correspondence/2026-10-17_general-lms-check.json",
+          "source": ""
         }
       ],
-      "unknown": "Финальный загрузчик и внутренний срок команды неизвестны. В названии модуля 23:55 без зоны; серверный duedate соответствует 19:55 Asia/Dubai. Сдача и оценка при этой проверке не проверялись.",
+      "unknown": "Moodle: new, загруженных файлов нет. Внутренний срок команды и финальный загрузчик неизвестны; duedate подтверждает 6 ноября 19:55 Dubai.",
       "show_on_overview": true,
       "correction": ""
     },

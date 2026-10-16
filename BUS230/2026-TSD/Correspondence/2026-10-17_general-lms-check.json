@@ -1,0 +1,157 @@
+{
+  "course": "BUS230",
+  "courseid": 31305,
+  "checked_at": "2026-10-17T03:01:58.957107+04:00",
+  "operations": "Read-only contents, assignments, own submission statuses, quizzes and own attempts, grade items, news discussions",
+  "assessment_modules": [
+    {
+      "id": 3074733,
+      "instance": 370,
+      "name": "Assignment 2 peer assessment - Harshini Esther",
+      "type": "peerwork",
+      "url": "https://moodleprod.murdoch.edu.au/mod/peerwork/view.php?id=3074733",
+      "dates": [
+        {
+          "label": "Due: ",
+          "timestamp": 1794671940
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 3074734,
+      "instance": 371,
+      "name": "Assignment 2 peer assessment - Friday Class Shahinda Baig",
+      "type": "peerwork",
+      "url": "https://moodleprod.murdoch.edu.au/mod/peerwork/view.php?id=3074734",
+      "dates": [
+        {
+          "label": "Opened: ",
+          "timestamp": 1788191940
+        },
+        {
+          "label": "Due: ",
+          "timestamp": 1794671940
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 3074735,
+      "instance": 372,
+      "name": "Assignment 2 peer assessment - Wednesday Class Shahinda Baig",
+      "type": "peerwork",
+      "url": "https://moodleprod.murdoch.edu.au/mod/peerwork/view.php?id=3074735",
+      "dates": [
+        {
+          "label": "Due: ",
+          "timestamp": 1796140740
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 3074736,
+      "instance": 124983,
+      "name": "Assessment 2: Presentation Material (Group) Submission Portal",
+      "type": "assign",
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3074736",
+      "dates": [
+        {
+          "label": "Due:",
+          "timestamp": 1793980740,
+          "dataid": "duedate"
+        }
+      ],
+      "description": "Due: Friday, 06 November 2026, 23:59 (Perth Time).  \r\n  One team member to submit."
+    },
+    {
+      "id": 3074730,
+      "instance": 124982,
+      "name": "Assessment 1: Essay (Individual) Submission Portal",
+      "type": "assign",
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3074730",
+      "dates": [
+        {
+          "label": "Opened:",
+          "timestamp": 1788105660,
+          "dataid": "allowsubmissionsfromdate"
+        },
+        {
+          "label": "Due:",
+          "timestamp": 1789747140,
+          "dataid": "duedate"
+        }
+      ],
+      "description": "Due: Friday, 18 Sep 2026, 11:59pm (Perth Time)."
+    }
+  ],
+  "assignments": [
+    {
+      "id": 124983,
+      "name": "Assessment 2: Presentation Material (Group) Submission Portal",
+      "duedate": 1793980740,
+      "cutoffdate": 0,
+      "grade": 100,
+      "teamsubmission": {
+        "status": "new",
+        "timemodified": 1791361364,
+        "groupid": 327929,
+        "file_count": 0
+      },
+      "allowsubmissionsfromdate": 0,
+      "due_dubai": "2026-11-06T19:59:00+04:00",
+      "intro": "Due: Friday, 06 November 2026, 23:59 (Perth Time).  \r\n  One team member to submit.",
+      "submission": {
+        "status": null,
+        "timemodified": null,
+        "groupid": null,
+        "file_count": 0
+      },
+      "gradingstatus": "notgraded",
+      "canedit": true,
+      "feedback_grade": null
+    },
+    {
+      "id": 124982,
+      "name": "Assessment 1: Essay (Individual) Submission Portal",
+      "duedate": 1789747140,
+      "cutoffdate": 0,
+      "grade": 30,
+      "teamsubmission": {
+        "status": null,
+        "timemodified": null,
+        "groupid": null,
+        "file_count": 0
+      },
+      "allowsubmissionsfromdate": 1788105660,
+      "due_dubai": "2026-09-18T19:59:00+04:00",
+      "intro": "Due: Friday, 18 Sep 2026, 11:59pm (Perth Time).",
+      "submission": {
+        "status": "submitted",
+        "timemodified": 1789654099,
+        "groupid": 0,
+        "file_count": 1
+      },
+      "gradingstatus": "graded",
+      "canedit": true,
+      "feedback_grade": "23.40000"
+    }
+  ],
+  "quizzes": [],
+  "grade_items": [
+    {
+      "itemname": "Assessment 1: Essay (Individual) Submission Portal",
+      "itemmodule": "assign",
+      "iteminstance": 124982,
+      "graderaw": 23.4,
+      "gradeformatted": "23.40",
+      "grademax": 30,
+      "feedback": ""
+    }
+  ],
+  "news": [],
+  "result": "ok",
+  "completed_at": "2026-10-17T03:02:08.972387+04:00",
+  "data_note": "Selected read-only fields only; quiz questions were not requested, no attempts started, no submissions changed."
+}

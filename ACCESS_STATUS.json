@@ -1,61 +1,55 @@
 {
   "mail": {
-    "checked_at": "2026-10-14T15:39:16+04:00",
-    "scope": "Latest check: study Gmail BUS230 / BUS 230 / Change Management / Shahinda after 7 October; other course records retained",
-    "result": "BUS230: новых писем в указанном охвате нет. Полный Outlook и WhatsApp не проверены.",
+    "checked_at": "2026-10-17T03:04:05.007342+04:00",
+    "scope": "Study Gmail jafarovfayaz@gmail.com: course names and instructor addresses after 7 October; university senders after 10 October; searches exhausted, Quiz 1 and two final-exam reminder bodies read",
+    "result": "Подтверждено объявление BUS219 Quiz 1 до 20 октября; более поздних новых требований по предметам в указанном охвате не найдено. Прочитаны напоминания об экзаменах от 13 октября. Полный Outlook и WhatsApp не проверены.",
     "last_check_by_course": {
       "BUS219": {
-        "checked_at": "2026-10-13T14:09:10.323874+04:00",
+        "checked_at": "2026-10-17T03:04:05.007342+04:00",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "after:2026/09/01 (BUS219 OR \"International Business\" OR from:Navneet.Walia@murdoch.edu.au); 4 results, Quiz 1 and old group announcement bodies read",
-        "result": "Новое письмо Dr Walia 12 октября: Quiz 1 открыт, завершить до 20 октября.",
-        "uncovered": [
-          "Полный университетский Outlook",
-          "WhatsApp"
-        ],
-        "evidence": "BUS219/2026-TSD/Correspondence/2026-10-12_assessment-quiz1-email.md"
-      },
-      "BUS230": {
-        "checked_at": "2026-10-14T15:39:16+04:00",
-        "account": "jafarovfayaz@gmail.com",
-        "profile_verified": true,
-        "scope": "after:2026/10/07 (BUS230 OR \"BUS 230\" OR \"Change Management\" OR from:Shahinda.Baig@murdoch.edu.au)",
-        "result": "No matching messages found",
-        "uncovered": [
-          "Full university Outlook",
-          "WhatsApp"
-        ],
-        "evidence": "BUS230/2026-TSD/Correspondence/2026-10-14_1538_continuation-check.json",
-        "additional_check": {
-          "checked_on": "2026-10-14",
-          "scope": "after:2026/10/07 (BUS230 OR \"Change Management\")",
-          "result": "No matching messages found; full Outlook and WhatsApp not checked",
-          "evidence": "BUS230/2026-TSD/Correspondence/2026-10-14_1414_continuation-check.json"
-        }
-      },
-      "BUS225": {
-        "checked_at": "2026-10-07T13:31:59.360199+04:00",
-        "scope": "after:2026/09/15 (BUS225 OR \"Services Marketing\")",
-        "result": "Последнее найденное учебное письмо от 1 октября о blueprint и Chapter 8. Разрешение на позднюю замену A1 в найденных письмах не подтверждено.",
-        "uncovered": [
-          "Полный университетский Outlook",
-          "WhatsApp"
-        ],
-        "evidence": "Archive/Correspondence/2026-10-07_general-study-check.json"
-      },
-      "BUS334": {
-        "checked_at": "2026-10-08T17:18:37.213029+04:00",
-        "account": "jafarovfayaz@gmail.com",
-        "scope": "after:2026/10/07 (from:Ashok.Mitra@murdoch.edu.au OR BUS334 OR \"BUS 334\" OR \"Business Analytics\"); two replies read",
-        "result": "Found 8 October teacher final-groups email and replies from Aliaskar and Vishal to WhatsApp request. Phone numbers not saved. User confirms WhatsApp group created.",
+        "scope": "Study Gmail jafarovfayaz@gmail.com: course names and instructor addresses after 7 October; university senders after 10 October; searches exhausted, Quiz 1 and two final-exam reminder bodies read",
+        "result": "Quiz 1 открыт до 20 октября; объявление 12 октября прочитано повторно.",
         "uncovered": [
           "Full university Outlook",
           "WhatsApp contents"
         ],
-        "evidence": "BUS334/2026-TSD/Correspondence/2026-10-08_whatsapp-group-created.md"
+        "evidence": "Archive/Correspondence/2026-10-17_general-study-check.json"
+      },
+      "BUS230": {
+        "checked_at": "2026-10-17T03:04:05.007342+04:00",
+        "account": "jafarovfayaz@gmail.com",
+        "scope": "Study Gmail jafarovfayaz@gmail.com: course names and instructor addresses after 7 October; university senders after 10 October; searches exhausted, Quiz 1 and two final-exam reminder bodies read",
+        "result": "Новых более поздних требований по предмету в указанном охвате не найдено.",
+        "uncovered": [
+          "Full university Outlook",
+          "WhatsApp contents"
+        ],
+        "evidence": "Archive/Correspondence/2026-10-17_general-study-check.json"
+      },
+      "BUS225": {
+        "checked_at": "2026-10-17T03:04:05.007342+04:00",
+        "account": "jafarovfayaz@gmail.com",
+        "scope": "Study Gmail jafarovfayaz@gmail.com: course names and instructor addresses after 7 October; university senders after 10 October; searches exhausted, Quiz 1 and two final-exam reminder bodies read",
+        "result": "Новых более поздних требований по предмету в указанном охвате не найдено.",
+        "uncovered": [
+          "Full university Outlook",
+          "WhatsApp contents"
+        ],
+        "evidence": "Archive/Correspondence/2026-10-17_general-study-check.json"
+      },
+      "BUS334": {
+        "checked_at": "2026-10-17T03:04:05.007342+04:00",
+        "account": "jafarovfayaz@gmail.com",
+        "scope": "Study Gmail jafarovfayaz@gmail.com: course names and instructor addresses after 7 October; university senders after 10 October; searches exhausted, Quiz 1 and two final-exam reminder bodies read",
+        "result": "Новых более поздних требований по предмету в указанном охвате не найдено.",
+        "uncovered": [
+          "Full university Outlook",
+          "WhatsApp contents"
+        ],
+        "evidence": "Archive/Correspondence/2026-10-17_general-study-check.json"
       }
     },
-    "evidence": "BUS230/2026-TSD/Correspondence/2026-10-14_1538_continuation-check.json",
+    "evidence": "Archive/Correspondence/2026-10-17_general-study-check.json",
     "outlook_attempt": {
       "attempted_at": "2026-10-07T13:31:59.360199+04:00",
       "result": "No accessible Outlook tab in connected browser inventory; no Outlook connector available in this chat",
@@ -65,7 +59,7 @@
       "preferred_account": "jafarovfayaz@gmail.com",
       "preference_source": "Прямое сообщение пользователя 8 октября 2026: основная почта fayaz201499@gmail.com; для учёбы подключить jafarovfayaz@gmail.com",
       "last_verified_connected_account": "jafarovfayaz@gmail.com",
-      "profile_verified_at": "2026-10-13T14:09:10.323874+04:00",
+      "profile_verified_at": "2026-10-17T03:04:05.007342+04:00",
       "switch_status": "verified",
       "personal_account_for_study_checks": "do_not_use",
       "forwarding_observation": {
@@ -99,14 +93,14 @@
     }
   },
   "lms": {
-    "checked_at": "2026-10-14T15:38:40.378553+04:00",
+    "checked_at": "2026-10-17T03:02:21.808105+04:00",
     "result": "ok",
-    "operation": "Latest read-only check: BUS230 A2 portal, own group and accessible course forums; other course records retained",
+    "operation": "All four current courses: read-only contents, assignments, own submissions, quizzes and own attempts, grades and news forums; transient network errors resolved",
     "last_success_by_course": {
-      "BUS219": "2026-10-13T14:07:24.846640+04:00",
-      "BUS225": "2026-10-07T13:30:42.457759+04:00",
-      "BUS230": "2026-10-14T15:38:40.378553+04:00",
-      "BUS334": "2026-10-08T17:17:16.679157+04:00"
+      "BUS219": "2026-10-17T03:01:58.945787+04:00",
+      "BUS225": "2026-10-17T03:02:12.923855+04:00",
+      "BUS230": "2026-10-17T03:02:08.972387+04:00",
+      "BUS334": "2026-10-17T03:02:21.807042+04:00"
     },
     "token_expiry": "unknown",
     "successful_account_check": {
@@ -119,10 +113,10 @@
       "BUS334": true
     },
     "evidence": {
-      "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-13_lms-deadlines.json",
-      "BUS225": "Archive/Correspondence/2026-10-07_general-study-check.json",
-      "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-14_1538_continuation-check.json",
-      "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-08_group-followup-lms-check.json"
+      "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-17_general-lms-check.json",
+      "BUS225": "BUS225/2026-TSD/Correspondence/2026-10-17_general-lms-check.json",
+      "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-17_general-lms-check.json",
+      "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-17_general-lms-check.json"
     }
   },
   "secret_storage": {
