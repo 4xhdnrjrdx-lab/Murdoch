@@ -136,7 +136,7 @@
       "response_evidence": "Sessions/2026-10-17_01_FORMAT_FEEDBACK.json"
     }
   ],
-  "next_action": "Уточнения по organisational change на примере кафе; затем постепенно разобрать tool-based, process-based и critical approaches, доказательства и самостоятельное применение. Блок 1.1 не завершён.",
+  "next_action": "Explore clickable cafe before/after visual; clarify how work changes, then teach the three approaches interactively. No substantive learner answer yet.",
   "continuation_rules": [
     "Главная цель — освоение BUS230 и экзаменационное применение. Следовать PLAN_RU.md и карте всех блоков CURRICULUM.json, не выбирать темы произвольно.",
     "Учебное объяснение и практика по предмету — на простом взрослом английском; русский для краткой помощи. Английский не является отдельным преподаваемым предметом.",
@@ -192,7 +192,9 @@
     "agreement_source": "Sessions/2026-10-17_01_DRIVER_WORD.json",
     "clarification_style": "Direct, respectful adult explanations. No automatic trivial vocabulary quizzes; learner will ask again if unclear.",
     "clarification_source": "Sessions/2026-10-17_01_FORMAT_FEEDBACK.json",
-    "subject_focus_source": "2026-10-17_subject-focused-plan-request.json"
+    "subject_focus_source": "2026-10-17_subject-focused-plan-request.json",
+    "interactive_learning_required": true,
+    "interactive_source": "2026-10-17_interactive-learning-feedback.json"
   },
   "curriculum_path": "CURRICULUM.json",
   "coverage_path": "COVERAGE.md",
