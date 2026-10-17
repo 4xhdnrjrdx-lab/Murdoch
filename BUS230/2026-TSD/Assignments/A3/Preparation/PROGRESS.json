@@ -4,7 +4,7 @@
   "period": "2026-TSD",
   "timezone": "Asia/Dubai",
   "started_at": "2026-10-17",
-  "updated_at": "2026-10-17T16:55:34.363332+04:00",
+  "updated_at": "2026-10-17T18:09:07.882105+04:00",
   "authorization": "Прямое сообщение Faiaz: «давай начнём подготовку к экзамену уже сегодня и будем фиксировать всё».",
   "availability": {
     "user_response_verbatim": "по разному",
@@ -36,7 +36,7 @@
     "id": "2026-10-17_02",
     "path": "Sessions/2026-10-17_02_RESTART.md",
     "kind": "subject_focused_visual_lesson",
-    "state": "opening_explanation_prepared",
+    "state": "game_pilot_prepared",
     "response_count": 0,
     "actual_minutes": null,
     "result": null,
@@ -136,7 +136,7 @@
       "response_evidence": "Sessions/2026-10-17_01_FORMAT_FEEDBACK.json"
     }
   ],
-  "next_action": "Explore clickable cafe before/after visual; clarify how work changes, then teach the three approaches interactively. No substantive learner answer yet.",
+  "next_action": "Try Change Manager lunch-rush pilot: inspect facts, choose action and give own reason; then debrief block 1.1 and check transfer. No learner game attempt yet.",
   "continuation_rules": [
     "Главная цель — освоение BUS230 и экзаменационное применение. Следовать PLAN_RU.md и карте всех блоков CURRICULUM.json, не выбирать темы произвольно.",
     "Учебное объяснение и практика по предмету — на простом взрослом английском; русский для краткой помощи. Английский не является отдельным преподаваемым предметом.",
@@ -194,7 +194,11 @@
     "clarification_source": "Sessions/2026-10-17_01_FORMAT_FEEDBACK.json",
     "subject_focus_source": "2026-10-17_subject-focused-plan-request.json",
     "interactive_learning_required": true,
-    "interactive_source": "2026-10-17_interactive-learning-feedback.json"
+    "interactive_source": "2026-10-17_interactive-learning-feedback.json",
+    "practice_first_game_pilot": {
+      "state": "pilot_prepared_awaiting_learner",
+      "source": "2026-10-17_game-learning-pilot.json"
+    }
   },
   "curriculum_path": "CURRICULUM.json",
   "coverage_path": "COVERAGE.md",

@@ -1,0 +1,17 @@
+{
+  "recorded_at": "2026-10-17T18:09:07.882105+04:00",
+  "user_verbatim": "как можем улучшить обучение? мне кажется лучше не теория а практика\nможет создадим игру по этому предмету и я буду ее проходить? что скажешь?",
+  "decision": "Prepare a one-decision game pilot for feedback. Practice-first with concise theory after the own decision. Preserve existing 14 stages and 42 blocks. Full game not yet built or accepted as final format.",
+  "pilot": {
+    "title": "Change Manager — The lunch rush",
+    "block": "1.1",
+    "path": "/Users/king1/.codex/visualizations/2026/10/17/01a149ed-2579-7cc3-8e9b-71dcfcbfd58f/change-manager-game.html",
+    "case_type": "fictional teaching scenario; possible consequences, not empirical predictions",
+    "mechanism": "Explore evidence; choose an intervention; give a reason; then receive one conditional consequence and optional chat debrief. Three defensible interventions with tradeoffs, no invented business scores.",
+    "language": "simple adult English; optional short Russian help",
+    "tested": "Headless Chrome: all 3 decisions, no answer revealed before own attempt, evidence/help controls, verbatim rationale, follow-up fallback, 360px no horizontal overflow, no script errors.",
+    "learner_attempt": null,
+    "mastery_demonstrated": false
+  },
+  "progress_rule": "Clicks and game completion do not prove mastery. Own explanation, new transfer case and delayed recall remain required. Game episodes must map to curriculum blocks."
+}

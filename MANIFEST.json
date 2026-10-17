@@ -1732,6 +1732,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/2026-10-17_game-learning-pilot.json",
+      "bytes": 1607,
+      "sha256": "3340c6daa8682dad798a4747472709ac0adc82e4569fff354cf220682afb38fb",
+      "storage": "git"
+    },
+    {
       "path": "BUS230/2026-TSD/Assignments/A3/Preparation/2026-10-17_interactive-learning-feedback.json",
       "bytes": 492,
       "sha256": "57ee2018072a3b8323bc07b9b346c4e231871592d0192f46ed5de5cf97f4a6b0",
@@ -1793,8 +1799,8 @@
     },
     {
       "path": "BUS230/2026-TSD/Assignments/A3/Preparation/PROGRESS.json",
-      "bytes": 13354,
-      "sha256": "b1a12e1ba7855145fc33f6479cf819e7fb76fbc3250544bd5a0c8257332fb10f",
+      "bytes": 13498,
+      "sha256": "29c29662c9fd0960039417e53b1cba2d9b5586a710d8d563142cab0b389c5daf",
       "storage": "git"
     },
     {
@@ -1829,8 +1835,8 @@
     },
     {
       "path": "BUS230/2026-TSD/Assignments/A3/Preparation/Sessions/2026-10-17_02_RESTART.md",
-      "bytes": 3818,
-      "sha256": "efa5449bfccecda027dbd54cab51463b5baac7173bdda51863c39e47de2ef8b2",
+      "bytes": 4409,
+      "sha256": "9d223efb30588f8c613ed87f7f1a2482b8ee26bf5dcd535ad032b755aff4983a",
       "storage": "git"
     },
     {
@@ -1931,8 +1937,8 @@
     },
     {
       "path": "BUS230/2026-TSD/HISTORY.md",
-      "bytes": 16793,
-      "sha256": "4a2766eb095ebdd731572193865597c89fb19c4f7fe16a2e976578d53c3b6e4c",
+      "bytes": 17372,
+      "sha256": "470f9363834313be131be3e2d01fb23236493da6805729ad186f3c7ca8677bf6",
       "storage": "git"
     },
     {
@@ -3850,6 +3856,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 641,
-  "total_bytes": 483729975
+  "file_count": 642,
+  "total_bytes": 483732896
 }
