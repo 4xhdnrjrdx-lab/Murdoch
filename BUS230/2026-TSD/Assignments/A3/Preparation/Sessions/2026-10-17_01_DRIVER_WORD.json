@@ -1,0 +1,15 @@
+{
+  "recorded_at": "2026-10-17T16:31:21.810774+04:00",
+  "user_message_verbatim": "да, давай так попробуем\ni dont understand what mean \"driver\"",
+  "type": "format_acceptance_and_vocabulary_question",
+  "format_agreement": "User agrees to try the proposed visual format; effectiveness remains untested.",
+  "reported_gap": "Meaning of driver in drivers of change",
+  "explanation": "Here, a driver is a reason for change. Driver = причина изменения.",
+  "visual_example": "A new competitor opens → our café needs to change.",
+  "supported_check": "In this lesson, does driver mean A: a reason for change, or B: a person who drives a car?",
+  "check_response": null,
+  "language_feedback": "No correction of the question is assigned in this step; focus on one word.",
+  "subject_attempt_count_change": 0,
+  "independent_writing_assessed": false,
+  "stage_completed": false
+}

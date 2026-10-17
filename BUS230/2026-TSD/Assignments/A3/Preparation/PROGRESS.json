@@ -4,7 +4,7 @@
   "period": "2026-TSD",
   "timezone": "Asia/Dubai",
   "started_at": "2026-10-17",
-  "updated_at": "2026-10-17T16:26:04.047278+04:00",
+  "updated_at": "2026-10-17T16:31:21.810774+04:00",
   "authorization": "Прямое сообщение Faiaz: «давай начнём подготовку к экзамену уже сегодня и будем фиксировать всё».",
   "availability": {
     "user_response_verbatim": "по разному",
@@ -35,13 +35,13 @@
   "active_session": {
     "id": "2026-10-17_01",
     "path": "Sessions/2026-10-17_01_DRIVERS_EN.md",
-    "kind": "supported_english_sentence",
-    "state": "awaiting_independent_followup",
+    "kind": "visual_vocabulary_step",
+    "state": "awaiting_supported_vocabulary_check",
     "response_count": 1,
     "actual_minutes": null,
-    "result": "First supported attempt reviewed; independent follow-up pending",
+    "result": "First sentence attempt reviewed; user then identified an unresolved vocabulary gap: driver. Independent follow-up paused.",
     "language": "English",
-    "support": "Sentence frame with two blanks; not independent writing"
+    "support": "One-word meaning, short visual example and two choices; not independent writing"
   },
   "topics": [
     {
@@ -118,9 +118,15 @@
       "focus": "External/internal classification and external driver versus outside the business",
       "state": "awaiting_recheck",
       "evidence": "Sessions/2026-10-17_01_ATTEMPT_01.json"
+    },
+    {
+      "topic": 1,
+      "focus": "Meaning of driver in drivers of change",
+      "state": "explained_awaiting_supported_check",
+      "evidence": "Sessions/2026-10-17_01_DRIVER_WORD.json"
     }
   ],
-  "next_action": "Предложен короткий визуальный формат: сцена кафе, один выбор, затем английская фраза. Проверить удобство и последующее воспроизведение; прежний самостоятельный ответ ещё не получен.",
+  "next_action": "Объяснить driver как reason for change и проверить значение одним выбором A/B. Затем вернуться к наглядной сцене и постепенно к английской фразе.",
   "continuation_rules": [
     "Сохранять исходные ответы, подсказки, исправления и повторные попытки отдельно.",
     "Фиксировать только наблюдаемые результаты; не считать материал пройденным по наличию файла.",
@@ -151,8 +157,8 @@
     "current_topic": 1,
     "total_exam_topics": 8,
     "topic_title": "Drivers of Change",
-    "current_step": "External/internal drivers — visual format trial proposed; independent follow-up pending",
-    "template": "Stage 1/14 · Topic 1/8: Drivers of Change · Step: visual format trial",
+    "current_step": "Meaning of driver — one supported visual vocabulary check",
+    "template": "Stage 1/14 · Topic 1/8: Drivers of Change · Step: meaning of driver",
     "rules": [
       "Показывать текущий этап/общее число и название темы в начале занятия, после перерыва и при переходе на следующий этап.",
       "14 — этапы предложенного цикла, не календарные дни; 8 — темы экзамена.",
@@ -166,6 +172,8 @@
     "source": "2026-10-17_visual-learning-preference.json",
     "reported": "Learner reports distraction, low interest in text exercises, and better recall with visuals.",
     "assessment_limit": "Self-report only; no diagnosis or fixed learning-style classification.",
-    "proposed_trial": "Visual scene → choice → short English sentence → later recall; effectiveness not yet tested."
+    "proposed_trial": "Visual scene → choice → short English sentence → later recall; effectiveness not yet tested.",
+    "trial_status": "agreed_by_user; not yet evaluated",
+    "agreement_source": "Sessions/2026-10-17_01_DRIVER_WORD.json"
   }
 }
