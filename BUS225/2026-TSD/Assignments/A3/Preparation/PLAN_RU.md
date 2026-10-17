@@ -5,7 +5,7 @@
 ## Как продолжаем
 
 1. Прочитать PROGRESS.json и последнее занятие, не начинать диагностику заново при наличии ответов.
-2. Коротко объяснять по-русски, вводить английские термины, затем просить короткий самостоятельный ответ на простом английском. В первой диагностике русский допустим.
+2. По уточнению пользователя от 17 октября обучение, вопросы, ответы и обратная связь идут на простом английском. Короткий перевод на русский — только по запросу или при затруднении. Давать по одному заданию, сначала с опорами, затем без них.
 3. Сохранять исходный ответ, разбор, исправленный вариант и дальнейшую самопроверку раздельно. Непонимание и языковую ошибку различать.
 4. Проверять определение, объяснение механизма, применение к примеру и уместность рекомендации. Эти критерии — учебные, не официальная рубрика экзамена.
 5. Вернуться к трудным вопросам примерно через 1, 3 и 7 дней как учебная рекомендация; фиксировать только реально состоявшиеся ответы. Расписание пока не согласовано.
@@ -31,3 +31,11 @@
 - [Начало подготовки и охват проверки источников](../../../Correspondence/2026-10-17_exam-preparation-start.md).
 
 Подготовка начата. Знания пользователя пока не оценены; план не обещает конкретную оценку и не означает завершение занятий. Двухнедельный интенсив обсуждался как возможный подход, ежедневный объём пользователем ещё не выбран.
+
+## English learning method — updated 17 October
+
+The learner wants to prepare in English and improve writing and speaking. They report difficulty with both; their level has not been assessed.
+
+Use short sentences and common words. Ask one question at a time. Accept a short imperfect answer. Check the services marketing idea first, then correct one or two useful English points. Keep the learner’s original answer separate from the corrected model. Ask them to rewrite the answer and read it aloud. Later, repeat the question with less support. A correct answer after a model is not proof of independent recall.
+
+Speaking practice may be suggested, but written answers do not establish pronunciation or spoken fluency. Only assess audio when it is actually provided and accessible. The first question now uses English sentence starters; the original Russian prompts remain in the session as dated history.

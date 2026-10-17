@@ -4,22 +4,26 @@
   "period": "2026-TSD",
   "timezone": "Asia/Dubai",
   "started_at": "2026-10-17",
-  "updated_at": "2026-10-17T15:43:06.653096+04:00",
+  "updated_at": "2026-10-17T15:45:39.171108+04:00",
   "authorization": "Прямое сообщение пользователя: «давай начнём подготовку к экзамену уже сегодня и будем фиксировать всё».",
   "preparation_state": "started_awaiting_baseline",
   "learner_assessment": {
     "knowledge_level": null,
     "independent_english_writing_level": null,
     "known_misconceptions": null,
-    "note": "Самостоятельные ответы ещё не получены. Просмотр объяснений не доказывает освоение."
+    "note": "No answers received. User reports difficulty speaking and writing English. Actual knowledge and language level remain unassessed; a sentence frame makes the first attempt supported, not fully independent."
   },
   "active_session": {
     "id": "2026-10-17_01",
     "path": "Sessions/2026-10-17_01_BASELINE.md",
-    "kind": "baseline_before_teaching",
+    "kind": "supported_initial_attempt",
     "state": "awaiting_user_response",
     "response_count": 0,
-    "result": null
+    "result": null,
+    "current_question": 1,
+    "support_provided": [
+      "Sentence starters for Question 1; no complete model answer."
+    ]
   },
   "topics": [
     {
@@ -121,7 +125,7 @@
   ],
   "completed_sessions": [],
   "review_queue": [],
-  "next_action": "Получить четыре коротких ответа занятия 1; сохранить исходный текст, оценить объяснение и применение, затем разобрать Chapter 1 простым русским с английскими терминами.",
+  "next_action": "Receive an English answer to Question 1 using the optional sentence starters; save the exact text, check the marketing idea and 1–2 language points, then ask the learner to rewrite and read aloud.",
   "continuation_rules": [
     "Ответы пользователя сохранять дословно, не заменять исправленными.",
     "Объяснение, образец и подсказки хранить отдельно от ответа пользователя.",
@@ -129,6 +133,22 @@
     "После каждого учебного обмена фиксировать ответы, обратную связь, ошибки и следующий шаг; публиковать существенные изменения в GitHub.",
     "Не записывать время фактической учёбы, балл, успешное повторение или освоение без подтверждения.",
     "Повторения назначать после ответов как рекомендации; выполнение фиксировать отдельно.",
-    "Темп и даты занятий пока не согласованы; не создавать фоновые проверки или автоматизации."
-  ]
+    "Темп и даты занятий пока не согласованы; не создавать фоновые проверки или автоматизации.",
+    "Use simple English for teaching, questions and feedback; ask one question at a time.",
+    "Separate subject understanding from English accuracy; correct only 1–2 useful language points per turn.",
+    "Use sentence starters initially, then reduce support. Record whether an answer was supported or independent.",
+    "Ask the learner to read their corrected answer aloud; do not claim pronunciation or speaking improvement without audio evidence."
+  ],
+  "language_preferences": {
+    "learning_language": "English",
+    "level": "Use simple English, short sentences, one task at a time; no CEFR level assessed.",
+    "russian_support": "Brief translation only when requested or needed to resolve misunderstanding; English remains the main language.",
+    "goals": [
+      "Prepare for BUS225 exam",
+      "Improve English writing",
+      "Practise speaking aloud"
+    ],
+    "user_report": "Пользователь сообщил: «я не умею разговаривать и писать на английском особо». Это самооценка, не независимое измерение уровня.",
+    "source": "../../../Correspondence/2026-10-17_english-preparation-preference.md"
+  }
 }
