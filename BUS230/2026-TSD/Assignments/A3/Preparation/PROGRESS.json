@@ -4,7 +4,7 @@
   "period": "2026-TSD",
   "timezone": "Asia/Dubai",
   "started_at": "2026-10-17",
-  "updated_at": "2026-10-17T16:31:21.810774+04:00",
+  "updated_at": "2026-10-17T16:35:28.333302+04:00",
   "authorization": "Прямое сообщение Faiaz: «давай начнём подготовку к экзамену уже сегодня и будем фиксировать всё».",
   "availability": {
     "user_response_verbatim": "по разному",
@@ -35,13 +35,13 @@
   "active_session": {
     "id": "2026-10-17_01",
     "path": "Sessions/2026-10-17_01_DRIVERS_EN.md",
-    "kind": "visual_vocabulary_step",
-    "state": "awaiting_supported_vocabulary_check",
-    "response_count": 1,
+    "kind": "visual_concept_explanation",
+    "state": "clarification_without_quiz",
+    "response_count": 2,
     "actual_minutes": null,
-    "result": "First sentence attempt reviewed; user then identified an unresolved vocabulary gap: driver. Independent follow-up paused.",
+    "result": "First classification attempt incorrect; supported vocabulary choice A correct. User requested direct explanations without trivial checks. Independent application remains pending.",
     "language": "English",
-    "support": "One-word meaning, short visual example and two choices; not independent writing"
+    "support": "Brief visual explanation; no immediate quiz"
   },
   "topics": [
     {
@@ -122,11 +122,12 @@
     {
       "topic": 1,
       "focus": "Meaning of driver in drivers of change",
-      "state": "explained_awaiting_supported_check",
-      "evidence": "Sessions/2026-10-17_01_DRIVER_WORD.json"
+      "state": "supported_recognition_correct_independent_application_pending",
+      "evidence": "Sessions/2026-10-17_01_DRIVER_WORD.json",
+      "response_evidence": "Sessions/2026-10-17_01_FORMAT_FEEDBACK.json"
     }
   ],
-  "next_action": "Объяснить driver как reason for change и проверить значение одним выбором A/B. Затем вернуться к наглядной сцене и постепенно к английской фразе.",
+  "next_action": "Кратко объяснить driver как ситуацию, создающую необходимость изменений, и показать причину и действие кафе. Не задавать примитивную проверку после объяснения слова; дальнейшие уточнения по вопросам Faiaz, практика позже на содержательном примере.",
   "continuation_rules": [
     "Сохранять исходные ответы, подсказки, исправления и повторные попытки отдельно.",
     "Фиксировать только наблюдаемые результаты; не считать материал пройденным по наличию файла.",
@@ -138,7 +139,8 @@
     "Основной язык учебных вопросов и ответов — простой английский; русский только как краткая помощь.",
     "Языковые ошибки и ошибки по BUS230 оценивать раздельно.",
     "Заполнение шаблона не считать самостоятельным письмом; произношение не оценивать по печатному тексту.",
-    "В начале занятия показывать Stage X/14 и Topic Y/8 с названием темы и текущим шагом; счётчики брать из progress_display, не из памяти чата."
+    "В начале занятия показывать Stage X/14 и Topic Y/8 с названием темы и текущим шагом; счётчики брать из progress_display, не из памяти чата.",
+    "На просьбу объяснить слово отвечать прямо и уважительно; не добавлять автоматически очевидные тесты. Faiaz сам переспросит при непонимании. Практику строить на содержательных ситуациях, без инфантилизации."
   ],
   "learning_language": {
     "primary": "English",
@@ -157,8 +159,8 @@
     "current_topic": 1,
     "total_exam_topics": 8,
     "topic_title": "Drivers of Change",
-    "current_step": "Meaning of driver — one supported visual vocabulary check",
-    "template": "Stage 1/14 · Topic 1/8: Drivers of Change · Step: meaning of driver",
+    "current_step": "Driver versus business change — direct explanation, no immediate quiz",
+    "template": "Stage 1/14 · Topic 1/8: Drivers of Change · Step: driver and change",
     "rules": [
       "Показывать текущий этап/общее число и название темы в начале занятия, после перерыва и при переходе на следующий этап.",
       "14 — этапы предложенного цикла, не календарные дни; 8 — темы экзамена.",
@@ -174,6 +176,8 @@
     "assessment_limit": "Self-report only; no diagnosis or fixed learning-style classification.",
     "proposed_trial": "Visual scene → choice → short English sentence → later recall; effectiveness not yet tested.",
     "trial_status": "agreed_by_user; not yet evaluated",
-    "agreement_source": "Sessions/2026-10-17_01_DRIVER_WORD.json"
+    "agreement_source": "Sessions/2026-10-17_01_DRIVER_WORD.json",
+    "clarification_style": "Direct, respectful adult explanations. No automatic trivial vocabulary quizzes; learner will ask again if unclear.",
+    "clarification_source": "Sessions/2026-10-17_01_FORMAT_FEEDBACK.json"
   }
 }

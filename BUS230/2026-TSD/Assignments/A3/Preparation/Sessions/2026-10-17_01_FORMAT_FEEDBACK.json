@@ -1,0 +1,11 @@
+{
+  "recorded_at": "2026-10-17T16:35:28.333302+04:00",
+  "user_message_verbatim": "Ответ A\nну не настолько я тупой чтобы не понять что это не водитель, и тут просто можно было обяснение, если я чтото всё равно не понимаю я буду спрашивать снова и снвоа",
+  "supported_vocabulary_answer": "A",
+  "vocabulary_result": "Correct recognition of reason for change from two offered options; no independent application established.",
+  "format_feedback": "User found the driver-versus-car-driver check too simplistic. A direct explanation would suffice; user will ask again if unclear.",
+  "teaching_rule": "Give direct explanations for vocabulary questions. Do not automatically follow them with trivial quizzes or childish distractors. Keep an adult tone, allow repeated questions, and use meaningful cases when practice resumes.",
+  "next_explanation": "A driver of change is a situation or problem that creates a need for a business to change. Fictional example: driver — a new competitor opens; change — our café offers a cheaper lunch menu.",
+  "immediate_quiz": null,
+  "stage_completed": false
+}
