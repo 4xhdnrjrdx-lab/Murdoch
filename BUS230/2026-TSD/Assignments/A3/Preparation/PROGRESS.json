@@ -4,7 +4,7 @@
   "period": "2026-TSD",
   "timezone": "Asia/Dubai",
   "started_at": "2026-10-17",
-  "updated_at": "2026-10-17T16:10:56.099486+04:00",
+  "updated_at": "2026-10-17T16:16:45.230226+04:00",
   "authorization": "Прямое сообщение Faiaz: «давай начнём подготовку к экзамену уже сегодня и будем фиксировать всё».",
   "availability": {
     "user_response_verbatim": "по разному",
@@ -12,13 +12,19 @@
     "mode": "flexible",
     "fixed_calendar_commitment": false
   },
-  "preparation_state": "started_awaiting_first_answers",
+  "preparation_state": "practicing_topic_1",
   "plan_path": "PLAN_RU.md",
   "learner_assessment": {
     "knowledge_level": null,
     "independent_english_writing_level": null,
-    "known_misconceptions": null,
-    "note": "Первых самостоятельных ответов пока нет. Готовые материалы и объяснения ассистента не считать освоением.",
+    "known_misconceptions": [
+      {
+        "observation": "New competitor classified as internal in one supported attempt",
+        "evidence": "Sessions/2026-10-17_01_ATTEMPT_01.json",
+        "status": "explained_awaiting_independent_recheck"
+      }
+    ],
+    "note": "Получена первая попытка с шаблоном: ошибка классификации конкурента и употребления external вместо outside. Самостоятельное письмо и речь ещё не проверены.",
     "english_self_report": {
       "recorded_at": "2026-10-17T15:47:15.984644+04:00",
       "verbatim": "ну готовится нам надо на английском\nтаким образом подтянем мой язык, а то я не умею разговаривать и писать на английском особо",
@@ -30,10 +36,10 @@
     "id": "2026-10-17_01",
     "path": "Sessions/2026-10-17_01_DRIVERS_EN.md",
     "kind": "supported_english_sentence",
-    "state": "awaiting_user_response",
-    "response_count": 0,
+    "state": "awaiting_independent_followup",
+    "response_count": 1,
     "actual_minutes": null,
-    "result": null,
+    "result": "First supported attempt reviewed; independent follow-up pending",
     "language": "English",
     "support": "Sentence frame with two blanks; not independent writing"
   },
@@ -41,10 +47,12 @@
     {
       "topic": 1,
       "title": "Drivers of Change",
-      "material_state": "initial_explanation_prepared",
+      "material_state": "initial_explanation_and_first_feedback",
       "assessed_independently": false,
-      "last_practiced_at": null,
-      "evidence": []
+      "last_practiced_at": "2026-10-17T16:16:45.230226+04:00",
+      "evidence": [
+        "Sessions/2026-10-17_01_ATTEMPT_01.json"
+      ]
     },
     {
       "topic": 2,
@@ -104,8 +112,15 @@
     }
   ],
   "completed_sessions": [],
-  "review_queue": [],
-  "next_action": "Получить одно английское предложение с двумя пропусками по новому конкуренту; сохранить дословно, проверить смысл и язык отдельно, затем дать новое предложение без шаблона.",
+  "review_queue": [
+    {
+      "topic": 1,
+      "focus": "External/internal classification and external driver versus outside the business",
+      "state": "awaiting_recheck",
+      "evidence": "Sessions/2026-10-17_01_ATTEMPT_01.json"
+    }
+  ],
+  "next_action": "Получить одно самостоятельное английское предложение о вымышленном уходе менеджера кафе с объяснением internal/external; сохранить дословно и разобрать смысл и язык отдельно.",
   "continuation_rules": [
     "Сохранять исходные ответы, подсказки, исправления и повторные попытки отдельно.",
     "Фиксировать только наблюдаемые результаты; не считать материал пройденным по наличию файла.",
@@ -136,8 +151,8 @@
     "current_topic": 1,
     "total_exam_topics": 8,
     "topic_title": "Drivers of Change",
-    "current_step": "External/internal drivers — first supported English sentence",
-    "template": "Stage 1/14 · Topic 1/8: Drivers of Change · Step: external/internal drivers; first sentence",
+    "current_step": "External/internal drivers — first independent sentence after feedback",
+    "template": "Stage 1/14 · Topic 1/8: Drivers of Change · Step: first independent sentence",
     "rules": [
       "Показывать текущий этап/общее число и название темы в начале занятия, после перерыва и при переходе на следующий этап.",
       "14 — этапы предложенного цикла, не календарные дни; 8 — темы экзамена.",

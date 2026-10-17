@@ -1,0 +1,26 @@
+{
+  "recorded_at": "2026-10-17T16:16:45.230226+04:00",
+  "exercise_type": "supported_sentence_completion",
+  "original_user_message_verbatim": "A **driver of change** is a reason why a business needs to change.\n\n- **External** — from outside the business.\n- **Internal** — from inside the business.\n\n\n\n*Outside — за пределами; inside — внутри; competitor — конкурент.*\n\n\n\nRead this example:\n\n> A café has a new competitor.\n\n\n\n**Complete the sentence in English:**\n\n> A new competitor is an **internal** driver because it comes from **external&#x20;**&#x74;he business.",
+  "answer_excerpt_verbatim": "A new competitor is an **internal** driver because it comes from **external&#x20;**&#x74;he business.",
+  "answer_reading_with_markup_removed": "A new competitor is an internal driver because it comes from external the business.",
+  "normalization_note": "HTML entities decoded and Markdown emphasis removed only in the separate reading; original retained above.",
+  "subject_feedback": "A competitor is a separate business, so this is an external driver. The classification internal is incorrect in this example.",
+  "english_feedback": "Use outside the business to describe where the driver comes from. External describes the type of driver; external the business does not work here.",
+  "corrected_sentence": "A new competitor is an external driver because it comes from outside the business.",
+  "support_before_attempt": [
+    "Definitions of external/internal",
+    "Russian vocabulary glosses",
+    "Full sentence frame with two blanks"
+  ],
+  "support_after_attempt": [
+    "Explanation of competitor as a separate business",
+    "Corrected sentence",
+    "Contrast external driver / outside the business"
+  ],
+  "independent_followup_prompt": "Fictional example: A café’s manager leaves the business. Is this an internal or external driver? Write one sentence and explain why.",
+  "independent_followup_response": null,
+  "repeat_response": null,
+  "pronunciation_assessed": false,
+  "limits": "One supported attempt; no independent writing assessment or general language level inferred."
+}
