@@ -10,7 +10,7 @@
     "mechanism": "Explore evidence; choose an intervention; give a reason; then receive one conditional consequence and optional chat debrief. Three defensible interventions with tradeoffs, no invented business scores.",
     "language": "simple adult English; optional short Russian help",
     "tested": "Headless Chrome: all 3 decisions, no answer revealed before own attempt, evidence/help controls, verbatim rationale, follow-up fallback, 360px no horizontal overflow, no script errors.",
-    "learner_attempt": null,
+    "learner_attempt": "Sessions/2026-10-17_02_GAME_ATTEMPT_01.json",
     "mastery_demonstrated": false
   },
   "progress_rule": "Clicks and game completion do not prove mastery. Own explanation, new transfer case and delayed recall remain required. Game episodes must map to curriculum blocks."

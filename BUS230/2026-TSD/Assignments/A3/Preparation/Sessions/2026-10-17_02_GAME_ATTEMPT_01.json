@@ -1,0 +1,34 @@
+{
+  "recorded_at": "2026-10-17T18:18:46.901006+04:00",
+  "session": "2026-10-17_02",
+  "block": "1.1",
+  "case": "Change Manager — The lunch rush",
+  "source": "User-submitted visualization follow-up and matching widget state",
+  "attempt": {
+    "choice": "Give everyone a short demonstration of the app.",
+    "reason_verbatim": "actually i dont see how the app really work, thats why i would choose first option, because only 5 min demonstration can help everyone to know how work the app",
+    "evidence_opened": [
+      "system",
+      "team",
+      "owner"
+    ],
+    "russian_help_used": false
+  },
+  "support": {
+    "choice_format": "Three supplied action options; own free-text reason.",
+    "before_attempt": "Case flow and clickable evidence. Staff know how to read the screen; no one assigned to monitor it.",
+    "after_attempt": "Widget displays conditional consequence for training. Chat feedback follows; not counted as learner answer."
+  },
+  "feedback": {
+    "valid_reasoning": "A demonstration can help if the relevant problem is unfamiliarity with the app. Learner gives a purpose for the intervention.",
+    "case_fit": "Case states staff already know how to read the screen. Observed responsibility gap remains even after demonstration. Training does not establish who monitors the screen.",
+    "concept": "Tool-based perspective: demonstration/training is a practical intervention; select tools against the observed need. Organisational change includes responsibilities and coordination.",
+    "ambiguity": "I dont see how the app really work may refer to the learner needing a clearer view of the fictional app, rather than a claim that staff lack skills. Ask before classifying it as misconception.",
+    "interface_limitation": "The pilot depicted the order route but did not demonstrate an app interface.",
+    "language": "Meaning understandable; no separate grammar correction requested.",
+    "five_minute_limit": "Five minutes is the learner’s proposed duration, not validated as sufficient."
+  },
+  "pending_clarification": "Did the learner mean that the game did not show the app clearly, or that staff needed app instruction?",
+  "next_action": "Clarify interpretation, show app-order route if needed; then a fresh transfer situation. Do not grade unresolved interface ambiguity as subject error.",
+  "mastery_demonstrated": false
+}
