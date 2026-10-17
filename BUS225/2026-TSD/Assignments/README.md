@@ -28,3 +28,5 @@
 - [A2/ServiceOrganisationProfile/EmailSent_2026-09-18.docx](A2/ServiceOrganisationProfile/EmailSent_2026-09-18.docx)
 - [A2/ServiceOrganisationProfile/Message_and_email_for_Muhammad.md](A2/ServiceOrganisationProfile/Message_and_email_for_Muhammad.md)
 - [A2/ServiceOrganisationProfile/Message_to_Muhammad_work_split_2026-09-19.md](A2/ServiceOrganisationProfile/Message_to_Muhammad_work_split_2026-09-19.md)
+
+- [Подготовка к экзамену A3](A3/Preparation/PLAN_RU.md)

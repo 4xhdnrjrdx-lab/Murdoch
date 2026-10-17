@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "course": "BUS225",
+  "period": "2026-TSD",
+  "timezone": "Asia/Dubai",
+  "started_at": "2026-10-17",
+  "updated_at": "2026-10-17T15:43:06.653096+04:00",
+  "authorization": "Прямое сообщение пользователя: «давай начнём подготовку к экзамену уже сегодня и будем фиксировать всё».",
+  "preparation_state": "started_awaiting_baseline",
+  "learner_assessment": {
+    "knowledge_level": null,
+    "independent_english_writing_level": null,
+    "known_misconceptions": null,
+    "note": "Самостоятельные ответы ещё не получены. Просмотр объяснений не доказывает освоение."
+  },
+  "active_session": {
+    "id": "2026-10-17_01",
+    "path": "Sessions/2026-10-17_01_BASELINE.md",
+    "kind": "baseline_before_teaching",
+    "state": "awaiting_user_response",
+    "response_count": 0,
+    "result": null
+  },
+  "topics": [
+    {
+      "id": "CH01",
+      "textbook_chapter": 1,
+      "title": "Introduction to Services Marketing",
+      "state": "not_assessed",
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "id": "CH02",
+      "textbook_chapter": 2,
+      "title": "Understanding Service Consumers",
+      "state": "not_assessed",
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "id": "CH03",
+      "textbook_chapter": 3,
+      "title": "Positioning Services",
+      "state": "not_assessed",
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "id": "CH04",
+      "textbook_chapter": 4,
+      "title": "Developing Service Products and Brands",
+      "state": "not_assessed",
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "id": "CH05",
+      "textbook_chapter": 5,
+      "title": "Service Distribution",
+      "state": "not_assessed",
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "id": "CH08",
+      "textbook_chapter": 8,
+      "title": "Designing Service Processes",
+      "state": "not_assessed",
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "id": "CH07",
+      "textbook_chapter": 7,
+      "title": "Promoting Services and Educating Customers",
+      "state": "not_assessed",
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "id": "CH06",
+      "textbook_chapter": 6,
+      "title": "Pricing and Revenue Management",
+      "state": "not_assessed",
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "id": "CH10",
+      "textbook_chapter": 10,
+      "title": "Service Environment",
+      "state": "not_assessed",
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "id": "CH11",
+      "textbook_chapter": 11,
+      "title": "Managing People for Service Advantage",
+      "state": "not_assessed",
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "id": "CH12",
+      "textbook_chapter": 12,
+      "title": "Relationships and Loyalty",
+      "state": "not_assessed",
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "id": "CH14",
+      "textbook_chapter": 14,
+      "title": "Service Quality and Productivity",
+      "state": "not_assessed",
+      "last_practiced_at": null,
+      "evidence": []
+    }
+  ],
+  "completed_sessions": [],
+  "review_queue": [],
+  "next_action": "Получить четыре коротких ответа занятия 1; сохранить исходный текст, оценить объяснение и применение, затем разобрать Chapter 1 простым русским с английскими терминами.",
+  "continuation_rules": [
+    "Ответы пользователя сохранять дословно, не заменять исправленными.",
+    "Объяснение, образец и подсказки хранить отдельно от ответа пользователя.",
+    "Отмечать самостоятельность ответа и использование подсказок.",
+    "После каждого учебного обмена фиксировать ответы, обратную связь, ошибки и следующий шаг; публиковать существенные изменения в GitHub.",
+    "Не записывать время фактической учёбы, балл, успешное повторение или освоение без подтверждения.",
+    "Повторения назначать после ответов как рекомендации; выполнение фиксировать отдельно.",
+    "Темп и даты занятий пока не согласованы; не создавать фоновые проверки или автоматизации."
+  ]
+}
