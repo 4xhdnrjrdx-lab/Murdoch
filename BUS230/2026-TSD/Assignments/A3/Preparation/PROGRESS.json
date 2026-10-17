@@ -4,7 +4,7 @@
   "period": "2026-TSD",
   "timezone": "Asia/Dubai",
   "started_at": "2026-10-17",
-  "updated_at": "2026-10-17T23:05:12.762227+04:00",
+  "updated_at": "2026-10-17T23:18:05.771042+04:00",
   "authorization": "Прямое сообщение Faiaz: «давай начнём подготовку к экзамену уже сегодня и будем фиксировать всё».",
   "availability": {
     "user_response_verbatim": "по разному",
@@ -36,10 +36,10 @@
     "id": "2026-10-17_02",
     "path": "Sessions/2026-10-17_02_RESTART.md",
     "kind": "subject_focused_visual_lesson",
-    "state": "revised_game_answer_received_learning_purpose_clarification",
+    "state": "rebuilt_workflow_mission_ready",
     "response_count": 2,
     "actual_minutes": null,
-    "result": "Learner explicitly recognises unclear monitoring responsibility and describes a coherent shared-screen workflow. Questions the point and assumptions of the game. Supported reattempt; not independent mastery.",
+    "result": "Two earlier answers retained. Learner requested clear workflow, goal, own design, visible consequences and two-sentence course debrief. Rebuilt mission is prepared; no new learner attempt.",
     "language": "English",
     "support": "Visual subject explanation and clarification; no separate English lessons",
     "current_block": "1.1"
@@ -138,7 +138,7 @@
       "response_evidence": "Sessions/2026-10-17_01_FORMAT_FEEDBACK.json"
     }
   ],
-  "next_action": "Explain the point and case assumptions briefly before more decisions. Clarify/improve mission design; then a fresh, coherent transfer scenario. Do not ask learner to repeat an already recognised role gap.",
+  "next_action": "Play Interactive/change-manager-mission.html: inspect routes and model rules, choose a design and priority, give own reason, step through consequences. Discuss result with two short debrief sentences; then fresh transfer. Block 1.1 remains incomplete.",
   "continuation_rules": [
     "Главная цель — освоение BUS230 и экзаменационное применение. Следовать PLAN_RU.md и карте всех блоков CURRICULUM.json, не выбирать темы произвольно.",
     "Учебное объяснение и практика по предмету — на простом взрослом английском; русский для краткой помощи. Английский не является отдельным преподаваемым предметом.",
@@ -174,7 +174,7 @@
     "current_topic": 1,
     "total_exam_topics": 8,
     "topic_title": "Drivers of Change",
-    "current_step": "Block 1.1 — organisational change introduced; three approaches previewed, detailed explanation and application pending",
+    "current_step": "Block 1.1 — practical workflow mission; Topic 1 slide 4 tool-based perspective, partial block coverage",
     "template": "Stage 1/14 · Topic 1/8: Drivers of Change · Step: Block 1.1 — organisational change and three approaches",
     "rules": [
       "Показывать текущий этап/общее число и название темы в начале занятия, после перерыва и при переходе на следующий этап.",
@@ -198,11 +198,16 @@
     "interactive_learning_required": true,
     "interactive_source": "2026-10-17_interactive-learning-feedback.json",
     "practice_first_game_pilot": {
-      "state": "needs_clearer_goal_workflow_and_subject_link",
-      "source": "2026-10-17_game-learning-pilot.json"
+      "state": "rebuilt_mission_ready",
+      "source": "2026-10-17_game-mission-rebuild.json"
     },
     "case_information": "Show tools and workflows clearly enough for the player to make informed decisions; do not conflate a player information gap with case actors lacking skills.",
-    "mission_design": "Show a coherent current workflow, proposed change, objective and constraints; make the purpose of each decision clear. Accept well-supported alternatives."
+    "mission_design": "Show a coherent current workflow, proposed change, objective and constraints; make the purpose of each decision clear. Accept well-supported alternatives.",
+    "post_scene_debrief": [
+      "Чему должна была научить сцена…",
+      "Как этот этап связан с курсом…"
+    ],
+    "curriculum_link": "Every scene maps to verified lecture content and named block; original game examples are distinguished from official cases."
   },
   "curriculum_path": "CURRICULUM.json",
   "coverage_path": "COVERAGE.md",

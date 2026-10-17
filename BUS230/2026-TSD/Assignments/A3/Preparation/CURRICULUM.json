@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course": "BUS230",
   "period": "2026-TSD",
-  "updated_at": "2026-10-17T16:43:55.791456+04:00",
+  "updated_at": "2026-10-17T23:18:05.771042+04:00",
   "purpose": "Subject-focused lecture-by-lecture coverage and evidence of learning; English is the medium, not a separate course.",
   "total_topics": 8,
   "total_core_blocks": 42,
@@ -54,13 +54,24 @@
             3,
             4
           ],
-          "status": "supported_role_gap_recognised_purpose_clarification_pending",
+          "status": "practiced_with_support",
           "evidence": [
             "Sessions/2026-10-17_02_RESTART.md",
             "Sessions/2026-10-17_02_GAME_ATTEMPT_01.json",
             "2026-10-17_game-app-clarification.json",
-            "Sessions/2026-10-17_02_GAME_ATTEMPT_02.json"
-          ]
+            "Sessions/2026-10-17_02_GAME_ATTEMPT_02.json",
+            "2026-10-17_game-mission-rebuild.json"
+          ],
+          "partial_coverage": {
+            "current_mission": "Interactive/change-manager-mission.html",
+            "focus": "Tool-based perspective and organisational change",
+            "remaining": [
+              "Process-based perspective in depth",
+              "Critical perspective in depth",
+              "Evidence versus the repeated 70% failure claim",
+              "Fresh independent application and delayed recall"
+            ]
+          }
         },
         {
           "id": "1.2",

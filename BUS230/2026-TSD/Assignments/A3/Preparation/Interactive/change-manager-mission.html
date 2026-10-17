@@ -1,0 +1,146 @@
+<div id="bus230-mission-three">
+  <div class="text-small text-muted">Stage 1/14 · Topic 1/8 · Block 1.1 · Fictional café</div>
+  <h3>Your café. Your workflow.</h3>
+  <div><strong>Goal:</strong> prepare all four orders, with a clear route and responsibility for each.</div>
+  <div class="text-small">Team: one cashier + one cook. No extra staff. All four orders have already arrived.</div>
+  <div class="viz-controls"><button class="btn btn-ghost" type="button" data-help aria-pressed="false">Русская помощь</button></div>
+  <div data-help-text hidden>Цель — приготовить все четыре заказа и определить, кто отвечает за их путь. Сейчас кассовые заказы уже попадают в очередь кухни, а заказы приложения находятся на отдельном экране без назначенного ответственного. Выбери схему и порядок, объясни решение, затем посмотри шаги. Здесь нет скрытого единственного ответа.</div>
+  <div class="workflow" role="group" aria-label="Order routes and live queues">
+    <div class="route"><span><i data-lucide="store" aria-hidden="true"></i> Counter</span><span aria-hidden="true">→</span><span>Cashier sends tickets</span><span aria-hidden="true">→</span><span>Kitchen queue</span></div>
+    <div class="route"><span><i data-lucide="smartphone" aria-hidden="true"></i> App</span><span aria-hidden="true">→</span><span data-app-screen>Separate app screen</span><span aria-hidden="true">→</span><span data-route-owner>No assigned handoff</span></div>
+    <div class="queue-line"><span class="queue-name">App screen</span><div data-app-queue aria-label="App orders awaiting handoff"></div></div>
+    <div class="queue-line"><span class="queue-name">Kitchen queue</span><div data-kitchen-queue aria-label="Orders available to the cook"></div></div>
+    <div class="queue-line"><span class="queue-name"><i data-lucide="check" aria-hidden="true"></i> Ready for pickup</span><div data-ready aria-label="Prepared orders"></div></div>
+  </div>
+  <div class="text-small text-muted">Arrival order: C001 → A001 → C002 → A002. C = counter; A = app.</div>
+  <div data-action aria-live="polite" class="action-line">Current workflow: counter tickets reach the cook; app tickets wait on a separate screen.</div>
+  <details class="model-rules"><summary>Rules and limits of this simulation</summary>
+    <ul>
+      <li>One model step is one cook action, not a measured minute.</li>
+      <li>The cook can prepare one drink OR bring one app ticket into the kitchen queue per step.</li>
+      <li>The cashier can forward one app ticket alongside cooking. This adds cashier duties; effects on counter service are not timed here.</li>
+      <li>A shared queue routes both feeds automatically. Its setup is assumed feasible for the next shift; real integration must be tested first.</li>
+      <li>All drinks take one preparation action. No further orders arrive. Staff already know how to read both screens.</li>
+    </ul>
+  </details>
+  <form data-plan-form>
+    <div class="viz-controls">
+      <label class="form-label">How will app tickets reach the cook?
+        <select class="form-select" data-route required>
+          <option value="">Choose your design</option>
+          <option value="shared">One shared kitchen screen</option>
+          <option value="cashier">Cashier forwards app orders</option>
+          <option value="cook">Cook checks app between drinks</option>
+          <option value="training">Keep route; demonstrate app</option>
+          <option value="custom">My own arrangement</option>
+        </select>
+      </label>
+      <label class="form-label" data-priority-label>Which orders should be prepared first?
+        <select class="form-select" data-priority>
+          <option value="fifo">Oldest available first</option>
+          <option value="counter">Counter orders first</option>
+          <option value="app">App orders first</option>
+        </select>
+      </label>
+    </div>
+    <div class="selected-detail" data-plan-detail aria-live="polite">Choose a route; its responsibility and implementation requirement will appear here.</div>
+    <label class="form-label" for="mission-three-reason">Your reason, expected effect and one concern</label>
+    <textarea class="form-control" id="mission-three-reason" rows="2" maxlength="700" required placeholder="I would… because… One thing to check is…"></textarea>
+    <div class="text-small text-muted">English or Russian. Your own arrangement will be discussed before its consequences are modelled.</div>
+    <div class="viz-controls"><button class="btn btn-primary" type="button" data-start>Test my plan</button></div>
+    <div role="alert" data-error hidden></div>
+  </form>
+  <section data-simulation hidden>
+    <div data-plan-summary></div>
+    <div class="viz-row"><span data-counts class="tabular-nums">Prepared 0/4</span><span data-step-count class="tabular-nums">Model step 0</span></div>
+    <div class="viz-controls"><button class="btn btn-primary" type="button" data-next>Run next step</button></div>
+    <div data-tradeoff></div>
+  </section>
+  <section data-result hidden aria-live="polite">
+    <h3 data-result-title>Shift result</h3>
+    <div data-result-value></div>
+    <div class="debrief"><div><strong>Чему должна была научить сцена:</strong> изменение технологии нужно согласовать с обязанностями людей и порядком работы.</div><div><strong>Связь с курсом:</strong> Topic 1, slide 4 — tool-based perspective: выбрать и проверить практическое действие для управления изменением.</div></div>
+    <div class="text-small text-muted">This scene covers part of block 1.1. Three perspectives and evidence evaluation still need further study.</div>
+    <div class="viz-controls"><button class="btn btn-primary" type="button" data-discuss>Discuss my result with Codex</button><button class="btn" type="button" data-compare>Try another design</button></div>
+    <div data-send-status role="status"></div>
+  </section>
+  <style>
+    #bus230-mission-three [hidden] {display:none !important;}
+    #bus230-mission-three {color:var(--foreground);overflow-wrap:anywhere;}
+    #bus230-mission-three .workflow {display:grid;gap:16px;margin:22px 0;}
+    #bus230-mission-three .route {display:grid;grid-template-columns:minmax(0,.8fr) auto minmax(0,1.3fr) auto minmax(0,1.1fr);gap:10px;align-items:center;}
+    #bus230-mission-three .queue-line {display:grid;grid-template-columns:minmax(130px,.7fr) minmax(0,2fr);gap:12px;align-items:center;}
+    #bus230-mission-three .queue-name {font-weight:500;}
+    #bus230-mission-three .queue-line > div {display:flex;flex-wrap:wrap;gap:8px;min-height:32px;align-items:center;}
+    #bus230-mission-three .order {padding:6px 8px;background:var(--muted);color:var(--foreground);}
+    #bus230-mission-three .order.app {background:color-mix(in srgb,var(--viz-series-1) 14%,transparent);}
+    #bus230-mission-three .action-line,#bus230-mission-three .selected-detail {margin:16px 0;}
+    #bus230-mission-three .model-rules {margin:16px 0;}
+    #bus230-mission-three .debrief {display:grid;gap:10px;margin:18px 0;}
+    #bus230-mission-three [data-tradeoff] {margin:12px 0;}
+    @media(max-width:480px){#bus230-mission-three .route {grid-template-columns:minmax(0,1fr);gap:4px;}#bus230-mission-three .route > span:nth-child(even){transform:rotate(90deg);justify-self:start;}#bus230-mission-three .queue-line {grid-template-columns:minmax(0,1fr);gap:6px;}}
+  </style>
+  <script>
+  (()=>{
+    const root=document.getElementById('bus230-mission-three'),q=s=>root.querySelector(s),game='BUS230 workflow mission v3';
+    const orders=[{id:'C001',channel:'counter',seq:1},{id:'A001',channel:'app',seq:2},{id:'C002',channel:'counter',seq:3},{id:'A002',channel:'app',seq:4}];
+    const plans={shared:{label:'Shared kitchen queue',owner:'Automatic routing → cook',detail:'Both feeds enter one kitchen queue; confirm integration and retain order labels before launch.',tradeoff:'This run assumes the integration works. Test routing, labels and staff use before introducing it in a real café.'},cashier:{label:'Cashier forwards app tickets',owner:'Cashier → kitchen queue',detail:'Cashier forwards one app ticket per step alongside cooking; this adds cashier duties.',tradeoff:'The cashier gains an extra task. This model counts handoffs but does not measure the resulting counter or pickup delay.'},cook:{label:'Cook checks both screens',owner:'Cook checks → kitchen queue',detail:'Cook brings one app ticket into the queue between preparation tasks; each check uses one model step.',tradeoff:'The cook gains a monitoring task. In these model rules, that action competes directly with preparation.'},training:{label:'Demonstration only',owner:'No assigned handoff',detail:'Staff already know both screens. A demonstration keeps the routes and responsibility unchanged.',tradeoff:'The demonstration changes knowledge, but these staff already know the screens; no role has taken responsibility for handoff.'},custom:{label:'My own arrangement',owner:'To be specified',detail:'Describe the route, who performs each action and how orders are prioritised; discuss before simulating.',tradeoff:''}};
+    const priorities={fifo:'Oldest available first',counter:'Counter first',app:'App first'};
+    let revision=0;
+    let state={phase:'plan',route:'',priority:'fifo',draft:'',help:false,attempts:[],current:null};
+    function rank(list,priority){return [...list].sort((a,b)=>priority==='fifo'?a.seq-b.seq:((a.channel===(priority==='counter'?'counter':'app')?0:1)-(b.channel===(priority==='counter'?'counter':'app')?0:1))||a.seq-b.seq);}
+    function compute(attempt){let app=orders.filter(x=>x.channel==='app'),queue=orders.filter(x=>x.channel==='counter'),ready=[],log=[],forwarded=0,checks=0;
+      if(attempt.route==='shared'){queue=[...orders];app=[];}
+      const max=attempt.steps;
+      for(let n=0;n<max;n++){
+        let action=[];let checkOnly=false;
+        if(attempt.route==='cashier'&&app.length){let item=app.shift();queue.push(item);forwarded++;action.push('Cashier forwards '+item.id+'.');}
+        if(attempt.route==='cook'&&app.length&&n%2===0){let item=app.shift();queue.push(item);checks++;checkOnly=true;action.push('Cook checks the app screen and brings '+item.id+' into the queue; no drink prepared this step.');}
+        if(!checkOnly&&queue.length){queue=rank(queue,attempt.priority);let item=queue.shift();ready.push(item);action.push('Cook prepares '+item.id+'.');}
+        if(!action.length)action.push('No available kitchen ticket. App orders still have no assigned handoff.');
+        log.push(action.join(' '));
+      }
+      queue=rank(queue,attempt.priority);
+      return {app,queue,ready,log,forwarded,checks,complete:ready.length===4,blocked:attempt.route==='training'&&queue.length===0&&app.length>0};
+    }
+    function chips(el,list){el.replaceChildren();if(!list.length){el.textContent='—';return;}for(const item of list){let s=document.createElement('span');s.className='order'+(item.channel==='app'?' app':'');s.textContent=item.id;el.append(s);}}
+    function snapshot(){return {modelContent:{game,revision,block:'1.1',helpUsed:state.help,attempts:state.attempts,current:state.current,assessment:'Same fictional case after previous explanation; supported practice, no mastery inferred'},privateContent:{phase:state.phase,route:state.route,priority:state.priority,draft:state.draft}};}
+    function save(){revision++;if(window.openai?.setWidgetState)window.openai.setWidgetState(snapshot()).catch(()=>{});}
+    function render(){
+      const active=state.current;const result=active&&active.route!=='custom'?compute(active):compute({route:'training',priority:'fifo',steps:0});
+      q('[data-help-text]').hidden=!state.help;q('[data-help]').setAttribute('aria-pressed',String(state.help));
+      q('[data-plan-form]').hidden=state.phase!=='plan';q('[data-simulation]').hidden=!['run','done'].includes(state.phase);q('[data-result]').hidden=state.phase!=='done';
+      chips(q('[data-app-queue]'),result.app);chips(q('[data-kitchen-queue]'),result.queue);chips(q('[data-ready]'),result.ready);
+      q('[data-route-owner]').textContent=active?plans[active.route].owner:'No assigned handoff';q('[data-app-screen]').textContent=active?.route==='shared'?'Shared kitchen screen':'Separate app screen';q('[data-plan-summary]').textContent=active?plans[active.route].label+' · '+priorities[active.priority]:'';
+      q('[data-route]').value=state.route;q('[data-priority]').value=state.priority;q('textarea').value=state.draft;
+      q('[data-priority-label]').hidden=state.route==='custom';q('[data-plan-detail]').textContent=state.route?plans[state.route].detail:'Choose a route; its responsibility and implementation requirement will appear here.';q('[data-start]').textContent=state.route==='custom'?'Discuss my own plan':'Test my plan';
+      q('[data-counts]').textContent='Prepared '+result.ready.length+'/4 · waiting '+(result.app.length+result.queue.length);q('[data-step-count]').textContent='Model step '+(active?.steps||0);
+      q('[data-next]').hidden=state.phase==='done';q('[data-tradeoff]').textContent=active?plans[active.route].tradeoff:'';
+      q('[data-action]').textContent=state.phase==='plan'?'Current workflow: counter tickets reach the cook; app tickets wait on a separate screen.':active?.route==='custom'?'Your arrangement needs a clear model before consequences can be shown.':result.log.at(-1)||'Your plan is in place. Run the next step to follow the orders.';
+      if(state.phase==='done'){
+        q('[data-result-title]').textContent=active.route==='custom'?'Your own plan':'Shift result';
+        q('[data-result-value]').textContent=active.route==='custom'?'Own plan submitted for discussion; consequences have not been simulated.':result.ready.length+'/4 prepared in '+active.steps+' model steps. '+(result.app.length?result.app.map(x=>x.id).join(', ')+' still waiting.':'All four orders reached preparation.')+' Additional cashier handoffs: '+result.forwarded+'; cook checks: '+result.checks+'.';
+      }
+    }
+    function validAttempt(a){return a&&a.route in plans&&a.priority in priorities&&typeof a.reason==='string'&&a.reason.length<=700&&Number.isInteger(a.steps)&&a.steps>=0&&a.steps<=12;}
+    function restore(saved){const m=saved?.modelContent,p=saved?.privateContent;if(m?.game!==game)return;if(Number.isInteger(m.revision)){if(m.revision<=revision&&revision>0)return;revision=m.revision;}state.attempts=Array.isArray(m.attempts)?m.attempts.filter(validAttempt).slice(-2):[];state.current=validAttempt(m.current)?m.current:null;state.route=p?.route in plans?p.route:'';state.priority=p?.priority in priorities?p.priority:'fifo';state.draft=typeof p?.draft==='string'?p.draft:'';state.phase=['plan','run','done'].includes(p?.phase)?p.phase:'plan';if(state.phase!=='plan'&&!state.current)state.phase='plan';state.help=!!m.helpUsed;render();}
+    async function discuss(button){
+      const a=state.current;if(!a)return;
+      if(!window.openai?.sendFollowUpMessage){q('[data-send-status]').textContent='Copy your plan, reason and observed result into the chat for discussion.';return;}
+      button.disabled=true;
+      try{const result=a.route==='custom'?null:compute(a);await window.openai.sendFollowUpMessage({title:'Discuss my BUS230 workflow design',prompt:'Разбери моё решение в переработанной миссии BUS230 1.1, Topic1 slide4 tool-based perspective. Это поддержанная практика на том же кейсе, не независимый перенос. Факты: один кассир и один повар; кассовые заказы уже идут в очередь кухни, app orders initially on separate screen, staff know screens. Четыре заказа по времени C001,A001,C002,A002, новых нет. Моя схема: '+plans[a.route].label+'. Очередность: '+priorities[a.priority]+'. My reason verbatim: '+a.reason+'. Model steps: '+a.steps+'. Result: '+(result?JSON.stringify({ready:result.ready.map(x=>x.id),waiting:[...result.app,...result.queue].map(x=>x.id),cashierHandoffs:result.forwarded,cookChecks:result.checks,events:result.log}):'Own arrangement: not automatically simulated; clarify and model it explicitly.')+'. Модельные шаги не реальные минуты: cook prepares1 OR transfers1 app ticket; cashier transfer can happen alongside cooking; shared integration assumed feasible but must be tested. Не приписывай реальный экономический эффект или освоение. Сохрани попытку дословно отдельно. Дай коротко: «Чему должна была научить сцена…» и «Как этот этап связан с курсом…». Затем уточнения и новая ситуация по материалам; не повторять уже разобранное без цели.'});q('[data-send-status]').textContent='Plan and result sent for discussion.';}catch{q('[data-send-status]').textContent='Could not send. Copy your plan and result into the chat.';}finally{button.disabled=false;}
+    }
+    root.addEventListener('click',async e=>{const b=e.target.closest('button');if(!b||!root.contains(b))return;
+      if(b.hasAttribute('data-help')){state.help=!state.help;render();save();}
+      if(b.hasAttribute('data-next')&&state.phase==='run'){state.current.steps++;let r=compute(state.current);if(r.complete||r.blocked||state.current.steps>=12){state.phase='done';state.attempts.push({...state.current});state.attempts=state.attempts.slice(-2);}render();save();}
+      if(b.hasAttribute('data-discuss'))await discuss(b);
+      if(b.hasAttribute('data-compare')){state.phase='plan';state.current=null;state.draft='';render();save();}
+    });
+    q('[data-route]').addEventListener('change',()=>{state.route=q('[data-route]').value;state.draft=q('textarea').value;render();save();});
+    q('[data-priority]').addEventListener('change',()=>{state.priority=q('[data-priority]').value;save();});
+    q('textarea').addEventListener('input',()=>{state.draft=q('textarea').value;});q('textarea').addEventListener('change',save);
+    q('[data-start]').addEventListener('click',async e=>{e.preventDefault();state.draft=q('textarea').value;state.route=q('[data-route]').value;state.priority=q('[data-priority]').value;if(!(state.route in plans)||!state.draft.trim()){q('[data-error]').textContent='Choose a route and give your reason.';q('[data-error]').hidden=false;return;}state.current={route:state.route,priority:state.priority,reason:state.draft,steps:0};state.phase=state.route==='custom'?'done':'run';if(state.route==='custom')state.attempts.push({...state.current});render();save();if(state.route==='custom')await discuss(q('[data-discuss]'));});
+    window.addEventListener('openai:set_globals',e=>{if(e.detail?.globals?.widgetState)restore(e.detail.globals.widgetState);});restore(window.openai?.widgetState);render();
+  })();
+  </script>
+</div>

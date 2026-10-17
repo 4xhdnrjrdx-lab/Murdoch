@@ -1,0 +1,50 @@
+{
+  "recorded_at": "2026-10-17T23:18:05.771042+04:00",
+  "request_verbatim": "Давай тогда переделаем игру: покажи понятную схему работы, дай мне цель и возможность самому выбрать решение, а потом увидеть последствия.\nтак же после прохождения игры давай короткое предложение \"чему должна была научить сцена...\", \"как этот этап связан с курсом\" \nЯ же правильно понимаю что мы изучаем слайды лекций через игру и это напрямую связано с моим курсом и поможет мне на экзамене?",
+  "decision": "Games become the practice-first teaching format, mapped to retained BUS230 lectures and workshops. Two brief debrief sentences follow every completed scene. Preserve the curriculum; game completion is not mastery.",
+  "mission": {
+    "source": "Interactive/change-manager-mission.html",
+    "title": "Your café. Your workflow.",
+    "block": "1.1",
+    "objective": "Prepare four orders with a clear route and responsibility for each, using one cashier and one cook.",
+    "before": "Counter orders reach the kitchen queue. App orders reach a separate screen with no assigned handoff. Staff know how to read the screens.",
+    "decisions": [
+      "shared kitchen screen",
+      "cashier handoff",
+      "cook monitoring",
+      "unchanged routing plus demonstration",
+      "own arrangement requiring explicit modelling in discussion"
+    ],
+    "secondary_decision": "FIFO, counter-first, or app-first preparation among available kitchen orders",
+    "consequences": "Deterministic movement of C001/A001/C002/A002 under stated model rules. Steps are model actions, not measured minutes. No invented revenue, satisfaction or real-world delay figures.",
+    "boundaries": [
+      "Shared integration is assumed feasible for the next shift and must be tested in reality.",
+      "Added cashier workload is counted as handoffs but its effect on counter/pickup delays is not timed.",
+      "Cook can prepare one drink OR transfer one app ticket per step.",
+      "No new arrivals; same drink preparation cost.",
+      "Own plans have no invented automatic result; clarify and model them in chat."
+    ],
+    "completed_by_learner": false
+  },
+  "source_map": {
+    "official_lecture": "Materials/06 Session 1 - Drivers of Change/BUS230 Lecture Podcast Topic 1.pptx",
+    "slide": 4,
+    "verified_original": "Slide 4 title Three Approaches To Change; embedded SmartArt: Tool-based perspective provides recipes, techniques and tools to control change processes.",
+    "related_transcript": "Materials/06 Session 1 - Drivers of Change/BUS230 Topic 1 Podcast Transcript.pdf, p.1",
+    "content_status": "Slide 4 rechecked from original slide and SmartArt XML. Transcript p.1 previously read. This fictional scenario is original teaching material, not an official workshop case.",
+    "exercised": "Selecting and checking a practical intervention; linking technology with work organisation and responsibilities.",
+    "still_pending_in_block": [
+      "Process-based perspective in depth",
+      "Critical perspective in depth",
+      "Evidence versus the repeated 70% failure claim",
+      "Fresh independent application and delayed recall"
+    ]
+  },
+  "debrief": {
+    "learning_sentence": "Чему должна была научить сцена: изменение технологии нужно согласовать с обязанностями людей и порядком работы.",
+    "course_sentence": "Связь с курсом: Topic 1, slide 4 — tool-based perspective: выбрать и проверить практическое действие для управления изменением."
+  },
+  "exam_relevance": "Practice connecting a concept, case facts and a justified recommendation. The existing route also retains official cases, transfer and two written mock exams. No grade or pass guaranteed; exact exam case unknown.",
+  "validation": "All 12 built-in route/priority combinations checked: expected completion order and action counts, no lost/duplicate tickets, no fabricated custom-plan outcome; state restore/replay; 320/736px width. Styled sandbox checks added for form-free button handling and widget state echo. Screenshots reviewed separately. End-of-run button visibility also checked in sandboxed styled runtime; no native form submission required.",
+  "state": "prepared; no new learner answer"
+}
