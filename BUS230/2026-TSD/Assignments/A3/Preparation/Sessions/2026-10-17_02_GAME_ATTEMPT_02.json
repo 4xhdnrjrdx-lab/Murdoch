@@ -1,0 +1,32 @@
+{
+  "recorded_at": "2026-10-17T23:05:12.762227+04:00",
+  "session": "2026-10-17_02",
+  "block": "1.1",
+  "source": "User-submitted visualization follow-up with matching v2 widget state",
+  "choice": "Assign a rotating screen monitor and agree how to combine both queues.",
+  "reason_verbatim": "я понял что проблема в том что рабочие не знают кто должен следить за заказами которые приходят на монитор, но я не понял как правильно на него отвечать\nтип кухня ресторана работает вот как\nя клиент делаю заказ через приложение (заберу сам)\nи клиент который у кассы делает заказ \nнаши оба заказа появляются на экране в кухне, где рабочие видят заказы и просто готовят их и выдают на стойке\nединственное что так это заказы через кассу помечаются скажем \"001\" а заказы через приложение \"A001\" чтобы отличать \nа суть этой игры и вопроса я не понял к чему это",
+  "support": {
+    "demo_step": 5,
+    "evidence_opened": [
+      "system",
+      "team",
+      "owner"
+    ],
+    "russian_help_used": false,
+    "prior_support": "First-attempt feedback plus six-state app walkthrough. Revised response is supported practice, not independent transfer."
+  },
+  "observations": {
+    "demonstrated": "Explicitly identifies unclear responsibility for monitoring orders. Gives a coherent alternative workflow with both order channels on a shared screen and distinct order numbers.",
+    "not_demonstrated": "Exam-style explanation and independent application/transfer or delayed recall are not yet established.",
+    "design_feedback": "Learner does not understand the point of the game/question. The pilot did not make the relationship between counter and app workflows or the learning objective clear enough.",
+    "scope": "The described common-screen setup is the learner’s example, not an established universal fact about restaurant systems. Do not attribute work experience or independent topic mastery."
+  },
+  "feedback": {
+    "case_limits": "Under the learner’s coherent shared-queue arrangement, a dedicated app screen monitor need not be required. The pilot’s split workflow was a teaching assumption that needed clearer depiction.",
+    "subject_purpose": "Understand how a technology change can alter responsibilities and coordination; connect action to the actual observed organisational problem. No universal correct staffing arrangement.",
+    "possible_response": "The app introduced a new order flow, but responsibility for handling it was unclear. The café needs an agreed way to coordinate the work.",
+    "design_change_needed": "Future missions show current workflow, proposed change, goal, visible consequences and constraints before asking for a decision. Tie debrief explicitly to the current curriculum block; do not require guessing the author’s intended option."
+  },
+  "next_action": "Explain the point and case assumptions briefly before more decisions. Clarify/improve mission design; then a fresh, coherent transfer scenario. Do not ask learner to repeat an already recognised role gap.",
+  "mastery_demonstrated": false
+}

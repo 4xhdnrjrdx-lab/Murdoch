@@ -54,11 +54,12 @@
             3,
             4
           ],
-          "status": "supported_game_practice_revised_decision_pending",
+          "status": "supported_role_gap_recognised_purpose_clarification_pending",
           "evidence": [
             "Sessions/2026-10-17_02_RESTART.md",
             "Sessions/2026-10-17_02_GAME_ATTEMPT_01.json",
-            "2026-10-17_game-app-clarification.json"
+            "2026-10-17_game-app-clarification.json",
+            "Sessions/2026-10-17_02_GAME_ATTEMPT_02.json"
           ]
         },
         {
