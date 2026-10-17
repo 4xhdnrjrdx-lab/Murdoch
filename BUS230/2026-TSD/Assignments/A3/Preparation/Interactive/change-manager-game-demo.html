@@ -1,0 +1,112 @@
+<div id="bus230-app-demo">
+  <div class="text-small text-muted">Stage 1/14 · Topic 1/8 · Block 1.1 · Fictional café</div>
+  <h3>Follow one app order</h3>
+  <div class="viz-row"><span data-step-label>Step 1 of 6 · Choose a drink</span><button class="btn btn-ghost" type="button" data-help aria-pressed="false">Русская помощь</button></div>
+  <div class="demo-products" aria-label="Customer app and kitchen screen">
+    <section class="demo-product" aria-label="Customer app">
+      <div class="product-top"><i data-lucide="smartphone" aria-hidden="true"></i> CUSTOMER APP</div>
+      <div class="product-content">
+        <div class="product-subtitle">Cedar Café · collection order</div>
+        <div class="product-item"><i data-lucide="coffee" aria-hidden="true"></i> Latte × 1</div>
+        <div class="product-status" data-phone-status>In your basket</div>
+        <div class="product-foot" data-phone-detail>Not sent to the café yet.</div>
+      </div>
+    </section>
+    <section class="demo-product" aria-label="Kitchen screen">
+      <div class="product-top"><i data-lucide="monitor" aria-hidden="true"></i> KITCHEN SCREEN</div>
+      <div class="product-content">
+        <div class="product-subtitle">App order queue</div>
+        <div class="order-ticket" data-ticket hidden><div>ORDER #42 · Latte × 1</div><div class="ticket-state" data-ticket-status>NEW · not accepted</div></div>
+        <div data-empty>No app orders</div>
+        <div class="product-foot" data-kitchen-detail>Waiting for an order.</div>
+      </div>
+    </section>
+  </div>
+  <div class="staff-line"><i data-lucide="chef-hat" aria-hidden="true"></i><span data-staff>Staff are serving customers at the counter.</span></div>
+  <div class="demo-detail" data-detail aria-live="polite">Choose → send → receive → accept → prepare → ready.</div>
+  <div data-russian hidden aria-live="polite"></div>
+  <div class="viz-controls">
+    <button class="btn" type="button" data-prev disabled>Back</button>
+    <button class="btn btn-primary" type="button" data-next>Place order #42</button>
+  </div>
+  <div class="text-small text-muted" data-demo-limit>Teaching example · demonstrates the fictional app’s workflow.</div>
+  <section data-decision hidden>
+    <hr>
+    <div class="viz-controls" aria-label="Case evidence">
+      <button class="btn" type="button" data-evidence="system">System check</button>
+      <button class="btn" type="button" data-evidence="team">Hear the team</button>
+      <button class="btn" type="button" data-evidence="owner">Hear the owner</button>
+    </div>
+    <div class="evidence-line" data-evidence-detail aria-live="polite">Case: app orders wait during the rush; counter orders keep moving.</div>
+    <form data-form>
+      <fieldset><legend>Your first action as manager?</legend>
+        <label class="form-check"><input class="form-check-input" type="radio" name="move2" value="training" required><span class="form-check-label">Give everyone a short demonstration of the app.</span></label>
+        <label class="form-check"><input class="form-check-input" type="radio" name="move2" value="coordination"><span class="form-check-label">Assign a rotating screen monitor and agree how to combine both queues.</span></label>
+        <label class="form-check"><input class="form-check-input" type="radio" name="move2" value="investigation"><span class="form-check-label">Trace more orders before changing responsibilities.</span></label>
+      </fieldset>
+      <label class="form-label" for="demo-choice-reason">Your reason: what fact supports this action?</label>
+      <textarea class="form-control" id="demo-choice-reason" rows="2" maxlength="1600" required></textarea>
+      <div class="viz-controls"><button class="btn btn-primary" type="submit">Make my decision</button></div>
+      <div role="alert" data-error hidden></div>
+    </form>
+    <div data-outcome hidden aria-live="polite">
+      <h3>Your revised decision</h3><div data-choice></div><blockquote data-reason></blockquote><div data-consequence></div>
+      <div class="text-small text-muted">Possible consequence in this fictional case</div>
+      <div class="viz-controls"><button class="btn btn-primary" type="button" data-discuss>Discuss my decision with Codex</button></div><div role="status" data-send-status></div>
+    </div>
+  </section>
+  <style>
+    #bus230-app-demo {color:var(--foreground);overflow-wrap:anywhere;}
+    #bus230-app-demo .demo-products {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:18px 0;}
+    #bus230-app-demo .demo-product {--app-bg:light-dark(#fff,#1e242b);--app-fg:light-dark(#17232f,#eef3f7);--app-soft:light-dark(#edf2f5,#2b3541);--app-line:light-dark(#ccd6df,#4a5868);--app-note:light-dark(#425568,#bdcddd);color:var(--app-fg);background:var(--app-bg);border:1px solid var(--app-line);border-radius:16px;overflow:hidden;}
+    #bus230-app-demo .product-top {display:flex;align-items:center;gap:8px;padding:14px;background:var(--app-soft);font-weight:500;}
+    #bus230-app-demo .product-content {padding:16px;display:grid;gap:18px;}
+    #bus230-app-demo .product-subtitle,#bus230-app-demo .product-foot {color:var(--app-note);}
+    #bus230-app-demo .product-item {display:flex;gap:8px;align-items:center;font-weight:500;}
+    #bus230-app-demo .product-status {font-weight:500;}
+    #bus230-app-demo .order-ticket {padding:12px;border:1px solid var(--app-line);border-radius:8px;}
+    #bus230-app-demo .ticket-state {margin-top:12px;font-weight:500;}
+    #bus230-app-demo .staff-line {display:flex;align-items:center;gap:10px;}
+    #bus230-app-demo .demo-detail,#bus230-app-demo [data-russian],#bus230-app-demo .evidence-line {margin:16px 0;}
+    #bus230-app-demo fieldset {min-width:0;border:0;padding:0;margin:20px 0;}
+    #bus230-app-demo legend {font-weight:500;margin-bottom:12px;}
+    #bus230-app-demo blockquote {margin:12px 0;padding-left:12px;border-left:2px solid var(--border);white-space:pre-wrap;}
+    @media(max-width:460px){#bus230-app-demo .demo-products {grid-template-columns:minmax(0,1fr);}}
+  </style>
+  <script>
+  (()=>{
+    const root=document.getElementById('bus230-app-demo'),q=s=>root.querySelector(s);
+    const id='BUS230 cafe demo v2';
+    const steps=[
+      {title:'Choose a drink',phone:'In your basket',phoneDetail:'Not sent to the café yet.',ticket:null,kitchen:'Waiting for an order.',staff:'Staff are serving customers at the counter.',detail:'The customer chooses a drink in the app.',ru:'Клиент выбрал напиток. Пока он не отправил заказ, кухня его не видит.',next:'Place order #42'},
+      {title:'The order arrives',phone:'Order #42 received',phoneDetail:'The system has received your order.',ticket:'NEW · not accepted',kitchen:'The order appears automatically.',staff:'Staff are still serving counter orders.',detail:'The app sends the order; it appears on the kitchen screen.',ru:'Заказ автоматически появился на экране кухни. «Получен» ещё не означает, что его начали готовить.',next:'See the lunch rush'},
+      {title:'The order waits',phone:'Order #42 received',phoneDetail:'Still waiting for staff to accept it.',ticket:'NEW · still waiting',kitchen:'No staff member has accepted this order.',staff:'No one is assigned to monitor this screen during the rush.',detail:'The software has delivered the order; the next action belongs to a person.',ru:'Программа доставила заказ. Теперь сотрудник должен заметить его и принять. В этом кафе не назначено, кто следит за экраном.',next:'Follow an employee who notices it'},
+      {title:'Someone notices the screen',phone:'Order #42 received',phoneDetail:'Still waiting for acceptance.',ticket:'NEW · ready to accept',kitchen:'An employee sees the waiting order.',staff:'Example: an employee happens to check the screen.',detail:'The employee must press “Accept”; the app does not prepare the drink.',ru:'Для показа один сотрудник заметил заказ. Он может нажать Accept — принять заказ в работу. Это ещё не постоянное распределение обязанностей.',next:'Accept order #42'},
+      {title:'Staff prepare the drink',phone:'Preparing order #42',phoneDetail:'Your drink is being prepared.',ticket:'ACCEPTED · preparing',kitchen:'Staff make the latte, then mark the order ready.',staff:'An employee accepts the order and prepares the latte.',detail:'“Accept” updates the status; a person makes the drink.',ru:'После Accept статус изменился на Preparing. Напиток готовит человек. Когда он готов, сотрудник отмечает Ready.',next:'Mark order #42 ready'},
+      {title:'Ready for collection',phone:'Order #42 is ready',phoneDetail:'Please collect your latte.',ticket:'READY · collection',kitchen:'The customer receives a ready message.',staff:'One order is complete. Future orders still need someone to monitor the screen.',detail:'This example shows the workflow; the original lunch-rush problem remains.',ru:'Клиент получил сообщение о готовности. Мы показали путь одного заказа; вопрос о том, кто следит за следующими заказами, остаётся.',next:'Choose my response'}
+    ];
+    const options={training:'Give everyone a short demonstration of the app.',coordination:'Assign a rotating screen monitor and agree how to combine both queues.',investigation:'Trace more orders before changing responsibilities.'};
+    const evidence={system:'App orders reach the screen correctly; no technical fault has been found.',team:'“We know how to read the screen, but nobody knows who should watch it during the rush.”',owner:'“The staff are resisting my app.” This is the owner’s interpretation; motives are not established.'};
+    const consequences={training:'Training may help with unfamiliar steps. The case still needs an answer to who monitors incoming orders.',coordination:'Clear ownership may help orders enter the queue. Check whether this takes staff away from another necessary task.',investigation:'More tracing can reveal further causes. Consider how to handle waiting orders while you investigate.'};
+    let state={step:0,help:false,decisionOpen:false,evidenceSeen:[],selected:null,draft:'',attempt:null};
+    const prior={choice:'training',reason:'actually i dont see how the app really work, thats why i would choose first option, because only 5 min demonstration can help everyone to know how work the app',clarification:'The player could not see how the fictional app worked. This was an interface-information gap, not evidence of a staff skill gap.'};
+    function save(){if(window.openai?.setWidgetState)window.openai.setWidgetState({modelContent:{game:id,block:'1.1',demoStep:state.step,decisionOpen:state.decisionOpen,evidenceSeen:state.evidenceSeen,previousAttempt:prior,attempt:state.attempt,assessment:'supported reattempt after demonstration and prior feedback'},privateContent:{help:state.help,selected:state.selected,draft:state.draft}}).catch(()=>{});}
+    function render(){const s=steps[state.step];q('[data-step-label]').textContent='Step '+(state.step+1)+' of 6 · '+s.title;q('[data-phone-status]').textContent=s.phone;q('[data-phone-detail]').textContent=s.phoneDetail;q('[data-ticket]').hidden=!s.ticket;q('[data-empty]').hidden=!!s.ticket;q('[data-ticket-status]').textContent=s.ticket||'';q('[data-kitchen-detail]').textContent=s.kitchen;q('[data-staff]').textContent=s.staff;q('[data-detail]').textContent=s.detail;q('[data-russian]').hidden=!state.help;q('[data-russian]').textContent=s.ru;q('[data-help]').setAttribute('aria-pressed',String(state.help));q('[data-prev]').disabled=state.step===0;q('[data-next]').textContent=s.next;q('[data-next]').hidden=state.decisionOpen&&state.step===5;q('[data-decision]').hidden=!state.decisionOpen;q('[data-form]').hidden=!!state.attempt;q('[data-outcome]').hidden=!state.attempt;
+      if(state.attempt){q('[data-choice]').textContent=options[state.attempt.choice];q('[data-reason]').textContent=state.attempt.reason;q('[data-consequence]').textContent=consequences[state.attempt.choice];}
+      else{q('textarea').value=state.draft;root.querySelectorAll('input[name="move2"]').forEach(el=>{el.checked=el.value===state.selected;});}
+    }
+    function restore(saved){const m=saved?.modelContent,p=saved?.privateContent;if(m?.game!==id)return;state.step=Number.isInteger(m.demoStep)&&m.demoStep>=0&&m.demoStep<6?m.demoStep:0;state.decisionOpen=!!m.decisionOpen;state.evidenceSeen=Array.isArray(m.evidenceSeen)?m.evidenceSeen.filter(k=>k in evidence):[];state.attempt=m.attempt&&m.attempt.choice in options&&typeof m.attempt.reason==='string'?m.attempt:null;state.help=!!p?.help;state.selected=p?.selected in options?p.selected:null;state.draft=typeof p?.draft==='string'?p.draft:'';render();}
+    root.addEventListener('click',async e=>{const b=e.target.closest('button');if(!b||!root.contains(b))return;
+      if(b.hasAttribute('data-next')){if(state.step<5)state.step++;else state.decisionOpen=true;render();save();}
+      if(b.hasAttribute('data-prev')){state.step=Math.max(0,state.step-1);render();save();}
+      if(b.hasAttribute('data-help')){state.help=!state.help;render();save();}
+      if(b.dataset.evidence){const key=b.dataset.evidence;q('[data-evidence-detail]').textContent=evidence[key];if(!state.evidenceSeen.includes(key))state.evidenceSeen.push(key);save();}
+      if(b.hasAttribute('data-discuss')&&state.attempt){if(!window.openai?.sendFollowUpMessage){q('[data-send-status]').textContent='Copy your choice and reason into the chat for discussion.';return;}b.disabled=true;try{await window.openai.sendFollowUpMessage({title:'Discuss my revised BUS230 decision',prompt:'Разбери мою повторную попытку BUS230 block 1.1 после наглядной демонстрации приложения. Исходный ответ training сохранён; пользователь уточнил, что ему как игроку не хватало информации об интерфейсе, а не сотрудникам. Эта попытка после объяснения и разбора не является независимым переносом. Fictional cafe: orders arrive correctly, kitchen staff know how to read the screen, but no one is assigned to monitor it during the rush. Demo shows customer sending order, automatic arrival, waiting, employee accepting and preparing, marking ready. Choice: '+options[state.attempt.choice]+' Reason verbatim: '+state.attempt.reason+' Preserve original and revised attempts separately. Discuss reasoning in simple English; then a fresh transfer case. Do not mark mastery from clicks.'});q('[data-send-status]').textContent='Decision sent for discussion.';}catch{q('[data-send-status]').textContent='Could not send; copy your choice and reason into the chat.';}finally{b.disabled=false;}}
+    });
+    q('textarea').addEventListener('input',()=>{state.draft=q('textarea').value;});q('textarea').addEventListener('change',save);
+    q('[data-form]').addEventListener('change',()=>{state.selected=q('input[name="move2"]:checked')?.value||null;save();});
+    q('[data-form]').addEventListener('submit',e=>{e.preventDefault();const selected=q('input[name="move2"]:checked'),raw=q('textarea').value;if(!selected||!raw.trim()){q('[data-error]').textContent='Choose an action and give your reason.';q('[data-error]').hidden=false;return;}state.attempt={choice:selected.value,reason:raw,demoStep:state.step,helpUsed:state.help,evidenceSeen:[...state.evidenceSeen]};save();render();});
+    window.addEventListener('openai:set_globals',e=>{if(e.detail?.globals?.widgetState)restore(e.detail.globals.widgetState);});restore(window.openai?.widgetState);render();
+  })();
+  </script>
+</div>

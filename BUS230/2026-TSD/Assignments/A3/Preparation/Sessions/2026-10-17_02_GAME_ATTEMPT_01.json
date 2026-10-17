@@ -28,7 +28,12 @@
     "language": "Meaning understandable; no separate grammar correction requested.",
     "five_minute_limit": "Five minutes is the learner’s proposed duration, not validated as sufficient."
   },
-  "pending_clarification": "Did the learner mean that the game did not show the app clearly, or that staff needed app instruction?",
-  "next_action": "Clarify interpretation, show app-order route if needed; then a fresh transfer situation. Do not grade unresolved interface ambiguity as subject error.",
-  "mastery_demonstrated": false
+  "pending_clarification": null,
+  "next_action": "Player follows the walkthrough, then chooses an action and gives a reason. Discuss the revised answer, then use a fresh transfer case.",
+  "mastery_demonstrated": false,
+  "clarification": {
+    "recorded_at": "2026-10-17T22:53:55.837662+04:00",
+    "source": "../2026-10-17_game-app-clarification.json",
+    "result": "The learner meant that the game did not show how the app worked. This was an interface-information gap, not a claim that employees lacked skills."
+  }
 }

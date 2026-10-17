@@ -1,0 +1,13 @@
+{
+  "recorded_at": "2026-10-17T22:53:55.837662+04:00",
+  "user_verbatim": "Я имел в виду, что мне как игроку непонятно, как работает приложение. Покажи это наглядно в игре, чтобы я мог принять решение.",
+  "resolution": "Player lacked a clear view of the app workflow. Do not infer a staff-training misconception from the initial explanation.",
+  "change": "Six-state interactive app walkthrough before the management decision: customer basket, automatic order arrival, waiting during rush, an employee noticing, manual acceptance/preparation, ready notification. Both customer and kitchen screens update. Original case facts stay unchanged.",
+  "versions": {
+    "original": "Interactive/change-manager-game.html",
+    "updated": "Interactive/change-manager-game-demo.html"
+  },
+  "attempts": "Original retained verbatim. Revised decision not yet received. The revised decision follows demonstration and prior feedback, so it is supported practice rather than independent transfer.",
+  "validation": "Six state transitions, arrival/wait/accept/ready, Russian support, gated decision, original and revised answer separation, state restore, 320 and 736px no overflow, no runtime errors. Styled preview at waiting state visually inspected.",
+  "next_action": "Player follows the walkthrough, then chooses an action and gives a reason. Discuss the revised answer, then use a fresh transfer case."
+}

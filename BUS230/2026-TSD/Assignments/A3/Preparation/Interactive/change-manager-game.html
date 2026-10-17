@@ -1,0 +1,88 @@
+<div id="bus230-manager-game">
+  <div class="text-small text-muted">Stage 1/14 · Topic 1/8 · Block 1.1 · Fictional case</div>
+  <h3>Change Manager · The lunch rush</h3>
+  <div class="viz-row"><span class="viz-badge">Your role: café manager</span><span>App orders are waiting. Counter orders keep moving.</span></div>
+  <div class="game-flow" role="img" aria-label="Counter orders go through the cashier to the kitchen. App orders reach a screen with nobody assigned to monitor it.">
+    <div class="flow-lane"><span><i data-lucide="users" aria-hidden="true"></i> Counter orders</span><span aria-hidden="true">→</span><span>Cashier</span><span aria-hidden="true">→</span><span>Kitchen ✓</span></div>
+    <div class="flow-lane"><span><i data-lucide="smartphone" aria-hidden="true"></i> App orders</span><span aria-hidden="true">→</span><span>Screen</span><span aria-hidden="true">→</span><span data-bottleneck>Waiting · no assigned owner</span></div>
+  </div>
+  <div class="viz-controls" aria-label="Investigate the situation">
+    <button class="btn" type="button" data-evidence="system"><i data-lucide="monitor" aria-hidden="true"></i> Check system</button>
+    <button class="btn" type="button" data-evidence="team"><i data-lucide="chef-hat" aria-hidden="true"></i> Hear the team</button>
+    <button class="btn" type="button" data-evidence="owner"><i data-lucide="message-circle" aria-hidden="true"></i> Hear the owner</button>
+    <button class="btn btn-ghost" type="button" data-help aria-pressed="false">Русская помощь</button>
+  </div>
+  <div class="game-evidence" aria-live="polite">Evidence: no one has been assigned to monitor the app screen.</div>
+  <div class="game-help" data-help-text hidden>Ты управляешь кафе. Заказы через приложение ждут, а заказы с кассы выполняются. Изучи систему и мнения людей. Выбери первое действие и коротко объясни его. Последствия — учебные возможности, а не гарантированный результат.</div>
+  <form data-decision-form>
+    <fieldset>
+      <legend>Your first move during this shift?</legend>
+      <label class="form-check"><input class="form-check-input" type="radio" name="move" value="training" required><span class="form-check-label">Give everyone a short demonstration of the app.</span></label>
+      <label class="form-check"><input class="form-check-input" type="radio" name="move" value="coordination"><span class="form-check-label">Assign a rotating screen monitor and agree how to combine both queues.</span></label>
+      <label class="form-check"><input class="form-check-input" type="radio" name="move" value="investigation"><span class="form-check-label">Trace more orders before changing responsibilities.</span></label>
+    </fieldset>
+    <label class="form-label" for="cafe-reason">Why this action? Use one fact from the scene.</label>
+    <textarea id="cafe-reason" class="form-control" rows="2" maxlength="1600" required placeholder="I would… because…" aria-describedby="cafe-reason-help"></textarea>
+    <div id="cafe-reason-help" class="text-small text-muted">One or two sentences. English preferred; Russian is fine if you are stuck.</div>
+    <div class="viz-controls"><button class="btn btn-primary" type="submit">Make my decision</button></div>
+    <div data-error role="alert" hidden></div>
+  </form>
+  <section data-outcome hidden aria-live="polite">
+    <h3>Your decision</h3>
+    <div data-choice></div>
+    <blockquote data-reason></blockquote>
+    <div data-consequence></div>
+    <div class="text-small text-muted">Possible consequence in this teaching scenario · no score or mastery judgement</div>
+    <div class="viz-controls"><button class="btn btn-primary" type="button" data-discuss>Discuss my decision with Codex</button></div>
+    <div data-send-status role="status"></div>
+  </section>
+  <style>
+    #bus230-manager-game { color:var(--foreground);overflow-wrap:anywhere; }
+    #bus230-manager-game .game-flow { display:grid;gap:18px;margin:24px 0; }
+    #bus230-manager-game .flow-lane { display:grid;grid-template-columns:minmax(0,1.3fr) auto minmax(0,.8fr) auto minmax(0,1.3fr);gap:10px;align-items:center; }
+    #bus230-manager-game .flow-lane span { min-width:0; }
+    #bus230-manager-game [data-bottleneck] { background:color-mix(in srgb,var(--viz-series-1) 12%,transparent);padding:10px; }
+    #bus230-manager-game .game-evidence { margin:16px 0;min-height:3em; }
+    #bus230-manager-game .game-help { margin:12px 0; }
+    #bus230-manager-game fieldset { border:0;padding:0;margin:20px 0 16px;min-width:0; }
+    #bus230-manager-game legend { margin-bottom:12px;font-weight:500; }
+    #bus230-manager-game blockquote { margin:12px 0;padding-left:14px;border-left:2px solid var(--border);white-space:pre-wrap; }
+    #bus230-manager-game [data-consequence] { margin:14px 0; }
+    @media(max-width:430px){ #bus230-manager-game .flow-lane { grid-template-columns:minmax(0,1fr);gap:6px; } #bus230-manager-game .flow-lane > span:nth-child(even) { transform:rotate(90deg);justify-self:start; } }
+  </style>
+  <script>
+  (()=>{
+    const root=document.getElementById('bus230-manager-game');
+    const q=s=>root.querySelector(s);
+    const options={training:'Give everyone a short demonstration of the app.',coordination:'Assign a rotating screen monitor and agree how to combine both queues.',investigation:'Trace more orders before changing responsibilities.'};
+    const evidence={system:'System check: app orders arrive on the screen correctly; no technical fault has been found.',team:'Kitchen team: “We know how to read the screen, but nobody knows who should watch it during the rush.”',owner:'Owner: “The staff are resisting my app.” This is the owner’s interpretation; their motives have not been established.'};
+    const consequences={training:'A demonstration may improve confidence, but the observed gap in responsibility remains. Who watches the screen during the rush?',coordination:'Clear ownership may help app orders enter the work queue. Moving a person to this task can also slow another task; check the workload with the team.',investigation:'More observation may reveal additional causes. Meanwhile, app orders can keep waiting; a temporary arrangement may be needed during the investigation.'};
+    let data={game:'BUS230 cafe pilot v1',evidenceSeen:[],selected:null,draft:'',attempt:null,help:false};
+    function store(){if(window.openai?.setWidgetState)window.openai.setWidgetState({modelContent:{game:data.game,block:'1.1',evidenceSeen:data.evidenceSeen,attempt:data.attempt},privateContent:{selected:data.selected,draft:data.draft,help:data.help}}).catch(()=>{});}
+    function display(){
+      q('[data-help-text]').hidden=!data.help;q('[data-help]').setAttribute('aria-pressed',String(data.help));
+      q('[data-decision-form]').hidden=!!data.attempt;q('[data-outcome]').hidden=!data.attempt;
+      if(data.attempt){q('[data-choice]').textContent=options[data.attempt.choice];q('[data-reason]').textContent=data.attempt.reason;q('[data-consequence]').textContent=consequences[data.attempt.choice];}
+      else{q('textarea').value=data.draft;root.querySelectorAll('input[name="move"]').forEach(el=>{el.checked=el.value===data.selected;});}
+    }
+    function restore(saved){const m=saved?.modelContent,p=saved?.privateContent;if(m?.game!==data.game)return;data.evidenceSeen=Array.isArray(m.evidenceSeen)?m.evidenceSeen.filter(k=>k in evidence):[];data.attempt=m.attempt&&m.attempt.choice in options&&typeof m.attempt.reason==='string'?m.attempt:null;data.selected=p?.selected in options?p.selected:null;data.draft=typeof p?.draft==='string'?p.draft:'';data.help=!!p?.help;display();}
+    root.addEventListener('click',async e=>{
+      const b=e.target.closest('button');if(!b||!root.contains(b))return;
+      if(b.dataset.evidence){const key=b.dataset.evidence;q('.game-evidence').textContent=evidence[key];if(!data.evidenceSeen.includes(key))data.evidenceSeen.push(key);store();}
+      if(b.hasAttribute('data-help')){data.help=!data.help;display();store();}
+      if(b.hasAttribute('data-discuss')&&data.attempt){
+        if(!window.openai?.sendFollowUpMessage){q('[data-send-status]').textContent='Write “разбери мой выбор” in the chat; include your choice and reason if they are not visible there.';return;}
+        b.disabled=true;
+        try{await window.openai.sendFollowUpMessage({title:'Discuss my BUS230 decision',prompt:'Разбери моё решение в BUS230, Stage 1/14, Topic 1/8, block 1.1. Fictional café: app orders reach the screen correctly, nobody is assigned to monitor it during the rush, counter orders keep moving. Kitchen staff know how to read the screen. Owner calls this resistance, but motives are not established. My choice: '+options[data.attempt.choice]+' My reason verbatim: '+data.attempt.reason+' Evidence opened: '+data.evidenceSeen.join(', ')+'. Preserve my original attempt separately from feedback. Discuss the subject reasoning, connect the decision briefly to organisational change and the relevant perspective; use simple English, brief Russian help if needed. Do not mark the topic mastered. After clarification, give a new situation for transfer.'});q('[data-send-status]').textContent='Decision sent for discussion.';}
+        catch{q('[data-send-status]').textContent='Could not send. Copy your choice and reason into the chat.';}finally{b.disabled=false;}
+      }
+    });
+    q('[data-decision-form]').addEventListener('change',()=>{const selected=q('input[name="move"]:checked');data.selected=selected?.value||null;store();});
+    q('textarea').addEventListener('input',()=>{data.draft=q('textarea').value;});
+    q('textarea').addEventListener('change',store);
+    q('[data-decision-form]').addEventListener('submit',e=>{e.preventDefault();const selected=q('input[name="move"]:checked');const reason=q('textarea').value.trim();if(!selected||!reason){q('[data-error]').textContent='Choose an action and give your reason.';q('[data-error]').hidden=false;return;}data.attempt={choice:selected.value,reason,helpUsed:data.help,evidenceSeen:[...data.evidenceSeen]};data.selected=selected.value;data.draft=reason;store();display();});
+    window.addEventListener('openai:set_globals',e=>{if(e.detail?.globals?.widgetState)restore(e.detail.globals.widgetState);});
+    restore(window.openai?.widgetState);display();
+  })();
+  </script>
+</div>

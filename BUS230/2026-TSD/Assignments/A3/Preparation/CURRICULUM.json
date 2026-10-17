@@ -54,10 +54,11 @@
             3,
             4
           ],
-          "status": "supported_game_application_clarification_pending",
+          "status": "supported_game_practice_revised_decision_pending",
           "evidence": [
             "Sessions/2026-10-17_02_RESTART.md",
-            "Sessions/2026-10-17_02_GAME_ATTEMPT_01.json"
+            "Sessions/2026-10-17_02_GAME_ATTEMPT_01.json",
+            "2026-10-17_game-app-clarification.json"
           ]
         },
         {
