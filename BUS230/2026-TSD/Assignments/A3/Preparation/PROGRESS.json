@@ -4,7 +4,7 @@
   "period": "2026-TSD",
   "timezone": "Asia/Dubai",
   "started_at": "2026-10-17",
-  "updated_at": "2026-10-17T16:35:28.333302+04:00",
+  "updated_at": "2026-10-17T16:43:55.791456+04:00",
   "authorization": "Прямое сообщение Faiaz: «давай начнём подготовку к экзамену уже сегодня и будем фиксировать всё».",
   "availability": {
     "user_response_verbatim": "по разному",
@@ -24,7 +24,7 @@
         "status": "explained_awaiting_independent_recheck"
       }
     ],
-    "note": "Получена первая попытка с шаблоном: ошибка классификации конкурента и употребления external вместо outside. Самостоятельное письмо и речь ещё не проверены.",
+    "note": "Одна исходная попытка с шаблоном по internal/external ошибочна; распознавание значения driver из вариантов верно. Независимое применение темы пока не показано. Уточнение английского не требует отдельной языковой оценки.",
     "english_self_report": {
       "recorded_at": "2026-10-17T15:47:15.984644+04:00",
       "verbatim": "ну готовится нам надо на английском\nтаким образом подтянем мой язык, а то я не умею разговаривать и писать на английском особо",
@@ -35,80 +35,89 @@
   "active_session": {
     "id": "2026-10-17_01",
     "path": "Sessions/2026-10-17_01_DRIVERS_EN.md",
-    "kind": "visual_concept_explanation",
-    "state": "clarification_without_quiz",
+    "kind": "subject_focused_visual_lesson",
+    "state": "plan_ready_next_content_block",
     "response_count": 2,
     "actual_minutes": null,
     "result": "First classification attempt incorrect; supported vocabulary choice A correct. User requested direct explanations without trivial checks. Independent application remains pending.",
     "language": "English",
-    "support": "Brief visual explanation; no immediate quiz"
+    "support": "Visual explanation of BUS230 followed by meaningful case practice; vocabulary help only as needed",
+    "current_block": "1.1"
   },
   "topics": [
     {
       "topic": 1,
       "title": "Drivers of Change",
-      "material_state": "initial_explanation_and_first_feedback",
+      "material_state": "coverage_mapped_initial_driver_explanation_only",
       "assessed_independently": false,
       "last_practiced_at": "2026-10-17T16:16:45.230226+04:00",
       "evidence": [
         "Sessions/2026-10-17_01_ATTEMPT_01.json"
-      ]
+      ],
+      "curriculum_topic": 1
     },
     {
       "topic": 2,
       "title": "Change Actors",
-      "material_state": "not_prepared",
+      "material_state": "coverage_mapped_not_taught",
       "assessed_independently": false,
       "last_practiced_at": null,
-      "evidence": []
+      "evidence": [],
+      "curriculum_topic": 2
     },
     {
       "topic": 3,
       "title": "Resistance to Change",
-      "material_state": "not_prepared",
+      "material_state": "coverage_mapped_not_taught",
       "assessed_independently": false,
       "last_practiced_at": null,
-      "evidence": []
+      "evidence": [],
+      "curriculum_topic": 3
     },
     {
       "topic": 4,
       "title": "Political System",
-      "material_state": "not_prepared",
+      "material_state": "coverage_mapped_not_taught",
       "assessed_independently": false,
       "last_practiced_at": null,
-      "evidence": []
+      "evidence": [],
+      "curriculum_topic": 4
     },
     {
       "topic": 5,
       "title": "Cultural System",
-      "material_state": "not_prepared",
+      "material_state": "coverage_mapped_not_taught",
       "assessed_independently": false,
       "last_practiced_at": null,
-      "evidence": []
+      "evidence": [],
+      "curriculum_topic": 5
     },
     {
       "topic": 6,
       "title": "Technical System",
-      "material_state": "not_prepared",
+      "material_state": "coverage_mapped_not_taught",
       "assessed_independently": false,
       "last_practiced_at": null,
-      "evidence": []
+      "evidence": [],
+      "curriculum_topic": 6
     },
     {
       "topic": 7,
       "title": "Models and Theory",
-      "material_state": "not_prepared",
+      "material_state": "coverage_mapped_not_taught",
       "assessed_independently": false,
       "last_practiced_at": null,
-      "evidence": []
+      "evidence": [],
+      "curriculum_topic": 7
     },
     {
       "topic": 8,
       "title": "Communicating Change",
-      "material_state": "not_prepared",
+      "material_state": "coverage_mapped_not_taught",
       "assessed_independently": false,
       "last_practiced_at": null,
-      "evidence": []
+      "evidence": [],
+      "curriculum_topic": 8
     }
   ],
   "completed_sessions": [],
@@ -127,29 +136,33 @@
       "response_evidence": "Sessions/2026-10-17_01_FORMAT_FEEDBACK.json"
     }
   ],
-  "next_action": "Кратко объяснить driver как ситуацию, создающую необходимость изменений, и показать причину и действие кафе. Не задавать примитивную проверку после объяснения слова; дальнейшие уточнения по вопросам Faiaz, практика позже на содержательном примере.",
+  "next_action": "Начать блок 1.1 по предметному плану: organisational change и три подхода (tool-based, process-based, critical), с коротким наглядным объяснением. Английский — язык обсуждения BUS230, отдельные уроки языка не нужны.",
   "continuation_rules": [
-    "Сохранять исходные ответы, подсказки, исправления и повторные попытки отдельно.",
-    "Фиксировать только наблюдаемые результаты; не считать материал пройденным по наличию файла.",
-    "Если ответ дан по-русски, английское письмо остаётся непроверенным.",
-    "Фиксировать минуты только по подтверждению пользователя или измеренному упражнению.",
-    "Двухнедельный ориентир и будущие занятия — предложение; доступное время меняется.",
-    "После содержательного занятия обновлять записи и сохранять свои изменения в GitHub main по AGENTS.md.",
-    "Не создавать напоминания или фоновые автоматизации.",
-    "Основной язык учебных вопросов и ответов — простой английский; русский только как краткая помощь.",
-    "Языковые ошибки и ошибки по BUS230 оценивать раздельно.",
-    "Заполнение шаблона не считать самостоятельным письмом; произношение не оценивать по печатному тексту.",
-    "В начале занятия показывать Stage X/14 и Topic Y/8 с названием темы и текущим шагом; счётчики брать из progress_display, не из памяти чата.",
-    "На просьбу объяснить слово отвечать прямо и уважительно; не добавлять автоматически очевидные тесты. Faiaz сам переспросит при непонимании. Практику строить на содержательных ситуациях, без инфантилизации."
+    "Главная цель — освоение BUS230 и экзаменационное применение. Следовать PLAN_RU.md и карте всех блоков CURRICULUM.json, не выбирать темы произвольно.",
+    "Учебное объяснение и практика по предмету — на простом взрослом английском; русский для краткой помощи. Английский не является отдельным преподаваемым предметом.",
+    "Не устраивать языковые уроки, обязательное чтение вслух или автоматические словарные/грамматические квизы. Исправлять язык по просьбе или когда он мешает предметному смыслу.",
+    "На вопросы о значении отвечать прямо; Faiaz может спрашивать снова столько, сколько нужно. Практика — на содержательных ситуациях, без инфантилизации.",
+    "Использовать визуальные объяснения, привязанные к материалам; помнить, что их эффективность ещё проверяется по ответам.",
+    "Сохранять исходные ответы, помощь, предметный разбор и самостоятельные повторные попытки отдельно. Не показывать модельный ответ до попытки в проверочной части.",
+    "Показанный материал не равен освоенному. Фиксировать самостоятельное применение, перенос на новую ситуацию и последующее воспроизведение.",
+    "В начале занятия показывать Stage X/14 · Topic Y/8: название · Step: блок; брать счётчики из progress_display. 14 этапов не равны дням или занятиям.",
+    "Уровень языка и произношение не оценивать по неподходящим данным; грамматическую ошибку не считать незнанием предмета.",
+    "Ежедневная норма не установлена. Минуты фиксировать только по подтверждению пользователя или реально измеренному упражнению.",
+    "После занятия обновлять текущий блок, свидетельства и следующее действие; значимые изменения проверять и сохранять в GitHub main по AGENTS.md.",
+    "Не создавать автоматизации и напоминания, не отправлять сообщения и не сдавать работы без отдельного поручения."
   ],
   "learning_language": {
     "primary": "English",
-    "level_style": "simple English; one small task at a time",
-    "russian_support": "brief clarification or correction when needed",
-    "user_request_verbatim": "ну готовится нам надо на английском\nтаким образом подтянем мой язык, а то я не умею разговаривать и писать на английском особо",
-    "speaking_goal": true,
-    "writing_goal": true,
-    "assessed_cefr_level": null
+    "role": "Medium for BUS230 reading, explanation and case discussion; incidental language practice and comprehension.",
+    "level_style": "Clear, simple adult English; one substantive learning block at a time.",
+    "russian_support": "Brief clarification of meaning when needed; service/planning explanations may be in Russian.",
+    "separate_english_lessons": false,
+    "grammar_correction": "Only on request or if wording obscures/changes the subject meaning.",
+    "required_language_quizzes": false,
+    "compulsory_read_aloud": false,
+    "assessed_cefr_level": null,
+    "latest_user_clarification_verbatim": "Давай ты сначала построишь план обучения, чтобы мы не сбивались с пути. Нам нужно пройти каждую тему, лекцию, освоить её, чтобы я мог сдать экзамен.\nи когда я говорил буду заодно учить английский я не имел ввиду чтобы ты учил меня английскому, я имел ввиду что я пропрактикую язык и стану лучше его понимать",
+    "source": "2026-10-17_subject-focused-plan-request.json"
   },
   "progress_display": {
     "requested_by_user": "Показывать, на каком мы этапе и из скольких",
@@ -159,8 +172,8 @@
     "current_topic": 1,
     "total_exam_topics": 8,
     "topic_title": "Drivers of Change",
-    "current_step": "Driver versus business change — direct explanation, no immediate quiz",
-    "template": "Stage 1/14 · Topic 1/8: Drivers of Change · Step: driver and change",
+    "current_step": "Block 1.1 — organisational change and three approaches; plan ready, block not yet taught",
+    "template": "Stage 1/14 · Topic 1/8: Drivers of Change · Step: Block 1.1 — organisational change and three approaches",
     "rules": [
       "Показывать текущий этап/общее число и название темы в начале занятия, после перерыва и при переходе на следующий этап.",
       "14 — этапы предложенного цикла, не календарные дни; 8 — темы экзамена.",
@@ -174,10 +187,22 @@
     "source": "2026-10-17_visual-learning-preference.json",
     "reported": "Learner reports distraction, low interest in text exercises, and better recall with visuals.",
     "assessment_limit": "Self-report only; no diagnosis or fixed learning-style classification.",
-    "proposed_trial": "Visual scene → choice → short English sentence → later recall; effectiveness not yet tested.",
+    "proposed_trial": "Visual explanation of each subject block, meaningful examples and case practice, then later recall; no requirement for a choice after every explanation.",
     "trial_status": "agreed_by_user; not yet evaluated",
     "agreement_source": "Sessions/2026-10-17_01_DRIVER_WORD.json",
     "clarification_style": "Direct, respectful adult explanations. No automatic trivial vocabulary quizzes; learner will ask again if unclear.",
-    "clarification_source": "Sessions/2026-10-17_01_FORMAT_FEEDBACK.json"
-  }
+    "clarification_source": "Sessions/2026-10-17_01_FORMAT_FEEDBACK.json",
+    "subject_focus_source": "2026-10-17_subject-focused-plan-request.json"
+  },
+  "curriculum_path": "CURRICULUM.json",
+  "coverage_path": "COVERAGE.md",
+  "current_block": "1.1",
+  "plan_revision": {
+    "date": "2026-10-17T16:43:55.791456+04:00",
+    "source": "2026-10-17_subject-focused-plan-request.json",
+    "focus": "BUS230 content and case application; English is practice, not a separate taught subject.",
+    "stages_unchanged": 14,
+    "core_blocks": 42
+  },
+  "handoff_note": "NEW_CHAT_PROMPT_RU.md is an older dated snapshot. Current PLAN_RU.md, CURRICULUM.json and PROGRESS.json take precedence, especially for language role."
 }

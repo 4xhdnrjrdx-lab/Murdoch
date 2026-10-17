@@ -1,0 +1,25 @@
+{
+  "recorded_at": "2026-10-17T16:43:55.791456+04:00",
+  "user_message_verbatim": "Давай ты сначала построишь план обучения, чтобы мы не сбивались с пути. Нам нужно пройти каждую тему, лекцию, освоить её, чтобы я мог сдать экзамен.\nи когда я говорил буду заодно учить английский я не имел ввиду чтобы ты учил меня английскому, я имел ввиду что я пропрактикую язык и стану лучше его понимать",
+  "authorization": "Build a comprehensive subject-focused BUS230 learning plan, covering every exam-relevant lecture and topic.",
+  "language_clarification": "English is incidental subject practice and comprehension, not a request for English lessons.",
+  "plan_files": [
+    "PLAN_RU.md",
+    "COVERAGE.md",
+    "CURRICULUM.json"
+  ],
+  "structure": {
+    "stages": 14,
+    "core_topics": 8,
+    "core_blocks": 42,
+    "completed_stages": 0
+  },
+  "planning_source_review": "All 8 core transcripts and extracted text of lecture/workshop slides; case questions; retained Outline and 2026 exam information; historical sample papers.",
+  "review_limits": [
+    "Videos not watched in this planning turn; learner viewing unknown.",
+    "Image-only tables and diagrams need original visual checks before instruction.",
+    "Additional articles are registered, not all fully read; complete My Unit Readings not yet verified."
+  ],
+  "new_subject_response": false,
+  "new_language_assessment": false
+}

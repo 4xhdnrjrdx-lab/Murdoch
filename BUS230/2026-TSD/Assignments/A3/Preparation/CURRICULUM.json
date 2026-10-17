@@ -1,0 +1,919 @@
+{
+  "schema_version": 1,
+  "course": "BUS230",
+  "period": "2026-TSD",
+  "updated_at": "2026-10-17T16:43:55.791456+04:00",
+  "purpose": "Subject-focused lecture-by-lecture coverage and evidence of learning; English is the medium, not a separate course.",
+  "total_topics": 8,
+  "total_core_blocks": 42,
+  "topic_statuses": [
+    "planned",
+    "in_progress",
+    "independent_application_pending",
+    "provisionally_applied",
+    "confirmed_on_review",
+    "needs_review"
+  ],
+  "block_statuses": [
+    "planned",
+    "introduced_not_yet_applied",
+    "explained",
+    "practiced_with_support",
+    "applied_independently",
+    "confirmed_on_review",
+    "needs_review"
+  ],
+  "topics": [
+    {
+      "topic": 1,
+      "stage": 1,
+      "title": "Drivers of Change",
+      "sources": {
+        "lecture_slides": "Materials/06 Session 1 - Drivers of Change/BUS230 Lecture Podcast Topic 1.pptx",
+        "transcript": "Materials/06 Session 1 - Drivers of Change/BUS230 Topic 1 Podcast Transcript.pdf",
+        "workshop_slides": "Materials/06 Session 1 - Drivers of Change/BUS230 Topic 1 Workshop Slides.pptx",
+        "case": "Materials/06 Session 1 - Drivers of Change/BUS230 Topic 1 Case Studies.pdf",
+        "video": "Materials/Videos/BUS230 Topic 1 Lecture.mp4"
+      },
+      "additional_sources": [],
+      "lecture_text_review": "Transcript and extracted slide text reviewed for this plan; image-only tables/diagrams to be checked in original before teaching.",
+      "video_review": "File is retained and hash-verified; not watched in this planning turn. Learner viewing unknown.",
+      "learner_lecture_completion": null,
+      "blocks": [
+        {
+          "id": "1.1",
+          "title": "What organisational change means",
+          "coverage": "Change management; tool-based, process-based and critical approaches; evidence versus the repeated 70% failure claim.",
+          "visual_method": "Схема трёх подходов; отделить факт от утверждения менеджера.",
+          "transcript_pages": [
+            1
+          ],
+          "lecture_slides": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "1.2",
+          "title": "Drivers and evidence",
+          "coverage": "Internal and external drivers; PESTE/PESTL pressures; internal examples; interacting causes; unclear boundaries and competing interpretations.",
+          "visual_method": "Карта источников изменений вокруг и внутри компании.",
+          "transcript_pages": [
+            2,
+            3
+          ],
+          "lecture_slides": [
+            10,
+            11,
+            12
+          ],
+          "status": "introduced_not_yet_applied",
+          "evidence": [
+            "Sessions/2026-10-17_01_ATTEMPT_01.json",
+            "Sessions/2026-10-17_01_DRIVER_WORD.json",
+            "Sessions/2026-10-17_01_FORMAT_FEEDBACK.json"
+          ]
+        },
+        {
+          "id": "1.3",
+          "title": "Planned and emergent change",
+          "coverage": "Planned intentions and implementation versus change emerging through practice; how management can support emergence.",
+          "visual_method": "Две временные линии возникновения изменения.",
+          "transcript_pages": [
+            1
+          ],
+          "lecture_slides": [
+            5,
+            6
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "1.4",
+          "title": "Scale, scope and rate",
+          "coverage": "Content, scope and rate; radical, revolutionary and evolutionary change; cumulative effects; context-dependent benefits and risks.",
+          "visual_method": "Шкалы масштаба и времени с разными ситуациями.",
+          "transcript_pages": [
+            1,
+            2
+          ],
+          "lecture_slides": [
+            7,
+            8,
+            9
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "1.5",
+          "title": "Critical case analysis",
+          "coverage": "Distinguish stated triggers from supported explanations; management fashions; use all three Topic 1 cases and discuss alternative explanations.",
+          "visual_method": "Причина → предлагаемое изменение → последствия; разные объяснения одного кейса.",
+          "transcript_pages": [
+            2,
+            3
+          ],
+          "lecture_slides": [
+            13
+          ],
+          "status": "planned",
+          "evidence": []
+        }
+      ],
+      "topic_application": "Use official workshop/case plus a fresh case or transfer question; record own attempt before model answer.",
+      "mastery_status": "not_yet_demonstrated",
+      "independent_case_evidence": [],
+      "delayed_review_evidence": []
+    },
+    {
+      "topic": 2,
+      "stage": 2,
+      "title": "Change Actors",
+      "sources": {
+        "lecture_slides": "Materials/07 Session 2 - Change Actors/BUS230 Topic 2 Podcast Slides.pptx",
+        "transcript": "Materials/07 Session 2 - Change Actors/Topic 2 Podcast Transcript.pdf",
+        "workshop_slides": "Materials/07 Session 2 - Change Actors/BUS230 Topic 2 Workshop Slides.pptx",
+        "case": "Materials/07 Session 2 - Change Actors/Topic 2 Case Study.pdf",
+        "video": "Materials/Videos/BUS230 Topic 2 Lecture.mp4"
+      },
+      "additional_sources": [
+        "Materials/07 Session 2 - Change Actors/BUS230 Topic 2 Change Readiness Assessment.pdf",
+        "Materials/07 Session 2 - Change Actors/Emotions in sensemaking A change management perspective.pdf"
+      ],
+      "lecture_text_review": "Transcript and extracted slide text reviewed for this plan; image-only tables/diagrams to be checked in original before teaching.",
+      "video_review": "File is retained and hash-verified; not watched in this planning turn. Learner viewing unknown.",
+      "learner_lecture_completion": null,
+      "blocks": [
+        {
+          "id": "2.1",
+          "title": "Who can lead change",
+          "coverage": "Internal/external agents; senior and middle managers; informal influencers or souls of fire; benefits and limitations of each.",
+          "visual_method": "Карта участников по ролям и уровню влияния.",
+          "transcript_pages": [
+            1,
+            2
+          ],
+          "lecture_slides": [
+            2
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "2.2",
+          "title": "Networks and competencies",
+          "coverage": "Formal authority versus informal networks; centrality, relationships and fence-sitters; distributed effort and change-manager competencies.",
+          "visual_method": "Формальная структура рядом с сетью влияния.",
+          "transcript_pages": [
+            2
+          ],
+          "lecture_slides": [
+            3
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "2.3",
+          "title": "People as co-producers",
+          "coverage": "Affected members are active interpreters and co-producers; differing experiences, interests and meanings; limits of a manager-only story.",
+          "visual_method": "Три версии одной ситуации: managers, supervisors, employees.",
+          "transcript_pages": [
+            2,
+            3
+          ],
+          "lecture_slides": [
+            4,
+            5
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "2.4",
+          "title": "Readiness beliefs",
+          "coverage": "Individual cognitive/emotional readiness and collective readiness; discrepancy, appropriateness, efficacy, principal support and valence.",
+          "visual_method": "Пять вопросов о готовности, привязанных к фактам кейса.",
+          "transcript_pages": [
+            3
+          ],
+          "lecture_slides": [
+            6
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "2.5",
+          "title": "Building readiness",
+          "coverage": "External pressures, internal enablers and personal characteristics; participation, communication and change history; apply readiness assessment and official case.",
+          "visual_method": "Карта препятствий и подходящих действий.",
+          "transcript_pages": [
+            3,
+            4
+          ],
+          "lecture_slides": [
+            6,
+            7
+          ],
+          "status": "planned",
+          "evidence": []
+        }
+      ],
+      "topic_application": "Use official workshop/case plus a fresh case or transfer question; record own attempt before model answer.",
+      "mastery_status": "not_yet_demonstrated",
+      "independent_case_evidence": [],
+      "delayed_review_evidence": []
+    },
+    {
+      "topic": 3,
+      "stage": 3,
+      "title": "Resistance to Change",
+      "sources": {
+        "lecture_slides": "Materials/08 Session 3 - Resistance to Change/BUS230 Topic 3 Podcast Slides.pptx",
+        "transcript": "Materials/08 Session 3 - Resistance to Change/Podcast 3 Transcript.pdf",
+        "workshop_slides": "Materials/08 Session 3 - Resistance to Change/BUS230 Topic 3 Workshop Slides.pptx",
+        "case": "Materials/08 Session 3 - Resistance to Change/Topic 3 Case Study.pdf",
+        "video": "Materials/Videos/BUS230 Topic 3 Lecture.mp4"
+      },
+      "additional_sources": [],
+      "lecture_text_review": "Transcript and extracted slide text reviewed for this plan; image-only tables/diagrams to be checked in original before teaching.",
+      "video_review": "File is retained and hash-verified; not watched in this planning turn. Learner viewing unknown.",
+      "learner_lecture_completion": null,
+      "blocks": [
+        {
+          "id": "3.1",
+          "title": "Recognising symptoms",
+          "coverage": "Active versus passive/hidden resistance; observed behaviour versus inferred motive; resistance framed from multiple perspectives.",
+          "visual_method": "Наблюдаемое действие отдельно от его возможных причин.",
+          "transcript_pages": [
+            1
+          ],
+          "lecture_slides": [
+            2,
+            3
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "3.2",
+          "title": "Explaining types",
+          "coverage": "Psychological, political, cultural and sensemaking-related resistance; identity, uncertainty, interests and local meaning.",
+          "visual_method": "Один конфликт — несколько обоснованных объяснений.",
+          "transcript_pages": [
+            1,
+            2
+          ],
+          "lecture_slides": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "3.3",
+          "title": "Complexity over time",
+          "coverage": "Content versus process; multiple causes, ambivalence and changing intensity; compliance need not mean acceptance.",
+          "visual_method": "Линия реакции до, во время и после изменения.",
+          "transcript_pages": [
+            1,
+            2
+          ],
+          "lecture_slides": [
+            8
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "3.4",
+          "title": "Constructive resistance and power",
+          "coverage": "Resistance as useful input; dialogue, purpose, alternatives, participation and past experiences; resistance at every management level; benefits to affected people.",
+          "visual_method": "Замечание сотрудника → информация → изменение решения.",
+          "transcript_pages": [
+            2,
+            3
+          ],
+          "lecture_slides": [
+            9,
+            10,
+            11,
+            12
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "3.5",
+          "title": "Choosing responses",
+          "coverage": "Kotter and Schlesinger: pace, six strategies, context, combinations and risks; evaluate management labelling and actions in AlphaTec.",
+          "visual_method": "Причина сопротивления → подход → возможный риск.",
+          "transcript_pages": [
+            4
+          ],
+          "lecture_slides": [
+            13,
+            14,
+            15
+          ],
+          "status": "planned",
+          "evidence": []
+        }
+      ],
+      "topic_application": "Use official workshop/case plus a fresh case or transfer question; record own attempt before model answer.",
+      "mastery_status": "not_yet_demonstrated",
+      "independent_case_evidence": [],
+      "delayed_review_evidence": []
+    },
+    {
+      "topic": 4,
+      "stage": 4,
+      "title": "Political System",
+      "sources": {
+        "lecture_slides": "Materials/09 Session 4 - Political System/BUS230 Topic 4 Podcast Slides.pptx",
+        "transcript": "Materials/09 Session 4 - Political System/Podcast 4 Transcript.pdf",
+        "workshop_slides": "Materials/09 Session 4 - Political System/BUS230 Topic 4 Workshop Slides.pptx",
+        "case": "Materials/09 Session 4 - Political System/BUS230 Topic 4 Case Study.pdf",
+        "video": "Materials/Videos/BUS230 Topic 4 Lecture.mp4"
+      },
+      "additional_sources": [
+        "Materials/09 Session 4 - Political System/BUS230 Topic 4 Networking Self-Assessment.pdf",
+        "Materials/09 Session 4 - Political System/Beyond Power Struggles A Multilevel Perspective on Incongruences at the Interface of Practice, Knowledge, and Identity in Radical Organizational Change by Kump.pdf",
+        "Materials/09 Session 4 - Political System/Case Study Topic 4 Solution.pptx"
+      ],
+      "lecture_text_review": "Transcript and extracted slide text reviewed for this plan; image-only tables/diagrams to be checked in original before teaching.",
+      "video_review": "File is retained and hash-verified; not watched in this planning turn. Learner viewing unknown.",
+      "learner_lecture_completion": null,
+      "blocks": [
+        {
+          "id": "4.1",
+          "title": "The integrated TPC model",
+          "coverage": "Technical, political and cultural systems across mission/strategy, structure and HR; nine interrelated areas.",
+          "visual_method": "Матрица TPC с взаимосвязями.",
+          "transcript_pages": [
+            1
+          ],
+          "lecture_slides": [
+            2,
+            4
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "4.2",
+          "title": "Political mission and strategy",
+          "coverage": "Who influences direction; stakeholder interests, coalitions and resource allocation; claimed common benefit versus unequal consequences.",
+          "visual_method": "Карта интересов и ресурсов.",
+          "transcript_pages": [
+            1,
+            2
+          ],
+          "lecture_slides": [
+            3,
+            4
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "4.3",
+          "title": "Political structure",
+          "coverage": "Decision-making authority, vertical and horizontal power; restructuring shifts power as well as reporting lines.",
+          "visual_method": "До/после: у кого право принять решение.",
+          "transcript_pages": [
+            2
+          ],
+          "lecture_slides": [
+            4
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "4.4",
+          "title": "Political HR",
+          "coverage": "Succession, rewards, bonuses and appraisal; power and fairness in who gets promoted, rewarded or evaluated.",
+          "visual_method": "Путь решения о продвижении и вознаграждении.",
+          "transcript_pages": [
+            2,
+            3
+          ],
+          "lecture_slides": [
+            4
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "4.5",
+          "title": "Political skill and recommendations",
+          "coverage": "Positive/negative politics; whose voices are excluded; networking; use Lean Production case to justify two practical recommendations, consulting provided solution only after own attempt.",
+          "visual_method": "Актор → интерес → ресурс влияния → действие.",
+          "transcript_pages": [
+            3,
+            4
+          ],
+          "lecture_slides": [
+            5,
+            6
+          ],
+          "status": "planned",
+          "evidence": []
+        }
+      ],
+      "topic_application": "Use official workshop/case plus a fresh case or transfer question; record own attempt before model answer.",
+      "mastery_status": "not_yet_demonstrated",
+      "independent_case_evidence": [],
+      "delayed_review_evidence": []
+    },
+    {
+      "topic": 5,
+      "stage": 5,
+      "title": "Cultural System",
+      "sources": {
+        "lecture_slides": "Materials/10 Session 5 - Cultural System/BUS230 Topic 5 Podcast Slides.pptx",
+        "transcript": "Materials/10 Session 5 - Cultural System/BUS230 Topic 5 Podcast Transcript.pdf",
+        "workshop_slides": "Materials/10 Session 5 - Cultural System/BUS230 Topic 5 Workshop Slides.pptx",
+        "case": "Materials/10 Session 5 - Cultural System/Topic 5 Case Study.pdf",
+        "video": "Materials/Videos/BUS230 Topic 5 Lecture.mp4"
+      },
+      "additional_sources": [
+        "Materials/10 Session 5 - Cultural System/BUS230 Topic 5 Anthropologists Game worksheet.pdf",
+        "Materials/10 Session 5 - Cultural System/HBR creative culture.pdf"
+      ],
+      "lecture_text_review": "Transcript and extracted slide text reviewed for this plan; image-only tables/diagrams to be checked in original before teaching.",
+      "video_review": "File is retained and hash-verified; not watched in this planning turn. Learner viewing unknown.",
+      "learner_lecture_completion": null,
+      "blocks": [
+        {
+          "id": "5.1",
+          "title": "Understanding culture",
+          "coverage": "Values, beliefs and norms; strong versus weak cultures; performance depends on what culture encourages; why direct culture change is difficult.",
+          "visual_method": "Видимое поведение и лежащие под ним предположения.",
+          "transcript_pages": [
+            1
+          ],
+          "lecture_slides": [
+            2,
+            3
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "5.2",
+          "title": "Culture within TPC",
+          "coverage": "Strategy and values, leadership style and subcultures, recruitment, training, modelling and rewards; behavioural/system routes to culture change.",
+          "visual_method": "Желаемая культура ↔ реальные решения и поощрения.",
+          "transcript_pages": [
+            1,
+            2
+          ],
+          "lecture_slides": [
+            4
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "5.3",
+          "title": "McKinsey 7-S",
+          "coverage": "Strategy, structure, systems, shared values, skills, staff and style; hard/soft alignment; diagnostic usefulness and time demands.",
+          "visual_method": "Семь связанных элементов с примерами несогласованности.",
+          "transcript_pages": [
+            2,
+            3
+          ],
+          "lecture_slides": [
+            5,
+            6
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "5.4",
+          "title": "Cultural Web",
+          "coverage": "Paradigm; stories, symbols, routines/rituals, control systems, power structures and organisational structures; interdependence and limits.",
+          "visual_method": "Культурная паутина на фактах организации.",
+          "transcript_pages": [
+            3,
+            4
+          ],
+          "lecture_slides": [
+            5,
+            7
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "5.5",
+          "title": "From diagnosis to change",
+          "coverage": "Anthropologists worksheet; Rio Tinto culture case; map barriers and propose practical actions without treating stated values as observed practice; use HBR reading as support.",
+          "visual_method": "Заявленные ценности рядом с фактическими практиками.",
+          "transcript_pages": [
+            4
+          ],
+          "lecture_slides": [
+            8
+          ],
+          "status": "planned",
+          "evidence": []
+        }
+      ],
+      "topic_application": "Use official workshop/case plus a fresh case or transfer question; record own attempt before model answer.",
+      "mastery_status": "not_yet_demonstrated",
+      "independent_case_evidence": [],
+      "delayed_review_evidence": []
+    },
+    {
+      "topic": 6,
+      "stage": 6,
+      "title": "Technical System",
+      "sources": {
+        "lecture_slides": "Materials/11 Session 6 - Technical System/BUS230 Topic 6 Podcast Slides.pptx",
+        "transcript": "Materials/11 Session 6 - Technical System/BUS230 Topic 6 Podcast Transcript.pdf",
+        "workshop_slides": "Materials/11 Session 6 - Technical System/BUS230 Topic 6 Workshop Slides.pptx",
+        "case": "Materials/11 Session 6 - Technical System/BUS230 Topic 6 Case Study.pdf",
+        "video": "Materials/Videos/BUS230 Topic 6 Lecture.mp4"
+      },
+      "additional_sources": [],
+      "lecture_text_review": "Transcript and extracted slide text reviewed for this plan; image-only tables/diagrams to be checked in original before teaching.",
+      "video_review": "File is retained and hash-verified; not watched in this planning turn. Learner viewing unknown.",
+      "learner_lecture_completion": null,
+      "blocks": [
+        {
+          "id": "6.1",
+          "title": "Technical TPC and alignment",
+          "coverage": "Mission/strategy, structure, HR; technology, systems, procedures and relationships; contradictions and ripple effects across subsystems.",
+          "visual_method": "Одно изменение запускает цепочку последствий.",
+          "transcript_pages": [
+            1
+          ],
+          "lecture_slides": [
+            2
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "6.2",
+          "title": "Vision, purpose and leadership",
+          "coverage": "Vision versus goals and strategy; core values/purpose; benefits and limits of vision; leaders as facilitators rather than sole owners of vision.",
+          "visual_method": "Purpose → vision → strategy → decisions; разрыв с возможностями.",
+          "transcript_pages": [
+            1,
+            2,
+            3
+          ],
+          "lecture_slides": [
+            3,
+            4
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "6.3",
+          "title": "Scenario planning",
+          "coverage": "Drivers and assumptions, framework, mini-scenarios, shortlist, drafting, implications; possible futures and preparedness rather than guaranteed prediction; implementation limits.",
+          "visual_method": "Дерево возможных будущих и ответов организации.",
+          "transcript_pages": [
+            3,
+            4
+          ],
+          "lecture_slides": [
+            5,
+            6
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "6.4",
+          "title": "Galbraith Star Model",
+          "coverage": "Strategy, structure, processes/lateral capability, rewards and people; align elements, compare with 7-S and recognise cultural/political omissions.",
+          "visual_method": "Звезда организации с отмеченными несогласованностями.",
+          "transcript_pages": [
+            4,
+            5
+          ],
+          "lecture_slides": [
+            5,
+            7
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "6.5",
+          "title": "Technical case application",
+          "coverage": "ING Agile: changed subsystems, mutuality, overlooked issues; justify linked recommendations and consider political/cultural spillovers.",
+          "visual_method": "Карта ING до/после с обоснованными связями.",
+          "transcript_pages": [
+            5
+          ],
+          "lecture_slides": [
+            8
+          ],
+          "status": "planned",
+          "evidence": []
+        }
+      ],
+      "topic_application": "Use official workshop/case plus a fresh case or transfer question; record own attempt before model answer.",
+      "mastery_status": "not_yet_demonstrated",
+      "independent_case_evidence": [],
+      "delayed_review_evidence": []
+    },
+    {
+      "topic": 7,
+      "stage": 7,
+      "title": "Models and Theory",
+      "sources": {
+        "lecture_slides": "Materials/12 Session 7 - Models and Theory/BUS230 Topic 7 Podcast Slides.pptx",
+        "transcript": "Materials/12 Session 7 - Models and Theory/BUS230 Podcast 7 Transcript.pdf",
+        "workshop_slides": "Materials/12 Session 7 - Models and Theory/BUS230 Topic 7 Workshop Slides.pptx",
+        "case": "Materials/12 Session 7 - Models and Theory/Topic 7 Case Study British Airways.pdf",
+        "video": "Materials/Videos/BUS230 Topic 7 Lecture.mp4"
+      },
+      "additional_sources": [],
+      "lecture_text_review": "Transcript and extracted slide text reviewed for this plan; image-only tables/diagrams to be checked in original before teaching.",
+      "video_review": "File is retained and hash-verified; not watched in this planning turn. Learner viewing unknown.",
+      "learner_lecture_completion": null,
+      "blocks": [
+        {
+          "id": "7.1",
+          "title": "Diagnosis and Force Field",
+          "coverage": "Diagnostic versus implementation purpose; TPC, 7-S, Star and Lewin Force Field; driving/restraining forces; limits of abstract diagnostics.",
+          "visual_method": "Силы за/против конкретного изменения.",
+          "transcript_pages": [
+            1
+          ],
+          "lecture_slides": [
+            2
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "7.2",
+          "title": "Checklist models",
+          "coverage": "DICE, ADKAR and Stouten; appropriate contexts, limitations and combination; Stouten ten evidence-based activities, local adaptation and sustaining change.",
+          "visual_method": "Сравнение задач моделей, а не выбор любимой модели.",
+          "transcript_pages": [
+            1,
+            2,
+            4,
+            5
+          ],
+          "lecture_slides": [
+            3,
+            8,
+            9
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "7.3",
+          "title": "Stage models",
+          "coverage": "Lewin three-stage, Kotter eight-stage and McKinsey 5A; time dimension, past history, maintenance and limits of tidy sequences.",
+          "visual_method": "Временные линии моделей и реального процесса.",
+          "transcript_pages": [
+            2
+          ],
+          "lecture_slides": [
+            4
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "7.4",
+          "title": "Contingency and Kaleidoscope",
+          "coverage": "Pivotal roles, leadership styles, Stace-Dunphy; Kaleidoscope eight contextual factors and six design choices; capability versus capacity; application and criticism.",
+          "visual_method": "Контекст → обоснованный выбор способа изменения.",
+          "transcript_pages": [
+            2,
+            3,
+            6
+          ],
+          "lecture_slides": [
+            5,
+            8,
+            11
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "7.5",
+          "title": "Process perspective and judgement",
+          "coverage": "Context, substance, transition, politics and their interaction over time; eight lessons; strengths and risks; critique of simple causality and universal recipes.",
+          "visual_method": "Процесс в прошлом, настоящем и будущем, с разными участниками.",
+          "transcript_pages": [
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "lecture_slides": [
+            6,
+            7,
+            10
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "7.6",
+          "title": "Model comparison in a case",
+          "coverage": "British Airways through Lewin, a checklist and contingency lens; compare explanations, omissions and recommended action; do not reduce topic to ADKAR.",
+          "visual_method": "Несколько моделей на одной истории с проверкой того, что каждая упускает.",
+          "transcript_pages": [
+            7
+          ],
+          "lecture_slides": [
+            12
+          ],
+          "status": "planned",
+          "evidence": []
+        }
+      ],
+      "topic_application": "Use official workshop/case plus a fresh case or transfer question; record own attempt before model answer.",
+      "mastery_status": "not_yet_demonstrated",
+      "independent_case_evidence": [],
+      "delayed_review_evidence": []
+    },
+    {
+      "topic": 8,
+      "stage": 8,
+      "title": "Communicating Change",
+      "sources": {
+        "lecture_slides": "Materials/13 Session 8 - Communicating Change/BUS230 Topic 8 Podcast Slides.pptx",
+        "transcript": "Materials/13 Session 8 - Communicating Change/BUS230 Topic 8 Lecture Podcast.pdf",
+        "workshop_slides": "Materials/13 Session 8 - Communicating Change/BUS230 Topic 8 Workshop Slides.pptx",
+        "case": "Materials/13 Session 8 - Communicating Change/BUS230 Topic 8 Case Study.pdf",
+        "video": "Materials/Videos/BUS230 Topic 8 Lecture.mp4"
+      },
+      "additional_sources": [],
+      "lecture_text_review": "Transcript and extracted slide text reviewed for this plan; image-only tables/diagrams to be checked in original before teaching.",
+      "video_review": "File is retained and hash-verified; not watched in this planning turn. Learner viewing unknown.",
+      "learner_lecture_completion": null,
+      "blocks": [
+        {
+          "id": "8.1",
+          "title": "Dialogue and overload",
+          "coverage": "Monologic/dialogic communication; information versus understanding/commitment; overload, silence and staff participation.",
+          "visual_method": "Одностороннее объявление рядом с диалогом.",
+          "transcript_pages": [
+            1
+          ],
+          "lecture_slides": [
+            2
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "8.2",
+          "title": "Four change conversations",
+          "coverage": "Initiative, understanding, performance and closure; links between language, action and the intended change.",
+          "visual_method": "Карта разговоров и переходов между ними.",
+          "transcript_pages": [
+            1,
+            2
+          ],
+          "lecture_slides": [
+            3
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "8.3",
+          "title": "Stories and interpretations",
+          "coverage": "Storytelling as sensemaking and sensegiving; employee and management versions; nostalgia as continuity/support or barrier; plausibility and identity.",
+          "visual_method": "Две истории одной организации и их последствия.",
+          "transcript_pages": [
+            2,
+            3
+          ],
+          "lecture_slides": [
+            4
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "8.4",
+          "title": "Legitimating strategies",
+          "coverage": "Normalization, authorization, rationalization, moralization and narrativization; recognise how proposed change is justified and assess evidence.",
+          "visual_method": "Разные способы объяснить и оправдать одно решение.",
+          "transcript_pages": [
+            3,
+            4
+          ],
+          "lecture_slides": [
+            5,
+            6
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "8.5",
+          "title": "Metaphors and communication choices",
+          "coverage": "Marshak machine, developmental, transitional and transformational images; strategy continuum: spray/pray, tell/sell, underscore/explore, identify/reply, withhold/uphold; benefits and costs.",
+          "visual_method": "Сообщение и выбранный способ общения в контексте.",
+          "transcript_pages": [
+            4,
+            5
+          ],
+          "lecture_slides": [
+            7,
+            8
+          ],
+          "status": "planned",
+          "evidence": []
+        },
+        {
+          "id": "8.6",
+          "title": "Communication case application",
+          "coverage": "Engineering Ltd Good Old Days: coexisting stories, meaning, identity and cultural resistance; propose an appropriate dialogue/communication response.",
+          "visual_method": "Официальная и ностальгическая истории без выбора одной как единственно верной.",
+          "transcript_pages": [
+            5
+          ],
+          "lecture_slides": [
+            9
+          ],
+          "status": "planned",
+          "evidence": []
+        }
+      ],
+      "topic_application": "Use official workshop/case plus a fresh case or transfer question; record own attempt before model answer.",
+      "mastery_status": "not_yet_demonstrated",
+      "independent_case_evidence": [],
+      "delayed_review_evidence": []
+    }
+  ],
+  "scope_note": "All eight retained core lectures and workshops are mapped. Source extraction is not learner completion; no exam outcome guaranteed. My Unit Readings and image-only model details remain subject to source checks before teaching. Session 9 toolkit and Session 12 revision support integration; Sessions 10–11 belong to A2 and are not silently recast as exam theory.",
+  "integration_stages": [
+    {
+      "stage": 9,
+      "title": "Cross-topic integration and Heinz",
+      "status": "planned",
+      "outcome": "Select and combine appropriate concepts from the 8 topics; include toolkit cross-check.",
+      "evidence": []
+    },
+    {
+      "stage": 10,
+      "title": "CRM / 3CA: historical 2025 paper",
+      "status": "planned",
+      "outcome": "Own attempts at all 3 questions before feedback; satisfy each required element.",
+      "evidence": []
+    },
+    {
+      "stage": 11,
+      "title": "Observed gaps and printed notes",
+      "status": "planned",
+      "outcome": "Address evidence-based weaknesses; assemble an indexed, verified printed reference pack.",
+      "evidence": []
+    },
+    {
+      "stage": 12,
+      "title": "Mock exam 1",
+      "status": "planned",
+      "outcome": "Full independent written attempt: 10-minute reading and 2-hour exam with printed resources only.",
+      "evidence": []
+    },
+    {
+      "stage": 13,
+      "title": "Repair and transfer",
+      "status": "planned",
+      "outcome": "Analyse errors, rewrite weak answers and verify corrections in another situation.",
+      "evidence": []
+    },
+    {
+      "stage": 14,
+      "title": "Mock exam 2 and readiness review",
+      "status": "planned",
+      "outcome": "New case, independent timed attempt; report remaining limitations without a guaranteed outcome.",
+      "evidence": []
+    }
+  ]
+}
