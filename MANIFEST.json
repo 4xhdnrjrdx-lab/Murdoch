@@ -1732,6 +1732,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/2026-10-17_new-chat-restart.json",
+      "bytes": 563,
+      "sha256": "377264d55439869238a65fdc93c9f31e11b0a74d5e04f14eb195c448f83809ef",
+      "storage": "git"
+    },
+    {
       "path": "BUS230/2026-TSD/Assignments/A3/Preparation/2026-10-17_subject-focused-plan-request.json",
       "bytes": 1637,
       "sha256": "0b421b53ece3ec6271f0cb3ac8545c46ee331d20806913c290e1a0d985959f54",
@@ -1756,6 +1762,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/History/NEW_CHAT_PROMPT_before-restart_2026-10-17.md",
+      "bytes": 6475,
+      "sha256": "b0d590a99bb11c7cefcc96d8b5f7c16e16f6b6dda2141cff597622426b2cdd2b",
+      "storage": "git"
+    },
+    {
       "path": "BUS230/2026-TSD/Assignments/A3/Preparation/History/PLAN_RU_before-subject-focus_2026-10-17.md",
       "bytes": 14269,
       "sha256": "2173960c852bc72d35f3e14a229ee6e77b7b6374b3d8e773482091df29b36eca",
@@ -1763,8 +1775,8 @@
     },
     {
       "path": "BUS230/2026-TSD/Assignments/A3/Preparation/NEW_CHAT_PROMPT_RU.md",
-      "bytes": 6475,
-      "sha256": "b0d590a99bb11c7cefcc96d8b5f7c16e16f6b6dda2141cff597622426b2cdd2b",
+      "bytes": 10707,
+      "sha256": "4118140d35e728e6488da43de21ac34a5358ecdf6773241238d30063a7e5f626",
       "storage": "git"
     },
     {
@@ -1775,8 +1787,8 @@
     },
     {
       "path": "BUS230/2026-TSD/Assignments/A3/Preparation/PROGRESS.json",
-      "bytes": 12806,
-      "sha256": "7fdcf7e09d8142e0661fdcd2f0bfd0e0a36fbfd487f92687b357a33d3e6229eb",
+      "bytes": 13343,
+      "sha256": "a0ecdfa7557ee2a4b3941df6995fea84137a9070dd73c0d71183460fb0fa7d6b",
       "storage": "git"
     },
     {
@@ -1810,6 +1822,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/Sessions/2026-10-17_02_RESTART.md",
+      "bytes": 1437,
+      "sha256": "d10851e0bbfe689ff982509ada4bc1efdefe0051f2de334c1bad1402218dd407",
+      "storage": "git"
+    },
+    {
       "path": "BUS230/2026-TSD/Assignments/A3/Preparation/Visuals/cafe-change.html",
       "bytes": 3285,
       "sha256": "6b7bfaf480f8842362a2ff2424834a6acf7849f013a48e9754835ec992f5592b",
@@ -1817,8 +1835,8 @@
     },
     {
       "path": "BUS230/2026-TSD/Assignments/A3/README.md",
-      "bytes": 1151,
-      "sha256": "21b284ac434fc15c69a996cff7ffd80c15ee245bb0926af8b992957fc74baeda",
+      "bytes": 1289,
+      "sha256": "41ce3ad3933eb655d946aafb7e4f5c03ed2609997ab91a80ce3c2874d687814d",
       "storage": "git"
     },
     {
@@ -1835,8 +1853,8 @@
     },
     {
       "path": "BUS230/2026-TSD/CONTEXT.md",
-      "bytes": 19744,
-      "sha256": "9540c3818cb03ca99706793055ba3dd5f0891bc337fb1f77e61300a34f5adabf",
+      "bytes": 20294,
+      "sha256": "4ca7ffca1e3614b8917c832d1674662e17f8535f0b8397c019db7eaf944aa847",
       "storage": "git"
     },
     {
@@ -1901,8 +1919,8 @@
     },
     {
       "path": "BUS230/2026-TSD/HISTORY.md",
-      "bytes": 15644,
-      "sha256": "fe1c97ec0c0799ab1ceaa14a46f1b7fa80d24ca82868cbfc68432131ed546208",
+      "bytes": 16092,
+      "sha256": "fe35bd6fd92f9aa574194939ef9a51e438e4bfa8dce852f7e35a2939a7804cac",
       "storage": "git"
     },
     {
@@ -2303,14 +2321,14 @@
     },
     {
       "path": "BUS230/2026-TSD/TASKS.json",
-      "bytes": 22461,
-      "sha256": "8b3a39c7bde2a67a762c9dc4a91bd2f18d10001d957482c1c783483b0c87ff54",
+      "bytes": 22969,
+      "sha256": "adf9237680224ec5cf58dfd6168348954a5acb0c713956a4fdce436493271cdf",
       "storage": "git"
     },
     {
       "path": "BUS230/2026-TSD/TASKS.md",
-      "bytes": 17412,
-      "sha256": "c5e5cf019a59d2dd1127fad685727b68d4df2c2cf262f479e5a328a6079a894a",
+      "bytes": 17818,
+      "sha256": "2a50400e185c7ec878265b50578f7e63fee7f1b15f8af016c8be5c42fe48d2bc",
       "storage": "git"
     },
     {
@@ -3749,8 +3767,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5303,
-      "sha256": "ff67807b810539ff2537410698111636544df058d6025c1ef67e56785b097a6f",
+      "bytes": 5298,
+      "sha256": "08e9fbbaba51968efbb9aa5c09c74889e054bfde5f942b8b4818875a6bb040b0",
       "storage": "git"
     },
     {
@@ -3820,6 +3838,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 636,
-  "total_bytes": 483710190
+  "file_count": 639,
+  "total_bytes": 483725479
 }

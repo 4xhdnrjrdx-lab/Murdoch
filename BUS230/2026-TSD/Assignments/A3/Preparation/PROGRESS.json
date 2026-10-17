@@ -4,7 +4,7 @@
   "period": "2026-TSD",
   "timezone": "Asia/Dubai",
   "started_at": "2026-10-17",
-  "updated_at": "2026-10-17T16:43:55.791456+04:00",
+  "updated_at": "2026-10-17T16:52:20.037422+04:00",
   "authorization": "Прямое сообщение Faiaz: «давай начнём подготовку к экзамену уже сегодня и будем фиксировать всё».",
   "availability": {
     "user_response_verbatim": "по разному",
@@ -33,15 +33,15 @@
     "independent_english_speaking_level": null
   },
   "active_session": {
-    "id": "2026-10-17_01",
-    "path": "Sessions/2026-10-17_01_DRIVERS_EN.md",
+    "id": "2026-10-17_02",
+    "path": "Sessions/2026-10-17_02_RESTART.md",
     "kind": "subject_focused_visual_lesson",
-    "state": "plan_ready_next_content_block",
-    "response_count": 2,
+    "state": "not_yet_started",
+    "response_count": 0,
     "actual_minutes": null,
-    "result": "First classification attempt incorrect; supported vocabulary choice A correct. User requested direct explanations without trivial checks. Independent application remains pending.",
+    "result": null,
     "language": "English",
-    "support": "Visual explanation of BUS230 followed by meaningful case practice; vocabulary help only as needed",
+    "support": "Visual subject explanation and clarification; no separate English lessons",
     "current_block": "1.1"
   },
   "topics": [
@@ -136,7 +136,7 @@
       "response_evidence": "Sessions/2026-10-17_01_FORMAT_FEEDBACK.json"
     }
   ],
-  "next_action": "Начать блок 1.1 по предметному плану: organisational change и три подхода (tool-based, process-based, critical), с коротким наглядным объяснением. Английский — язык обсуждения BUS230, отдельные уроки языка не нужны.",
+  "next_action": "В новом чате начать объяснение с блока 1.1: что такое organisational change, один наглядный пример, затем три подхода постепенно. Не продолжать старый вопрос; история сохранена.",
   "continuation_rules": [
     "Главная цель — освоение BUS230 и экзаменационное применение. Следовать PLAN_RU.md и карте всех блоков CURRICULUM.json, не выбирать темы произвольно.",
     "Учебное объяснение и практика по предмету — на простом взрослом английском; русский для краткой помощи. Английский не является отдельным преподаваемым предметом.",
@@ -204,5 +204,25 @@
     "stages_unchanged": 14,
     "core_blocks": 42
   },
-  "handoff_note": "NEW_CHAT_PROMPT_RU.md is an older dated snapshot. Current PLAN_RU.md, CURRICULUM.json and PROGRESS.json take precedence, especially for language role."
+  "handoff_note": "NEW_CHAT_PROMPT_RU.md updated for the requested fresh teaching start; live records remain authoritative.",
+  "previous_sessions": [
+    {
+      "id": "2026-10-17_01",
+      "path": "Sessions/2026-10-17_01_DRIVERS_EN.md",
+      "kind": "subject_focused_visual_lesson",
+      "state": "plan_ready_next_content_block",
+      "response_count": 2,
+      "actual_minutes": null,
+      "result": "First classification attempt incorrect; supported vocabulary choice A correct. User requested direct explanations without trivial checks. Independent application remains pending.",
+      "language": "English",
+      "support": "Visual explanation of BUS230 followed by meaningful case practice; vocabulary help only as needed",
+      "current_block": "1.1"
+    }
+  ],
+  "restart_request": {
+    "date": "2026-10-17T16:52:20.037422+04:00",
+    "source": "2026-10-17_new-chat-restart.json",
+    "preserve_history": true,
+    "teaching_from": "1.1"
+  }
 }
