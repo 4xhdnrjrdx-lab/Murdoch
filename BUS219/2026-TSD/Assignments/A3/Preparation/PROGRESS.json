@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "course": "BUS219",
+  "period": "2026-TSD",
+  "timezone": "Asia/Dubai",
+  "started_at": "2026-10-17",
+  "updated_at": "2026-10-17T15:39:19.043944+04:00",
+  "authorization": "Прямое сообщение пользователя 17 октября: начать подготовку сегодня и фиксировать всё.",
+  "preparation_state": "started_awaiting_first_answers",
+  "learner_assessment": {
+    "knowledge_level": null,
+    "independent_english_writing_level": null,
+    "known_misconceptions": null,
+    "note": "Ответов пользователя ещё нет. Ранее показанные образцы и конспекты не являются доказательством самостоятельного знания."
+  },
+  "active_session": {
+    "id": "2026-10-17_01",
+    "path": "Sessions/2026-10-17_01_BASELINE.md",
+    "kind": "baseline",
+    "state": "awaiting_user_response",
+    "response_count": 0,
+    "result": null
+  },
+  "topics": [
+    {
+      "topic": 1,
+      "title": "Globalisation",
+      "textbook_chapters": "1",
+      "assessed_independently": false,
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "topic": 2,
+      "title": "International trade and its evolution",
+      "textbook_chapters": "2",
+      "assessed_independently": false,
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "topic": 3,
+      "title": "Regional integration, capital flows and exchange rates",
+      "textbook_chapters": "3–4",
+      "assessed_independently": false,
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "topic": 4,
+      "title": "Culture",
+      "textbook_chapters": "5",
+      "assessed_independently": false,
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "topic": 5,
+      "title": "Political and legal environment",
+      "textbook_chapters": "6",
+      "assessed_independently": false,
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "topic": 6,
+      "title": "Corruption and ethics",
+      "textbook_chapters": "7",
+      "assessed_independently": false,
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "topic": 7,
+      "title": "Foreign market entry modes",
+      "textbook_chapters": "8",
+      "assessed_independently": false,
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "topic": 8,
+      "title": "Strategy and control",
+      "textbook_chapters": "9",
+      "assessed_independently": false,
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "topic": 9,
+      "title": "Organisation of global business",
+      "textbook_chapters": "10",
+      "assessed_independently": false,
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "topic": 10,
+      "title": "International HRM and marketing",
+      "textbook_chapters": "11–12",
+      "assessed_independently": false,
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "topic": 11,
+      "title": "Operations and supply chains",
+      "textbook_chapters": "13",
+      "assessed_independently": false,
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "topic": 12,
+      "title": "Finance, accounting and taxation",
+      "textbook_chapters": "14–15",
+      "assessed_independently": false,
+      "last_practiced_at": null,
+      "evidence": []
+    }
+  ],
+  "completed_sessions": [],
+  "review_queue": [],
+  "next_action": "Получить четыре коротких ответа из занятия 1; сохранить исходные формулировки, разобрать их, затем объяснить первую тему и назначить повторение на основании реальных ошибок.",
+  "continuation_rules": [
+    "Ответы пользователя сохранять дословно до исправлений.",
+    "Исправленный ответ и подсказки ассистента хранить отдельно.",
+    "После каждого занятия обновлять наблюдаемые результаты и ссылки на основание.",
+    "Не записывать предположенный балл или освоение темы без попытки.",
+    "Рабочий темп уточнить после диагностики; даты будущих занятий пока не согласованы."
+  ]
+}
