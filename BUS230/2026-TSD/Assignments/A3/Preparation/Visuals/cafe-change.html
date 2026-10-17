@@ -1,0 +1,53 @@
+<div id="bus230-cafe-visual">
+  <style>
+    #bus230-cafe-visual .scene {display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.5fr);gap:24px;align-items:center;padding:20px 0;color:var(--foreground)}
+    #bus230-cafe-visual .place {display:flex;flex-direction:column;align-items:center;gap:12px;min-width:0;text-align:center}
+    #bus230-cafe-visual .cafe-boundary {border:2px solid var(--border);padding:28px 12px;display:flex;flex-direction:column;align-items:center;gap:24px;min-width:0}
+    #bus230-cafe-visual .people {display:flex;gap:12px;align-items:center;justify-content:center}
+    #bus230-cafe-visual .spot {display:flex;flex-direction:column;gap:12px;align-items:center;opacity:.35}
+    #bus230-cafe-visual .spot[data-active="true"] {opacity:1}
+    #bus230-cafe-visual .caption {min-height:3em;margin-top:12px}
+    @media(max-width:400px){#bus230-cafe-visual .scene{gap:12px}#bus230-cafe-visual .cafe-boundary{padding:24px 8px}}
+  </style>
+  <div class="viz-controls" aria-label="Fictional change examples">
+    <button class="btn" type="button" data-example="external" aria-pressed="true">New competitor</button>
+    <button class="btn" type="button" data-example="internal" aria-pressed="false">Staff conflict</button>
+  </div>
+  <div class="scene" role="img" aria-label="A competitor is outside our café. Our staff are inside our café.">
+    <div class="place">
+      <span>OUTSIDE</span>
+      <div class="spot" data-location="external" data-active="true">
+        <i data-lucide="store" aria-hidden="true"></i>
+        <span>New competitor</span>
+        <span aria-hidden="true">→</span>
+      </div>
+    </div>
+    <div class="cafe-boundary">
+      <span><i data-lucide="coffee" aria-hidden="true"></i> OUR CAFÉ</span>
+      <div class="spot" data-location="internal" data-active="false">
+        <span>INSIDE</span>
+        <div class="people" aria-hidden="true"><i data-lucide="user"></i><span>↔</span><i data-lucide="user"></i></div>
+        <span>Staff conflict</span>
+      </div>
+    </div>
+  </div>
+  <div class="caption" aria-live="polite">External driver → outside our business.</div>
+  <script>
+    (function(){
+      const root=document.getElementById('bus230-cafe-visual');
+      const messages={external:'External driver → outside our business.',internal:'Internal driver → inside our business.'};
+      function show(value){
+        const selected=value==='internal'?'internal':'external';
+        root.querySelectorAll('[data-example]').forEach(button=>button.setAttribute('aria-pressed',String(button.dataset.example===selected)));
+        root.querySelectorAll('[data-location]').forEach(spot=>spot.dataset.active=String(spot.dataset.location===selected));
+        root.querySelector('.caption').textContent=messages[selected];
+      }
+      show(window.openai?.widgetState?.privateContent?.example);
+      root.querySelectorAll('[data-example]').forEach(button=>button.addEventListener('click',()=>{
+        show(button.dataset.example);
+        window.openai?.setWidgetState?.({modelContent:null,privateContent:{example:button.dataset.example}})?.catch(()=>{});
+      }));
+      window.addEventListener('openai:set_globals',event=>show(event.detail?.globals?.widgetState?.privateContent?.example));
+    })();
+  </script>
+</div>

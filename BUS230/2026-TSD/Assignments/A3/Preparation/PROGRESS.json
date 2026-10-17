@@ -4,7 +4,7 @@
   "period": "2026-TSD",
   "timezone": "Asia/Dubai",
   "started_at": "2026-10-17",
-  "updated_at": "2026-10-17T16:16:45.230226+04:00",
+  "updated_at": "2026-10-17T16:26:04.047278+04:00",
   "authorization": "Прямое сообщение Faiaz: «давай начнём подготовку к экзамену уже сегодня и будем фиксировать всё».",
   "availability": {
     "user_response_verbatim": "по разному",
@@ -120,7 +120,7 @@
       "evidence": "Sessions/2026-10-17_01_ATTEMPT_01.json"
     }
   ],
-  "next_action": "Получить одно самостоятельное английское предложение о вымышленном уходе менеджера кафе с объяснением internal/external; сохранить дословно и разобрать смысл и язык отдельно.",
+  "next_action": "Предложен короткий визуальный формат: сцена кафе, один выбор, затем английская фраза. Проверить удобство и последующее воспроизведение; прежний самостоятельный ответ ещё не получен.",
   "continuation_rules": [
     "Сохранять исходные ответы, подсказки, исправления и повторные попытки отдельно.",
     "Фиксировать только наблюдаемые результаты; не считать материал пройденным по наличию файла.",
@@ -151,8 +151,8 @@
     "current_topic": 1,
     "total_exam_topics": 8,
     "topic_title": "Drivers of Change",
-    "current_step": "External/internal drivers — first independent sentence after feedback",
-    "template": "Stage 1/14 · Topic 1/8: Drivers of Change · Step: first independent sentence",
+    "current_step": "External/internal drivers — visual format trial proposed; independent follow-up pending",
+    "template": "Stage 1/14 · Topic 1/8: Drivers of Change · Step: visual format trial",
     "rules": [
       "Показывать текущий этап/общее число и название темы в начале занятия, после перерыва и при переходе на следующий этап.",
       "14 — этапы предложенного цикла, не календарные дни; 8 — темы экзамена.",
@@ -161,5 +161,11 @@
       "Если план меняется, обновлять знаменатель и объяснять изменение."
     ]
   },
-  "handoff_path": "NEW_CHAT_PROMPT_RU.md"
+  "handoff_path": "NEW_CHAT_PROMPT_RU.md",
+  "learning_preferences": {
+    "source": "2026-10-17_visual-learning-preference.json",
+    "reported": "Learner reports distraction, low interest in text exercises, and better recall with visuals.",
+    "assessment_limit": "Self-report only; no diagnosis or fixed learning-style classification.",
+    "proposed_trial": "Visual scene → choice → short English sentence → later recall; effectiveness not yet tested."
+  }
 }

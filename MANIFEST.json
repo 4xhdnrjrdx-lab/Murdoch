@@ -1732,6 +1732,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/2026-10-17_visual-learning-preference.json",
+      "bytes": 1589,
+      "sha256": "be3d6e11fa80aa8277ddc5584de35911b2348ed38dd9e95bdc251bb353e52b8e",
+      "storage": "git"
+    },
+    {
       "path": "BUS230/2026-TSD/Assignments/A3/Preparation/NEW_CHAT_PROMPT_RU.md",
       "bytes": 6475,
       "sha256": "b0d590a99bb11c7cefcc96d8b5f7c16e16f6b6dda2141cff597622426b2cdd2b",
@@ -1739,14 +1745,14 @@
     },
     {
       "path": "BUS230/2026-TSD/Assignments/A3/Preparation/PLAN_RU.md",
-      "bytes": 11513,
-      "sha256": "439f32cb835aa60905651d2e218c3fe97aa576f9ccd9e8994affa5a93e8e14cd",
+      "bytes": 12964,
+      "sha256": "7da65eff76ab609c57887cc08675096da75224ee03f8e5e08f23be70344e0ae8",
       "storage": "git"
     },
     {
       "path": "BUS230/2026-TSD/Assignments/A3/Preparation/PROGRESS.json",
-      "bytes": 8215,
-      "sha256": "c1bf894c07d6d5382c67913a02a5dc85bf29da84f52f9ada62716099b21102b7",
+      "bytes": 8678,
+      "sha256": "1451e698c6424589203303dc776535d2b4c6c93deb6bc9e3f6c1cd19029e2b82",
       "storage": "git"
     },
     {
@@ -1765,6 +1771,12 @@
       "path": "BUS230/2026-TSD/Assignments/A3/Preparation/Sessions/2026-10-17_01_DRIVERS_EN.md",
       "bytes": 2926,
       "sha256": "7afdb3cee4f6b63c6c9904984a0f0b8cc215e2146e4688eb2a222e27e6b17887",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/Visuals/cafe-change.html",
+      "bytes": 3285,
+      "sha256": "6b7bfaf480f8842362a2ff2424834a6acf7849f013a48e9754835ec992f5592b",
       "storage": "git"
     },
     {
@@ -1787,8 +1799,8 @@
     },
     {
       "path": "BUS230/2026-TSD/CONTEXT.md",
-      "bytes": 16041,
-      "sha256": "426414437dc6e084bf8888a03afb7b9e13e6afae69ff5bc40cf865aa6b8a3bff",
+      "bytes": 16612,
+      "sha256": "834453526b005f90445ceeddf03bf9aa0e98d74804819e188fcf45e0ea670e4f",
       "storage": "git"
     },
     {
@@ -1853,8 +1865,8 @@
     },
     {
       "path": "BUS230/2026-TSD/HISTORY.md",
-      "bytes": 13558,
-      "sha256": "9ec22cc2b01b743a378e251d8f43858c001eaa7fa1394912469e5f41ec788077",
+      "bytes": 13970,
+      "sha256": "56e407cc56077ddb83cf5745efa03955312335aa7286a53662c92f71d16fa73c",
       "storage": "git"
     },
     {
@@ -3772,6 +3784,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 628,
-  "total_bytes": 483598622
+  "file_count": 630,
+  "total_bytes": 483606393
 }
