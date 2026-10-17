@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "course": "BUS230",
+  "period": "2026-TSD",
+  "timezone": "Asia/Dubai",
+  "started_at": "2026-10-17",
+  "updated_at": "2026-10-17T15:43:50.460920+04:00",
+  "authorization": "Прямое сообщение Faiaz: «давай начнём подготовку к экзамену уже сегодня и будем фиксировать всё».",
+  "availability": {
+    "user_response_verbatim": "по разному",
+    "daily_minutes": null,
+    "mode": "flexible",
+    "fixed_calendar_commitment": false
+  },
+  "preparation_state": "started_awaiting_first_answers",
+  "plan_path": "PLAN_RU.md",
+  "learner_assessment": {
+    "knowledge_level": null,
+    "independent_english_writing_level": null,
+    "known_misconceptions": null,
+    "note": "Первых самостоятельных ответов пока нет. Готовые материалы и объяснения ассистента не считать освоением."
+  },
+  "active_session": {
+    "id": "2026-10-17_01",
+    "path": "Sessions/2026-10-17_01_DRIVERS.md",
+    "kind": "introductory_application",
+    "state": "awaiting_user_response",
+    "response_count": 0,
+    "actual_minutes": null,
+    "result": null
+  },
+  "topics": [
+    {
+      "topic": 1,
+      "title": "Drivers of Change",
+      "material_state": "initial_explanation_prepared",
+      "assessed_independently": false,
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "topic": 2,
+      "title": "Change Actors",
+      "material_state": "not_prepared",
+      "assessed_independently": false,
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "topic": 3,
+      "title": "Resistance to Change",
+      "material_state": "not_prepared",
+      "assessed_independently": false,
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "topic": 4,
+      "title": "Political System",
+      "material_state": "not_prepared",
+      "assessed_independently": false,
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "topic": 5,
+      "title": "Cultural System",
+      "material_state": "not_prepared",
+      "assessed_independently": false,
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "topic": 6,
+      "title": "Technical System",
+      "material_state": "not_prepared",
+      "assessed_independently": false,
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "topic": 7,
+      "title": "Models and Theory",
+      "material_state": "not_prepared",
+      "assessed_independently": false,
+      "last_practiced_at": null,
+      "evidence": []
+    },
+    {
+      "topic": 8,
+      "title": "Communicating Change",
+      "material_state": "not_prepared",
+      "assessed_independently": false,
+      "last_practiced_at": null,
+      "evidence": []
+    }
+  ],
+  "completed_sessions": [],
+  "review_queue": [],
+  "next_action": "Получить три ответа занятия 1; сохранить дословно, дать отдельный разбор и затем предложить английскую формулировку и повторную самостоятельную попытку.",
+  "continuation_rules": [
+    "Сохранять исходные ответы, подсказки, исправления и повторные попытки отдельно.",
+    "Фиксировать только наблюдаемые результаты; не считать материал пройденным по наличию файла.",
+    "Если ответ дан по-русски, английское письмо остаётся непроверенным.",
+    "Фиксировать минуты только по подтверждению пользователя или измеренному упражнению.",
+    "Двухнедельный ориентир и будущие занятия — предложение; доступное время меняется.",
+    "После содержательного занятия обновлять записи и сохранять свои изменения в GitHub main по AGENTS.md.",
+    "Не создавать напоминания или фоновые автоматизации."
+  ]
+}
