@@ -1,0 +1,22 @@
+{
+  "checked_at": "2026-10-17T16:55:34.363332+04:00",
+  "course": "BUS230",
+  "result": "ok",
+  "lms": {
+    "operation": "core_course_get_contents",
+    "scope": "Assessment 3 and Session 12 exam/revision sections only",
+    "finding": "3 questions, 2 hours; heading 40 versus description 30 marks still unresolved",
+    "calendar_rechecked": false
+  },
+  "mail": {
+    "account": "jafarovfayaz@gmail.com",
+    "query": "after:2026/10/16 (BUS230 OR \"Change Management\")",
+    "matching_messages": 0,
+    "uncovered": [
+      "Full university Outlook",
+      "WhatsApp",
+      "Messages outside search terms"
+    ]
+  },
+  "actions": "Read only; no downloads, messages or submissions."
+}

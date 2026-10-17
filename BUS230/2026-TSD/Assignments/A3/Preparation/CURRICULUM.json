@@ -54,8 +54,10 @@
             3,
             4
           ],
-          "status": "planned",
-          "evidence": []
+          "status": "opening_explanation_prepared_not_yet_applied",
+          "evidence": [
+            "Sessions/2026-10-17_02_RESTART.md"
+          ]
         },
         {
           "id": "1.2",

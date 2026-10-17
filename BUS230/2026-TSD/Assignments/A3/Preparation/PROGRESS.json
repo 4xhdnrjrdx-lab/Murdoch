@@ -4,7 +4,7 @@
   "period": "2026-TSD",
   "timezone": "Asia/Dubai",
   "started_at": "2026-10-17",
-  "updated_at": "2026-10-17T16:52:20.037422+04:00",
+  "updated_at": "2026-10-17T16:55:34.363332+04:00",
   "authorization": "Прямое сообщение Faiaz: «давай начнём подготовку к экзамену уже сегодня и будем фиксировать всё».",
   "availability": {
     "user_response_verbatim": "по разному",
@@ -36,7 +36,7 @@
     "id": "2026-10-17_02",
     "path": "Sessions/2026-10-17_02_RESTART.md",
     "kind": "subject_focused_visual_lesson",
-    "state": "not_yet_started",
+    "state": "opening_explanation_prepared",
     "response_count": 0,
     "actual_minutes": null,
     "result": null,
@@ -136,7 +136,7 @@
       "response_evidence": "Sessions/2026-10-17_01_FORMAT_FEEDBACK.json"
     }
   ],
-  "next_action": "В новом чате начать объяснение с блока 1.1: что такое organisational change, один наглядный пример, затем три подхода постепенно. Не продолжать старый вопрос; история сохранена.",
+  "next_action": "Уточнения по organisational change на примере кафе; затем постепенно разобрать tool-based, process-based и critical approaches, доказательства и самостоятельное применение. Блок 1.1 не завершён.",
   "continuation_rules": [
     "Главная цель — освоение BUS230 и экзаменационное применение. Следовать PLAN_RU.md и карте всех блоков CURRICULUM.json, не выбирать темы произвольно.",
     "Учебное объяснение и практика по предмету — на простом взрослом английском; русский для краткой помощи. Английский не является отдельным преподаваемым предметом.",
@@ -172,7 +172,7 @@
     "current_topic": 1,
     "total_exam_topics": 8,
     "topic_title": "Drivers of Change",
-    "current_step": "Block 1.1 — organisational change and three approaches; plan ready, block not yet taught",
+    "current_step": "Block 1.1 — organisational change introduced; three approaches previewed, detailed explanation and application pending",
     "template": "Stage 1/14 · Topic 1/8: Drivers of Change · Step: Block 1.1 — organisational change and three approaches",
     "rules": [
       "Показывать текущий этап/общее число и название темы в начале занятия, после перерыва и при переходе на следующий этап.",
