@@ -1,0 +1,34 @@
+{
+  "checked_at": "2026-10-17T14:39:48.382981+04:00",
+  "course": "BUS230",
+  "scope": "Read-only current course contents, exam and revision sections; retained Outline, 2026 exam information slides and sample papers",
+  "result": "ok",
+  "operation": "core_course_get_contents",
+  "exam": {
+    "duration_minutes": 120,
+    "reading_minutes": 10,
+    "topics": "1–8",
+    "materials": "Printed textbooks, notes and files; no electronic resources or phones",
+    "question_count": 3,
+    "source_for_duration_reading_and_materials": "Retained 2026 exam information slides, unchanged file metadata in current LMS",
+    "mark_conflict": {
+      "current_module_heading": "3 questions: 13, 14 and 13 marks; total 40",
+      "current_module_description": "Total examination 30 marks",
+      "retained_sample_2025": "13, 14 and 13 marks; total 40",
+      "retained_outline_weight": "Exam contributes 30% of unit grade",
+      "resolution": "Raw exam total and assessment weighting must be distinguished; current heading/description conflict remains unconfirmed."
+    }
+  },
+  "mail": {
+    "checked_on": "2026-10-17",
+    "account": "jafarovfayaz@gmail.com",
+    "query": "after:2026/10/14 (BUS230 OR \"BUS 230\" OR \"Change Management\" OR from:Shahinda.Baig@murdoch.edu.au)",
+    "matching_messages": 0,
+    "uncovered": [
+      "Full university Outlook",
+      "WhatsApp"
+    ]
+  },
+  "preparation": "User asked whether two weeks is enough. No preparation completion or measured readiness claimed; no change to A3 status.",
+  "actions": "No messages, submissions or LMS changes."
+}
