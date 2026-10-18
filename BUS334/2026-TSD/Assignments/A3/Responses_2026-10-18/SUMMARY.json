@@ -1,0 +1,780 @@
+{
+  "checked_at": "2026-10-18T19:56:02.231287+04:00",
+  "source": "Google_Forms_Responses_2026-10-18.csv",
+  "source_editor_url": "https://docs.google.com/forms/d/1vVwR6GcIJOIN_GBJ5z36jZUOFtzni6eyg1SDtj6BeG4/edit",
+  "response_count": 22,
+  "percentage_denominator": "22 respondents per question, including checkbox questions; checkbox percentages may exceed 100% in total",
+  "questions": [
+    {
+      "number": 1,
+      "question": "1. What is your role at Murdoch University Dubai?",
+      "type": "multiple_choice",
+      "answered": 22,
+      "total_selections": 22,
+      "multiple_selection_csv_rows": [],
+      "options": [
+        {
+          "label": "Undergraduate student",
+          "count": 15,
+          "percent_of_respondents": 68.2
+        },
+        {
+          "label": "Postgraduate student",
+          "count": 7,
+          "percent_of_respondents": 31.8
+        },
+        {
+          "label": "Academic staff",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        },
+        {
+          "label": "Professional / administrative staff",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "question": "2. What is your gender?",
+      "type": "multiple_choice",
+      "answered": 22,
+      "total_selections": 22,
+      "multiple_selection_csv_rows": [],
+      "options": [
+        {
+          "label": "Male",
+          "count": 10,
+          "percent_of_respondents": 45.5
+        },
+        {
+          "label": "Female",
+          "count": 11,
+          "percent_of_respondents": 50.0
+        },
+        {
+          "label": "Prefer not to say",
+          "count": 1,
+          "percent_of_respondents": 4.5
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "question": "3. Which ethnic group best describes you?",
+      "type": "multiple_choice",
+      "answered": 22,
+      "total_selections": 22,
+      "multiple_selection_csv_rows": [],
+      "options": [
+        {
+          "label": "South Asian",
+          "count": 12,
+          "percent_of_respondents": 54.5
+        },
+        {
+          "label": "Other (e.g. CIS, Arab, African)",
+          "count": 9,
+          "percent_of_respondents": 40.9
+        },
+        {
+          "label": "Prefer not to say",
+          "count": 1,
+          "percent_of_respondents": 4.5
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "question": "4. Which best describes your current living arrangement in the UAE?",
+      "type": "multiple_choice",
+      "answered": 22,
+      "total_selections": 22,
+      "multiple_selection_csv_rows": [],
+      "options": [
+        {
+          "label": "Student accommodation / hostel",
+          "count": 5,
+          "percent_of_respondents": 22.7
+        },
+        {
+          "label": "Living with parents or relatives",
+          "count": 8,
+          "percent_of_respondents": 36.4
+        },
+        {
+          "label": "Renting a flat or room",
+          "count": 9,
+          "percent_of_respondents": 40.9
+        },
+        {
+          "label": "Living in a home I own",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "question": "5. On average, how many days per week are you physically on campus?",
+      "type": "multiple_choice",
+      "answered": 22,
+      "total_selections": 22,
+      "multiple_selection_csv_rows": [],
+      "options": [
+        {
+          "label": "1 day",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        },
+        {
+          "label": "2 days",
+          "count": 4,
+          "percent_of_respondents": 18.2
+        },
+        {
+          "label": "3 days",
+          "count": 11,
+          "percent_of_respondents": 50.0
+        },
+        {
+          "label": "4 days",
+          "count": 7,
+          "percent_of_respondents": 31.8
+        },
+        {
+          "label": "5 or more days",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "question": "6. Where do you MOST often buy snacks, drinks or daily items on campus days?",
+      "type": "checkbox",
+      "answered": 22,
+      "total_selections": 23,
+      "multiple_selection_csv_rows": [
+        2
+      ],
+      "options": [
+        {
+          "label": "Campus café / cafeteria",
+          "count": 5,
+          "percent_of_respondents": 22.7
+        },
+        {
+          "label": "Campus vending machines",
+          "count": 3,
+          "percent_of_respondents": 13.6
+        },
+        {
+          "label": "Nearby supermarket or convenience store",
+          "count": 9,
+          "percent_of_respondents": 40.9
+        },
+        {
+          "label": "Delivery app (e.g. Talabat, Careem)",
+          "count": 3,
+          "percent_of_respondents": 13.6
+        },
+        {
+          "label": "I bring everything from home",
+          "count": 3,
+          "percent_of_respondents": 13.6
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "question": "7. In the past month, have you left campus during the day mainly to buy food or daily items?",
+      "type": "multiple_choice",
+      "answered": 22,
+      "total_selections": 22,
+      "multiple_selection_csv_rows": [],
+      "options": [
+        {
+          "label": "Yes",
+          "count": 8,
+          "percent_of_respondents": 36.4
+        },
+        {
+          "label": "No",
+          "count": 14,
+          "percent_of_respondents": 63.6
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "question": "8. How satisfied are you with the food and daily-item options currently available on or near campus?",
+      "type": "multiple_choice",
+      "answered": 22,
+      "total_selections": 22,
+      "multiple_selection_csv_rows": [],
+      "options": [
+        {
+          "label": "1 — Very dissatisfied",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        },
+        {
+          "label": "2 — Dissatisfied",
+          "count": 4,
+          "percent_of_respondents": 18.2
+        },
+        {
+          "label": "3 — Neutral",
+          "count": 11,
+          "percent_of_respondents": 50.0
+        },
+        {
+          "label": "4 — Satisfied",
+          "count": 7,
+          "percent_of_respondents": 31.8
+        },
+        {
+          "label": "5 — Very satisfied",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "question": "9. If the store stocked what you need at prices similar to nearby shops, how likely would you be to shop there?",
+      "type": "multiple_choice",
+      "answered": 22,
+      "total_selections": 22,
+      "multiple_selection_csv_rows": [],
+      "options": [
+        {
+          "label": "1 — Very unlikely",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        },
+        {
+          "label": "2 — Unlikely",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        },
+        {
+          "label": "3 — Neutral",
+          "count": 6,
+          "percent_of_respondents": 27.3
+        },
+        {
+          "label": "4 — Likely",
+          "count": 11,
+          "percent_of_respondents": 50.0
+        },
+        {
+          "label": "5 — Very likely",
+          "count": 5,
+          "percent_of_respondents": 22.7
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "question": "10. How often would you expect to visit the store during teaching weeks?",
+      "type": "multiple_choice",
+      "answered": 22,
+      "total_selections": 22,
+      "multiple_selection_csv_rows": [],
+      "options": [
+        {
+          "label": "5 or more times a week",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        },
+        {
+          "label": "2–4 times a week",
+          "count": 8,
+          "percent_of_respondents": 36.4
+        },
+        {
+          "label": "Once a week",
+          "count": 7,
+          "percent_of_respondents": 31.8
+        },
+        {
+          "label": "1–3 times a month",
+          "count": 7,
+          "percent_of_respondents": 31.8
+        },
+        {
+          "label": "Less than once a month",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "question": "11. How much would you expect to spend on an average visit?",
+      "type": "multiple_choice",
+      "answered": 22,
+      "total_selections": 22,
+      "multiple_selection_csv_rows": [],
+      "options": [
+        {
+          "label": "Less than AED 10",
+          "count": 6,
+          "percent_of_respondents": 27.3
+        },
+        {
+          "label": "AED 10–24.99",
+          "count": 13,
+          "percent_of_respondents": 59.1
+        },
+        {
+          "label": "AED 25–49.99",
+          "count": 3,
+          "percent_of_respondents": 13.6
+        },
+        {
+          "label": "AED 50 or more",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "question": "12. Which product category would you buy MOST often?",
+      "type": "checkbox",
+      "answered": 22,
+      "total_selections": 23,
+      "multiple_selection_csv_rows": [
+        2
+      ],
+      "options": [
+        {
+          "label": "Snacks and drinks",
+          "count": 15,
+          "percent_of_respondents": 68.2
+        },
+        {
+          "label": "Ready-to-eat meals and fresh fruit",
+          "count": 8,
+          "percent_of_respondents": 36.4
+        },
+        {
+          "label": "Groceries to take home (bread, milk, eggs)",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        },
+        {
+          "label": "Personal care and stationery items",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "question": "13. What would be your MAIN reason for using the store?",
+      "type": "checkbox",
+      "answered": 22,
+      "total_selections": 22,
+      "multiple_selection_csv_rows": [],
+      "options": [
+        {
+          "label": "Convenience – close to classes, saves time",
+          "count": 9,
+          "percent_of_respondents": 40.9
+        },
+        {
+          "label": "Cheaper than delivery apps",
+          "count": 3,
+          "percent_of_respondents": 13.6
+        },
+        {
+          "label": "Quick grab-and-go meals",
+          "count": 4,
+          "percent_of_respondents": 18.2
+        },
+        {
+          "label": "Last-minute or emergency purchases",
+          "count": 6,
+          "percent_of_respondents": 27.3
+        },
+        {
+          "label": "Buying groceries to take home",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "question": "14. Which of the following would MOST encourage you to become a regular customer?",
+      "type": "dropdown",
+      "answered": 22,
+      "total_selections": 22,
+      "multiple_selection_csv_rows": [],
+      "options": [
+        {
+          "label": "Student / staff ID discount",
+          "count": 11,
+          "percent_of_respondents": 50.0
+        },
+        {
+          "label": "Loyalty points card",
+          "count": 3,
+          "percent_of_respondents": 13.6
+        },
+        {
+          "label": "Meal-deal bundles (e.g. drink + snack + main)",
+          "count": 7,
+          "percent_of_respondents": 31.8
+        },
+        {
+          "label": "Fresh and healthy options",
+          "count": 1,
+          "percent_of_respondents": 4.5
+        },
+        {
+          "label": "Self-checkout or scan-and-go payment",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        },
+        {
+          "label": "Eco-friendly packaging",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "question": "15. Which type of store would you MOST prefer on campus?",
+      "type": "checkbox",
+      "answered": 22,
+      "total_selections": 23,
+      "multiple_selection_csv_rows": [
+        23
+      ],
+      "options": [
+        {
+          "label": "Small convenience kiosk (snacks and drinks)",
+          "count": 10,
+          "percent_of_respondents": 45.5
+        },
+        {
+          "label": "Mini-market with fresh and ready-to-eat food",
+          "count": 11,
+          "percent_of_respondents": 50.0
+        },
+        {
+          "label": "Self-service smart vending station",
+          "count": 1,
+          "percent_of_respondents": 4.5
+        },
+        {
+          "label": "Online order with campus pick-up point",
+          "count": 1,
+          "percent_of_respondents": 4.5
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "question": "16. Through which channel would you MOST like to hear about the store's offers?",
+      "type": "checkbox",
+      "answered": 22,
+      "total_selections": 23,
+      "multiple_selection_csv_rows": [
+        23
+      ],
+      "options": [
+        {
+          "label": "University email",
+          "count": 6,
+          "percent_of_respondents": 27.3
+        },
+        {
+          "label": "Social media (Instagram, TikTok)",
+          "count": 8,
+          "percent_of_respondents": 36.4
+        },
+        {
+          "label": "Posters and screens on campus",
+          "count": 2,
+          "percent_of_respondents": 9.1
+        },
+        {
+          "label": "WhatsApp / student groups",
+          "count": 7,
+          "percent_of_respondents": 31.8
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "question": "17. Which factor is MOST important to you when choosing where to buy groceries?",
+      "type": "multiple_choice",
+      "answered": 22,
+      "total_selections": 22,
+      "multiple_selection_csv_rows": [],
+      "options": [
+        {
+          "label": "Price",
+          "count": 15,
+          "percent_of_respondents": 68.2
+        },
+        {
+          "label": "Product choice",
+          "count": 3,
+          "percent_of_respondents": 13.6
+        },
+        {
+          "label": "Freshness",
+          "count": 1,
+          "percent_of_respondents": 4.5
+        },
+        {
+          "label": "Convenient opening hours",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        },
+        {
+          "label": "Quick checkout",
+          "count": 3,
+          "percent_of_respondents": 13.6
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "question": "18. A bottle of water costs AED 5.00 at a nearby shop. What is the MOST you would pay for the same",
+      "type": "multiple_choice",
+      "answered": 22,
+      "total_selections": 22,
+      "multiple_selection_csv_rows": [],
+      "options": [
+        {
+          "label": "Less than AED 5.00",
+          "count": 1,
+          "percent_of_respondents": 4.5
+        },
+        {
+          "label": "AED 5.00 (same price)",
+          "count": 21,
+          "percent_of_respondents": 95.5
+        },
+        {
+          "label": "AED 5.01–5.50",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        },
+        {
+          "label": "AED 5.51–6.00",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        },
+        {
+          "label": "More than AED 6.00",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "question": "19. What would be the MAIN reason that could stop you from using the store?",
+      "type": "multiple_choice",
+      "answered": 22,
+      "total_selections": 22,
+      "multiple_selection_csv_rows": [],
+      "options": [
+        {
+          "label": "Prices higher than outside stores",
+          "count": 15,
+          "percent_of_respondents": 68.2
+        },
+        {
+          "label": "Limited choice of products",
+          "count": 4,
+          "percent_of_respondents": 18.2
+        },
+        {
+          "label": "Long queues during class breaks",
+          "count": 3,
+          "percent_of_respondents": 13.6
+        },
+        {
+          "label": "Opening hours that do not suit me",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        },
+        {
+          "label": "I prefer my current options (e.g. delivery apps)",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        },
+        {
+          "label": "Nothing would stop me",
+          "count": 0,
+          "percent_of_respondents": 0.0
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "question": "20. Why would you, or would you not, shop at a grocery store on the Murdoch University Dubai campus?",
+      "type": "text",
+      "answered": 22,
+      "open_answers": [
+        {
+          "csv_row": 2,
+          "answer": "A campus store would be convenient between classes, especially if prices are similar to nearby shops."
+        },
+        {
+          "csv_row": 3,
+          "answer": "It would be useful for a quick lunch between classes if the prices are reasonable."
+        },
+        {
+          "csv_row": 4,
+          "answer": "I would stop by for a drink or snack when I have a short break."
+        },
+        {
+          "csv_row": 5,
+          "answer": "It would be convenient to pick up a snack between classes if prices are fair."
+        },
+        {
+          "csv_row": 6,
+          "answer": "I would use it for lunch on busy days, especially if there are affordable meal options."
+        },
+        {
+          "csv_row": 7,
+          "answer": "I might buy a drink there occasionally if the checkout is quick and prices are reasonable."
+        },
+        {
+          "csv_row": 8,
+          "answer": "A good choice of meals at reasonable prices would make it useful on campus."
+        },
+        {
+          "csv_row": 9,
+          "answer": "Having a store nearby would save time, as long as it is not more expensive than outside."
+        },
+        {
+          "csv_row": 10,
+          "answer": "I usually bring food, but a nearby shop would help when I forget something."
+        },
+        {
+          "csv_row": 11,
+          "answer": "A small shop on campus would be handy for a snack between lectures."
+        },
+        {
+          "csv_row": 12,
+          "answer": "I would shop there if it had affordable meals and drinks."
+        },
+        {
+          "csv_row": 13,
+          "answer": "I would use it occasionally when I need something quickly."
+        },
+        {
+          "csv_row": 14,
+          "answer": "It would be a good alternative to ordering food during a busy day."
+        },
+        {
+          "csv_row": 15,
+          "answer": "I would visit for essentials if the prices are similar to nearby shops."
+        },
+        {
+          "csv_row": 16,
+          "answer": "I normally bring food, but a campus shop would be useful in a pinch."
+        },
+        {
+          "csv_row": 17,
+          "answer": "A nearby shop would make it easier to buy a drink between classes."
+        },
+        {
+          "csv_row": 18,
+          "answer": "I would use it for lunch if the food is fresh and reasonably priced."
+        },
+        {
+          "csv_row": 19,
+          "answer": "It would be useful for an occasional snack without leaving campus."
+        },
+        {
+          "csv_row": 20,
+          "answer": "I would consider it if there is a good selection and fair prices."
+        },
+        {
+          "csv_row": 21,
+          "answer": "I could stop by during breaks if the store has affordable options."
+        },
+        {
+          "csv_row": 22,
+          "answer": "It would be convenient when I need something I forgot to bring."
+        },
+        {
+          "csv_row": 23,
+          "answer": "I would shop there because it would be convenient between classes, especially if the prices are affordable."
+        }
+      ]
+    }
+  ],
+  "key_results": {
+    "likely_or_very_likely": {
+      "question": 9,
+      "labels": [
+        "4 — Likely",
+        "5 — Very likely"
+      ],
+      "count": 16,
+      "denominator": 22,
+      "percent": 72.7
+    },
+    "spend_AED_10_to_24_99": {
+      "question": 11,
+      "labels": [
+        "AED 10–24.99"
+      ],
+      "count": 13,
+      "denominator": 22,
+      "percent": 59.1
+    },
+    "snacks_and_drinks": {
+      "question": 12,
+      "labels": [
+        "Snacks and drinks"
+      ],
+      "count": 15,
+      "denominator": 22,
+      "percent": 68.2
+    },
+    "price_main_factor": {
+      "question": 17,
+      "labels": [
+        "Price"
+      ],
+      "count": 15,
+      "denominator": 22,
+      "percent": 68.2
+    },
+    "higher_price_main_barrier": {
+      "question": 19,
+      "labels": [
+        "Prices higher than outside stores"
+      ],
+      "count": 15,
+      "denominator": 22,
+      "percent": 68.2
+    },
+    "water_at_same_price": {
+      "question": 18,
+      "labels": [
+        "AED 5.00 (same price)"
+      ],
+      "count": 21,
+      "denominator": 22,
+      "percent": 95.5
+    }
+  }
+}

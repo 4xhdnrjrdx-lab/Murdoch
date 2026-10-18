@@ -1,0 +1,80 @@
+{
+  "checked_at": "2026-10-18T19:56:02.231287+04:00",
+  "scope": "Google Forms summary and downloaded original CSV; no responses edited, deleted or submitted",
+  "source_editor_url": "https://docs.google.com/forms/d/1vVwR6GcIJOIN_GBJ5z36jZUOFtzni6eyg1SDtj6BeG4/edit",
+  "raw_files": [
+    {
+      "path": "Google_Forms_Responses_2026-10-18.csv.zip",
+      "bytes": 2686,
+      "sha256": "0707e1de415657bd9c0feed45e716091ef91715188a785f1f689147b7168b761"
+    },
+    {
+      "path": "Google_Forms_Responses_2026-10-18.csv",
+      "bytes": 13826,
+      "sha256": "b1abab5b724541cde709c1334edeb7bf7fbb550fe5d4a0b0c715b84afb6326f3"
+    }
+  ],
+  "response_count": 22,
+  "question_count": 20,
+  "csv_columns": 21,
+  "all_rows_correct_width": true,
+  "complete_responses": 22,
+  "missing_cells": [],
+  "invalid_option_values": [],
+  "all_headers_match_current_questionnaire": true,
+  "duplicate_groups_full_answers_ignoring_timestamp": [],
+  "duplicate_groups_closed_answers": [],
+  "duplicate_timestamp_groups": [],
+  "first_timestamp_as_exported": "2026/10/18 7:33:58 PM GMT+4",
+  "last_timestamp_as_exported": "2026/10/18 7:47:30 PM GMT+4",
+  "google_summary_reconciliation": "CSV counts agree with all 20 question summaries read in Google Forms",
+  "participant_provenance": {
+    "source": "User clarification in this chat, 18 October 2026",
+    "statement_ru": "ни один из них я сам не делал, это всё студенты и настоящие ответы",
+    "independent_identity_verification": false,
+    "interpretation": "Use the latest clarification as the user-reported account of collection. The anonymous export has no identity fields and does not independently establish distinct identities."
+  },
+  "response_rate": {
+    "value": null,
+    "reason": "Total number reached through the Telegram group and overlap with approximately 10 direct WhatsApp invitations are unknown. Do not divide 22 by 10 or describe the 100% item-completion rate as invitation response rate."
+  },
+  "collection_channel": {
+    "source": "User clarification in this chat, 18 October 2026, with later correction of group platform",
+    "group_post": {
+      "platform": "Telegram",
+      "audience": "Private general Murdoch group with Russian-speaking peers",
+      "group_size": null,
+      "number_reached": null
+    },
+    "direct_invitations": {
+      "platform": "WhatsApp",
+      "approximately_invited": 10
+    },
+    "overlap_between_channels": "unknown",
+    "sampling_description": "Convenience sampling through a personal student group and direct invitations. Do not describe as a random or campus-representative sample."
+  },
+  "team_questionnaire_approval": "not confirmed",
+  "limitations": [
+    "Small convenience sample of 22 students recruited through a Russian-speaking peer Telegram group and approximately 10 personal WhatsApp invitations. Language/social-network coverage may limit representativeness; total group reach and overlap are unknown.",
+    "No duplicate answer sets were found; this does not itself verify participant identities.",
+    "Q6, Q12, Q13, Q15 and Q16 are checkboxes despite MOST/MAIN wording. Preserve multiple selections and divide option counts by 22.",
+    "Q18 wording is truncated in the supplied reference and current questionnaire. Preserve collected answers and acknowledge the wording limitation.",
+    "Stated purchase intentions and spending bands do not establish actual sales, profitability or exact revenue."
+  ],
+  "next_action": "Prepare the individual A3 report with visualisations and this unmodified response export as supporting evidence.",
+  "report_requirements": {
+    "main_report_maximum_pages": 5,
+    "line_spacing": 1.5,
+    "parts": [
+      "Summary",
+      "Results",
+      "Preliminary conclusions, next steps and recommendations"
+    ],
+    "appendix": "Evidence of collection in addition to the report, such as original response export",
+    "source_path": "Materials/01 Assessment/BUS334 Assignment 3 Summary.pdf",
+    "rubric_path": "Materials/01 Assessment/BUS334_Assignment 3 [Data Collection]_Marking Guide.pdf",
+    "deadline": "2026-10-25 19:59 Asia/Dubai",
+    "deadline_source": "Correspondence/2026-10-18_questionnaire-check.json"
+  },
+  "assignment_submitted": false
+}

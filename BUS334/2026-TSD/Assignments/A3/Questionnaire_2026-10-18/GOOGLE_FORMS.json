@@ -600,5 +600,11 @@
   "team_approval": "not confirmed",
   "messages_sent": 0,
   "assignment_submitted": false,
-  "recovery": "Current exact specification and reference capture saved alongside screenshots. Previous custom questionnaire preserved in Revisions and Git history; old Word and Apps Script describe that previous version, not the current live form."
+  "recovery": "Current exact specification and reference capture saved alongside screenshots. Previous custom questionnaire preserved in Revisions and Git history; old Word and Apps Script describe that previous version, not the current live form.",
+  "latest_response_check": {
+    "checked_at": "2026-10-18T19:56:02.231287+04:00",
+    "response_count": 22,
+    "complete_responses": 22,
+    "evidence": "../Responses_2026-10-18/CHECK.json"
+  }
 }
