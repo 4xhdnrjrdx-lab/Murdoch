@@ -1,0 +1,31 @@
+{
+  "checked_at": "2026-10-18T12:54:56.564366+04:00",
+  "courseid": 31585,
+  "quizid": 111647,
+  "operation": "Read own quiz attempts and quiz settings; no review answers, changes or submissions",
+  "own_attempts": [
+    {
+      "id": 5219322,
+      "attempt": 1,
+      "state": "finished",
+      "timestart": 1792312409,
+      "timefinish": 1792313555,
+      "sumgrades": null,
+      "timestart_dubai": "2026-10-18T12:33:29+04:00",
+      "timefinish_dubai": "2026-10-18T12:52:35+04:00",
+      "duration_seconds": 1146
+    }
+  ],
+  "quiz_settings": {
+    "id": 111647,
+    "coursemodule": 3111389,
+    "name": "Quiz 1 due:  by 23:55, 20th of Oct",
+    "timeclose": 1792511700,
+    "timelimit": 1800,
+    "attempts": 1,
+    "reviewattempt": 65552,
+    "reviewmarks": 16,
+    "reviewrightanswer": 0,
+    "close_dubai": "2026-10-20T19:55:00+04:00"
+  }
+}

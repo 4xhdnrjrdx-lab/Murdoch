@@ -1,0 +1,17 @@
+{
+  "source": "Two user attachments supplied as proof of completed submission on 2026-10-18",
+  "files": [
+    {
+      "file": "Moodle_Finished_2026-10-18.png",
+      "original_filename": "Снимок экрана — 2026-10-18 в 12.53.19 PM.png",
+      "bytes": 217228,
+      "sha256": "4636a69421f0d71f01b15296c260da2b74e809d2bddf53bf9df447180099f6d3"
+    },
+    {
+      "file": "Submission_Email_2026-10-18.png",
+      "original_filename": "codex-clipboard-ae09d680-eb7f-42ab-aee7-69928df3d23e.png",
+      "bytes": 216699,
+      "sha256": "bed0beacfd08315cb26f8f11892cf3edb4b4d25eddb2e9a2e7fd95bb33c9e927"
+    }
+  ]
+}

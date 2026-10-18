@@ -7,3 +7,5 @@
 [Quiz 1 revision and common distinctions](QUIZ1_STUDY.md).
 
 [Quiz 1: проверка всех 15 вопросов, ответов и источников](Quiz1_2026-10-18/QUESTIONS_ANSWERS_RU.md).
+
+[Quiz 1: сдача подтверждена 18 октября](Quiz1_2026-10-18/SUBMISSION_CONFIRMATION_RU.md).
