@@ -1,0 +1,400 @@
+{
+  "schema_version": 1,
+  "title": "Campus Grocery Store Feasibility Survey",
+  "created_at": "2026-10-18T14:14:41.494142+04:00",
+  "target_population": "Current Murdoch University Dubai students aged 18 or over who attend campus",
+  "introduction": [
+    "I am a Murdoch University Dubai student preparing a BUS334 Business Analytics assignment. This survey explores whether a small grocery store on campus would meet students' needs, and what products, prices and shopping arrangements they would prefer.",
+    "Please take part only if you are a current Murdoch University Dubai student, aged 18 or over, who attends campus. Allow approximately 5 to 7 minutes to complete the survey.",
+    "Taking part is voluntary. You may stop before submitting without giving a reason. Do not enter your name, student ID, phone number or other identifying details. You may choose \"Prefer not to say\" for profile questions. In written answers, \"None\" or \"Not sure\" is a valid answer.",
+    "Responses will be used for BUS334 coursework and reported in summary form. If you submit without identifying information, it may not be possible to locate and remove your response afterwards. For questions about this study, contact 35553299@student.murdoch.edu.au."
+  ],
+  "consent_gate": {
+    "title": "Eligibility and consent",
+    "help": "Continue only if you meet the eligibility conditions, have read the information above, understand that participation is voluntary, and agree to the use of your answers for BUS334 coursework. If you do not agree, close the survey without submitting.",
+    "options": [
+      "Yes, I meet the conditions and agree to take part.",
+      "No, I do not meet the conditions or do not agree."
+    ],
+    "route_yes": "Profile and current purchases",
+    "route_no": "Exit without submitting; do not count as a research response."
+  },
+  "question_count": 20,
+  "closed_questions": 17,
+  "open_questions": 3,
+  "concept_introduction_before_question": 9,
+  "concept_introduction": "For the remaining questions, imagine a small grocery store on the Murdoch University Dubai campus. It could sell snacks, drinks, fresh food and basic groceries to take home. This is a proposed idea; no store, product range or prices have been confirmed.",
+  "questions": [
+    {
+      "number": 1,
+      "variable": "gender",
+      "title": "What is your gender?",
+      "type": "multiple_choice",
+      "options": [
+        "Male",
+        "Female",
+        "Another gender identity",
+        "Prefer not to say"
+      ],
+      "help": "",
+      "required": true,
+      "section": "Profile",
+      "decision_use": "Describe sample balance; identify limitations without identifying individuals."
+    },
+    {
+      "number": 2,
+      "variable": "nationality_group",
+      "title": "Which nationality group best describes you?",
+      "type": "multiple_choice",
+      "options": [
+        "United Arab Emirates",
+        "Other Middle Eastern country",
+        "South Asian country",
+        "East or Southeast Asian country",
+        "European or Central Asian country",
+        "African country",
+        "North or South American country",
+        "Oceanian country",
+        "Another country / multiple nationalities",
+        "Prefer not to say"
+      ],
+      "help": "This refers to nationality, not ethnicity. Choose the group that best fits; use the multiple-nationalities option if needed.",
+      "required": true,
+      "section": "Profile",
+      "decision_use": "Describe broad sample composition; avoid ethnicity assumptions and identifying small subgroups."
+    },
+    {
+      "number": 3,
+      "variable": "campus_days",
+      "title": "In a typical teaching week, how many days do you attend campus?",
+      "type": "multiple_choice",
+      "options": [
+        "Less than 1 day",
+        "1 day",
+        "2 days",
+        "3 days",
+        "4 days",
+        "5 or more days"
+      ],
+      "help": "",
+      "required": true,
+      "section": "Current purchases",
+      "decision_use": "Measure exposure to campus shopping opportunities."
+    },
+    {
+      "number": 4,
+      "variable": "current_purchase_frequency",
+      "title": "In a typical teaching week, how many times do you buy food or drinks on campus days?",
+      "type": "multiple_choice",
+      "options": [
+        "0 times",
+        "1 time",
+        "2 times",
+        "3 or 4 times",
+        "5 or more times",
+        "Not sure"
+      ],
+      "help": "Include purchases on campus, nearby, and through delivery apps during those campus days.",
+      "required": true,
+      "section": "Current purchases",
+      "decision_use": "Establish current behaviour before hypothetical demand."
+    },
+    {
+      "number": 5,
+      "variable": "main_current_source",
+      "title": "Where do you most often get food or drinks on a campus day?",
+      "type": "multiple_choice",
+      "options": [
+        "Bring them from home",
+        "Campus cafe / cafeteria",
+        "Campus vending machine",
+        "Nearby shop, supermarket or restaurant",
+        "Delivery app",
+        "Another source",
+        "I do not eat or drink during campus days"
+      ],
+      "help": "Choose one main source. If two are equally common, choose the one you used most recently.",
+      "required": true,
+      "section": "Current purchases",
+      "decision_use": "Identify existing alternatives and competitors."
+    },
+    {
+      "number": 6,
+      "variable": "current_daily_spend",
+      "title": "About how much do you spend on food and drinks on a typical campus day?",
+      "type": "multiple_choice",
+      "options": [
+        "AED 0",
+        "AED 1 to 10",
+        "AED 11 to 20",
+        "AED 21 to 30",
+        "AED 31 to 40",
+        "More than AED 40",
+        "Not sure"
+      ],
+      "help": "Include purchases on campus, nearby and by delivery. Round to the nearest whole dirham.",
+      "required": true,
+      "section": "Current purchases",
+      "decision_use": "Describe existing spending bands without treating band midpoints as exact amounts."
+    },
+    {
+      "number": 7,
+      "variable": "current_satisfaction",
+      "title": "How satisfied are you with the food and drink options currently available on or near campus?",
+      "type": "multiple_choice",
+      "options": [
+        "1 - Very dissatisfied",
+        "2 - Dissatisfied",
+        "3 - Neither satisfied nor dissatisfied",
+        "4 - Satisfied",
+        "5 - Very satisfied",
+        "I have not used them / cannot say"
+      ],
+      "help": "",
+      "required": true,
+      "section": "Current purchases",
+      "decision_use": "Measure unmet needs with a balanced satisfaction scale."
+    },
+    {
+      "number": 8,
+      "variable": "unmet_products",
+      "title": "Which products, if any, are difficult to find on or near campus when you need them?",
+      "type": "paragraph",
+      "options": [],
+      "help": "A sentence or two is enough. Write \"None\" or \"Not sure\" if appropriate.",
+      "required": true,
+      "section": "Current purchases",
+      "decision_use": "Code unmet product needs into themes."
+    },
+    {
+      "number": 9,
+      "variable": "purchase_likelihood",
+      "title": "If the store stocked the products you wanted at prices similar to nearby shops, how likely would you be to buy from it?",
+      "type": "multiple_choice",
+      "options": [
+        "1 - Very unlikely",
+        "2 - Unlikely",
+        "3 - Neither likely nor unlikely",
+        "4 - Likely",
+        "5 - Very likely",
+        "Not sure"
+      ],
+      "help": "",
+      "required": true,
+      "section": "Proposed store",
+      "decision_use": "Measure stated interest; this is not evidence of actual sales."
+    },
+    {
+      "number": 10,
+      "variable": "expected_visit_frequency",
+      "title": "How often would you expect to buy from this store during teaching weeks?",
+      "type": "multiple_choice",
+      "options": [
+        "Never",
+        "Less than once a week",
+        "Once a week",
+        "2 or 3 times a week",
+        "4 or 5 times a week",
+        "More than 5 times a week",
+        "Not sure"
+      ],
+      "help": "",
+      "required": true,
+      "section": "Proposed store",
+      "decision_use": "Estimate stated purchase frequency, including zero demand."
+    },
+    {
+      "number": 11,
+      "variable": "expected_visit_spend",
+      "title": "About how much would you expect to spend on each visit to this store?",
+      "type": "multiple_choice",
+      "options": [
+        "I would not shop there",
+        "AED 1 to 10",
+        "AED 11 to 20",
+        "AED 21 to 30",
+        "AED 31 to 40",
+        "More than AED 40",
+        "Not sure"
+      ],
+      "help": "Round to the nearest whole dirham. These are your expectations, not a commitment to spend.",
+      "required": true,
+      "section": "Proposed store",
+      "decision_use": "Understand expected basket size without claiming revenue or profitability."
+    },
+    {
+      "number": 12,
+      "variable": "product_preferences",
+      "title": "Which products would you be most likely to buy from the store?",
+      "type": "checkbox",
+      "options": [
+        "Packaged snacks",
+        "Bottled or canned drinks",
+        "Fresh fruit",
+        "Milk, yoghurt or cheese",
+        "Bread or bakery items",
+        "Ready-to-eat sandwiches or meals",
+        "Basic groceries to take home, such as rice, pasta or eggs",
+        "Basic toiletries or stationery",
+        "Another product category",
+        "I would not buy anything",
+        "Not sure"
+      ],
+      "help": "Select up to three. If you choose \"I would not buy anything\" or \"Not sure\", choose it alone.",
+      "required": true,
+      "section": "Proposed store",
+      "decision_use": "Prioritise stock categories. Report percentage of respondents, not share of all ticks.",
+      "max_selections": 3,
+      "exclusive_options": [
+        "I would not buy anything",
+        "Not sure"
+      ]
+    },
+    {
+      "number": 13,
+      "variable": "take_home_groceries",
+      "title": "Would you use the campus store to buy groceries to take home?",
+      "type": "multiple_choice",
+      "options": [
+        "Yes",
+        "No",
+        "Not sure"
+      ],
+      "help": "",
+      "required": true,
+      "section": "Proposed store",
+      "decision_use": "Separate take-home grocery demand from immediate campus consumption."
+    },
+    {
+      "number": 14,
+      "variable": "main_store_priority",
+      "title": "Which factor is most important to you when choosing a grocery store?",
+      "type": "multiple_choice",
+      "options": [
+        "Price",
+        "Product choice",
+        "Freshness",
+        "Convenient opening hours",
+        "Quick checkout",
+        "Another factor",
+        "Not sure"
+      ],
+      "help": "Choose one factor.",
+      "required": true,
+      "section": "Store preferences",
+      "decision_use": "Identify the main service priority."
+    },
+    {
+      "number": 15,
+      "variable": "preferred_time",
+      "title": "When would you be most likely to shop at the campus store?",
+      "type": "multiple_choice",
+      "options": [
+        "Before 9 am",
+        "9 am to before 12 noon",
+        "12 noon to before 3 pm",
+        "3 pm to before 6 pm",
+        "6 pm or later",
+        "I would not shop there",
+        "Not sure"
+      ],
+      "help": "Choose one main time period.",
+      "required": true,
+      "section": "Store preferences",
+      "decision_use": "Support an opening-hours recommendation from stated preferences."
+    },
+    {
+      "number": 16,
+      "variable": "hypothetical_price",
+      "title": "Suppose a 500 ml bottle of plain water costs AED 5 at a nearby shop. What is the most you would pay for an identical bottle at the campus store?",
+      "type": "multiple_choice",
+      "options": [
+        "Less than AED 5",
+        "AED 5",
+        "AED 6",
+        "AED 7",
+        "AED 8 or more",
+        "I would not buy this product",
+        "Not sure"
+      ],
+      "help": "This is a hypothetical example, not a claim about current market prices. Round your maximum to the nearest whole dirham.",
+      "required": true,
+      "section": "Store preferences",
+      "decision_use": "Measure price tolerance under a defined comparison scenario; not actual market pricing."
+    },
+    {
+      "number": 17,
+      "variable": "barriers",
+      "title": "What, if anything, would put you off shopping at this campus store?",
+      "type": "paragraph",
+      "options": [],
+      "help": "A sentence or two is enough. Write \"Nothing\" or \"Not sure\" if appropriate.",
+      "required": true,
+      "section": "Store preferences",
+      "decision_use": "Code barriers and connect recommendations to respondents' own explanations."
+    },
+    {
+      "number": 18,
+      "variable": "main_offer",
+      "title": "Which offer, if any, would most encourage you to buy from the store?",
+      "type": "multiple_choice",
+      "options": [
+        "Student discount",
+        "Food and drink bundle at a lower price",
+        "Loyalty points for future purchases",
+        "Reduced prices on products close to their best-before date",
+        "Another offer",
+        "None of these",
+        "Not sure"
+      ],
+      "help": "Choose one main offer.",
+      "required": true,
+      "section": "Store preferences",
+      "decision_use": "Choose a promotion to test without presuming an offer will create loyalty."
+    },
+    {
+      "number": 19,
+      "variable": "main_channel",
+      "title": "How would you most prefer to hear about the store and its offers?",
+      "type": "multiple_choice",
+      "options": [
+        "University email",
+        "Social media",
+        "Posters or screens on campus",
+        "WhatsApp / student groups",
+        "Friends or classmates",
+        "Another channel",
+        "I do not want updates"
+      ],
+      "help": "Choose one main channel. This question does not sign you up for any messages.",
+      "required": true,
+      "section": "Communication and suggestions",
+      "decision_use": "Prioritise a communication channel; do not collect contact details."
+    },
+    {
+      "number": 20,
+      "variable": "repeat_purchase_suggestion",
+      "title": "What could the store do, if anything, to make you keep using it during the term?",
+      "type": "paragraph",
+      "options": [],
+      "help": "A sentence or two is enough. Write \"Nothing\" or \"Not sure\" if appropriate.",
+      "required": true,
+      "section": "Communication and suggestions",
+      "decision_use": "Code retention suggestions; keep recommendations tied to actual responses."
+    }
+  ],
+  "configuration": {
+    "collect_email": false,
+    "require_sign_in": false,
+    "limit_one_response_by_google_login": false,
+    "shuffle_questions": false,
+    "show_response_summary_to_respondents": false,
+    "edit_after_submit": false,
+    "progress_bar": true,
+    "publish_status": "not_created_in_Google_Forms",
+    "consent_gate_separate_from_20_questions": true,
+    "required_answers_note": "Participation remains voluntary; respondents may stop without submitting. Profile questions include Prefer not to say; open questions accept None/Not sure.",
+    "checkbox_exclusivity_note": "Google Forms selection-count validation alone does not enforce exclusive options. Pilot and check for contradictions before analysis; exclude invalid/incomplete responses from the complete-response count."
+  },
+  "source_form_url": "https://docs.google.com/forms/d/e/1FAIpQLSf8U36K1VgKmdAsg35uy0QzP60QxQhlaNMBlv8tu3UtRpjp2Q/viewform?usp=publish-editor"
+}

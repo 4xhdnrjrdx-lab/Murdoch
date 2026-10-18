@@ -1,0 +1,140 @@
+{
+  "checked_at": "2026-10-18T14:11:51.806850+04:00",
+  "operations": "read-only assignment metadata and course contents",
+  "mail": {
+    "checked_at": "2026-10-18T14:11:51.806850+04:00",
+    "account": "jafarovfayaz@gmail.com",
+    "scope": "BUS334 / BUS 334 / Ashok Mitra after 8 October",
+    "result": "Four messages found, latest course message dated 8 October; no later course instructions found. Full Outlook and WhatsApp not checked."
+  },
+  "assignments": [
+    {
+      "id": 124857,
+      "name": "Assignment 4 Supporting materials submission: Data Analysis &amp; Presentation (40%)",
+      "intro": "<p><span lang=\"EN-US\" style=\"font-size: 10.0pt; mso-bidi-font-size: 9.0pt; line-height: 120%; font-family: 'Arial',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Arial; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Please submit the supporting material (e.g. PPT slides) 24 hrs before your scheduled presentation here. Supporting documents may include any materials deemed necessary to assist the lecturer or marker in evaluating your presentation.</span></p>",
+      "duedate": 0,
+      "cutoffdate": 0,
+      "teamsubmission": 1
+    },
+    {
+      "id": 124858,
+      "name": "Peer Evaluation Form Submission (Individual)",
+      "intro": "<p>Each student, please make sure to submit your peer evaluation form independently and individually. </p>",
+      "duedate": 1795881300,
+      "cutoffdate": 1795967700,
+      "teamsubmission": 0
+    },
+    {
+      "id": 124854,
+      "name": "Assignment 1: Engagement (10%)",
+      "intro": "<p class=\"MsoNormal\">This portal is for the lecturer's use only to record grades and provide feedback; no student submission is required. Following the marking guide, Class participation is assessed based on students’ active engagement across all sessions, including participation activities and discussions, as observed by the lecturer(s). <o:p></o:p></p>",
+      "duedate": 1795078800,
+      "cutoffdate": 1797843600,
+      "teamsubmission": 0
+    },
+    {
+      "id": 124855,
+      "name": "Assignment 2 Submission: Questionnaire (20%)",
+      "intro": "<p>The questionnaire to be submitted electronically here</p>",
+      "duedate": 1789919940,
+      "cutoffdate": 1790179140,
+      "teamsubmission": 0
+    },
+    {
+      "id": 124856,
+      "name": "Assignment 3 Submission: Data Collection &amp; Preliminary Analysis (30%)",
+      "intro": "<p>The data collection and analysis is to be conducted individually, the assignment should be also submitted and marked individually.</p>",
+      "duedate": 1792943940,
+      "cutoffdate": 1793203140,
+      "teamsubmission": 0
+    }
+  ],
+  "assessments": [
+    {
+      "name": "Assignment 1: Engagement (10%)",
+      "modname": "assign",
+      "instance": 124854,
+      "description": "<div class=\"no-overflow\"><p class=\"MsoNormal\">This portal is for the lecturer's use only to record grades and provide feedback; no student submission is required. Following the marking guide, Class participation is assessed based on students’ active engagement across all sessions, including participation activities and discussions, as observed by the lecturer(s). <o:p></o:p></p></div>",
+      "dates": [
+        {
+          "label": "Opened:",
+          "timestamp": 1787013000,
+          "dataid": "allowsubmissionsfromdate"
+        },
+        {
+          "label": "Due:",
+          "timestamp": 1795078800,
+          "dataid": "duedate"
+        }
+      ]
+    },
+    {
+      "name": "Assignment 2 Submission: Questionnaire (20%)",
+      "modname": "assign",
+      "instance": 124855,
+      "description": null,
+      "dates": [
+        {
+          "label": "Opened:",
+          "timestamp": 1787531400,
+          "dataid": "allowsubmissionsfromdate"
+        },
+        {
+          "label": "Due:",
+          "timestamp": 1789919940,
+          "dataid": "duedate"
+        }
+      ]
+    },
+    {
+      "name": "Assignment 3 Submission: Data Collection &amp; Preliminary Analysis (30%)",
+      "modname": "assign",
+      "instance": 124856,
+      "description": "<div class=\"no-overflow\"><p>The data collection and analysis is to be conducted individually, the assignment should be also submitted and marked individually.</p></div>",
+      "dates": [
+        {
+          "label": "Opened:",
+          "timestamp": 1787531400,
+          "dataid": "allowsubmissionsfromdate"
+        },
+        {
+          "label": "Due:",
+          "timestamp": 1792943940,
+          "dataid": "duedate"
+        }
+      ]
+    },
+    {
+      "name": "Assignment 4 Supporting materials submission: Data Analysis &amp; Presentation (40%)",
+      "modname": "assign",
+      "instance": 124857,
+      "description": "",
+      "dates": [
+        {
+          "label": "Opened:",
+          "timestamp": 1792283400,
+          "dataid": "allowsubmissionsfromdate"
+        }
+      ]
+    },
+    {
+      "name": "Peer Evaluation Form Submission (Individual)",
+      "modname": "assign",
+      "instance": 124858,
+      "description": "<div class=\"no-overflow\"><p>Each student, please make sure to submit your peer evaluation form independently and individually. </p></div>",
+      "dates": [
+        {
+          "label": "Opens:",
+          "timestamp": 1794384120,
+          "dataid": "allowsubmissionsfromdate"
+        },
+        {
+          "label": "Due:",
+          "timestamp": 1795881300,
+          "dataid": "duedate"
+        }
+      ]
+    }
+  ],
+  "result": "ok"
+}

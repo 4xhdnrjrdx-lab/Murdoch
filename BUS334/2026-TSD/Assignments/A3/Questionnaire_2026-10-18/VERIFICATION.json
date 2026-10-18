@@ -1,0 +1,71 @@
+{
+  "checked_at": "2026-10-18T14:16:51.984508+04:00",
+  "research_questions": 20,
+  "closed_questions": 17,
+  "open_questions": 3,
+  "separate_consent_gate": true,
+  "sources": [
+    {
+      "path": "BUS334/2026-TSD/Materials/01 Assessment/BUS334 Assignment 3 Summary.pdf",
+      "sha256": "b5469b121b783808100aed68f053e654aa9afa4d619b55ab28067b5b1da11365"
+    },
+    {
+      "path": "BUS334/2026-TSD/Materials/01 Assessment/BUS334_Assignment 3 [Data Collection]_Marking Guide.pdf",
+      "sha256": "44bb0ed954901eb9fe8bd2784eeb2d040acb8dc8abaa1d602132893b9c9cf352"
+    },
+    {
+      "path": "BUS334/2026-TSD/Materials/01 Assessment/BUS334 Assignment 2 Summary.pdf",
+      "sha256": "3a76bb7e3bab1b3b77e36c63decc2ed9bc794c5571a594703c8f92d0c94cd187"
+    },
+    {
+      "path": "BUS334/2026-TSD/Materials/01 Assessment/BUS334_Assignment 2 [Questionnaire]_Marking Guide.pdf",
+      "sha256": "63647a3852d34712bc8a312986d25a917f78f9615ab53fc246f7c89245d77ec9"
+    },
+    {
+      "path": "BUS334/2026-TSD/Materials/01 Assessment/Questionnaire Example.pdf",
+      "sha256": "b6e7c67f70bd436c631f204754328bf4783deffb1237f2984f5679d683ed377e"
+    },
+    {
+      "path": "BUS334/2026-TSD/Materials/UnitOutline/00_UNIT_OUTLINE_BUS334_TSD2026.md",
+      "sha256": "33187cdf3cd1f34a2cb2a3789881c0ae1d1acaa58189030a3386d35cb310f98c"
+    },
+    {
+      "path": "BUS334/2026-TSD/Assignments/A2/35553299_Dzhafarov_BUS334_Assignment2_Questionnaire.docx",
+      "sha256": "6b885e4ed1e252844368eb618d00d7f38f3b60a42d3f812c23c16fdd62a2d3e3"
+    },
+    {
+      "path": "BUS334/2026-TSD/Correspondence/2026-10-17_general-lms-check.json",
+      "sha256": "ff619737d60d5ae49f34af6668b0807a23138a24f460d7c6f884be40df0228a5"
+    }
+  ],
+  "artifact_hashes": [
+    {
+      "path": "BUS334_A3_Campus_Grocery_Questionnaire_EN.docx",
+      "sha256": "4563095f81668a68967e6d067285c4cd457d825fae712e32d58b65c3ee579fd1"
+    },
+    {
+      "path": "BUS334_A3_Questionnaire_Specification.json",
+      "sha256": "8a718161abafbdaf0a8e9af36002dfcc229d7b9485083dfdb7127a0018c68194"
+    },
+    {
+      "path": "Create_BUS334_Google_Form.gs",
+      "sha256": "e9947192f74c5be0a9725444a85b21a73928229aab62817fc3bd04da02147194"
+    },
+    {
+      "path": "README.md",
+      "sha256": "a9b06a0008431aa6086b635de7cdbed4dfee9a479f00210f26291806ccba7673"
+    }
+  ],
+  "visual_review": {
+    "docx_rendered_pages": 4,
+    "all_latest_pages_inspected": true,
+    "layout_result": "pass",
+    "rubric_and_brief_pages_inspected": 4
+  },
+  "local_script_mock_check": "pass: twenty questions, three open, required fields, max-three checkbox validation, distinct consent routes, unpublished state, no email collection, no duplicate on repeat run",
+  "live_google_form_created": false,
+  "live_execution_and_preview_verified": false,
+  "blocker": "Google account sign-in required in Chrome; supplied URL is respondent view",
+  "responses_created_or_submitted": 0,
+  "source_a2_unchanged": true
+}
