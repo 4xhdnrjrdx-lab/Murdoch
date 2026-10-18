@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-18T17:38:38.924685+04:00",
+  "checked_at": "2026-10-18T18:03:43.627663+04:00",
   "research_questions": 20,
   "closed_questions": 17,
   "open_questions": 3,
@@ -45,7 +45,7 @@
     },
     {
       "path": "BUS334_A3_Questionnaire_Specification.json",
-      "sha256": "8823c3dbca99fdaf4f45a10863429327ca016b4f1f8747ff30ba1aff823f7482"
+      "sha256": "825ef28a75495c9b7f5e7ffe911487e4db2df8ae3bbc1a4985118bdddfba9829"
     },
     {
       "path": "Create_BUS334_Google_Form.gs",
@@ -53,11 +53,11 @@
     },
     {
       "path": "README.md",
-      "sha256": "8805a4fba6c424a2bc68f36b58ef7645a25d2a33f5af018b2ebdfac97f7f2d7e"
+      "sha256": "633f115a2061d5b7dbc96fb9ae3e5d21a92093f52b104038ce9fb2208cc23de2"
     },
     {
       "path": "MICROSOFT_FORMS.json",
-      "sha256": "0eb8b6f1718774c1dfdc8166c66c3a36fc3fbb4fcdbb6e8688212920d01a469a"
+      "sha256": "c3ce7a48633821b4d37453f62389f112c2c6be8e5545b6500c39cbac23989e48"
     },
     {
       "path": "Evidence/2026-10-18_live_form.png",
@@ -70,6 +70,26 @@
     {
       "path": "Evidence/2026-10-18_responses_zero.png",
       "sha256": "023e63d196baee6566d271062394b32dea0e199699da66e59335ba031b783322"
+    },
+    {
+      "path": "GOOGLE_FORMS.json",
+      "sha256": "86473ba3718f6551d5d0252299c9d2dc6435fb07ea79df7219fb01ed3feb5cda"
+    },
+    {
+      "path": "Evidence/2026-10-18_google_decline.png",
+      "sha256": "c7044a1820ec3432008b0019aaac70a9857f9a47d4a8eb845cab6f3ba4997bbd"
+    },
+    {
+      "path": "Evidence/2026-10-18_google_live_form.png",
+      "sha256": "7db84431b42cf963846b93463b206b2f410bdb99e44ee225c04ffc9c8167ef5b"
+    },
+    {
+      "path": "Evidence/2026-10-18_google_max3_validation.png",
+      "sha256": "f43a277da9e71f6bd9d6908968a93d8b0da5801a2cbd138a10a8093b78263b05"
+    },
+    {
+      "path": "Evidence/2026-10-18_google_responses_zero.png",
+      "sha256": "255b4d7792e2271888159f922371ccf9c8bc4b62c5ffa942c58071d29f5fb399"
     }
   ],
   "visual_review": {
@@ -79,13 +99,13 @@
     "rubric_and_brief_pages_inspected": 4
   },
   "local_script_mock_check": "pass: twenty questions, three open, required fields, max-three checkbox validation, distinct consent routes, unpublished state, no email collection, no duplicate on repeat run",
-  "live_google_form_created": false,
+  "live_google_form_created": true,
   "live_execution_and_preview_verified": true,
   "blocker": null,
   "responses_created_or_submitted": 0,
   "source_a2_unchanged": true,
   "live_microsoft_form_created": true,
-  "live_platform": "Microsoft Forms",
-  "live_verification_path": "MICROSOFT_FORMS.json",
-  "requested_google_migration_status": "awaiting user Google sign-in after platform clarification"
+  "live_platform": "Google Forms",
+  "live_verification_path": "GOOGLE_FORMS.json",
+  "requested_google_migration_status": "completed; published and live navigation/validation checked"
 }

@@ -49,5 +49,8 @@
     "Evidence/2026-10-18_mobile_preview.png",
     "Evidence/2026-10-18_responses_zero.png"
   ],
-  "recovery": "Full question specification and Word source are stored alongside this file. Native Microsoft cloud form is owned by the Murdoch account. Screenshots evidence settings/results; no backup of future responses exists yet."
+  "recovery": "Full question specification and Word source are stored alongside this file. Native Microsoft cloud form is owned by the Murdoch account. Screenshots evidence settings/results; no backup of future responses exists yet.",
+  "primary_form": false,
+  "superseded_by": "https://forms.gle/CyfEmb7QitaXtmcK9",
+  "superseded_note": "User explicitly requested Google Forms after Microsoft alternative; keep historical evidence, use Google form for the agreed main collection. Microsoft cloud form was not deleted or closed by the agent."
 }
