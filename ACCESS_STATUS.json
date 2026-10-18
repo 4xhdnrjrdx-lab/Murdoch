@@ -105,11 +105,11 @@
     }
   },
   "lms": {
-    "checked_at": "2026-10-18T12:26:28.739888+04:00",
+    "checked_at": "2026-10-18T12:46:01.140329+04:00",
     "result": "ok",
-    "operation": "BUS219 read-only: course contents, Quiz 1/2 settings, own Quiz 1 attempts and announcements; no attempt started or submitted",
+    "operation": "Read own Quiz 1 attempts only; no launch, editing or submission",
     "last_success_by_course": {
-      "BUS219": "2026-10-18T12:26:28.739888+04:00",
+      "BUS219": "2026-10-18T12:46:01.140329+04:00",
       "BUS225": "2026-10-17T03:02:12.923855+04:00",
       "BUS230": "2026-10-17T16:55:34.363332+04:00",
       "BUS334": "2026-10-17T03:02:21.807042+04:00"
@@ -125,7 +125,7 @@
       "BUS334": true
     },
     "evidence": {
-      "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-18_quiz1-preparation-check.json",
+      "BUS219": "BUS219/2026-TSD/Assignments/A1/Quiz1_2026-10-18/ATTEMPT_CHECK.json",
       "BUS225": "BUS225/2026-TSD/Correspondence/2026-10-17_general-lms-check.json",
       "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-17_restart-study-check.json",
       "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-17_general-lms-check.json"

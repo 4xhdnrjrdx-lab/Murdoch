@@ -5,3 +5,5 @@
 [Все файлы заданий](../README.md).
 
 [Quiz 1 revision and common distinctions](QUIZ1_STUDY.md).
+
+[Quiz 1: проверка всех 15 вопросов, ответов и источников](Quiz1_2026-10-18/QUESTIONS_ANSWERS_RU.md).

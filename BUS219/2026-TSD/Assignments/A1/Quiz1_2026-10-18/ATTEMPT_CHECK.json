@@ -1,0 +1,16 @@
+{
+  "checked_at": "2026-10-18T12:46:01.140329+04:00",
+  "courseid": 31585,
+  "quizid": 111647,
+  "operation": "Read own Quiz 1 attempts only; no launch, editing or submission",
+  "own_attempts": [
+    {
+      "id": 5219322,
+      "attempt": 1,
+      "state": "inprogress",
+      "timestart": 1792312409,
+      "timefinish": 0,
+      "sumgrades": null
+    }
+  ]
+}

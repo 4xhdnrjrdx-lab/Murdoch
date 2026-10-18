@@ -23,8 +23,8 @@
     },
     {
       "path": "ACCESS_STATUS.json",
-      "bytes": 8382,
-      "sha256": "7180290e703506a8f113c8062c44d2fc95994105638b1edb1e2de237ac4e3761",
+      "bytes": 8317,
+      "sha256": "3ba1874366ea9e9e8bc1dbe996ec9215e43619b3b97e56365de9565f71a631e0",
       "storage": "git"
     },
     {
@@ -268,9 +268,117 @@
       "storage": "git"
     },
     {
+      "path": "BUS219/2026-TSD/Assignments/A1/Quiz1_2026-10-18/ATTEMPT_CHECK.json",
+      "bytes": 363,
+      "sha256": "68fd421f652d0af876166a944a264d278b5c0e775c34b0f03550c064976ac29c",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A1/Quiz1_2026-10-18/QUESTIONS_ANSWERS_RU.md",
+      "bytes": 25006,
+      "sha256": "ad8d9fd6cdde99504c67292adf747ad722694c2f730a3ae969bbe5aa5abfb384",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A1/Quiz1_2026-10-18/SCREENSHOTS.json",
+      "bytes": 5165,
+      "sha256": "0a9d0697d0d14aa40f384cf7b6de38afc57d711f8562919285e93277dd175920",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A1/Quiz1_2026-10-18/Screenshots/Question_01.png",
+      "bytes": 183409,
+      "sha256": "510b2935c360252d40041ce13c5cf69d34c9106d69d8695e133312eb5d8f54e6",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A1/Quiz1_2026-10-18/Screenshots/Question_02.png",
+      "bytes": 89146,
+      "sha256": "28e71d014026bb7ef687bfa9832d4d69a8550b6854cca662a1cdae354edcb7ac",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A1/Quiz1_2026-10-18/Screenshots/Question_03.png",
+      "bytes": 118950,
+      "sha256": "2358052766e8835be7cb03fc11ae294b2a4e19668eb8dac9eba6e67b2f6087c5",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A1/Quiz1_2026-10-18/Screenshots/Question_04.png",
+      "bytes": 118578,
+      "sha256": "61a52efe1016cdd8dc6d86a98843fe4a2e2ea348021124946f9832382060e39c",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A1/Quiz1_2026-10-18/Screenshots/Question_05.png",
+      "bytes": 123140,
+      "sha256": "b45f84e1fa81b6d952a820a02d655deb36bd499a398a6011e4da3b0a34cf1037",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A1/Quiz1_2026-10-18/Screenshots/Question_06.png",
+      "bytes": 160751,
+      "sha256": "fb991e317c4dc206b831c8b4f1d49e976b2b091e7057696628a3455a83982913",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A1/Quiz1_2026-10-18/Screenshots/Question_07.png",
+      "bytes": 85103,
+      "sha256": "f76d8c7fd4bf400e8eaa9c6351d93f9fe741c5cd46d0e5ddda5dae73b4c4a6a0",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A1/Quiz1_2026-10-18/Screenshots/Question_08.png",
+      "bytes": 157895,
+      "sha256": "3398c4089e416480665673b0c5edf0b37c3d4ba7b4e20383b8084870fe7d15cf",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A1/Quiz1_2026-10-18/Screenshots/Question_09.png",
+      "bytes": 106909,
+      "sha256": "ace7107543eb4960e89cf853e1cc50f02fb8045e8c3e68481d8334823d790c69",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A1/Quiz1_2026-10-18/Screenshots/Question_10.png",
+      "bytes": 90294,
+      "sha256": "02b4ab7746e00f47d74f8abbe56c8bf5e488b9f4b3855d1ead34f8284ee0aae2",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A1/Quiz1_2026-10-18/Screenshots/Question_11.png",
+      "bytes": 91721,
+      "sha256": "b75e6b2ace302bd8405744c673ce369973e3cd15adde6ee0b042472e2821c3dc",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A1/Quiz1_2026-10-18/Screenshots/Question_12.png",
+      "bytes": 132458,
+      "sha256": "fd4453aea0dd1830b39473afd6381e932aa2db3829f91b417fa75f89143f6baf",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A1/Quiz1_2026-10-18/Screenshots/Question_13.png",
+      "bytes": 109959,
+      "sha256": "746acdb8c3ffc4fa7ec18873553f712944a53ac8ac05000ae0ec5ea7e9a6b283",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A1/Quiz1_2026-10-18/Screenshots/Question_14.png",
+      "bytes": 117524,
+      "sha256": "ada1b03bc938a6bb3af7b0b6837aaeb2b3232e522ac6b5dfe1249c3ac5901f2f",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A1/Quiz1_2026-10-18/Screenshots/Question_15.png",
+      "bytes": 85378,
+      "sha256": "c40d9b0f46178ef397955926f7e3d09b22c9f695fc546edabd25f679282e0995",
+      "storage": "git"
+    },
+    {
       "path": "BUS219/2026-TSD/Assignments/A1/README.md",
-      "bytes": 517,
-      "sha256": "939cb37700198e2fb3789c99f297b558901454e6925a6c031ba9781e3dc64450",
+      "bytes": 657,
+      "sha256": "993a71a45dd52da1aa88fd5c9bfa963f0d2d5dab2beae9b9851a0341a3260001",
       "storage": "git"
     },
     {
@@ -323,8 +431,8 @@
     },
     {
       "path": "BUS219/2026-TSD/CONTEXT.md",
-      "bytes": 10844,
-      "sha256": "bc9ea22880dabb9cc419783f9d11457867fb28516de775ff1600465821405b5a",
+      "bytes": 11804,
+      "sha256": "a87e0a4ca2c81a3f9ed9d47759ac85aebb9f6118dab45327bdaaba75d4162101",
       "storage": "git"
     },
     {
@@ -395,8 +503,8 @@
     },
     {
       "path": "BUS219/2026-TSD/HISTORY.md",
-      "bytes": 6779,
-      "sha256": "85393eae7856c25ff1f373f3e9ae71cba4798c030751af684d81e9dcfe67cbed",
+      "bytes": 7272,
+      "sha256": "4ecd8366e0394b5ed53fe9050385ce141241c85d59c55434c5761b5edf18dd99",
       "storage": "git"
     },
     {
@@ -803,14 +911,14 @@
     },
     {
       "path": "BUS219/2026-TSD/TASKS.json",
-      "bytes": 15721,
-      "sha256": "eac0ce5cffc3e9b77b28990ee397d7516f0a780ac43d0862045be7031a5ed5ff",
+      "bytes": 16574,
+      "sha256": "fb995cfff4f23687af3897c323a1478f43e03655796ed9cd0c6e878b5e5d8510",
       "storage": "git"
     },
     {
       "path": "BUS219/2026-TSD/TASKS.md",
-      "bytes": 12199,
-      "sha256": "e48717ec78b9353d23faf402a66637caf1c2c275b362952c355d038e7c956319",
+      "bytes": 12969,
+      "sha256": "ddaeb04998e090e232784606729390de4c6591dc6e0338450dfa432f89c1a795",
       "storage": "git"
     },
     {
@@ -3839,8 +3947,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5306,
-      "sha256": "ead60eb229ed76855fabea59370e519dea7cf9c71b52519e44781abfebb9375f",
+      "bytes": 5329,
+      "sha256": "01959b7ee36e4da0de9f8db6c424bffc27f719d8f5d068514f0e04bb90ec4b2e",
       "storage": "git"
     },
     {
@@ -3910,6 +4018,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 651,
-  "total_bytes": 483831095
+  "file_count": 669,
+  "total_bytes": 485636018
 }
