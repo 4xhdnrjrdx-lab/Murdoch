@@ -1,0 +1,16 @@
+{
+  "skill": "https://github.com/blader/humanizer",
+  "draft_excerpt": "I checked the original CSV for missing answers, invalid options and repeated answer sets. None were found.",
+  "remaining_tells": [
+    "The draft used first person for data checks without distinguishing collection by the student from preparation of the analysis.",
+    "Repeated cautions were checked for whether they changed interpretation; retained only the concrete limits needed for the research."
+  ],
+  "final_excerpt": "Checks of the original CSV found no missing answers, invalid options or repeated answer sets.",
+  "preserved": [
+    "All counts and denominators",
+    "Conditional wording of purchase intentions",
+    "Telegram group and personal WhatsApp recruitment",
+    "Original questions and verbatim participant answers"
+  ],
+  "final_review": "Plain academic English, no invented personal experience or source claims, no em/en dashes in authored report prose. Original questionnaire option punctuation preserved in the appendix."
+}

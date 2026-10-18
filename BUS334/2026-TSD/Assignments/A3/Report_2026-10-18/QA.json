@@ -1,0 +1,39 @@
+{
+  "main_report_pages": 5,
+  "appendix_pages": 8,
+  "main_body_line_spacing": 1.5,
+  "figures": 3,
+  "charts_reconciled_to_original_csv": true,
+  "all_418_closed_answers_round_trip_to_original": true,
+  "all_22_open_answers_verbatim": true,
+  "subgroup_counts_reconciled": true,
+  "open_price_theme_reconciled": true,
+  "source_csv_unchanged_sha256": "b1abab5b724541cde709c1334edeb7bf7fbb550fe5d4a0b0c715b84afb6326f3",
+  "visual_review": {
+    "report_pages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "appendix_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "result": "Reviewed all final rendered PNG pages; no clipping, overlap or broken characters. Charts, table columns, captions and page breaks readable."
+  },
+  "humanizer": {
+    "skill": "/Users/king1/.agents/skills/humanizer/SKILL.md",
+    "requested_reference": "https://github.com/blader/humanizer",
+    "method": "Draft, editorial audit and final prose review. Plain academic English; facts and original participant quotations preserved. No detector result claimed."
+  },
+  "open_requirement": "Team agreement on the shared questionnaire is not confirmed in the records; the report does not invent it.",
+  "assignment_submitted": false
+}

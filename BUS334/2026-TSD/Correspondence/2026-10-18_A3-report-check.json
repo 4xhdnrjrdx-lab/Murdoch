@@ -1,0 +1,24 @@
+{
+  "checked_at": "2026-10-18T23:01:55.469482+04:00",
+  "operation": "read-only A3 assignment metadata and submission status",
+  "assignment": {
+    "id": 124856,
+    "name": "Assignment 3 Submission: Data Collection &amp; Preliminary Analysis (30%)",
+    "intro": "<p>The data collection and analysis is to be conducted individually, the assignment should be also submitted and marked individually.</p>",
+    "duedate": 1792943940,
+    "cutoffdate": 1793203140,
+    "teamsubmission": 0
+  },
+  "submission_status": "new",
+  "mail": {
+    "account": "jafarovfayaz@gmail.com",
+    "query": "after:2026/10/18 (BUS334 OR \"BUS 334\" OR from:Ashok.Mitra@murdoch.edu.au)",
+    "result": "No matching messages; search exhausted. Full Outlook and WhatsApp not checked."
+  },
+  "result": "ok",
+  "file_submission_limits": {
+    "max_files": 3,
+    "allowed_file_types": "unrestricted",
+    "max_bytes": 2147483648
+  }
+}

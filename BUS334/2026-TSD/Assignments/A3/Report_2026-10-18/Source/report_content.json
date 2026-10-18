@@ -1,0 +1,193 @@
+[
+  [
+    [
+      "title",
+      "Campus grocery store feasibility"
+    ],
+    [
+      "subtitle",
+      "BUS334 Assignment 3  Data collection and preliminary analysis"
+    ],
+    [
+      "meta",
+      "Faiaz Dzhafarov  |  Student ID 35553299  |  18 October 2026"
+    ],
+    [
+      "h1",
+      "Part 1  Summary"
+    ],
+    [
+      "p",
+      "A small grocery store on the Murdoch University Dubai campus may attract students if it offers affordable snacks, drinks and quick meals. In this survey, 16 of 22 respondents (72.7%) said they were likely or very likely to use it at prices similar to nearby shops. Price was the main choice factor for 15 respondents (68.2%), and the same number selected higher prices as the main barrier. These findings support testing a small store before committing to a larger investment. They do not establish profitability."
+    ],
+    [
+      "p",
+      "I collected 22 complete Google Forms responses from students through a private Telegram group of Russian-speaking Murdoch peers and approximately 10 personal WhatsApp invitations. The overall response rate is unknown because I do not know the total number reached through the group or the overlap between the two channels."
+    ],
+    [
+      "h1",
+      "Part 2  Results"
+    ],
+    [
+      "h2",
+      "Data collection and preparation"
+    ],
+    [
+      "p",
+      "The questionnaire contained 20 questions: 19 closed questions and one open question. The export records all submissions on 18 October 2026. All 22 respondents answered every question, exceeding the minimum of 15 complete questionnaires. The completion rate among returned questionnaires was 100%; this is different from the invitation response rate."
+    ],
+    [
+      "p",
+      "Checks of the original CSV found no missing answers, invalid options or repeated answer sets. The anonymous form did not collect names or email addresses, so these checks cannot independently verify identities. All 22 records were retained. Appendix A contains the questionnaire and counts, Appendix B gives the coded records, and Appendix C contains the written answers. The original CSV accompanies the appendices."
+    ]
+  ],
+  [
+    [
+      "h1",
+      "Part 2  Results continued"
+    ],
+    [
+      "h2",
+      "Sample and current shopping habits"
+    ],
+    [
+      "p",
+      "All respondents identified as students: 15 undergraduates and seven postgraduates. Most attended campus three or four days a week (18 of 22, 81.8%), so the sample had regular contact with the campus. The profile is reasonably balanced by gender, but recruitment through one social network limits its coverage."
+    ],
+    [
+      "profile",
+      null
+    ],
+    [
+      "p",
+      "Nearby supermarkets or convenience stores were selected by nine respondents (40.9%) as a usual source of purchases, compared with five for the campus cafe (22.7%). Eight respondents (36.4%) had left campus to buy food or daily items during the previous month. Four were dissatisfied with existing options, 11 were neutral and seven were satisfied. This suggests some room for a convenient alternative, without evidence of widespread dissatisfaction."
+    ],
+    [
+      "figure",
+      [
+        "01_satisfaction_and_intention.png",
+        2.5
+      ]
+    ],
+    [
+      "caption",
+      "Figure 1  Current satisfaction and intention to shop. Source: Google Forms survey, 18 October 2026, n = 22. Each panel is a separate question."
+    ]
+  ],
+  [
+    [
+      "h1",
+      "Part 2  Results continued"
+    ],
+    [
+      "h2",
+      "Expected demand and product range"
+    ],
+    [
+      "p",
+      "Intention to shop was positive for 16 respondents, while six were neutral and none selected unlikely. This answer assumed suitable products and prices similar to nearby shops. It describes interest under those conditions, rather than guaranteed purchases."
+    ],
+    [
+      "figure",
+      [
+        "02_products_spend_and_visits.png",
+        3.85
+      ]
+    ],
+    [
+      "caption",
+      "Figure 2  Proposed purchases, spending and visits. Source: survey, n = 22. Q12 allowed multiple selections; its percentages total more than 100%."
+    ],
+    [
+      "p",
+      "Snacks and drinks received 15 selections (68.2%), followed by meals and fruit with eight (36.4%). Nobody selected take home groceries or personal care and stationery. Thirteen respondents (59.1%) expected to spend AED 10 to 24.99 per visit. Fifteen (68.2%) expected at least weekly visits, but none expected five or more visits per week. A limited range of inexpensive items therefore looks more suitable for a first trial than a full supermarket."
+    ],
+    [
+      "p",
+      "Positive intention was 12 of 15 among undergraduates (80.0%) and four of seven among postgraduates (57.1%). These small groups describe this sample only; the difference is not evidence of a campus-wide pattern."
+    ]
+  ],
+  [
+    [
+      "h1",
+      "Part 2  Results continued"
+    ],
+    [
+      "h2",
+      "Price and the store offer"
+    ],
+    [
+      "figure",
+      [
+        "03_factors_and_barriers.png",
+        2.65
+      ]
+    ],
+    [
+      "caption",
+      "Figure 3  Choice factors and barriers. Source: survey, n = 22. These were separate single-choice questions, so the two groups of 15 need not contain the same people."
+    ],
+    [
+      "p",
+      "The price example also showed resistance to a premium: 21 respondents (95.5%) chose AED 5.00 as the most they would pay when a nearby shop charged that amount, and one chose less. No respondent chose a higher price. This is a hypothetical comparison, not a verified market price. Eleven respondents (50.0%) preferred an ID discount as an incentive, while seven (31.8%) preferred meal bundles."
+    ],
+    [
+      "p",
+      "A mini-market with fresh and ready-to-eat food received 11 selections (50.0%), and a small convenience kiosk received 10 (45.5%). Convenience near classes was selected as a reason to shop by nine students (40.9%); emergency purchases received six selections (27.3%). These findings favour a compact store serving short campus breaks. Social media received eight selections (36.4%) as a preferred promotion channel, WhatsApp or student groups seven (31.8%), university email six and campus posters two."
+    ],
+    [
+      "h2",
+      "Written responses"
+    ],
+    [
+      "p",
+      "The open answers repeatedly connected convenience with affordable prices. Thirteen of 22 explicitly mentioned price or affordability. R08 wrote, \"Having a store nearby would save time, as long as it is not more expensive than outside.\" R09 usually brought food but saw value when something was forgotten. These comments help explain interest in small, occasional purchases. Appendix C lists every answer and the coding rule for the price theme."
+    ]
+  ],
+  [
+    [
+      "h1",
+      "Part 3  Preliminary conclusions next steps and recommendations"
+    ],
+    [
+      "p",
+      "The survey supports a small trial of a campus convenience store. Interest is strongest for snacks, drinks and quick meals at prices comparable to nearby shops. It provides a basis for choosing a trial range, but the decision to open permanently still requires costs and actual sales evidence."
+    ],
+    [
+      "h2",
+      "Recommendations"
+    ],
+    [
+      "p",
+      "Start with a compact range of snacks and drinks, with a small selection of fresh meals or fruit. This follows the 15 and eight selections for those categories. Avoid committing much initial stock to take home groceries or stationery, which received no selections in this sample. A short trial could compare the kiosk and small mini-market formats."
+    ],
+    [
+      "p",
+      "Check supplier prices and campus operating costs before setting retail prices. Test affordable meal bundles and an ID discount, since these attracted seven and 11 responses respectively. The water question gives no evidence that this sample would accept a campus price premium. Discounts should depend on margins rather than being promised in advance."
+    ],
+    [
+      "p",
+      "During a trial, record actual transactions, basket values, repeat visits and unsold fresh stock. Compare these with staffing, rent and supply costs before estimating break-even sales. Promote the trial through social media and student groups, then measure which channel brings customers."
+    ],
+    [
+      "h2",
+      "Limitations and further research"
+    ],
+    [
+      "p",
+      "This is a convenience sample of 22 students. The Telegram group and personal invitations may favour similar social networks and language backgrounds. Neither the sample size nor the balanced gender split makes it representative of the university. The number invited is unknown, so an overall response rate cannot be calculated."
+    ],
+    [
+      "p",
+      "Five questions used checkboxes despite asking for a MOST or MAIN choice. Q6, Q12, Q15 and Q16 each recorded 23 selections from 22 people. I kept these selections and calculated each percentage using 22 respondents. Q18 also ends with an incomplete phrase, which may affect interpretation. Before another survey, I would complete that wording, use single-choice fields where one priority is required, and pilot the questions."
+    ],
+    [
+      "p",
+      "A further survey should recruit across programmes, campus days and student networks, with a clear invitation count. It should test actual product prices and ask when students would visit. The present findings justify further testing; they do not measure demand across the whole campus or establish that the store would earn a profit."
+    ],
+    [
+      "source",
+      "Data source: author survey, Google Forms export, 18 October 2026, 22 records. Questionnaire, individual response evidence and all open answers appear in the separate appendices and accompanying CSV."
+    ]
+  ]
+]

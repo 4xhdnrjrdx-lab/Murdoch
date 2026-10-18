@@ -1,0 +1,57 @@
+{
+  "source_csv_sha256": "b1abab5b724541cde709c1334edeb7bf7fbb550fe5d4a0b0c715b84afb6326f3",
+  "response_count": 22,
+  "main_report_pages_planned": 5,
+  "line_spacing": 1.5,
+  "all_coded_records_round_trip_to_original_answers": true,
+  "open_price_theme": {
+    "count": 13,
+    "respondent_ids": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      11,
+      14,
+      17,
+      19,
+      20,
+      22
+    ],
+    "method": "Explicit reference to price, affordability, fair/reasonable pricing or being more expensive. Verbatim answers retained."
+  },
+  "undergraduate_positive_intention": {
+    "positive": 12,
+    "n": 15,
+    "percent": 80.0
+  },
+  "postgraduate_positive_intention": {
+    "positive": 4,
+    "n": 7,
+    "percent": 57.1
+  },
+  "response_rate": null,
+  "response_rate_reason": "Unknown total group reach and overlap with personal invitations",
+  "completion_rate_percent": 100,
+  "questionnaire_unchanged": true,
+  "responses_unchanged": true,
+  "submission_performed": false,
+  "team_approval": "not confirmed; no claim of approval in report",
+  "source_documents": [
+    "BUS334 Assignment 3 Summary.pdf",
+    "BUS334_Assignment 3 [Data Collection]_Marking Guide.pdf",
+    "Unit Outline section 4.2.3"
+  ],
+  "rubric_coverage": {
+    "Summary": "Page 1 topic, method, sample, response rate and conditional conclusion",
+    "Results": "Pages 1 to 4 sample, completeness, descriptive counts, three figures, subgroup comparison and open answers",
+    "Conclusion and recommendations": "Page 5 product range, pricing, trial measurement and research improvements tied to results",
+    "Data and structure": "22 complete records, all three parts, appendices with full questionnaire and individual responses, original CSV",
+    "Organisation presentation English": "Five pages, 1.5 body spacing, consistent headings, legible charts, simple academic English",
+    "Quality": "Convenience sampling, unknown response rate, multiple-response denominators, limits on causal and financial claims",
+    "Usability": "Product, price, format, promotion and further feasibility decisions; limitations made explicit"
+  }
+}
