@@ -1,0 +1,72 @@
+{
+  "checked_at": "2026-10-18T12:26:28.739888+04:00",
+  "courseid": 31585,
+  "quizzes": [
+    {
+      "id": 111647,
+      "coursemodule": 3111389,
+      "name": "Quiz 1 due:  by 23:55, 20th of Oct",
+      "intro": "",
+      "timeclose": 1792511700,
+      "timelimit": 1800,
+      "attempts": 1,
+      "sumgrades": 15,
+      "grade": 10,
+      "navmethod": "free",
+      "questionsperpage": 1,
+      "overduehandling": "autosubmit",
+      "close_dubai": "2026-10-20T19:55:00+04:00",
+      "own_attempts": []
+    },
+    {
+      "id": 111648,
+      "coursemodule": 3111390,
+      "name": "Quiz 2 due: 23:55, 24th of Nov",
+      "intro": "",
+      "timeclose": 1795535700,
+      "timelimit": 1800,
+      "attempts": 1,
+      "sumgrades": 15,
+      "grade": 10,
+      "navmethod": "free",
+      "questionsperpage": 1,
+      "overduehandling": "autosubmit",
+      "close_dubai": "2026-11-24T19:55:00+04:00"
+    }
+  ],
+  "announcements": [
+    {
+      "discussion": 992510,
+      "subject": "Assessment Quiz 1 ",
+      "message": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"font-family:'Times New Roman', serif;\">Dear Students,</span></p><p></p>\r\n<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"font-family:'Times New Roman', serif;\">Hope you are well.</span></p><p></p>\r\n<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"font-family:'Times New Roman', serif;\">Assessment Quiz 1 is now open on the LMS and must be completed by Tuesday, 20th October. Please attempt it in good time so that any technical issues can be resolved before the deadline.</span></p><p></p>\r\n<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"font-family:'Times New Roman', serif;\">If you have any questions, please get in touch.</span></p><p></p><span style=\"font-family:'Times New Roman', serif;\"></span><p> </p>\r\n<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"font-family:'Times New Roman', serif;\">Best,</span></p><p></p>\r\n<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"font-family:'Times New Roman', serif;\">Navneet</span></p><p></p>",
+      "created": 1791781638,
+      "modified": 1791781638
+    }
+  ],
+  "mail": {
+    "checked_on": "2026-10-18",
+    "timezone": "Asia/Dubai",
+    "account": "jafarovfayaz@gmail.com",
+    "query": "(BUS219 OR \"International Business\" OR \"Navneet Walia\") after:2026/09/01",
+    "results": 4,
+    "next_page_token": null,
+    "latest_message_id": "1a12e9f7426d465e",
+    "latest_message_date": "2026-10-12",
+    "latest_subject": "BUS219 International Business (TSD, 2026): Assessment Quiz 1",
+    "body_read": true,
+    "finding": "Quiz 1 открыт; завершить до вторника 20 октября. Точный перечень глав не указан.",
+    "uncovered": [
+      "Полный университетский Outlook",
+      "WhatsApp"
+    ]
+  },
+  "preparation": {
+    "user_request": "Изучить материалы перед Quiz 1; цель пользователя — 100%.",
+    "range": "Topics 1–8 / Chapters 1–9, supplementary slides and 13 October notes; working range, exact quiz coverage unconfirmed",
+    "guide": "Assignments/A1/QUIZ1_STUDY.md",
+    "assessment_started_by_agent": false,
+    "assessment_submitted_by_agent": false,
+    "user_answers_received": false,
+    "result": "unknown"
+  }
+}
