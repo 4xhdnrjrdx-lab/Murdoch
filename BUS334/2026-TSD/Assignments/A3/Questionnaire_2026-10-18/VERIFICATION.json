@@ -53,7 +53,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "4f98df7d5d9a5f1b92969caf0967292a4374dfecc704e25d7282c06b5f70cce7"
+      "sha256": "8805a4fba6c424a2bc68f36b58ef7645a25d2a33f5af018b2ebdfac97f7f2d7e"
     },
     {
       "path": "MICROSOFT_FORMS.json",
@@ -86,5 +86,6 @@
   "source_a2_unchanged": true,
   "live_microsoft_form_created": true,
   "live_platform": "Microsoft Forms",
-  "live_verification_path": "MICROSOFT_FORMS.json"
+  "live_verification_path": "MICROSOFT_FORMS.json",
+  "requested_google_migration_status": "awaiting user Google sign-in after platform clarification"
 }
