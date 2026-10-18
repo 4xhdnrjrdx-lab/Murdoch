@@ -391,10 +391,14 @@
     "show_response_summary_to_respondents": false,
     "edit_after_submit": false,
     "progress_bar": true,
-    "publish_status": "not_created_in_Google_Forms",
+    "publish_status": "active_in_Microsoft_Forms",
     "consent_gate_separate_from_20_questions": true,
     "required_answers_note": "Participation remains voluntary; respondents may stop without submitting. Profile questions include Prefer not to say; open questions accept None/Not sure.",
-    "checkbox_exclusivity_note": "Google Forms selection-count validation alone does not enforce exclusive options. Pilot and check for contradictions before analysis; exclude invalid/incomplete responses from the complete-response count."
+    "checkbox_exclusivity_note": "Microsoft Forms maximum-three count is enforced. Exclusive Not sure / would not buy options rely on instruction; check contradictions before counting complete usable responses.",
+    "hosting_platform": "Microsoft Forms",
+    "respondent_url": "https://forms.cloud.microsoft/r/Rt3mhzitPq",
+    "editor_url": "https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?id=G0wNwHvPk063xxAROpvCMK9NxK9mw4lLpEpkJ75Udo9UMzJTMERSUklVSkFXVFlQNjhTVFM3MUNaUS4u",
+    "live_question_number_offset": 1
   },
   "source_form_url": "https://docs.google.com/forms/d/e/1FAIpQLSf8U36K1VgKmdAsg35uy0QzP60QxQhlaNMBlv8tu3UtRpjp2Q/viewform?usp=publish-editor"
 }

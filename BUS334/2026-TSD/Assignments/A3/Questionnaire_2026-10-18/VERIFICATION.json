@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-18T14:16:51.984508+04:00",
+  "checked_at": "2026-10-18T17:38:38.924685+04:00",
   "research_questions": 20,
   "closed_questions": 17,
   "open_questions": 3,
@@ -45,7 +45,7 @@
     },
     {
       "path": "BUS334_A3_Questionnaire_Specification.json",
-      "sha256": "8a718161abafbdaf0a8e9af36002dfcc229d7b9485083dfdb7127a0018c68194"
+      "sha256": "8823c3dbca99fdaf4f45a10863429327ca016b4f1f8747ff30ba1aff823f7482"
     },
     {
       "path": "Create_BUS334_Google_Form.gs",
@@ -53,7 +53,23 @@
     },
     {
       "path": "README.md",
-      "sha256": "a9b06a0008431aa6086b635de7cdbed4dfee9a479f00210f26291806ccba7673"
+      "sha256": "4f98df7d5d9a5f1b92969caf0967292a4374dfecc704e25d7282c06b5f70cce7"
+    },
+    {
+      "path": "MICROSOFT_FORMS.json",
+      "sha256": "0eb8b6f1718774c1dfdc8166c66c3a36fc3fbb4fcdbb6e8688212920d01a469a"
+    },
+    {
+      "path": "Evidence/2026-10-18_live_form.png",
+      "sha256": "6eebc731c73a07a975901945cc4a439cb137d32ea23063e2b72a899fe8480d66"
+    },
+    {
+      "path": "Evidence/2026-10-18_mobile_preview.png",
+      "sha256": "853f229e5925b0b3bcced9d043226dd2e22dd65d79d9f063378208058faf2f65"
+    },
+    {
+      "path": "Evidence/2026-10-18_responses_zero.png",
+      "sha256": "023e63d196baee6566d271062394b32dea0e199699da66e59335ba031b783322"
     }
   ],
   "visual_review": {
@@ -64,8 +80,11 @@
   },
   "local_script_mock_check": "pass: twenty questions, three open, required fields, max-three checkbox validation, distinct consent routes, unpublished state, no email collection, no duplicate on repeat run",
   "live_google_form_created": false,
-  "live_execution_and_preview_verified": false,
-  "blocker": "Google account sign-in required in Chrome; supplied URL is respondent view",
+  "live_execution_and_preview_verified": true,
+  "blocker": null,
   "responses_created_or_submitted": 0,
-  "source_a2_unchanged": true
+  "source_a2_unchanged": true,
+  "live_microsoft_form_created": true,
+  "live_platform": "Microsoft Forms",
+  "live_verification_path": "MICROSOFT_FORMS.json"
 }

@@ -1,0 +1,53 @@
+{
+  "checked_at": "2026-10-18T17:38:38.924685+04:00",
+  "platform": "Microsoft Forms",
+  "owner": "Faiaz Dzhafarov, Murdoch University",
+  "owner_account": "35553299@student.murdoch.edu.au",
+  "respondent_url": "https://forms.cloud.microsoft/r/Rt3mhzitPq",
+  "editor_url": "https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?id=G0wNwHvPk063xxAROpvCMK9NxK9mw4lLpEpkJ75Udo9UMzJTMERSUklVSkFXVFlQNjhTVFM3MUNaUS4u",
+  "state": "active; 0 responses at verification",
+  "research_questions": 20,
+  "closed_questions": 17,
+  "open_questions": 3,
+  "separate_consent_question": true,
+  "displayed_question_numbers": "Consent 1; research questions 2–21",
+  "configuration": {
+    "anyone_can_respond": true,
+    "sign_in_required": false,
+    "automatically_collect_name_or_email": false,
+    "all_21_items_required": true,
+    "question_shuffle": false,
+    "progress_bar": true,
+    "hide_submit_another_response": true,
+    "allow_save_or_edit_response": false,
+    "email_notifications": false,
+    "product_preferences_multiple_choice": true,
+    "product_preferences_maximum": 3
+  },
+  "ui_checks": [
+    "All 21 items required; all option counts and option texts match source specification exactly.",
+    "No consent branches to end of form; research questions are hidden. Instruction asks respondent to close without submitting. Any submitted refusal must be excluded.",
+    "Yes consent reveals current-purchase questions; preview successfully advances through all three sections.",
+    "Product question allows three ticks; attempted fourth tick remains unselected. Exclusive Not sure / would not buy options rely on instruction and later data cleaning.",
+    "Public respondent URL opens live survey with no name/email automatic collection notice.",
+    "Mobile preview inspected; actual external phone and signed-out browser pilot not performed.",
+    "Preview-only placeholder text discarded without pressing Submit. Response dashboard confirms 0 responses."
+  ],
+  "import_repairs": [
+    "Removed two introduction fragments incorrectly imported as questions and a trailing underscore-only question.",
+    "Restored full introduction and researcher contact.",
+    "Renamed 3 sections and restored concept description before research Q9.",
+    "Changed product-preferences question to multiple answers, maximum 3.",
+    "Enabled required fields, consent branching, anonymous access and progress indicator."
+  ],
+  "team_approval": "not confirmed",
+  "messages_sent": 0,
+  "responses_submitted_by_agent": 0,
+  "assignment_submitted": false,
+  "evidence": [
+    "Evidence/2026-10-18_live_form.png",
+    "Evidence/2026-10-18_mobile_preview.png",
+    "Evidence/2026-10-18_responses_zero.png"
+  ],
+  "recovery": "Full question specification and Word source are stored alongside this file. Native Microsoft cloud form is owned by the Murdoch account. Screenshots evidence settings/results; no backup of future responses exists yet."
+}
