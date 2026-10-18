@@ -1,0 +1,111 @@
+{
+  "checked_at": "2026-10-18T18:03:43.627663+04:00",
+  "research_questions": 20,
+  "closed_questions": 17,
+  "open_questions": 3,
+  "separate_consent_gate": true,
+  "sources": [
+    {
+      "path": "BUS334/2026-TSD/Materials/01 Assessment/BUS334 Assignment 3 Summary.pdf",
+      "sha256": "b5469b121b783808100aed68f053e654aa9afa4d619b55ab28067b5b1da11365"
+    },
+    {
+      "path": "BUS334/2026-TSD/Materials/01 Assessment/BUS334_Assignment 3 [Data Collection]_Marking Guide.pdf",
+      "sha256": "44bb0ed954901eb9fe8bd2784eeb2d040acb8dc8abaa1d602132893b9c9cf352"
+    },
+    {
+      "path": "BUS334/2026-TSD/Materials/01 Assessment/BUS334 Assignment 2 Summary.pdf",
+      "sha256": "3a76bb7e3bab1b3b77e36c63decc2ed9bc794c5571a594703c8f92d0c94cd187"
+    },
+    {
+      "path": "BUS334/2026-TSD/Materials/01 Assessment/BUS334_Assignment 2 [Questionnaire]_Marking Guide.pdf",
+      "sha256": "63647a3852d34712bc8a312986d25a917f78f9615ab53fc246f7c89245d77ec9"
+    },
+    {
+      "path": "BUS334/2026-TSD/Materials/01 Assessment/Questionnaire Example.pdf",
+      "sha256": "b6e7c67f70bd436c631f204754328bf4783deffb1237f2984f5679d683ed377e"
+    },
+    {
+      "path": "BUS334/2026-TSD/Materials/UnitOutline/00_UNIT_OUTLINE_BUS334_TSD2026.md",
+      "sha256": "33187cdf3cd1f34a2cb2a3789881c0ae1d1acaa58189030a3386d35cb310f98c"
+    },
+    {
+      "path": "BUS334/2026-TSD/Assignments/A2/35553299_Dzhafarov_BUS334_Assignment2_Questionnaire.docx",
+      "sha256": "6b885e4ed1e252844368eb618d00d7f38f3b60a42d3f812c23c16fdd62a2d3e3"
+    },
+    {
+      "path": "BUS334/2026-TSD/Correspondence/2026-10-17_general-lms-check.json",
+      "sha256": "ff619737d60d5ae49f34af6668b0807a23138a24f460d7c6f884be40df0228a5"
+    }
+  ],
+  "artifact_hashes": [
+    {
+      "path": "BUS334_A3_Campus_Grocery_Questionnaire_EN.docx",
+      "sha256": "4563095f81668a68967e6d067285c4cd457d825fae712e32d58b65c3ee579fd1"
+    },
+    {
+      "path": "BUS334_A3_Questionnaire_Specification.json",
+      "sha256": "825ef28a75495c9b7f5e7ffe911487e4db2df8ae3bbc1a4985118bdddfba9829"
+    },
+    {
+      "path": "Create_BUS334_Google_Form.gs",
+      "sha256": "e9947192f74c5be0a9725444a85b21a73928229aab62817fc3bd04da02147194"
+    },
+    {
+      "path": "README.md",
+      "sha256": "633f115a2061d5b7dbc96fb9ae3e5d21a92093f52b104038ce9fb2208cc23de2"
+    },
+    {
+      "path": "MICROSOFT_FORMS.json",
+      "sha256": "c3ce7a48633821b4d37453f62389f112c2c6be8e5545b6500c39cbac23989e48"
+    },
+    {
+      "path": "Evidence/2026-10-18_live_form.png",
+      "sha256": "6eebc731c73a07a975901945cc4a439cb137d32ea23063e2b72a899fe8480d66"
+    },
+    {
+      "path": "Evidence/2026-10-18_mobile_preview.png",
+      "sha256": "853f229e5925b0b3bcced9d043226dd2e22dd65d79d9f063378208058faf2f65"
+    },
+    {
+      "path": "Evidence/2026-10-18_responses_zero.png",
+      "sha256": "023e63d196baee6566d271062394b32dea0e199699da66e59335ba031b783322"
+    },
+    {
+      "path": "GOOGLE_FORMS.json",
+      "sha256": "86473ba3718f6551d5d0252299c9d2dc6435fb07ea79df7219fb01ed3feb5cda"
+    },
+    {
+      "path": "Evidence/2026-10-18_google_decline.png",
+      "sha256": "c7044a1820ec3432008b0019aaac70a9857f9a47d4a8eb845cab6f3ba4997bbd"
+    },
+    {
+      "path": "Evidence/2026-10-18_google_live_form.png",
+      "sha256": "7db84431b42cf963846b93463b206b2f410bdb99e44ee225c04ffc9c8167ef5b"
+    },
+    {
+      "path": "Evidence/2026-10-18_google_max3_validation.png",
+      "sha256": "f43a277da9e71f6bd9d6908968a93d8b0da5801a2cbd138a10a8093b78263b05"
+    },
+    {
+      "path": "Evidence/2026-10-18_google_responses_zero.png",
+      "sha256": "255b4d7792e2271888159f922371ccf9c8bc4b62c5ffa942c58071d29f5fb399"
+    }
+  ],
+  "visual_review": {
+    "docx_rendered_pages": 4,
+    "all_latest_pages_inspected": true,
+    "layout_result": "pass",
+    "rubric_and_brief_pages_inspected": 4
+  },
+  "local_script_mock_check": "pass: twenty questions, three open, required fields, max-three checkbox validation, distinct consent routes, unpublished state, no email collection, no duplicate on repeat run",
+  "live_google_form_created": true,
+  "live_execution_and_preview_verified": true,
+  "blocker": null,
+  "responses_created_or_submitted": 0,
+  "source_a2_unchanged": true,
+  "live_microsoft_form_created": true,
+  "live_platform": "Google Forms",
+  "live_verification_path": "GOOGLE_FORMS.json",
+  "requested_google_migration_status": "completed; published and live navigation/validation checked"
+}

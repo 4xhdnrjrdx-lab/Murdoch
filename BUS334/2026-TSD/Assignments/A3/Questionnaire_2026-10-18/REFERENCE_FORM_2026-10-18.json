@@ -1,0 +1,312 @@
+{
+  "title": "Campus Grocery Store Feasibility Survey",
+  "description": "Campus Grocery Store Feasibility Survey",
+  "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSf8U36K1VgKmdAsg35uy0QzP60QxQhlaNMBlv8tu3UtRpjp2Q/viewform?usp=publish-editor",
+  "questions": [
+    {
+      "full_title": "1. What is your role at Murdoch University Dubai?",
+      "options": [
+        "Undergraduate student",
+        "Postgraduate student",
+        "Academic staff",
+        "Professional / administrative staff"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice",
+      "number": 1,
+      "title": "What is your role at Murdoch University Dubai?",
+      "help": ""
+    },
+    {
+      "full_title": "2. What is your gender?",
+      "options": [
+        "Male",
+        "Female",
+        "Prefer not to say"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice",
+      "number": 2,
+      "title": "What is your gender?",
+      "help": ""
+    },
+    {
+      "full_title": "3. Which ethnic group best describes you?",
+      "options": [
+        "South Asian",
+        "Other (e.g. CIS, Arab, African)",
+        "Prefer not to say"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice",
+      "number": 3,
+      "title": "Which ethnic group best describes you?",
+      "help": ""
+    },
+    {
+      "full_title": "4. Which best describes your current living arrangement in the UAE?",
+      "options": [
+        "Student accommodation / hostel",
+        "Living with parents or relatives",
+        "Renting a flat or room",
+        "Living in a home I own"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice",
+      "number": 4,
+      "title": "Which best describes your current living arrangement in the UAE?",
+      "help": ""
+    },
+    {
+      "full_title": "5. On average, how many days per week are you physically on campus?",
+      "options": [
+        "1 day",
+        "2 days",
+        "3 days",
+        "4 days",
+        "5 or more days"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice",
+      "number": 5,
+      "title": "On average, how many days per week are you physically on campus?",
+      "help": ""
+    },
+    {
+      "full_title": "6. Where do you MOST often buy snacks, drinks or daily items on campus days?",
+      "options": [
+        "Campus café / cafeteria",
+        "Campus vending machines",
+        "Nearby supermarket or convenience store",
+        "Delivery app (e.g. Talabat, Careem)",
+        "I bring everything from home"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "checkbox",
+      "number": 6,
+      "title": "Where do you MOST often buy snacks, drinks or daily items on campus days?",
+      "help": ""
+    },
+    {
+      "full_title": "7. In the past month, have you left campus during the day mainly to buy food or daily items?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice",
+      "number": 7,
+      "title": "In the past month, have you left campus during the day mainly to buy food or daily items?",
+      "help": ""
+    },
+    {
+      "full_title": "8. How satisfied are you with the food and daily-item options currently available on or near campus?",
+      "options": [
+        "1 — Very dissatisfied",
+        "2 — Dissatisfied",
+        "3 — Neutral",
+        "4 — Satisfied",
+        "5 — Very satisfied"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice",
+      "number": 8,
+      "title": "How satisfied are you with the food and daily-item options currently available on or near campus?",
+      "help": ""
+    },
+    {
+      "full_title": "9. If the store stocked what you need at prices similar to nearby shops, how likely would you be to shop there?",
+      "options": [
+        "1 — Very unlikely",
+        "2 — Unlikely",
+        "3 — Neutral",
+        "4 — Likely",
+        "5 — Very likely"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice",
+      "number": 9,
+      "title": "If the store stocked what you need at prices similar to nearby shops, how likely would you be to shop there?",
+      "help": ""
+    },
+    {
+      "full_title": "10. How often would you expect to visit the store during teaching weeks?",
+      "options": [
+        "5 or more times a week",
+        "2–4 times a week",
+        "Once a week",
+        "1–3 times a month",
+        "Less than once a month"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice",
+      "number": 10,
+      "title": "How often would you expect to visit the store during teaching weeks?",
+      "help": ""
+    },
+    {
+      "full_title": "11. How much would you expect to spend on an average visit?",
+      "options": [
+        "Less than AED 10",
+        "AED 10–24.99",
+        "AED 25–49.99",
+        "AED 50 or more"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice",
+      "number": 11,
+      "title": "How much would you expect to spend on an average visit?",
+      "help": ""
+    },
+    {
+      "full_title": "12. Which product category would you buy MOST often?",
+      "options": [
+        "Snacks and drinks",
+        "Ready-to-eat meals and fresh fruit",
+        "Groceries to take home (bread, milk, eggs)",
+        "Personal care and stationery items"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "checkbox",
+      "number": 12,
+      "title": "Which product category would you buy MOST often?",
+      "help": ""
+    },
+    {
+      "full_title": "13. What would be your MAIN reason for using the store?",
+      "options": [
+        "Convenience – close to classes, saves time",
+        "Cheaper than delivery apps",
+        "Quick grab-and-go meals",
+        "Last-minute or emergency purchases",
+        "Buying groceries to take home"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "checkbox",
+      "number": 13,
+      "title": "What would be your MAIN reason for using the store?",
+      "help": ""
+    },
+    {
+      "full_title": "14. Which of the following would MOST encourage you to become a regular customer?",
+      "options": [
+        "Student / staff ID discount",
+        "Loyalty points card",
+        "Meal-deal bundles (e.g. drink + snack + main)",
+        "Fresh and healthy options",
+        "Self-checkout or scan-and-go payment",
+        "Eco-friendly packaging"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "dropdown",
+      "number": 14,
+      "title": "Which of the following would MOST encourage you to become a regular customer?",
+      "help": ""
+    },
+    {
+      "full_title": "15. Which type of store would you MOST prefer on campus?",
+      "options": [
+        "Small convenience kiosk (snacks and drinks)",
+        "Mini-market with fresh and ready-to-eat food",
+        "Self-service smart vending station",
+        "Online order with campus pick-up point"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "checkbox",
+      "number": 15,
+      "title": "Which type of store would you MOST prefer on campus?",
+      "help": ""
+    },
+    {
+      "full_title": "16. Through which channel would you MOST like to hear about the store's offers?",
+      "options": [
+        "University email",
+        "Social media (Instagram, TikTok)",
+        "Posters and screens on campus",
+        "WhatsApp / student groups"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "checkbox",
+      "number": 16,
+      "title": "Through which channel would you MOST like to hear about the store's offers?",
+      "help": ""
+    },
+    {
+      "full_title": "17. Which factor is MOST important to you when choosing where to buy groceries?",
+      "options": [
+        "Price",
+        "Product choice",
+        "Freshness",
+        "Convenient opening hours",
+        "Quick checkout"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice",
+      "number": 17,
+      "title": "Which factor is MOST important to you when choosing where to buy groceries?",
+      "help": ""
+    },
+    {
+      "full_title": "18. A bottle of water costs AED 5.00 at a nearby shop. What is the MOST you would pay for the same",
+      "options": [
+        "Less than AED 5.00",
+        "AED 5.00 (same price)",
+        "AED 5.01–5.50",
+        "AED 5.51–6.00",
+        "More than AED 6.00"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice",
+      "number": 18,
+      "title": "A bottle of water costs AED 5.00 at a nearby shop. What is the MOST you would pay for the same",
+      "help": ""
+    },
+    {
+      "full_title": "19. What would be the MAIN reason that could stop you from using the store?",
+      "options": [
+        "Prices higher than outside stores",
+        "Limited choice of products",
+        "Long queues during class breaks",
+        "Opening hours that do not suit me",
+        "I prefer my current options (e.g. delivery apps)",
+        "Nothing would stop me"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice",
+      "number": 19,
+      "title": "What would be the MAIN reason that could stop you from using the store?",
+      "help": ""
+    },
+    {
+      "full_title": "20. Why would you, or would you not, shop at a grocery store on the Murdoch University Dubai campus?",
+      "options": [],
+      "required": true,
+      "text_tag": "INPUT",
+      "type": "text",
+      "number": 20,
+      "title": "Why would you, or would you not, shop at a grocery store on the Murdoch University Dubai campus?",
+      "help": ""
+    }
+  ],
+  "captured_at": "2026-10-18T18:26:12.450480+04:00",
+  "source_type": "Visible respondent form supplied by user; DOM-backed titles, options, field types and required markers only"
+}

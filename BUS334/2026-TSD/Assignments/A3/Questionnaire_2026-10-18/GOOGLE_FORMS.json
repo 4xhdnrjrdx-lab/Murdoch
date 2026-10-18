@@ -1,459 +1,604 @@
 {
+  "checked_at": "2026-10-18T18:26:12.450480+04:00",
   "platform": "Google Forms",
+  "primary_form": true,
   "editor_url": "https://docs.google.com/forms/d/1vVwR6GcIJOIN_GBJ5z36jZUOFtzni6eyg1SDtj6BeG4/edit",
   "respondent_url": "https://forms.gle/CyfEmb7QitaXtmcK9",
-  "respondent_long_url": "https://docs.google.com/forms/d/e/1FAIpQLSfohkjrQ6QeZfoU2SA1s_DHeqHo3-Qh2QD_A9sa_j_rWJj83A/viewform?usp=publish-editor",
+  "source_reference_url": "https://docs.google.com/forms/d/e/1FAIpQLSf8U36K1VgKmdAsg35uy0QzP60QxQhlaNMBlv8tu3UtRpjp2Q/viewform?usp=publish-editor",
   "account": "oliverus.0001@gmail.com (Oliver)",
   "published": true,
-  "question_audit": [
+  "revision": "reference_copy_requested_by_user",
+  "question_count": 20,
+  "closed_questions": 19,
+  "open_questions": 1,
+  "separate_consent_question": false,
+  "section_count": 1,
+  "description": "Campus Grocery Store Feasibility Survey",
+  "all_visible_questions_match_reference": true,
+  "configuration": {
+    "hosting_platform": "Google Forms",
+    "publish_status": "published_in_Google_Forms",
+    "respondent_url": "https://forms.gle/CyfEmb7QitaXtmcK9",
+    "editor_url": "https://docs.google.com/forms/d/1vVwR6GcIJOIN_GBJ5z36jZUOFtzni6eyg1SDtj6BeG4/edit",
+    "collect_email": false,
+    "require_sign_in": false,
+    "limit_one_response_by_google_login": false,
+    "shuffle_questions": false,
+    "show_response_summary_to_respondents": false,
+    "edit_after_submit": false,
+    "progress_bar": false,
+    "respondent_draft_autosave": true,
+    "section_count": 1,
+    "consent_gate_separate_from_20_questions": false,
+    "added_question_help": false,
+    "added_checkbox_max_selections": null
+  },
+  "comparison_scope": [
+    "All 20 live question titles and their order match reference.",
+    "All option labels and their order match reference.",
+    "All required markers and types match reference: 13 single choice, 5 checkbox, 1 dropdown, 1 single-line open answer.",
+    "Single page; no extra intro, consent, sections, question help or checkbox max-three rule.",
+    "Source hidden/post-submission settings were not inspected; reference form was never answered or submitted."
+  ],
+  "responses_before_edit": 0,
+  "responses_after_edit": 0,
+  "responses_submitted_by_agent": 0,
+  "live_question_audit": [
     {
-      "number": 0,
-      "title": "Eligibility and consent",
-      "help": "Continue only if you meet the eligibility conditions, have read the information above, understand that participation is voluntary, and agree to the use of your answers for BUS334 coursework. If you do not agree, close the survey without submitting.",
-      "required": "true",
-      "kind": "Один из списка",
+      "full_title": "1. What is your role at Murdoch University Dubai?",
       "options": [
-        "Yes, I meet the conditions and agree to take part.",
-        "No, I do not meet the conditions or do not agree."
+        "Undergraduate student",
+        "Postgraduate student",
+        "Academic staff",
+        "Professional / administrative staff"
       ],
-      "expectedHelp": "Continue only if you meet the eligibility conditions, have read the information above, understand that participation is voluntary, and agree to the use of your answers for BUS334 coursework. If you do not agree, close the survey without submitting.",
-      "optionsMatch": true,
-      "help_match": true,
-      "title_match": true
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice"
     },
     {
-      "number": 1,
-      "title": "1. What is your gender?",
-      "help": "",
-      "required": "true",
-      "kind": "Один из списка",
+      "full_title": "2. What is your gender?",
       "options": [
         "Male",
         "Female",
-        "Another gender identity",
         "Prefer not to say"
       ],
-      "expectedHelp": "",
-      "optionsMatch": true,
-      "help_match": true,
-      "title_match": true
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice"
     },
     {
-      "number": 2,
-      "title": "2. Which nationality group best describes you?",
-      "help": "This refers to nationality, not ethnicity. Choose the group that best fits; use the multiple-nationalities option if needed.",
-      "required": "true",
-      "kind": "Один из списка",
+      "full_title": "3. Which ethnic group best describes you?",
       "options": [
-        "United Arab Emirates",
-        "Other Middle Eastern country",
-        "South Asian country",
-        "East or Southeast Asian country",
-        "European or Central Asian country",
-        "African country",
-        "North or South American country",
-        "Oceanian country",
-        "Another country / multiple nationalities",
+        "South Asian",
+        "Other (e.g. CIS, Arab, African)",
         "Prefer not to say"
       ],
-      "expectedHelp": "This refers to nationality, not ethnicity. Choose the group that best fits; use the multiple-nationalities option if needed.",
-      "optionsMatch": true,
-      "help_match": true,
-      "title_match": true
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice"
     },
     {
-      "number": 3,
-      "title": "3. In a typical teaching week, how many days do you attend campus?",
-      "help": "",
-      "required": "true",
-      "kind": "Один из списка",
+      "full_title": "4. Which best describes your current living arrangement in the UAE?",
       "options": [
-        "Less than 1 day",
+        "Student accommodation / hostel",
+        "Living with parents or relatives",
+        "Renting a flat or room",
+        "Living in a home I own"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice"
+    },
+    {
+      "full_title": "5. On average, how many days per week are you physically on campus?",
+      "options": [
         "1 day",
         "2 days",
         "3 days",
         "4 days",
         "5 or more days"
       ],
-      "expectedHelp": "",
-      "optionsMatch": true,
-      "help_match": true,
-      "title_match": true
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice"
     },
     {
-      "number": 4,
-      "title": "4. In a typical teaching week, how many times do you buy food or drinks on campus days?",
-      "help": "Include purchases on campus, nearby, and through delivery apps during those campus days.",
-      "required": "true",
-      "kind": "Один из списка",
+      "full_title": "6. Where do you MOST often buy snacks, drinks or daily items on campus days?",
       "options": [
-        "0 times",
-        "1 time",
-        "2 times",
-        "3 or 4 times",
-        "5 or more times",
-        "Not sure"
+        "Campus café / cafeteria",
+        "Campus vending machines",
+        "Nearby supermarket or convenience store",
+        "Delivery app (e.g. Talabat, Careem)",
+        "I bring everything from home"
       ],
-      "expectedHelp": "Include purchases on campus, nearby, and through delivery apps during those campus days.",
-      "optionsMatch": true,
-      "help_match": true,
-      "title_match": true
+      "required": true,
+      "text_tag": null,
+      "type": "checkbox"
     },
     {
-      "number": 5,
-      "title": "5. Where do you most often get food or drinks on a campus day?",
-      "help": "Choose one main source. If two are equally common, choose the one you used most recently.",
-      "required": "true",
-      "kind": "Один из списка",
-      "options": [
-        "Bring them from home",
-        "Campus cafe / cafeteria",
-        "Campus vending machine",
-        "Nearby shop, supermarket or restaurant",
-        "Delivery app",
-        "Another source",
-        "I do not eat or drink during campus days"
-      ],
-      "expectedHelp": "Choose one main source. If two are equally common, choose the one you used most recently.",
-      "optionsMatch": true,
-      "help_match": true,
-      "title_match": true
-    },
-    {
-      "number": 6,
-      "title": "6. About how much do you spend on food and drinks on a typical campus day?",
-      "help": "Include purchases on campus, nearby and by delivery. Round to the nearest whole dirham.",
-      "required": "true",
-      "kind": "Один из списка",
-      "options": [
-        "AED 0",
-        "AED 1 to 10",
-        "AED 11 to 20",
-        "AED 21 to 30",
-        "AED 31 to 40",
-        "More than AED 40",
-        "Not sure"
-      ],
-      "expectedHelp": "Include purchases on campus, nearby and by delivery. Round to the nearest whole dirham.",
-      "optionsMatch": true,
-      "help_match": true,
-      "title_match": true
-    },
-    {
-      "number": 7,
-      "title": "7. How satisfied are you with the food and drink options currently available on or near campus?",
-      "help": "",
-      "required": "true",
-      "kind": "Один из списка",
-      "options": [
-        "1 - Very dissatisfied",
-        "2 - Dissatisfied",
-        "3 - Neither satisfied nor dissatisfied",
-        "4 - Satisfied",
-        "5 - Very satisfied",
-        "I have not used them / cannot say"
-      ],
-      "expectedHelp": "",
-      "optionsMatch": true,
-      "help_match": true,
-      "title_match": true
-    },
-    {
-      "number": 8,
-      "title": "8. Which products, if any, are difficult to find on or near campus when you need them?",
-      "help": "A sentence or two is enough. Write \"None\" or \"Not sure\" if appropriate.",
-      "required": "true",
-      "kind": "Текст (абзац)",
-      "options": [],
-      "expectedHelp": "A sentence or two is enough. Write \"None\" or \"Not sure\" if appropriate.",
-      "optionsMatch": true,
-      "help_match": true,
-      "title_match": true
-    },
-    {
-      "number": 9,
-      "title": "9. If the store stocked the products you wanted at prices similar to nearby shops, how likely would you be to buy from it?",
-      "help": "",
-      "required": "true",
-      "kind": "Один из списка",
-      "options": [
-        "1 - Very unlikely",
-        "2 - Unlikely",
-        "3 - Neither likely nor unlikely",
-        "4 - Likely",
-        "5 - Very likely",
-        "Not sure"
-      ],
-      "expectedHelp": "",
-      "optionsMatch": true,
-      "help_match": true,
-      "title_match": true
-    },
-    {
-      "number": 10,
-      "title": "10. How often would you expect to buy from this store during teaching weeks?",
-      "help": "",
-      "required": "true",
-      "kind": "Один из списка",
-      "options": [
-        "Never",
-        "Less than once a week",
-        "Once a week",
-        "2 or 3 times a week",
-        "4 or 5 times a week",
-        "More than 5 times a week",
-        "Not sure"
-      ],
-      "expectedHelp": "",
-      "optionsMatch": true,
-      "help_match": true,
-      "title_match": true
-    },
-    {
-      "number": 11,
-      "title": "11. About how much would you expect to spend on each visit to this store?",
-      "help": "Round to the nearest whole dirham. These are your expectations, not a commitment to spend.",
-      "required": "true",
-      "kind": "Один из списка",
-      "options": [
-        "I would not shop there",
-        "AED 1 to 10",
-        "AED 11 to 20",
-        "AED 21 to 30",
-        "AED 31 to 40",
-        "More than AED 40",
-        "Not sure"
-      ],
-      "expectedHelp": "Round to the nearest whole dirham. These are your expectations, not a commitment to spend.",
-      "optionsMatch": true,
-      "help_match": true,
-      "title_match": true
-    },
-    {
-      "number": 12,
-      "title": "12. Which products would you be most likely to buy from the store?",
-      "help": "Select up to three. If you choose \"I would not buy anything\" or \"Not sure\", choose it alone.",
-      "required": "true",
-      "kind": "Несколько из списка",
-      "options": [
-        "Packaged snacks",
-        "Bottled or canned drinks",
-        "Fresh fruit",
-        "Milk, yoghurt or cheese",
-        "Bread or bakery items",
-        "Ready-to-eat sandwiches or meals",
-        "Basic groceries to take home, such as rice, pasta or eggs",
-        "Basic toiletries or stationery",
-        "Another product category",
-        "I would not buy anything",
-        "Not sure"
-      ],
-      "expectedHelp": "Select up to three. If you choose \"I would not buy anything\" or \"Not sure\", choose it alone.",
-      "optionsMatch": true,
-      "help_match": true,
-      "title_match": true
-    },
-    {
-      "number": 13,
-      "title": "13. Would you use the campus store to buy groceries to take home?",
-      "help": "",
-      "required": "true",
-      "kind": "Один из списка",
+      "full_title": "7. In the past month, have you left campus during the day mainly to buy food or daily items?",
       "options": [
         "Yes",
-        "No",
-        "Not sure"
+        "No"
       ],
-      "expectedHelp": "",
-      "optionsMatch": true,
-      "help_match": true,
-      "title_match": true
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice"
     },
     {
-      "number": 14,
-      "title": "14. Which factor is most important to you when choosing a grocery store?",
-      "help": "Choose one factor.",
-      "required": "true",
-      "kind": "Один из списка",
+      "full_title": "8. How satisfied are you with the food and daily-item options currently available on or near campus?",
+      "options": [
+        "1 — Very dissatisfied",
+        "2 — Dissatisfied",
+        "3 — Neutral",
+        "4 — Satisfied",
+        "5 — Very satisfied"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice"
+    },
+    {
+      "full_title": "9. If the store stocked what you need at prices similar to nearby shops, how likely would you be to shop there?",
+      "options": [
+        "1 — Very unlikely",
+        "2 — Unlikely",
+        "3 — Neutral",
+        "4 — Likely",
+        "5 — Very likely"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice"
+    },
+    {
+      "full_title": "10. How often would you expect to visit the store during teaching weeks?",
+      "options": [
+        "5 or more times a week",
+        "2–4 times a week",
+        "Once a week",
+        "1–3 times a month",
+        "Less than once a month"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice"
+    },
+    {
+      "full_title": "11. How much would you expect to spend on an average visit?",
+      "options": [
+        "Less than AED 10",
+        "AED 10–24.99",
+        "AED 25–49.99",
+        "AED 50 or more"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice"
+    },
+    {
+      "full_title": "12. Which product category would you buy MOST often?",
+      "options": [
+        "Snacks and drinks",
+        "Ready-to-eat meals and fresh fruit",
+        "Groceries to take home (bread, milk, eggs)",
+        "Personal care and stationery items"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "checkbox"
+    },
+    {
+      "full_title": "13. What would be your MAIN reason for using the store?",
+      "options": [
+        "Convenience – close to classes, saves time",
+        "Cheaper than delivery apps",
+        "Quick grab-and-go meals",
+        "Last-minute or emergency purchases",
+        "Buying groceries to take home"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "checkbox"
+    },
+    {
+      "full_title": "14. Which of the following would MOST encourage you to become a regular customer?",
+      "options": [
+        "Student / staff ID discount",
+        "Loyalty points card",
+        "Meal-deal bundles (e.g. drink + snack + main)",
+        "Fresh and healthy options",
+        "Self-checkout or scan-and-go payment",
+        "Eco-friendly packaging"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "dropdown"
+    },
+    {
+      "full_title": "15. Which type of store would you MOST prefer on campus?",
+      "options": [
+        "Small convenience kiosk (snacks and drinks)",
+        "Mini-market with fresh and ready-to-eat food",
+        "Self-service smart vending station",
+        "Online order with campus pick-up point"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "checkbox"
+    },
+    {
+      "full_title": "16. Through which channel would you MOST like to hear about the store's offers?",
+      "options": [
+        "University email",
+        "Social media (Instagram, TikTok)",
+        "Posters and screens on campus",
+        "WhatsApp / student groups"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "checkbox"
+    },
+    {
+      "full_title": "17. Which factor is MOST important to you when choosing where to buy groceries?",
       "options": [
         "Price",
         "Product choice",
         "Freshness",
         "Convenient opening hours",
-        "Quick checkout",
-        "Another factor",
-        "Not sure"
+        "Quick checkout"
       ],
-      "expectedHelp": "Choose one factor.",
-      "optionsMatch": true,
-      "help_match": true,
-      "title_match": true
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice"
+    },
+    {
+      "full_title": "18. A bottle of water costs AED 5.00 at a nearby shop. What is the MOST you would pay for the same",
+      "options": [
+        "Less than AED 5.00",
+        "AED 5.00 (same price)",
+        "AED 5.01–5.50",
+        "AED 5.51–6.00",
+        "More than AED 6.00"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice"
+    },
+    {
+      "full_title": "19. What would be the MAIN reason that could stop you from using the store?",
+      "options": [
+        "Prices higher than outside stores",
+        "Limited choice of products",
+        "Long queues during class breaks",
+        "Opening hours that do not suit me",
+        "I prefer my current options (e.g. delivery apps)",
+        "Nothing would stop me"
+      ],
+      "required": true,
+      "text_tag": null,
+      "type": "multiple_choice"
+    },
+    {
+      "full_title": "20. Why would you, or would you not, shop at a grocery store on the Murdoch University Dubai campus?",
+      "options": [],
+      "required": true,
+      "text_tag": "INPUT",
+      "type": "text"
+    }
+  ],
+  "editor_question_audit": [
+    {
+      "number": 1,
+      "title": "1. What is your role at Murdoch University Dubai?",
+      "options": [
+        "Undergraduate student",
+        "Postgraduate student",
+        "Academic staff",
+        "Professional / administrative staff"
+      ],
+      "kind": "Один из списка",
+      "required": "true",
+      "title_match": true,
+      "options_match": true,
+      "no_added_description": true
+    },
+    {
+      "number": 2,
+      "title": "2. What is your gender?",
+      "options": [
+        "Male",
+        "Female",
+        "Prefer not to say"
+      ],
+      "kind": "Один из списка",
+      "required": "true",
+      "title_match": true,
+      "options_match": true,
+      "no_added_description": true
+    },
+    {
+      "number": 3,
+      "title": "3. Which ethnic group best describes you?",
+      "options": [
+        "South Asian",
+        "Other (e.g. CIS, Arab, African)",
+        "Prefer not to say"
+      ],
+      "kind": "Один из списка",
+      "required": "true",
+      "title_match": true,
+      "options_match": true,
+      "no_added_description": true
+    },
+    {
+      "number": 4,
+      "title": "4. Which best describes your current living arrangement in the UAE?",
+      "options": [
+        "Student accommodation / hostel",
+        "Living with parents or relatives",
+        "Renting a flat or room",
+        "Living in a home I own"
+      ],
+      "kind": "Один из списка",
+      "required": "true",
+      "title_match": true,
+      "options_match": true,
+      "no_added_description": true
+    },
+    {
+      "number": 5,
+      "title": "5. On average, how many days per week are you physically on campus?",
+      "options": [
+        "1 day",
+        "2 days",
+        "3 days",
+        "4 days",
+        "5 or more days"
+      ],
+      "kind": "Один из списка",
+      "required": "true",
+      "title_match": true,
+      "options_match": true,
+      "no_added_description": true
+    },
+    {
+      "number": 6,
+      "title": "6. Where do you MOST often buy snacks, drinks or daily items on campus days?",
+      "options": [
+        "Campus café / cafeteria",
+        "Campus vending machines",
+        "Nearby supermarket or convenience store",
+        "Delivery app (e.g. Talabat, Careem)",
+        "I bring everything from home"
+      ],
+      "kind": "Несколько из списка",
+      "required": "true",
+      "title_match": true,
+      "options_match": true,
+      "no_added_description": true
+    },
+    {
+      "number": 7,
+      "title": "7. In the past month, have you left campus during the day mainly to buy food or daily items?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "kind": "Один из списка",
+      "required": "true",
+      "title_match": true,
+      "options_match": true,
+      "no_added_description": true
+    },
+    {
+      "number": 8,
+      "title": "8. How satisfied are you with the food and daily-item options currently available on or near campus?",
+      "options": [
+        "1 — Very dissatisfied",
+        "2 — Dissatisfied",
+        "3 — Neutral",
+        "4 — Satisfied",
+        "5 — Very satisfied"
+      ],
+      "kind": "Один из списка",
+      "required": "true",
+      "title_match": true,
+      "options_match": true,
+      "no_added_description": true
+    },
+    {
+      "number": 9,
+      "title": "9. If the store stocked what you need at prices similar to nearby shops, how likely would you be to shop there?",
+      "options": [
+        "1 — Very unlikely",
+        "2 — Unlikely",
+        "3 — Neutral",
+        "4 — Likely",
+        "5 — Very likely"
+      ],
+      "kind": "Один из списка",
+      "required": "true",
+      "title_match": true,
+      "options_match": true,
+      "no_added_description": true
+    },
+    {
+      "number": 10,
+      "title": "10. How often would you expect to visit the store during teaching weeks?",
+      "options": [
+        "5 or more times a week",
+        "2–4 times a week",
+        "Once a week",
+        "1–3 times a month",
+        "Less than once a month"
+      ],
+      "kind": "Один из списка",
+      "required": "true",
+      "title_match": true,
+      "options_match": true,
+      "no_added_description": true
+    },
+    {
+      "number": 11,
+      "title": "11. How much would you expect to spend on an average visit?",
+      "options": [
+        "Less than AED 10",
+        "AED 10–24.99",
+        "AED 25–49.99",
+        "AED 50 or more"
+      ],
+      "kind": "Один из списка",
+      "required": "true",
+      "title_match": true,
+      "options_match": true,
+      "no_added_description": true
+    },
+    {
+      "number": 12,
+      "title": "12. Which product category would you buy MOST often?",
+      "options": [
+        "Snacks and drinks",
+        "Ready-to-eat meals and fresh fruit",
+        "Groceries to take home (bread, milk, eggs)",
+        "Personal care and stationery items"
+      ],
+      "kind": "Несколько из списка",
+      "required": "true",
+      "title_match": true,
+      "options_match": true,
+      "no_added_description": true
+    },
+    {
+      "number": 13,
+      "title": "13. What would be your MAIN reason for using the store?",
+      "options": [
+        "Convenience – close to classes, saves time",
+        "Cheaper than delivery apps",
+        "Quick grab-and-go meals",
+        "Last-minute or emergency purchases",
+        "Buying groceries to take home"
+      ],
+      "kind": "Несколько из списка",
+      "required": "true",
+      "title_match": true,
+      "options_match": true,
+      "no_added_description": true
+    },
+    {
+      "number": 14,
+      "title": "14. Which of the following would MOST encourage you to become a regular customer?",
+      "options": [
+        "Student / staff ID discount",
+        "Loyalty points card",
+        "Meal-deal bundles (e.g. drink + snack + main)",
+        "Fresh and healthy options",
+        "Self-checkout or scan-and-go payment",
+        "Eco-friendly packaging"
+      ],
+      "kind": "Раскрывающийся список",
+      "required": "true",
+      "title_match": true,
+      "options_match": true,
+      "no_added_description": true
     },
     {
       "number": 15,
-      "title": "15. When would you be most likely to shop at the campus store?",
-      "help": "Choose one main time period.",
-      "required": "true",
-      "kind": "Один из списка",
+      "title": "15. Which type of store would you MOST prefer on campus?",
       "options": [
-        "Before 9 am",
-        "9 am to before 12 noon",
-        "12 noon to before 3 pm",
-        "3 pm to before 6 pm",
-        "6 pm or later",
-        "I would not shop there",
-        "Not sure"
+        "Small convenience kiosk (snacks and drinks)",
+        "Mini-market with fresh and ready-to-eat food",
+        "Self-service smart vending station",
+        "Online order with campus pick-up point"
       ],
-      "expectedHelp": "Choose one main time period.",
-      "optionsMatch": true,
-      "help_match": true,
-      "title_match": true
+      "kind": "Несколько из списка",
+      "required": "true",
+      "title_match": true,
+      "options_match": true,
+      "no_added_description": true
     },
     {
       "number": 16,
-      "title": "16. Suppose a 500 ml bottle of plain water costs AED 5 at a nearby shop. What is the most you would pay for an identical bottle at the campus store?",
-      "help": "This is a hypothetical example, not a claim about current market prices. Round your maximum to the nearest whole dirham.",
-      "required": "true",
-      "kind": "Один из списка",
+      "title": "16. Through which channel would you MOST like to hear about the store's offers?",
       "options": [
-        "Less than AED 5",
-        "AED 5",
-        "AED 6",
-        "AED 7",
-        "AED 8 or more",
-        "I would not buy this product",
-        "Not sure"
+        "University email",
+        "Social media (Instagram, TikTok)",
+        "Posters and screens on campus",
+        "WhatsApp / student groups"
       ],
-      "expectedHelp": "This is a hypothetical example, not a claim about current market prices. Round your maximum to the nearest whole dirham.",
-      "optionsMatch": true,
-      "help_match": true,
-      "title_match": true
+      "kind": "Несколько из списка",
+      "required": "true",
+      "title_match": true,
+      "options_match": true,
+      "no_added_description": true
     },
     {
       "number": 17,
-      "title": "17. What, if anything, would put you off shopping at this campus store?",
-      "help": "A sentence or two is enough. Write \"Nothing\" or \"Not sure\" if appropriate.",
+      "title": "17. Which factor is MOST important to you when choosing where to buy groceries?",
+      "options": [
+        "Price",
+        "Product choice",
+        "Freshness",
+        "Convenient opening hours",
+        "Quick checkout"
+      ],
+      "kind": "Один из списка",
       "required": "true",
-      "kind": "Текст (абзац)",
-      "options": [],
-      "expectedHelp": "A sentence or two is enough. Write \"Nothing\" or \"Not sure\" if appropriate.",
-      "optionsMatch": true,
-      "help_match": true,
-      "title_match": true
+      "title_match": true,
+      "options_match": true,
+      "no_added_description": true
     },
     {
       "number": 18,
-      "title": "18. Which offer, if any, would most encourage you to buy from the store?",
-      "help": "Choose one main offer.",
-      "required": "true",
-      "kind": "Один из списка",
+      "title": "18. A bottle of water costs AED 5.00 at a nearby shop. What is the MOST you would pay for the same",
       "options": [
-        "Student discount",
-        "Food and drink bundle at a lower price",
-        "Loyalty points for future purchases",
-        "Reduced prices on products close to their best-before date",
-        "Another offer",
-        "None of these",
-        "Not sure"
+        "Less than AED 5.00",
+        "AED 5.00 (same price)",
+        "AED 5.01–5.50",
+        "AED 5.51–6.00",
+        "More than AED 6.00"
       ],
-      "expectedHelp": "Choose one main offer.",
-      "optionsMatch": true,
-      "help_match": true,
-      "title_match": true
+      "kind": "Один из списка",
+      "required": "true",
+      "title_match": true,
+      "options_match": true,
+      "no_added_description": true
     },
     {
       "number": 19,
-      "title": "19. How would you most prefer to hear about the store and its offers?",
-      "help": "Choose one main channel. This question does not sign you up for any messages.",
-      "required": "true",
-      "kind": "Один из списка",
+      "title": "19. What would be the MAIN reason that could stop you from using the store?",
       "options": [
-        "University email",
-        "Social media",
-        "Posters or screens on campus",
-        "WhatsApp / student groups",
-        "Friends or classmates",
-        "Another channel",
-        "I do not want updates"
+        "Prices higher than outside stores",
+        "Limited choice of products",
+        "Long queues during class breaks",
+        "Opening hours that do not suit me",
+        "I prefer my current options (e.g. delivery apps)",
+        "Nothing would stop me"
       ],
-      "expectedHelp": "Choose one main channel. This question does not sign you up for any messages.",
-      "optionsMatch": true,
-      "help_match": true,
-      "title_match": true
+      "kind": "Один из списка",
+      "required": "true",
+      "title_match": true,
+      "options_match": true,
+      "no_added_description": true
     },
     {
       "number": 20,
-      "title": "20. What could the store do, if anything, to make you keep using it during the term?",
-      "help": "A sentence or two is enough. Write \"Nothing\" or \"Not sure\" if appropriate.",
-      "required": "true",
-      "kind": "Текст (абзац)",
+      "title": "20. Why would you, or would you not, shop at a grocery store on the Murdoch University Dubai campus?",
       "options": [],
-      "expectedHelp": "A sentence or two is enough. Write \"Nothing\" or \"Not sure\" if appropriate.",
-      "optionsMatch": true,
-      "help_match": true,
-      "title_match": true
+      "kind": "Текст (строка)",
+      "required": "true",
+      "title_match": true,
+      "options_match": true,
+      "no_added_description": true
     }
   ],
-  "consent_yes_route": "Section 2 - Your profile and current purchases",
-  "consent_no_route": "Section 5 - Please close this survey",
-  "last_research_section_route": "Submit",
-  "consent_branches_live_checked": true,
-  "max_three_validation_live_checked": true,
-  "all_research_sections_live_checked": true,
-  "form_responses_at_verification": 0,
-  "test_answers_submitted": 0,
-  "test_fields_cleared": true,
-  "checked_at": "2026-10-18T18:03:43.627663+04:00",
-  "primary_form": true,
-  "created_via": "Google Forms browser editor; optional Apps Script helper was not run",
-  "research_questions": 20,
-  "closed_questions": 17,
-  "open_questions": 3,
-  "separate_consent_question": true,
-  "section_count": 5,
-  "sections": [
-    "Consent and introduction",
-    "Your profile and current purchases",
-    "The proposed campus grocery store",
-    "Store preferences and suggestions",
-    "Please close this survey (refusal only)"
-  ],
-  "configuration": {
-    "collect_email": false,
-    "require_sign_in": false,
-    "limit_one_response_by_google_login": false,
-    "quiz": false,
-    "shuffle_questions": false,
-    "show_response_summary_to_respondents": false,
-    "edit_after_submit": false,
-    "progress_bar": true,
-    "show_link_to_respond_again": false,
-    "respondent_draft_autosave": false,
-    "all_21_questions_required": true,
-    "product_selection_validation": "at most 3; live 4-option attempt blocked with English error message",
-    "confirmation_message": "Thank you for taking part in this BUS334 study."
-  },
-  "test_details": [
-    "No consent -> only refusal/close-tab section; no research questions. Did not press Submit.",
-    "Yes consent -> profile/current purchases; valid transient test fields allowed next page.",
-    "Concept description displayed before Q9.",
-    "Four product choices -> Select no more than 3 options.; three choices permit progression.",
-    "Final research page shows Q14–20 and Submit; bypasses refusal section.",
-    "All transient test fields cleared through Clear form; no response submitted; response dashboard 0."
-  ],
-  "verification_limits": [
-    "Independent signed-out browser and actual phone pilot not performed. Anyone-with-link publication, email collection off and login-dependent limit off were checked in UI.",
-    "Google checkbox count validation does not enforce exclusive Not sure / would not buy options. Check contradictory selections when cleaning real data.",
-    "A submitted refusal must be excluded; exit section instructs respondent to close without submitting.",
-    "Team approval and real responses are not yet confirmed."
-  ],
   "evidence": [
-    "Evidence/2026-10-18_google_live_form.png",
-    "Evidence/2026-10-18_google_decline.png",
-    "Evidence/2026-10-18_google_max3_validation.png",
-    "Evidence/2026-10-18_google_responses_zero.png"
+    "Evidence/2026-10-18_google_reference_copy.png"
   ],
+  "previous_revision": "Revisions/2026-10-18_before_reference_copy/GOOGLE_FORMS.json",
+  "team_approval": "not confirmed",
   "messages_sent": 0,
   "assignment_submitted": false,
-  "recovery": "Question specification, Word source, UI audit and screenshots are saved in the private repository. Google account owns the live form. Future responses require a separate genuine export."
+  "recovery": "Current exact specification and reference capture saved alongside screenshots. Previous custom questionnaire preserved in Revisions and Git history; old Word and Apps Script describe that previous version, not the current live form."
 }
