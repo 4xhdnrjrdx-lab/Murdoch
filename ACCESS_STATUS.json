@@ -103,6 +103,12 @@
         "deadline_time": "not stated",
         "evidence": "Archive/Correspondence/2026-10-19_early-bird-january-2027.json"
       }
+    },
+    "study_plan_check": {
+      "checked_at": "2026-10-19T13:34:35.147373+04:00",
+      "account": "jafarovfayaz@gmail.com",
+      "scope": "Search for personal course/study plan, credit transfer and academic record; August 5 2026 Student Services course plan body read.",
+      "evidence": "Archive/Correspondence/2026-10-19_degree-progress.json"
     }
   },
   "lms": {
@@ -130,6 +136,12 @@
       "BUS225": "BUS225/2026-TSD/Correspondence/2026-10-17_general-lms-check.json",
       "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-17_restart-study-check.json",
       "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-18_A3-report-check.json"
+    },
+    "enrolment_check": {
+      "checked_at": "2026-10-19T13:34:03.858964+04:00",
+      "result": "ok",
+      "scope": "Own course list only; four current BUS units match registry. Course assessment check timestamps unchanged.",
+      "evidence": "Archive/Correspondence/2026-10-19_degree-progress.json"
     }
   },
   "secret_storage": {

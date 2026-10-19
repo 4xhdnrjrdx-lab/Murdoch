@@ -77,7 +77,7 @@
     "invoice_found": false,
     "next_trimester_unit_count": "unknown",
     "repeated_unit_count": "unknown",
-    "current_scholarship_percent": "unconfirmed",
+    "current_scholarship_percent": 0,
     "historic_scholarship_evidence": {
       "message_id": "195ae0061d186235",
       "date": "2025-03-19",
@@ -88,6 +88,10 @@
       "scope": "Historic May 2025 offer only; does not establish January 2027 eligibility."
     },
     "calculator_observation": "January 2027 Bachelor of Business tariff is AED 7645 per unit. Calculator accepted 50 in scholarship input but displayed scholarship 0 in result on two attempts; not used to confirm a 50% scholarship calculation.",
-    "exact_payable_amount": "unknown until current scholarship, unit enrolment and account balance are confirmed"
+    "exact_payable_amount": "unknown until current scholarship, unit enrolment and account balance are confirmed",
+    "scholarship_confirmation": {
+      "date": "2026-10-19",
+      "source": "Direct user clarification: no scholarship discount"
+    }
   }
 }

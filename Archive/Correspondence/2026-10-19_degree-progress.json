@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-19T13:34:35.147373+04:00",
+  "degree": "Bachelor of Business – Marketing and Management",
+  "source": {
+    "type": "Student Services personal course plan email",
+    "message_id": "19fd17be921703f2",
+    "date": "2026-08-05T14:32:58+04:00",
+    "url": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/19fd17be921703f2",
+    "sender": "Dubai.StudentServices@murdoch.edu.au"
+  },
+  "official_plan_rows": [
+    {
+      "period": "2026-TMD",
+      "code": "BUS279",
+      "name": "Digital and Social Media Marketing",
+      "credit_points": 3
+    },
+    {
+      "period": "2026-TMD",
+      "code": "BUS363",
+      "name": "Scaling Agile Projects",
+      "credit_points": 3
+    },
+    {
+      "period": "2026-TMD",
+      "code": "BUS293",
+      "name": "Organisation Theory & Behaviour",
+      "credit_points": 3
+    },
+    {
+      "period": "2026-TMD",
+      "code": "MSP200",
+      "name": null,
+      "credit_points": 3
+    },
+    {
+      "period": "2026-TSD",
+      "code": "BUS225",
+      "name": "Services, Relationship and Retail Marketing",
+      "credit_points": 3
+    },
+    {
+      "period": "2026-TSD",
+      "code": "BUS299",
+      "name": "Consumer Behaviour",
+      "credit_points": 3
+    },
+    {
+      "period": "2026-TSD",
+      "code": "BUS219",
+      "name": "International Business",
+      "credit_points": 3
+    },
+    {
+      "period": "2026-TSD",
+      "code": "BUS210",
+      "name": "Marketing Research & Analysis",
+      "credit_points": 3
+    },
+    {
+      "period": "2027-TJD",
+      "code": "BUS278",
+      "name": "Cross Cultural Marketing",
+      "credit_points": 3
+    },
+    {
+      "period": "2027-TJD",
+      "code": "BUS338",
+      "name": "Global Strategic Management",
+      "credit_points": 3
+    },
+    {
+      "period": "2027-TJD",
+      "code": "COM203",
+      "name": null,
+      "credit_points": 3
+    },
+    {
+      "period": "2027-TJD",
+      "code": "GE II",
+      "name": "Part II General Elective",
+      "credit_points": 3
+    },
+    {
+      "period": "2027-TMD",
+      "code": "BUS334",
+      "name": "Business Analytics",
+      "credit_points": 3
+    },
+    {
+      "period": "2027-TMD",
+      "code": "BUS230",
+      "name": "Change Management",
+      "credit_points": 3
+    },
+    {
+      "period": "2027-TMD",
+      "code": "BUS368",
+      "name": "Cultures of Innovation",
+      "credit_points": 3
+    },
+    {
+      "period": "2027-TMD",
+      "code": "BUS350",
+      "name": "Strategic Marketing",
+      "credit_points": 3
+    }
+  ],
+  "official_plan_total_credit_points": 48,
+  "completed_from_registry": [
+    "BUS279",
+    "BUS363",
+    "BUS293",
+    "MSP200"
+  ],
+  "current_lms_units": [
+    "BUS219",
+    "BUS225",
+    "BUS230",
+    "BUS334"
+  ],
+  "lms_checked_at": "2026-10-19T13:34:03.858964+04:00",
+  "lms_check_scope": "Site identity and own course enrolments only; no fresh assessment or academic transcript audit.",
+  "remaining_after_successful_current_trimester": [
+    "BUS299",
+    "BUS210",
+    "BUS278",
+    "BUS338",
+    "COM203",
+    "GE II",
+    "BUS368",
+    "BUS350"
+  ],
+  "remaining_credit_points_after_current": 24,
+  "projection": {
+    "units_per_trimester": 4,
+    "additional_trimesters_after_current": 2,
+    "intakes": [
+      "January 2027",
+      "May 2027"
+    ],
+    "projected_final_exam_window": [
+      "2027-07-31",
+      "2027-08-08"
+    ],
+    "calendar_url": "https://www.murdochuniversitydubai.com/study/academic-calendar/",
+    "calendar_checked_date": "2026-10-19",
+    "conditions": [
+      "Pass all four current units and all subsequent units.",
+      "Remaining required units must be available and prerequisites satisfied.",
+      "Original plan places BUS230/BUS334 in May 2027; actual current enrolment brings them forward and leaves BUS299/BUS210 from the original September block. Revised allocation of the remaining eight units is not confirmed.",
+      "Projection concerns completion of study; official completion/result release and graduation ceremony dates are not confirmed."
+    ]
+  },
+  "user_finance_clarification": {
+    "date": "2026-10-19",
+    "scholarship_discount_percent": 0,
+    "source": "User explicitly said there is no scholarship discount; Early Bird is separate."
+  }
+}
