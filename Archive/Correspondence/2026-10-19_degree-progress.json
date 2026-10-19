@@ -151,11 +151,143 @@
       "Remaining required units must be available and prerequisites satisfied.",
       "Original plan places BUS230/BUS334 in May 2027; actual current enrolment brings them forward and leaves BUS299/BUS210 from the original September block. Revised allocation of the remaining eight units is not confirmed.",
       "Projection concerns completion of study; official completion/result release and graduation ceremony dates are not confirmed."
-    ]
+    ],
+    "status": "superseded_by_availability_audit; original arithmetic projection retained as history"
   },
   "user_finance_clarification": {
     "date": "2026-10-19",
     "scholarship_discount_percent": 0,
     "source": "User explicitly said there is no scholarship discount; Early Bird is separate."
+  },
+  "availability_audit": {
+    "checked_at": "2026-10-19T13:45:32.376919+04:00",
+    "source": "Official Handbook 2027, rendered unit pages and Dubai offering selectors",
+    "units": [
+      {
+        "code": "BUS278",
+        "name_2027": "Content Marketing",
+        "name_in_august_plan": "Cross Cultural Marketing",
+        "url": "https://handbook.murdoch.edu.au/units/07/BUS278",
+        "dubai_offerings": [
+          "TJD 2027",
+          "TSD 2027",
+          "TMD 2028",
+          "TJD 2029",
+          "TSD 2029"
+        ],
+        "prerequisites_shown": [],
+        "exclusion": "BUS370 Cross Cultural Marketing",
+        "note": "2027 title differs from personal plan; confirm application to existing degree."
+      },
+      {
+        "code": "BUS338",
+        "name_2027": "Global Strategic Management",
+        "url": "https://handbook.murdoch.edu.au/units/32/BUS338",
+        "dubai_offerings": [
+          "TJD 2027",
+          "TSD 2027",
+          "TMD 2028"
+        ],
+        "prerequisite": "BUS219 OR BUS230 OR BUS293",
+        "prerequisite_basis": "BUS293 officially completed according to registry."
+      },
+      {
+        "code": "COM203",
+        "name_2027": "Consulting and Freelancing",
+        "url": "https://handbook.murdoch.edu.au/units/64/COM203",
+        "dubai_offerings": [
+          "TJD 2025 onwards",
+          "TMD 2025 onwards",
+          "TSD 2025 onwards"
+        ],
+        "prerequisites_shown": []
+      },
+      {
+        "code": "BUS299",
+        "name_2027": "Consumer Behaviour",
+        "url": "https://handbook.murdoch.edu.au/units/36/BUS299",
+        "dubai_offerings": [
+          "TSD 2026",
+          "TMD 2027",
+          "TJD 2028",
+          "TSD 2028",
+          "TMD 2029"
+        ],
+        "enrolment_rules": "BUS124 OR BUS169 OR BUS183; exclusion BUS273",
+        "earlier_credit_completion": "not confirmed; required in remaining personal plan"
+      },
+      {
+        "code": "BUS210",
+        "name_2027": "Marketing Research and Analysis",
+        "url": "https://handbook.murdoch.edu.au/units/36/BUS210",
+        "dubai_offerings": [
+          "TSD 2026",
+          "TMD 2027",
+          "TJD 2028",
+          "TSD 2028",
+          "TMD 2029"
+        ],
+        "enrolment_rules": "(MAS180 OR BUS130) AND (BUS169 OR BUS183); exclusions BUS235 and BUS335",
+        "earlier_prerequisite_credit": "not independently verified from academic record"
+      },
+      {
+        "code": "BUS368",
+        "name_2027": "Cultures of Innovation",
+        "url": "https://handbook.murdoch.edu.au/units/27/BUS368",
+        "dubai_offerings": [
+          "TSD 2026",
+          "TMD 2027",
+          "TJD 2028",
+          "TSD 2028",
+          "TMD 2029"
+        ],
+        "prerequisites_shown": []
+      },
+      {
+        "code": "BUS350",
+        "name_2027": "Strategic Marketing",
+        "url": "https://handbook.murdoch.edu.au/units/33/BUS350",
+        "dubai_offerings": [
+          "TSD 2026",
+          "TMD 2027",
+          "TJD 2028",
+          "TSD 2028",
+          "TMD 2029"
+        ],
+        "prerequisite": "BUS273 OR BUS299",
+        "exclusion": "BUS382",
+        "blocking_sequence": "BUS299 is not yet completed according to available plan; BUS299 and BUS350 both offered TMD 2027. Normal prerequisite sequence cannot be satisfied by simply taking both in May 2027. Permission for concurrent enrolment or prerequisite waiver is unconfirmed."
+      },
+      {
+        "code": "GE II",
+        "name": "Part II General Elective",
+        "specific_unit": "not selected",
+        "availability": "unknown until eligible elective chosen"
+      }
+    ],
+    "handbook_self_enrolment": "Selected Dubai offerings displayed Available for self enrolment: No. This Handbook field is not evidence of seat availability or an enrolment decision in Dubai Student Portal.",
+    "portal_check": {
+      "url": "https://portal.murdochuniversitydubai.com/",
+      "result": "Existing 35553299@student.murdoch.edu.au session rejected by Navitas tenant. Selecting another account was blocked by automatic approval review; no further login, credential input or enrolment performed.",
+      "seat_counts_verified": false,
+      "available_electives_verified": false
+    },
+    "revised_projection": {
+      "august_2027_completion": "not confirmed; specific prerequisite conflict found",
+      "january_2027_candidates": [
+        "BUS278",
+        "BUS338",
+        "COM203",
+        "GE II (specific eligible elective required)"
+      ],
+      "may_2027_candidates": [
+        "BUS299",
+        "BUS210",
+        "BUS368"
+      ],
+      "BUS350_next_listed_after_may_2027": "January 2028",
+      "completion_without_special_permission": "January 2028 trimester, approximately spring 2028; exact end dates not checked",
+      "possible_earlier_completion": "Requires university-approved solution to BUS299 -> BUS350 prerequisite and final enrolment/degree audit; do not present August 2027 as guaranteed."
+    }
   }
 }

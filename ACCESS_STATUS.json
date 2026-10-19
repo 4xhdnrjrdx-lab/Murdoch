@@ -108,7 +108,12 @@
       "checked_at": "2026-10-19T13:34:35.147373+04:00",
       "account": "jafarovfayaz@gmail.com",
       "scope": "Search for personal course/study plan, credit transfer and academic record; August 5 2026 Student Services course plan body read.",
-      "evidence": "Archive/Correspondence/2026-10-19_degree-progress.json"
+      "evidence": "Archive/Correspondence/2026-10-19_degree-progress.json",
+      "availability_followup": {
+        "checked_at": "2026-10-19T13:45:32.376919+04:00",
+        "scope": "Study Gmail after 5 August 2026: course/study plan, offerings, January 2027, BUS299/BUS210, Murdoch senders; search exhausted (7 results). No newer personal plan found. July 28 enrolment notice read for official portal URL.",
+        "evidence": "Archive/Correspondence/2026-10-19_degree-progress.json"
+      }
     }
   },
   "lms": {
@@ -157,5 +162,12 @@
     "visibility": "private",
     "verification_report": "Verification/RESTORE_REPORT.md",
     "note": "HEAD/main SHA is external Git state, not a self-referential status field."
+  },
+  "student_portal": {
+    "attempted_at": "2026-10-19T13:45:32.376919+04:00",
+    "scope": "Dubai registration portal login only",
+    "result": "Existing university session rejected by Navitas tenant; selecting another account blocked by automatic approval review. Seats, elective choices and personal enrolment eligibility remain unknown.",
+    "last_successful_check": "unknown",
+    "evidence": "Archive/Correspondence/2026-10-19_degree-progress.json"
   }
 }
