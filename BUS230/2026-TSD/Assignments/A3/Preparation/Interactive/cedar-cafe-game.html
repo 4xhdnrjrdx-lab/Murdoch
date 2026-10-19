@@ -1,0 +1,256 @@
+<div id="bus230-mission-three" class="cedar-game">
+  <header class="cg-header">
+    <div class="cg-eyebrow">BUS230 · CHANGE MANAGEMENT</div>
+    <div class="cg-title-row"><div><h2>Cedar Café</h2><div class="cg-subtitle">Your decisions shape the shift.</div></div><button type="button" class="cg-language cursor-interaction" data-help aria-pressed="false">RU · помощь</button></div>
+    <div class="cg-tags"><span>Stage 1/14</span><span>Topic 1/8 · Block 1.1</span><span>Fictional café</span></div>
+  </header>
+  <div class="cg-goal"><span class="cg-goal-icon"><i data-lucide="flag" aria-hidden="true"></i></span><div><strong>Your mission: get all 4 orders ready.</strong><div>One cashier. One cook. Give every order a clear route.</div></div></div>
+  <div class="cg-help" data-help-text hidden>Твоя цель — приготовить все четыре заказа. Заказы с кассы уже видны кухне. Заказы приложения ждут на отдельном экране: за их передачу никто не отвечает. Выбери схему, объясни решение и посмотри, как перемещаются заказы. Можно предложить свой вариант.</div>
+  <section class="cg-scene" aria-label="Interactive café: app orders, kitchen and cashier">
+    <div class="cg-shop-top"><span class="cg-open">OPEN</span><span class="cg-shop-sign">COFFEE &amp; GOOD DECISIONS</span><i data-lucide="coffee" aria-hidden="true"></i></div>
+    <div class="cg-awning" aria-hidden="true"></div>
+    <div class="cg-floor">
+      <div class="cg-stations">
+        <div class="cg-station cg-app-station">
+          <div class="cg-station-name"><i data-lucide="smartphone" aria-hidden="true"></i> APP</div>
+          <div class="cg-phone"><div class="cg-phone-speaker" aria-hidden="true"></div><div class="cg-device-title" data-app-screen>Separate app screen</div><div class="cg-tickets" data-app-queue aria-label="App orders awaiting handoff"></div></div>
+          <div class="cg-station-caption">A = app order</div>
+        </div>
+        <div class="cg-station cg-kitchen-station">
+          <div class="cg-station-name"><i data-lucide="chef-hat" aria-hidden="true"></i> KITCHEN</div>
+          <div class="cg-kitchen-board"><div class="cg-device-title">Kitchen queue</div><div class="cg-tickets" data-kitchen-queue aria-label="Orders available to the cook"></div></div>
+          <div class="cg-character cg-chef" aria-hidden="true"><div class="cg-hat"></div><div class="cg-face"></div><div class="cg-body"></div><div class="cg-arm cg-arm-left"></div><div class="cg-arm cg-arm-right"></div></div>
+          <div class="cg-station-caption">Cook</div>
+        </div>
+        <div class="cg-station cg-counter-station">
+          <div class="cg-station-name"><i data-lucide="store" aria-hidden="true"></i> COUNTER</div>
+          <div class="cg-register" aria-hidden="true"><i data-lucide="credit-card" aria-hidden="true"></i><span>001 · 002</span></div>
+          <div class="cg-character cg-cashier" aria-hidden="true"><div class="cg-hat"></div><div class="cg-face"></div><div class="cg-body"></div><div class="cg-arm cg-arm-left"></div><div class="cg-arm cg-arm-right"></div></div>
+          <div class="cg-station-caption">Cashier</div>
+        </div>
+      </div>
+      <div class="cg-counter-front" aria-hidden="true"><div class="cg-counter-plaque">CEDAR</div><span>freshly brewed</span></div>
+      <div class="cg-pickup"><div class="cg-pickup-title"><i data-lucide="coffee" aria-hidden="true"></i><strong>READY FOR PICKUP</strong></div><div class="cg-tickets cg-ready-tickets" data-ready aria-label="Prepared orders"></div></div>
+    </div>
+  </section>
+  <div class="cg-flow-strip"><span>Counter → cashier → kitchen</span><span class="cg-app-flow">App → <span data-route-owner>No assigned handoff</span></span></div>
+  <div class="cg-event"><span class="cg-event-dot" aria-hidden="true"></span><div data-action aria-live="polite">Counter orders reach the cook. App orders wait on their screen.</div></div>
+  <details class="cg-rules"><summary>How this café works</summary><div>Arrival order: C001 → A001 → C002 → A002. All four orders have arrived.</div><ul><li>One model step is one cook action, not a real minute.</li><li>The cook can prepare one drink OR bring one app ticket into the kitchen queue per step.</li><li>The cashier can forward one app ticket alongside cooking. Added cashier duties may affect counter service; that delay is not measured here.</li><li>A shared screen routes both feeds automatically. Setup is assumed feasible for the next shift; test the integration in reality.</li><li>All drinks take one preparation action. No new orders arrive. Staff already know both screens.</li></ul></details>
+  <section class="cg-plan" data-plan-form>
+    <div class="cg-section-heading"><span class="cg-step-badge">1</span><h3>Choose your way to run the café</h3></div>
+    <div class="cg-designs" role="group" aria-label="Order routing design">
+      <button type="button" class="cg-design cursor-interaction" data-design="shared" aria-pressed="false"><span class="cg-design-icon"><i data-lucide="layers" aria-hidden="true"></i></span><strong>One screen</strong><span>Both order feeds together</span></button>
+      <button type="button" class="cg-design cursor-interaction" data-design="cashier" aria-pressed="false"><span class="cg-design-icon"><i data-lucide="user-round" aria-hidden="true"></i></span><strong>Cashier sends</strong><span>Give the cashier the handoff</span></button>
+      <button type="button" class="cg-design cursor-interaction" data-design="cook" aria-pressed="false"><span class="cg-design-icon"><i data-lucide="chef-hat" aria-hidden="true"></i></span><strong>Cook checks</strong><span>Check between drinks</span></button>
+      <button type="button" class="cg-design cursor-interaction" data-design="training" aria-pressed="false"><span class="cg-design-icon"><i data-lucide="presentation" aria-hidden="true"></i></span><strong>Show the app</strong><span>Keep the current routes</span></button>
+      <button type="button" class="cg-design cg-own cursor-interaction" data-design="custom" aria-pressed="false"><span class="cg-design-icon"><i data-lucide="pencil-line" aria-hidden="true"></i></span><strong>My own idea</strong><span>Design a different workflow</span></button>
+    </div>
+    <select data-route hidden aria-label="Selected order route"><option value="">Choose a route</option><option value="shared">One screen</option><option value="cashier">Cashier sends</option><option value="cook">Cook checks</option><option value="training">Show the app</option><option value="custom">My own idea</option></select>
+    <div class="cg-plan-note" data-plan-detail aria-live="polite">Choose a design to see its responsibilities and requirements.</div>
+    <div class="cg-plan-bottom"><label data-priority-label>Order priority<select class="cg-select cursor-interaction" data-priority><option value="fifo">Oldest available first</option><option value="counter">Counter first</option><option value="app">App first</option></select></label><label for="colorful-cafe-reason">Why this plan? What would you check?<textarea id="colorful-cafe-reason" class="cg-textarea" rows="2" maxlength="700" placeholder="I would… because… One thing to check is…"></textarea></label></div>
+    <div class="cg-start-row"><span>English or Russian · your own reasoning</span><button type="button" class="cg-primary cursor-interaction" data-start>Test my plan <i data-lucide="arrow-right" aria-hidden="true"></i></button></div>
+    <div data-error role="alert" hidden></div>
+  </section>
+  <section class="cg-run" data-simulation hidden>
+    <div class="cg-run-top"><div><div class="cg-eyebrow">YOUR SHIFT</div><div data-plan-summary></div></div><span class="cg-step-count" data-step-count>Model step 0</span></div>
+    <div class="cg-run-bottom"><div><strong data-counts>Prepared 0/4 · waiting 4</strong><div class="cg-progress" aria-hidden="true"><div data-prepared-fill></div></div></div><button type="button" class="cg-primary cursor-interaction" data-next>Next move <i data-lucide="play" aria-hidden="true"></i></button></div>
+    <div class="cg-tradeoff" data-tradeoff></div>
+  </section>
+  <section class="cg-result" data-result hidden aria-live="polite">
+    <div class="cg-finish-heading"><span class="cg-finish-icon"><i data-lucide="flag" aria-hidden="true"></i></span><div><div class="cg-eyebrow">TIME TO REFLECT</div><h3 data-result-title>Your shift result</h3></div></div>
+    <div data-result-value></div>
+    <div class="cg-learning"><div><strong>Чему должна была научить сцена:</strong> изменение технологии нужно согласовать с обязанностями людей и порядком работы.</div><div><strong>Связь с курсом:</strong> Topic 1, slide 4 — tool-based perspective: выбрать и проверить практическое действие для управления изменением.</div></div>
+    <div class="cg-end-actions"><button type="button" class="cg-primary cursor-interaction" data-discuss>Discuss my result <i data-lucide="message-circle" aria-hidden="true"></i></button><button type="button" class="cg-secondary cursor-interaction" data-compare>Try another design</button></div><div data-send-status role="status"></div>
+  </section>
+  <footer class="cg-footer">A fictional practice scene · Topic 1, slide 4 · model actions, not real-world predictions</footer>
+  <style>
+    #bus230-mission-three.cedar-game {--cg-bg:light-dark(#fff9ed,#182b2b);--cg-panel:light-dark(#ffffff,#203b39);--cg-ink:light-dark(#183f36,#eaf8e9);--cg-muted:light-dark(#597168,#b4cdc4);--cg-green:light-dark(#176f53,#61c797);--cg-on-green:light-dark(#ffffff,#123c2d);--cg-mint:light-dark(#daf1df,#2b5040);--cg-yellow:light-dark(#ffd578,#e9b854);--cg-on-yellow:light-dark(#423111,#342b13);--cg-coral:light-dark(#ed9f83,#b96b57);--cg-app:light-dark(#fff0df,#5a3e2f);--cg-app-text:light-dark(#8b442a,#ffe0bc);--cg-counter:light-dark(#daf0e9,#295348);--cg-counter-text:light-dark(#245c4a,#dbf6e8);--cg-line:light-dark(#dfdfcc,#486258);--cg-floor:light-dark(#f0dfbd,#504b34);--cg-wall:light-dark(#e5f1db,#304d3f);--cg-wood:light-dark(#c5905d,#946d49);--cg-wood-dark:light-dark(#925c39,#6d4a32);--cg-skin:light-dark(#dba779,#c8936b);--cg-hair:light-dark(#4b352a,#3b2820);color-scheme:light dark;color:var(--cg-ink);background:var(--cg-bg);border-radius:24px;overflow:hidden;font-family:ui-rounded,"SF Pro Rounded",system-ui,sans-serif;font-size:14px;line-height:1.5;}
+    #bus230-mission-three [hidden] {display:none !important;}
+    #bus230-mission-three * {box-sizing:border-box;}
+    #bus230-mission-three .cg-header {padding:24px 24px 18px;background:var(--cg-mint);}
+    #bus230-mission-three .cg-eyebrow {font-size:11px;letter-spacing:.13em;font-weight:700;color:var(--cg-muted);}
+    #bus230-mission-three .cg-title-row {display:flex;justify-content:space-between;align-items:center;gap:12px;}
+    #bus230-mission-three h2 {font-family:Georgia,serif;font-size:38px;line-height:1.15;letter-spacing:-.04em;margin:7px 0 5px;font-weight:700;color:var(--cg-ink);}
+    #bus230-mission-three .cg-subtitle {color:var(--cg-muted);}
+    #bus230-mission-three button,#bus230-mission-three select,#bus230-mission-three textarea {font:inherit;}
+    #bus230-mission-three button {touch-action:manipulation;}
+    #bus230-mission-three button:focus-visible,#bus230-mission-three textarea:focus-visible,#bus230-mission-three select:focus-visible {outline:3px solid var(--cg-green);outline-offset:3px;}
+    #bus230-mission-three .cg-language {background:var(--cg-panel);color:var(--cg-ink);border:0;border-radius:12px;padding:9px 12px;white-space:nowrap;font-size:12px;}
+    #bus230-mission-three .cg-tags {display:flex;flex-wrap:wrap;gap:7px;margin-top:17px;}
+    #bus230-mission-three .cg-tags span {padding:4px 9px;border-radius:7px;background:color-mix(in srgb,var(--cg-panel) 65%,transparent);font-size:11px;font-weight:600;}
+    #bus230-mission-three .cg-goal {display:flex;gap:12px;align-items:center;padding:18px 24px;font-size:13px;}
+    #bus230-mission-three .cg-goal strong {font-size:15px;}
+    #bus230-mission-three .cg-goal-icon {display:grid;place-items:center;background:var(--cg-yellow);color:var(--cg-on-yellow);width:42px;height:42px;flex-shrink:0;border-radius:14px;}
+    #bus230-mission-three .cg-help {margin:0 24px 16px;padding:12px;background:var(--cg-mint);border-radius:12px;}
+    #bus230-mission-three .cg-scene {margin:0 24px;border-radius:18px;overflow:hidden;background:var(--cg-wall);border:1px solid var(--cg-line);}
+    #bus230-mission-three .cg-shop-top {display:flex;justify-content:space-between;align-items:center;gap:8px;padding:11px 16px;background:var(--cg-green);color:var(--cg-on-green);}
+    #bus230-mission-three .cg-shop-sign {font-size:11px;letter-spacing:.12em;font-weight:700;text-align:center;}
+    #bus230-mission-three .cg-open {font-size:10px;letter-spacing:.08em;border:1px solid currentColor;padding:2px 6px;border-radius:4px;}
+    #bus230-mission-three .cg-awning {height:18px;background:repeating-linear-gradient(90deg,var(--cg-coral) 0,var(--cg-coral) 28px,var(--cg-bg) 28px,var(--cg-bg) 56px);border-radius:0 0 8px 8px;box-shadow:0 5px 0 color-mix(in srgb,var(--cg-wood-dark) 9%,transparent);}
+    #bus230-mission-three .cg-floor {padding:14px 16px 0;background:linear-gradient(0deg,var(--cg-floor) 0 35%,var(--cg-wall) 35% 100%);}
+    #bus230-mission-three .cg-stations {display:grid;grid-template-columns:1fr 1.5fr 1fr;gap:16px;align-items:end;min-height:212px;}
+    #bus230-mission-three .cg-station {min-width:0;text-align:center;}
+    #bus230-mission-three .cg-station-name {display:flex;align-items:center;justify-content:center;gap:5px;font-size:10px;letter-spacing:.08em;font-weight:800;margin-bottom:9px;}
+    #bus230-mission-three .cg-station-name svg {width:14px;height:14px;}
+    #bus230-mission-three .cg-phone {background:var(--cg-panel);padding:9px 8px 12px;border:3px solid var(--cg-ink);border-radius:16px;max-width:140px;min-height:126px;margin:auto;}
+    #bus230-mission-three .cg-phone-speaker {height:4px;width:25px;background:var(--cg-ink);border-radius:10px;margin:0 auto 8px;}
+    #bus230-mission-three .cg-device-title {font-size:11px;line-height:1.3;color:var(--cg-muted);margin-bottom:9px;}
+    #bus230-mission-three .cg-tickets {display:flex;flex-wrap:wrap;justify-content:center;gap:7px;min-height:30px;align-items:center;}
+    #bus230-mission-three .order {font-size:12px;line-height:1.4;font-weight:700;background:var(--cg-counter);color:var(--cg-counter-text);padding:7px 9px;border-radius:7px;box-shadow:0 2px 0 color-mix(in srgb,var(--cg-counter-text) 15%,transparent);white-space:nowrap;}
+    #bus230-mission-three .order.app {background:var(--cg-app);color:var(--cg-app-text);}
+    #bus230-mission-three .cg-kitchen-board {background:var(--cg-panel);padding:10px;border:3px solid var(--cg-wood);border-radius:8px;min-height:88px;max-width:220px;margin:0 auto;}
+    #bus230-mission-three .cg-station-caption {font-size:11px;font-weight:600;margin:5px 0 8px;}
+    #bus230-mission-three .cg-register {background:var(--cg-ink);color:var(--cg-mint);padding:9px;border-radius:8px;max-width:112px;margin:0 auto 4px;display:flex;justify-content:center;align-items:center;gap:4px;font-size:10px;}
+    #bus230-mission-three .cg-register svg {width:15px;height:15px;}
+    #bus230-mission-three .cg-character {width:68px;height:84px;position:relative;margin:auto;}
+    #bus230-mission-three .cg-face {position:absolute;top:21px;left:20px;width:28px;height:29px;border-radius:11px 11px 13px 13px;background:radial-gradient(circle at 31% 42%,var(--cg-hair) 0 1.5px,transparent 2px),radial-gradient(circle at 69% 42%,var(--cg-hair) 0 1.5px,transparent 2px),var(--cg-skin);z-index:3;}
+    #bus230-mission-three .cg-body {position:absolute;top:47px;left:12px;width:44px;height:37px;border-radius:16px 16px 3px 3px;background:var(--cg-green);border:7px solid var(--cg-panel);border-top-width:3px;z-index:2;}
+    #bus230-mission-three .cg-arm {position:absolute;top:51px;width:12px;height:27px;background:var(--cg-skin);border-radius:9px;z-index:1;}
+    #bus230-mission-three .cg-arm-left {left:5px;transform:rotate(17deg);}
+    #bus230-mission-three .cg-arm-right {right:5px;transform:rotate(-17deg);}
+    #bus230-mission-three .cg-hat {position:absolute;top:10px;left:18px;width:32px;height:16px;background:var(--cg-panel);border-radius:5px;z-index:4;}
+    #bus230-mission-three .cg-chef .cg-hat:before {content:"";position:absolute;width:18px;height:17px;left:-2px;top:-7px;border-radius:50%;background:var(--cg-panel);box-shadow:13px 0 0 var(--cg-panel);}
+    #bus230-mission-three .cg-cashier .cg-hat {background:var(--cg-green);border-radius:12px 12px 0 0;}
+    #bus230-mission-three .cg-cashier .cg-hat:after {content:"";position:absolute;right:-9px;bottom:0;width:18px;height:5px;background:var(--cg-green);border-radius:4px;}
+    #bus230-mission-three .cg-cashier .cg-body {background:var(--cg-coral);border-color:var(--cg-yellow);}
+    #bus230-mission-three .cg-counter-front {position:relative;display:flex;justify-content:center;align-items:center;gap:12px;background:repeating-linear-gradient(90deg,var(--cg-wood) 0,var(--cg-wood) 35px,var(--cg-wood-dark) 36px,var(--cg-wood) 38px);border-top:9px solid var(--cg-wood-dark);padding:10px;color:var(--cg-on-yellow);font-size:11px;}
+    #bus230-mission-three .cg-counter-plaque {background:var(--cg-yellow);padding:3px 10px;border-radius:5px;font-weight:800;letter-spacing:.15em;}
+    #bus230-mission-three .cg-pickup {margin:14px -16px 0;padding:12px 16px 14px;background:var(--cg-mint);min-height:90px;}
+    #bus230-mission-three .cg-pickup-title {display:flex;gap:7px;align-items:center;justify-content:center;font-size:10px;letter-spacing:.12em;margin-bottom:9px;}
+    #bus230-mission-three .cg-pickup-title svg {width:14px;height:14px;}
+    #bus230-mission-three .cg-ready-tickets .order:before {content:"☕ ";}
+    #bus230-mission-three .cg-flow-strip {display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px;margin:10px 25px;font-size:11px;color:var(--cg-muted);}
+    #bus230-mission-three .cg-app-flow {color:var(--cg-app-text);}
+    #bus230-mission-three .cg-event {display:flex;align-items:flex-start;gap:10px;margin:16px 24px;padding:12px 14px;background:var(--cg-panel);border-radius:12px;font-size:13px;}
+    #bus230-mission-three .cg-event-dot {background:var(--cg-green);width:8px;height:8px;flex-shrink:0;border-radius:50%;margin-top:6px;}
+    #bus230-mission-three .cg-rules {margin:0 24px 20px;font-size:12px;color:var(--cg-muted);}
+    #bus230-mission-three .cg-rules summary {padding:6px 0;font-weight:600;}
+    #bus230-mission-three .cg-rules li {margin:6px 0;}
+    #bus230-mission-three .cg-plan {padding:0 24px 22px;}
+    #bus230-mission-three .cg-section-heading {display:flex;align-items:center;gap:9px;margin-bottom:14px;}
+    #bus230-mission-three h3 {font:700 17px/1.3 system-ui,sans-serif;margin:0;color:var(--cg-ink);}
+    #bus230-mission-three .cg-step-badge {width:26px;height:26px;display:grid;place-items:center;background:var(--cg-yellow);color:var(--cg-on-yellow);border-radius:9px;font-size:13px;font-weight:700;flex-shrink:0;}
+    #bus230-mission-three .cg-designs {display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px;}
+    #bus230-mission-three .cg-design {display:flex;flex-direction:column;align-items:flex-start;text-align:left;gap:5px;min-width:0;min-height:117px;padding:12px;background:var(--cg-panel);color:var(--cg-ink);border:1px solid var(--cg-line);border-radius:14px;transition:transform .15s,background .15s;}
+    #bus230-mission-three .cg-design strong {font-size:13px;}
+    #bus230-mission-three .cg-design > span:last-child {font-size:11px;color:var(--cg-muted);}
+    #bus230-mission-three .cg-design-icon {width:28px;height:28px;border-radius:8px;background:var(--cg-mint);color:var(--cg-green);display:grid;place-items:center;}
+    #bus230-mission-three .cg-design-icon svg {width:17px;height:17px;}
+    #bus230-mission-three .cg-design[aria-pressed="true"] {background:var(--cg-green);color:var(--cg-on-green);border-color:var(--cg-green);}
+    #bus230-mission-three .cg-design[aria-pressed="true"] > span:last-child {color:var(--cg-on-green);opacity:.85;}
+    #bus230-mission-three .cg-design[aria-pressed="true"] .cg-design-icon {background:var(--cg-mint);color:var(--cg-green);}
+    #bus230-mission-three .cg-own {grid-column:span 2;}
+    #bus230-mission-three .cg-plan-note {color:var(--cg-muted);font-size:12px;margin:12px 0 16px;}
+    #bus230-mission-three .cg-plan-bottom {display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.7fr);gap:16px;}
+    #bus230-mission-three label {display:block;font-size:12px;font-weight:600;min-width:0;}
+    #bus230-mission-three .cg-select,#bus230-mission-three .cg-textarea {display:block;width:100%;min-width:0;margin-top:7px;background:var(--cg-panel);color:var(--cg-ink);border:1px solid var(--cg-line);border-radius:10px;padding:10px;font-size:13px;font-weight:400;}
+    #bus230-mission-three .cg-textarea {resize:vertical;min-height:70px;}
+    #bus230-mission-three .cg-textarea::placeholder {color:var(--cg-muted);opacity:.8;}
+    #bus230-mission-three .cg-start-row {display:flex;justify-content:space-between;align-items:center;gap:12px;margin-top:16px;}
+    #bus230-mission-three .cg-start-row > span {font-size:11px;color:var(--cg-muted);}
+    #bus230-mission-three .cg-primary,#bus230-mission-three .cg-secondary {display:inline-flex;justify-content:center;align-items:center;gap:8px;padding:12px 17px;border-radius:12px;border:0;font-weight:700;white-space:normal;min-height:44px;font-size:13px;}
+    #bus230-mission-three .cg-primary {background:var(--cg-yellow);color:var(--cg-on-yellow);box-shadow:0 3px 0 color-mix(in srgb,var(--cg-wood-dark) 40%,transparent);}
+    #bus230-mission-three .cg-secondary {background:var(--cg-panel);color:var(--cg-ink);border:1px solid var(--cg-line);}
+    #bus230-mission-three .cg-primary svg,#bus230-mission-three .cg-secondary svg {width:16px;height:16px;flex-shrink:0;}
+    #bus230-mission-three [data-error] {padding:10px;margin-top:12px;color:var(--cg-app-text);background:var(--cg-app);border-radius:9px;}
+    #bus230-mission-three .cg-run {margin:0 24px 20px;padding:17px;background:var(--cg-green);color:var(--cg-on-green);border-radius:16px;}
+    #bus230-mission-three .cg-run .cg-eyebrow {color:var(--cg-on-green);opacity:.75;}
+    #bus230-mission-three .cg-run-top {display:flex;justify-content:space-between;gap:12px;align-items:center;font-size:12px;}
+    #bus230-mission-three .cg-step-count {font-size:11px;white-space:nowrap;opacity:.8;}
+    #bus230-mission-three .cg-run-bottom {display:flex;justify-content:space-between;gap:16px;align-items:center;margin-top:16px;}
+    #bus230-mission-three .cg-run-bottom > div {flex:1;}
+    #bus230-mission-three .cg-run-bottom strong {font-size:13px;}
+    #bus230-mission-three .cg-progress {height:7px;border-radius:9px;background:color-mix(in srgb,var(--cg-on-green) 20%,transparent);margin-top:9px;overflow:hidden;}
+    #bus230-mission-three .cg-progress > div {height:100%;background:var(--cg-yellow);width:0;transition:width .4s;}
+    #bus230-mission-three .cg-tradeoff {font-size:11px;opacity:.9;margin-top:12px;}
+    #bus230-mission-three .cg-result {padding:4px 24px 24px;}
+    #bus230-mission-three .cg-finish-heading {display:flex;align-items:center;gap:10px;margin-bottom:14px;}
+    #bus230-mission-three .cg-finish-icon {display:grid;place-items:center;width:43px;height:43px;background:var(--cg-mint);border-radius:14px;color:var(--cg-green);}
+    #bus230-mission-three [data-result-value] {font-size:13px;}
+    #bus230-mission-three .cg-learning {display:grid;gap:12px;margin:18px 0;padding:17px;background:var(--cg-panel);border-radius:14px;font-size:13px;}
+    #bus230-mission-three .cg-end-actions {display:flex;flex-wrap:wrap;gap:10px;}
+    #bus230-mission-three [data-send-status] {font-size:12px;margin-top:10px;color:var(--cg-muted);}
+    #bus230-mission-three .cg-footer {padding:13px 24px;border-top:1px solid var(--cg-line);font-size:11px;color:var(--cg-muted);}
+    #bus230-mission-three .cg-phone {height:152px;min-height:152px;}
+    #bus230-mission-three .cg-kitchen-board {height:126px;min-height:126px;}
+    #bus230-mission-three .cg-kitchen-board .cg-tickets {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));align-content:start;min-height:68px;}
+    #bus230-mission-three .cg-kitchen-board .order {padding:6px 3px;}
+    @media(max-width:520px){#bus230-mission-three .cg-phone{height:152px;min-height:152px;}#bus230-mission-three .cg-kitchen-board{height:140px;min-height:140px;}}
+    @media(hover:hover){#bus230-mission-three .cg-design:hover{transform:translateY(-2px);}#bus230-mission-three .cg-primary:hover{filter:brightness(1.04);}}
+    @media(max-width:520px){#bus230-mission-three .cg-header{padding:20px 16px 16px;}#bus230-mission-three h2{font-size:32px;}#bus230-mission-three .cg-subtitle{font-size:12px;}#bus230-mission-three .cg-goal{padding:16px;font-size:12px;}#bus230-mission-three .cg-goal strong{font-size:14px;}#bus230-mission-three .cg-scene{margin:0 12px;}#bus230-mission-three .cg-floor{padding:12px 9px 0;}#bus230-mission-three .cg-stations{gap:7px;grid-template-columns:1fr 1.15fr 1fr;}#bus230-mission-three .cg-shop-sign{font-size:11px;letter-spacing:.04em;}#bus230-mission-three .cg-phone{padding:8px 4px 10px;border-width:2px;min-height:128px;}#bus230-mission-three .cg-kitchen-board{padding:7px 4px;border-width:2px;}#bus230-mission-three .order{font-size:11px;padding:6px;}#bus230-mission-three .cg-device-title{font-size:11px;}#bus230-mission-three .cg-station-name{font-size:11px;letter-spacing:0;gap:3px;}#bus230-mission-three .cg-station-name svg{width:12px;height:12px;}#bus230-mission-three .cg-pickup{margin-left:-9px;margin-right:-9px;}#bus230-mission-three .cg-plan,#bus230-mission-three .cg-result{padding-left:16px;padding-right:16px;}#bus230-mission-three .cg-event,#bus230-mission-three .cg-run{margin-left:16px;margin-right:16px;}#bus230-mission-three .cg-rules{margin-left:16px;margin-right:16px;}#bus230-mission-three .cg-flow-strip{margin-left:17px;margin-right:17px;}#bus230-mission-three .cg-designs{grid-template-columns:repeat(2,minmax(0,1fr));}#bus230-mission-three .cg-design{min-height:112px;}#bus230-mission-three .cg-own{grid-column:span 2;min-height:80px;}#bus230-mission-three .cg-plan-bottom{grid-template-columns:minmax(0,1fr);}#bus230-mission-three .cg-start-row{align-items:flex-start;flex-direction:column;}#bus230-mission-three .cg-start-row .cg-primary{width:100%;}#bus230-mission-three .cg-run-top{align-items:flex-start;flex-direction:column;}#bus230-mission-three .cg-run-bottom{gap:10px;}#bus230-mission-three .cg-language{padding:8px;font-size:11px;}#bus230-mission-three .cg-help{margin-left:16px;margin-right:16px;}#bus230-mission-three .cg-counter-front>span{font-size:10px;}}
+    @media(prefers-reduced-motion:reduce){#bus230-mission-three *{transition:none !important;animation:none !important;}}
+  </style>
+  <script>
+
+  (()=>{
+    const root=document.getElementById('bus230-mission-three'),q=s=>root.querySelector(s),game='BUS230 workflow mission v3';
+    const orders=[{id:'C001',channel:'counter',seq:1},{id:'A001',channel:'app',seq:2},{id:'C002',channel:'counter',seq:3},{id:'A002',channel:'app',seq:4}];
+    const plans={shared:{label:'Shared kitchen queue',owner:'Automatic routing → cook',detail:'Both feeds enter one kitchen queue; confirm integration and retain order labels before launch.',tradeoff:'This run assumes the integration works. Test routing, labels and staff use before introducing it in a real café.'},cashier:{label:'Cashier forwards app tickets',owner:'Cashier → kitchen queue',detail:'Cashier forwards one app ticket per step alongside cooking; this adds cashier duties.',tradeoff:'The cashier gains an extra task. This model counts handoffs but does not measure the resulting counter or pickup delay.'},cook:{label:'Cook checks both screens',owner:'Cook checks → kitchen queue',detail:'Cook brings one app ticket into the queue between preparation tasks; each check uses one model step.',tradeoff:'The cook gains a monitoring task. In these model rules, that action competes directly with preparation.'},training:{label:'Demonstration only',owner:'No assigned handoff',detail:'Staff already know both screens. A demonstration keeps the routes and responsibility unchanged.',tradeoff:'The demonstration changes knowledge, but these staff already know the screens; no role has taken responsibility for handoff.'},custom:{label:'My own arrangement',owner:'To be specified',detail:'Describe the route, who performs each action and how orders are prioritised; discuss before simulating.',tradeoff:''}};
+    const priorities={fifo:'Oldest available first',counter:'Counter first',app:'App first'};
+    const tokenNodes=new Map();
+    let revision=0;
+    let state={phase:'plan',route:'',priority:'fifo',draft:'',help:false,attempts:[],current:null};
+    function rank(list,priority){return [...list].sort((a,b)=>priority==='fifo'?a.seq-b.seq:((a.channel===(priority==='counter'?'counter':'app')?0:1)-(b.channel===(priority==='counter'?'counter':'app')?0:1))||a.seq-b.seq);}
+    function compute(attempt){let app=orders.filter(x=>x.channel==='app'),queue=orders.filter(x=>x.channel==='counter'),ready=[],log=[],forwarded=0,checks=0;
+      if(attempt.route==='shared'){queue=[...orders];app=[];}
+      const max=attempt.steps;
+      for(let n=0;n<max;n++){
+        let action=[];let checkOnly=false;
+        if(attempt.route==='cashier'&&app.length){let item=app.shift();queue.push(item);forwarded++;action.push('Cashier forwards '+item.id+'.');}
+        if(attempt.route==='cook'&&app.length&&n%2===0){let item=app.shift();queue.push(item);checks++;checkOnly=true;action.push('Cook checks the app screen and brings '+item.id+' into the queue; no drink prepared this step.');}
+        if(!checkOnly&&queue.length){queue=rank(queue,attempt.priority);let item=queue.shift();ready.push(item);action.push('Cook prepares '+item.id+'.');}
+        if(!action.length)action.push('No available kitchen ticket. App orders still have no assigned handoff.');
+        log.push(action.join(' '));
+      }
+      queue=rank(queue,attempt.priority);
+      return {app,queue,ready,log,forwarded,checks,complete:ready.length===4,blocked:attempt.route==='training'&&queue.length===0&&app.length>0};
+    }
+    function chips(el,list){el.replaceChildren();if(!list.length){const empty=document.createElement('span');empty.textContent='—';el.append(empty);return;}for(const item of list){let node=tokenNodes.get(item.id);if(!node){node=document.createElement('span');node.className='order'+(item.channel==='app'?' app':'');node.dataset.order=item.id;node.textContent=item.id;tokenNodes.set(item.id,node);}el.append(node);}}
+    function snapshot(){return {modelContent:{game,revision,block:'1.1',helpUsed:state.help,attempts:state.attempts,current:state.current,assessment:'Same fictional case after previous explanation; supported practice, no mastery inferred'},privateContent:{phase:state.phase,route:state.route,priority:state.priority,draft:state.draft}};}
+    function save(){revision++;if(window.openai?.setWidgetState)window.openai.setWidgetState(snapshot()).catch(()=>{});}
+    function render(){
+      const previousPositions=new Map([...root.querySelectorAll('[data-order]')].map(n=>[n.dataset.order,n.getBoundingClientRect()]));
+      const active=state.current;const result=active&&active.route!=='custom'?compute(active):compute({route:'training',priority:'fifo',steps:0});
+      q('[data-help-text]').hidden=!state.help;q('[data-help]').setAttribute('aria-pressed',String(state.help));
+      q('[data-plan-form]').hidden=state.phase!=='plan';q('[data-simulation]').hidden=!['run','done'].includes(state.phase);q('[data-result]').hidden=state.phase!=='done';
+      chips(q('[data-app-queue]'),result.app);chips(q('[data-kitchen-queue]'),result.queue);chips(q('[data-ready]'),result.ready);
+      q('[data-route-owner]').textContent=active?plans[active.route].owner:'No assigned handoff';q('[data-app-screen]').textContent=active?.route==='shared'?'Shared kitchen screen':'Separate app screen';q('[data-plan-summary]').textContent=active?plans[active.route].label+' · '+priorities[active.priority]:'';
+      q('[data-route]').value=state.route;q('[data-priority]').value=state.priority;q('textarea').value=state.draft;
+      q('[data-priority-label]').hidden=state.route==='custom';q('[data-plan-detail]').textContent=state.route?plans[state.route].detail:'Choose a route; its responsibility and implementation requirement will appear here.';q('[data-start]').textContent=state.route==='custom'?'Discuss my own plan':'Test my plan';
+      q('[data-counts]').textContent='Prepared '+result.ready.length+'/4 · waiting '+(result.app.length+result.queue.length);q('[data-step-count]').textContent='Model step '+(active?.steps||0);
+      q('[data-next]').hidden=state.phase==='done';q('[data-tradeoff]').textContent=active?plans[active.route].tradeoff:'';
+      q('[data-action]').textContent=state.phase==='plan'?'Current workflow: counter tickets reach the cook; app tickets wait on a separate screen.':active?.route==='custom'?'Your arrangement needs a clear model before consequences can be shown.':result.log.at(-1)||'Your plan is in place. Run the next step to follow the orders.';
+      root.dataset.phase=state.phase;
+      root.querySelectorAll('[data-design]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.design===state.route)));
+      q('[data-prepared-fill]').style.width=(result.ready.length/4*100)+'%';
+      if(!window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+        root.querySelectorAll('[data-order]').forEach(node=>{const before=previousPositions.get(node.dataset.order);if(!before)return;const after=node.getBoundingClientRect();const dx=before.x-after.x,dy=before.y-after.y;if(Math.abs(dx)+Math.abs(dy)>2&&node.animate)node.animate([{transform:'translate('+dx+'px,'+dy+'px)'},{transform:'translate(0,0)'}],{duration:420,easing:'cubic-bezier(.2,.8,.2,1)'});});
+      }
+      if(state.phase==='done'){
+        q('[data-result-title]').textContent=active.route==='custom'?'Your own plan':'Shift result';
+        q('[data-result-value]').textContent=active.route==='custom'?'Own plan submitted for discussion; consequences have not been simulated.':result.ready.length+'/4 prepared in '+active.steps+' model steps. '+(result.app.length?result.app.map(x=>x.id).join(', ')+' still waiting.':'All four orders reached preparation.')+' Additional cashier handoffs: '+result.forwarded+'; cook checks: '+result.checks+'.';
+      }
+    }
+    function validAttempt(a){return a&&a.route in plans&&a.priority in priorities&&typeof a.reason==='string'&&a.reason.length<=700&&Number.isInteger(a.steps)&&a.steps>=0&&a.steps<=12;}
+    function restore(saved){const m=saved?.modelContent,p=saved?.privateContent;if(m?.game!==game)return;if(Number.isInteger(m.revision)){if(m.revision<=revision&&revision>0)return;revision=m.revision;}state.attempts=Array.isArray(m.attempts)?m.attempts.filter(validAttempt).slice(-2):[];state.current=validAttempt(m.current)?m.current:null;state.route=p?.route in plans?p.route:'';state.priority=p?.priority in priorities?p.priority:'fifo';state.draft=typeof p?.draft==='string'?p.draft:'';state.phase=['plan','run','done'].includes(p?.phase)?p.phase:'plan';if(state.phase!=='plan'&&!state.current)state.phase='plan';state.help=!!m.helpUsed;render();}
+    async function discuss(button){
+      const a=state.current;if(!a)return;
+      if(!window.openai?.sendFollowUpMessage){q('[data-send-status]').textContent='Copy your plan, reason and observed result into the chat for discussion.';return;}
+      button.disabled=true;
+      try{const result=a.route==='custom'?null:compute(a);await window.openai.sendFollowUpMessage({title:'Discuss my BUS230 workflow design',prompt:'Разбери моё решение в переработанной миссии BUS230 1.1, Topic1 slide4 tool-based perspective. Это поддержанная практика на том же кейсе, не независимый перенос. Факты: один кассир и один повар; кассовые заказы уже идут в очередь кухни, app orders initially on separate screen, staff know screens. Четыре заказа по времени C001,A001,C002,A002, новых нет. Моя схема: '+plans[a.route].label+'. Очередность: '+priorities[a.priority]+'. My reason verbatim: '+a.reason+'. Model steps: '+a.steps+'. Result: '+(result?JSON.stringify({ready:result.ready.map(x=>x.id),waiting:[...result.app,...result.queue].map(x=>x.id),cashierHandoffs:result.forwarded,cookChecks:result.checks,events:result.log}):'Own arrangement: not automatically simulated; clarify and model it explicitly.')+'. Модельные шаги не реальные минуты: cook prepares1 OR transfers1 app ticket; cashier transfer can happen alongside cooking; shared integration assumed feasible but must be tested. Не приписывай реальный экономический эффект или освоение. Сохрани попытку дословно отдельно. Дай коротко: «Чему должна была научить сцена…» и «Как этот этап связан с курсом…». Затем уточнения и новая ситуация по материалам; не повторять уже разобранное без цели.'});q('[data-send-status]').textContent='Plan and result sent for discussion.';}catch{q('[data-send-status]').textContent='Could not send. Copy your plan and result into the chat.';}finally{button.disabled=false;}
+    }
+    root.addEventListener('click',async e=>{const b=e.target.closest('button');if(!b||!root.contains(b))return;
+      if(b.dataset.design){state.route=b.dataset.design;state.draft=q('textarea').value;render();save();}
+      if(b.hasAttribute('data-help')){state.help=!state.help;render();save();}
+      if(b.hasAttribute('data-next')&&state.phase==='run'){state.current.steps++;let r=compute(state.current);if(r.complete||r.blocked||state.current.steps>=12){state.phase='done';state.attempts.push({...state.current});state.attempts=state.attempts.slice(-2);}render();save();}
+      if(b.hasAttribute('data-discuss'))await discuss(b);
+      if(b.hasAttribute('data-compare')){state.phase='plan';state.current=null;state.draft='';render();save();}
+    });
+    q('[data-route]').addEventListener('change',()=>{state.route=q('[data-route]').value;state.draft=q('textarea').value;render();save();});
+    q('[data-priority]').addEventListener('change',()=>{state.priority=q('[data-priority]').value;save();});
+    q('textarea').addEventListener('input',()=>{state.draft=q('textarea').value;});q('textarea').addEventListener('change',save);
+    q('[data-start]').addEventListener('click',async e=>{e.preventDefault();state.draft=q('textarea').value;state.route=q('[data-route]').value;state.priority=q('[data-priority]').value;if(!(state.route in plans)||!state.draft.trim()){q('[data-error]').textContent='Choose a route and give your reason.';q('[data-error]').hidden=false;return;}state.current={route:state.route,priority:state.priority,reason:state.draft,steps:0};state.phase=state.route==='custom'?'done':'run';if(state.route==='custom')state.attempts.push({...state.current});render();save();if(state.route==='custom')await discuss(q('[data-discuss]'));});
+    window.addEventListener('openai:set_globals',e=>{if(e.detail?.globals?.widgetState)restore(e.detail.globals.widgetState);});restore(window.openai?.widgetState);render();
+  })();
+    </script>
+</div>

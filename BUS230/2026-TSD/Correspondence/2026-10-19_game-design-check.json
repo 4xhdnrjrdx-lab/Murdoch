@@ -1,0 +1,23 @@
+{
+  "checked_at": "2026-10-19T16:41:14.150452+04:00",
+  "course": "BUS230",
+  "result": "ok",
+  "mail": {
+    "account": "jafarovfayaz@gmail.com",
+    "query": "after:2026/10/17 (BUS230 OR \"BUS 230\" OR \"Change Management\" OR from:Shahinda.Baig@murdoch.edu.au)",
+    "matching_messages": 0,
+    "uncovered": [
+      "Full university Outlook",
+      "WhatsApp",
+      "Messages outside search terms"
+    ]
+  },
+  "lms": {
+    "operation": "core_course_get_contents",
+    "scope": "Assessment 3 and Session 12 exam revision sections only",
+    "finding": "Heading remains 3 questions / 40 marks; description remains 30 marks. No resolution inferred.",
+    "calendar_rechecked": false,
+    "downloads": false
+  },
+  "actions": "Read only; no messages, submissions or LMS changes."
+}

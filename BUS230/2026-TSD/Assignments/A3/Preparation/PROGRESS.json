@@ -4,7 +4,7 @@
   "period": "2026-TSD",
   "timezone": "Asia/Dubai",
   "started_at": "2026-10-17",
-  "updated_at": "2026-10-17T23:18:05.771042+04:00",
+  "updated_at": "2026-10-19T16:41:14.150452+04:00",
   "authorization": "Прямое сообщение Faiaz: «давай начнём подготовку к экзамену уже сегодня и будем фиксировать всё».",
   "availability": {
     "user_response_verbatim": "по разному",
@@ -36,13 +36,14 @@
     "id": "2026-10-17_02",
     "path": "Sessions/2026-10-17_02_RESTART.md",
     "kind": "subject_focused_visual_lesson",
-    "state": "rebuilt_workflow_mission_ready",
+    "state": "colorful_workflow_mission_ready",
     "response_count": 2,
     "actual_minutes": null,
-    "result": "Two earlier answers retained. Learner requested clear workflow, goal, own design, visible consequences and two-sentence course debrief. Rebuilt mission is prepared; no new learner attempt.",
+    "result": "Two earlier learner answers retained. Colorful visual redesign prepared on request; no new learner response or demonstrated mastery.",
     "language": "English",
     "support": "Visual subject explanation and clarification; no separate English lessons",
-    "current_block": "1.1"
+    "current_block": "1.1",
+    "game_path": "Interactive/cedar-cafe-game.html"
   },
   "topics": [
     {
@@ -138,7 +139,7 @@
       "response_evidence": "Sessions/2026-10-17_01_FORMAT_FEEDBACK.json"
     }
   ],
-  "next_action": "Play Interactive/change-manager-mission.html: inspect routes and model rules, choose a design and priority, give own reason, step through consequences. Discuss result with two short debrief sentences; then fresh transfer. Block 1.1 remains incomplete.",
+  "next_action": "Open Interactive/cedar-cafe-game.html and continue block 1.1: choose routing and priority, explain the plan, run the orders, then discuss the two short learning/course statements. New independent transfer remains pending.",
   "continuation_rules": [
     "Главная цель — освоение BUS230 и экзаменационное применение. Следовать PLAN_RU.md и карте всех блоков CURRICULUM.json, не выбирать темы произвольно.",
     "Учебное объяснение и практика по предмету — на простом взрослом английском; русский для краткой помощи. Английский не является отдельным преподаваемым предметом.",
@@ -198,8 +199,9 @@
     "interactive_learning_required": true,
     "interactive_source": "2026-10-17_interactive-learning-feedback.json",
     "practice_first_game_pilot": {
-      "state": "rebuilt_mission_ready",
-      "source": "2026-10-17_game-mission-rebuild.json"
+      "state": "colorful_mission_ready",
+      "source": "2026-10-17_game-mission-rebuild.json",
+      "display_revision_source": "2026-10-19_colorful-game-design.json"
     },
     "case_information": "Show tools and workflows clearly enough for the player to make informed decisions; do not conflate a player information gap with case actors lacking skills.",
     "mission_design": "Show a coherent current workflow, proposed change, objective and constraints; make the purpose of each decision clear. Accept well-supported alternatives.",
@@ -207,7 +209,13 @@
       "Чему должна была научить сцена…",
       "Как этот этап связан с курсом…"
     ],
-    "curriculum_link": "Every scene maps to verified lecture content and named block; original game examples are distinguished from official cases."
+    "curriculum_link": "Every scene maps to verified lecture content and named block; original game examples are distinguished from official cases.",
+    "visual_engagement": {
+      "source": "2026-10-19_colorful-game-design.json",
+      "request_verbatim": "хотелось бы красочнее, а то не хочется играть",
+      "response": "Colorful scene, visible characters and moving order tickets; adult subject content retained.",
+      "effect_on_learning": "not yet evaluated"
+    }
   },
   "curriculum_path": "CURRICULUM.json",
   "coverage_path": "COVERAGE.md",

@@ -60,10 +60,11 @@
             "Sessions/2026-10-17_02_GAME_ATTEMPT_01.json",
             "2026-10-17_game-app-clarification.json",
             "Sessions/2026-10-17_02_GAME_ATTEMPT_02.json",
-            "2026-10-17_game-mission-rebuild.json"
+            "2026-10-17_game-mission-rebuild.json",
+            "2026-10-19_colorful-game-design.json"
           ],
           "partial_coverage": {
-            "current_mission": "Interactive/change-manager-mission.html",
+            "current_mission": "Interactive/cedar-cafe-game.html",
             "focus": "Tool-based perspective and organisational change",
             "remaining": [
               "Process-based perspective in depth",
