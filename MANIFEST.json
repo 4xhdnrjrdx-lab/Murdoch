@@ -101,8 +101,8 @@
     },
     {
       "path": "Archive/Correspondence/2026-10-19_early-bird-january-2027.json",
-      "bytes": 2261,
-      "sha256": "495eef145ae569dd21bf012706c91d8b972ca1e016777c5ae2795606114a4f45",
+      "bytes": 3490,
+      "sha256": "9ef2698b1f92f812240af5fc5748da0981a3621d8a13284fca0ca4705b8bdba6",
       "storage": "git"
     },
     {
@@ -4313,5 +4313,5 @@
     }
   ],
   "file_count": 718,
-  "total_bytes": 489984651
+  "total_bytes": 489985880
 }

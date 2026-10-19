@@ -63,5 +63,31 @@
   "fee_calculator_url": "https://www.murdochuniversitydubai.com/explore/about/current-students/fee-calculator/",
   "payment_information_url": "https://www.murdochuniversitydubai.com/study/fees-living-costs/how-pay",
   "result": "Read both 14 and 19 October messages; payment deadlines and discount conditions match. No payment initiated and no messages sent.",
-  "checked_at": "2026-10-19T12:42:52.154487+04:00"
+  "checked_at": "2026-10-19T12:42:52.154487+04:00",
+  "tuition_tariff": {
+    "effective_trimester": "January 2027",
+    "diploma_undergraduate_unit_aed": 7645,
+    "before_scholarships_and_discounts": true,
+    "source_message_id": "1a0d2b2973c3a5ee",
+    "source_subject": "Tuition Fee Adjustment from January 2027",
+    "source_date": "2026-09-24",
+    "checked_date": "2026-10-19"
+  },
+  "individual_amount_status": {
+    "invoice_found": false,
+    "next_trimester_unit_count": "unknown",
+    "repeated_unit_count": "unknown",
+    "current_scholarship_percent": "unconfirmed",
+    "historic_scholarship_evidence": {
+      "message_id": "195ae0061d186235",
+      "date": "2025-03-19",
+      "program": "Diploma",
+      "scholarship_percent": 50,
+      "early_bird_percent": 5,
+      "total_discount_percent": 55,
+      "scope": "Historic May 2025 offer only; does not establish January 2027 eligibility."
+    },
+    "calculator_observation": "January 2027 Bachelor of Business tariff is AED 7645 per unit. Calculator accepted 50 in scholarship input but displayed scholarship 0 in result on two attempts; not used to confirm a 50% scholarship calculation.",
+    "exact_payable_amount": "unknown until current scholarship, unit enrolment and account balance are confirmed"
+  }
 }
