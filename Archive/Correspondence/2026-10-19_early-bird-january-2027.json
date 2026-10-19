@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "checked_date": "2026-10-19",
+  "timezone": "Asia/Dubai",
+  "mail_account": "jafarovfayaz@gmail.com",
+  "subject": "Murdoch Dubai Finance January 2027 Early Bird Deadlines",
+  "source_messages": [
+    {
+      "id": "1a152ca62de10cb2",
+      "date": "2026-10-19T10:12:15+04:00",
+      "sender": "dubai.finance@murdoch.edu.au",
+      "subject": "FW: Murdoch Dubai Finance: January 2027 Early Bird Deadlines",
+      "url": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/1a152ca62de10cb2"
+    },
+    {
+      "id": "1a139e298d0a3835",
+      "date": "2026-10-14T14:08:09+04:00",
+      "sender": "dubai.finance@murdoch.edu.au",
+      "subject": "Murdoch Dubai Finance: January 2027 Early Bird Deadlines"
+    }
+  ],
+  "trimester": "January 2027",
+  "discount_percent": 5,
+  "program_deadlines": {
+    "Foundation Program": [
+      "2026-11-09",
+      "2026-11-10"
+    ],
+    "Postgraduate Programs": [
+      "2026-11-09",
+      "2026-11-10"
+    ],
+    "Diploma Programs": [
+      "2026-11-11",
+      "2026-11-12"
+    ],
+    "Bachelor of Communication": [
+      "2026-11-13",
+      "2026-11-16"
+    ],
+    "Bachelor of Psychology": [
+      "2026-11-13",
+      "2026-11-16"
+    ],
+    "Bachelor of Business": [
+      "2026-11-17",
+      "2026-11-18"
+    ],
+    "Bachelor of Information Technology": [
+      "2026-11-19",
+      "2026-11-20"
+    ]
+  },
+  "conditions": [
+    "Payment must be on or before the last deadline for the relevant program.",
+    "No extension beyond the program deadline.",
+    "Discount excludes repeated units.",
+    "Discount unavailable for instalment payments by card, cash, transfer or post-dated cheques."
+  ],
+  "business_last_deadline": "2026-11-18",
+  "deadline_time": "not stated in email",
+  "fee_amount": "not calculated; depends on enrolled units and fee calculator",
+  "fee_calculator_url": "https://www.murdochuniversitydubai.com/explore/about/current-students/fee-calculator/",
+  "payment_information_url": "https://www.murdochuniversitydubai.com/study/fees-living-costs/how-pay",
+  "result": "Read both 14 and 19 October messages; payment deadlines and discount conditions match. No payment initiated and no messages sent.",
+  "checked_at": "2026-10-19T12:42:52.154487+04:00"
+}

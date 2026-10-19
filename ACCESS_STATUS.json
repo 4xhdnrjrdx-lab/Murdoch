@@ -1,8 +1,8 @@
 {
   "mail": {
-    "checked_at": "2026-10-18T23:01:55.469482+04:00",
-    "scope": "after:2026/10/18 (BUS334 OR \"BUS 334\" OR from:Ashok.Mitra@murdoch.edu.au)",
-    "result": "No matching messages; search exhausted. Full Outlook and WhatsApp not checked.",
+    "checked_at": "2026-10-19T12:42:52.154487+04:00",
+    "scope": "Study Gmail jafarovfayaz@gmail.com: Early Bird / Dubai Finance January 2027 since 1 August; 14 and 19 October message bodies read",
+    "result": "Подтверждена скидка Early Bird 5% на January 2027. Для Bachelor of Business последняя дата 18 ноября 2026 включительно; точный час не указан. Без рассрочки и повторных юнитов. Проверка ограничена письмами Finance, не является новой проверкой всех предметов.",
     "last_check_by_course": {
       "BUS219": {
         "checked_at": "2026-10-18T12:56:16.562429+04:00",
@@ -53,7 +53,7 @@
         "evidence": "BUS334/2026-TSD/Correspondence/2026-10-18_A3-report-check.json"
       }
     },
-    "evidence": "BUS334/2026-TSD/Correspondence/2026-10-18_A3-report-check.json",
+    "evidence": "Archive/Correspondence/2026-10-19_early-bird-january-2027.json",
     "outlook_attempt": {
       "attempted_at": "2026-10-07T13:31:59.360199+04:00",
       "result": "No accessible Outlook tab in connected browser inventory; no Outlook connector available in this chat",
@@ -94,6 +94,15 @@
       "scope": "after:2026/10/01 (from:murdoch.edu.au OR from:student.murdoch.edu.au); first 8 search results, message metadata only",
       "result": "Учебный Gmail доступен. Есть университетские письма, включая два ответа BUS334 от 8 октября. Это проверка подключения и доставки; полный обзор всех предметов не выполнялся.",
       "evidence": "Access/Mail/2026-10-08_connection-check.json"
+    },
+    "finance": {
+      "early_bird_january_2027": {
+        "checked_at": "2026-10-19T12:42:52.154487+04:00",
+        "discount_percent": 5,
+        "bachelor_of_business_last_deadline": "2026-11-18",
+        "deadline_time": "not stated",
+        "evidence": "Archive/Correspondence/2026-10-19_early-bird-january-2027.json"
+      }
     }
   },
   "lms": {

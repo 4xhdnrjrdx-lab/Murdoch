@@ -23,8 +23,8 @@
     },
     {
       "path": "ACCESS_STATUS.json",
-      "bytes": 7709,
-      "sha256": "45c97911c1a37557092ee733749f35bed10caf1fce027776b50032e1965bf11a",
+      "bytes": 8444,
+      "sha256": "c14d86e163e2883505c121167dc438c0628cf03604fb5f206945bda64707f82a",
       "storage": "git"
     },
     {
@@ -97,6 +97,12 @@
       "path": "Archive/Correspondence/2026-10-17_pass-mark-scenarios.md",
       "bytes": 7345,
       "sha256": "df27517fdc6670d650bea3c4af5c32f1b616202c04b43bbb9b07729f780e6567",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/Correspondence/2026-10-19_early-bird-january-2027.json",
+      "bytes": 2261,
+      "sha256": "495eef145ae569dd21bf012706c91d8b972ca1e016777c5ae2795606114a4f45",
       "storage": "git"
     },
     {
@@ -4235,8 +4241,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5222,
-      "sha256": "20c4194b950b94bc8cd3119d4aabffe8e0bab26e33109a5e9ac6687534fa5c70",
+      "bytes": 5563,
+      "sha256": "6db2e07c6192c6ef6b22e87c9bd31b8f8d5dd9ef419740342baa1c489022cd08",
       "storage": "git"
     },
     {
@@ -4306,6 +4312,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 717,
-  "total_bytes": 489981314
+  "file_count": 718,
+  "total_bytes": 489984651
 }
