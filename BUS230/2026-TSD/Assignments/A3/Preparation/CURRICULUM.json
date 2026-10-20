@@ -63,17 +63,20 @@
             "2026-10-17_game-mission-rebuild.json",
             "2026-10-19_colorful-game-design.json",
             "Sessions/2026-10-20_GUIDED_CAFE_PASS.json",
-            "2026-10-20_gift-transfer-preparation.json"
+            "2026-10-20_gift-transfer-preparation.json",
+            "2026-10-20_stop-game-format.json"
           ],
           "partial_coverage": {
-            "current_mission": "Interactive/cedar-gifts-transfer.html",
             "focus": "Tool-based perspective and organisational change",
             "remaining": [
+              "Re-explain meaning and purpose of organisational change and clarify learner questions; prior game did not establish understanding",
               "Process-based perspective in depth",
               "Critical perspective in depth",
               "Evidence versus the repeated 70% failure claim",
               "Fresh independent application and delayed recall"
-            ]
+            ],
+            "previous_mission": "Interactive/cedar-gifts-transfer.html",
+            "current_method": "Source-based explanation, worked example and dialogue; game stopped by user 20 October."
           }
         },
         {

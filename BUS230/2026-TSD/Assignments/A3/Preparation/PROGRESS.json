@@ -4,7 +4,7 @@
   "period": "2026-TSD",
   "timezone": "Asia/Dubai",
   "started_at": "2026-10-17",
-  "updated_at": "2026-10-20T14:16:18.179243+04:00",
+  "updated_at": "2026-10-20T14:29:27+04:00",
   "authorization": "Прямое сообщение Faiaz: «давай начнём подготовку к экзамену уже сегодня и будем фиксировать всё».",
   "availability": {
     "user_response_verbatim": "по разному",
@@ -36,21 +36,21 @@
   "active_session": {
     "id": "2026-10-17_02",
     "path": "Sessions/2026-10-17_02_RESTART.md",
-    "kind": "subject_focused_visual_lesson",
-    "state": "guided_demo_complete_new_transfer_pending",
+    "kind": "source_based_explanation_and_dialogue",
+    "state": "game_stopped_foundation_explanation_next",
     "response_count": 3,
     "actual_minutes": null,
-    "result": "Shared/FIFO cafe run completed with all4 orders ready. Choice and Russian explanation were explicitly supplied by assistant; guided demo, not independent knowledge. New gift-request transfer case prepared; no response yet.",
+    "result": "Learner explicitly rejected the game format as unclear and without purpose. Earlier supported responses retained; Cedar Gifts not attempted. Restart the subject explanation from meaning and purpose, with a worked example and dialogue.",
     "language": "English",
-    "support": "Visual subject explanation and clarification; no separate English lessons",
+    "support": "Short coherent explanations, worked examples and questions in dialogue; Russian scaffolding when needed.",
     "current_block": "1.1",
-    "game_path": "Interactive/cedar-gifts-transfer.html"
+    "previous_game_path": "Interactive/cedar-gifts-transfer.html"
   },
   "topics": [
     {
       "topic": 1,
       "title": "Drivers of Change",
-      "material_state": "block_1_1_game_attempt_tool_fit_discussed",
+      "material_state": "partial_supported_practice_format_rejected_foundation_restart",
       "assessed_independently": false,
       "last_practiced_at": "2026-10-20T14:16:18.179243+04:00",
       "evidence": [
@@ -141,9 +141,10 @@
       "response_evidence": "Sessions/2026-10-17_01_FORMAT_FEEDBACK.json"
     }
   ],
-  "next_action": "Try the new Cedar Gifts case without a supplied choice. Capture any original reason before consequence separately from later discussion.",
+  "next_action": "Explain what organisational change management studies, using one clearly hypothetical department-merger example. Discuss questions before moving to Topic 1 three perspectives. No game or immediate quiz.",
   "continuation_rules": [
     "Главная цель — освоение BUS230 и экзаменационное применение. Следовать PLAN_RU.md и карте всех блоков CURRICULUM.json, не выбирать темы произвольно.",
+    "20 октября игровой формат остановлен по прямой просьбе. Не продолжать Cedar Gifts и не создавать заменяющую игру. Короткое объяснение по лекции, разобранный пример и диалог; проверочная практика позже, после понимания.",
     "Учебное объяснение и практика по предмету — на простом взрослом английском; русский для краткой помощи. Английский не является отдельным преподаваемым предметом.",
     "Не устраивать языковые уроки, обязательное чтение вслух или автоматические словарные/грамматические квизы. Исправлять язык по просьбе или когда он мешает предметному смыслу.",
     "На вопросы о значении отвечать прямо; Faiaz может спрашивать снова столько, сколько нужно. Практика — на содержательных ситуациях, без инфантилизации.",
@@ -177,7 +178,7 @@
     "current_topic": 1,
     "total_exam_topics": 8,
     "topic_title": "Drivers of Change",
-    "current_step": "Block 1.1 — practical workflow mission; Topic 1 slide 4 tool-based perspective, partial block coverage",
+    "current_step": "Block 1.1 — meaning and purpose of organisational change; source-based explanation and dialogue",
     "template": "Stage 1/14 · Topic 1/8: Drivers of Change · Step: Block 1.1 — organisational change and three approaches",
     "rules": [
       "Показывать текущий этап/общее число и название темы в начале занятия, после перерыва и при переходе на следующий этап.",
@@ -193,7 +194,7 @@
     "reported": "Learner reports distraction, low interest in text exercises, and better recall with visuals.",
     "assessment_limit": "Self-report only; no diagnosis or fixed learning-style classification.",
     "proposed_trial": "Visual explanation of each subject block, meaningful examples and case practice, then later recall; no requirement for a choice after every explanation.",
-    "trial_status": "agreed_by_user; not yet evaluated",
+    "trial_status": "game_pilot_stopped_by_explicit_user_feedback_2026_10_20",
     "agreement_source": "Sessions/2026-10-17_01_DRIVER_WORD.json",
     "clarification_style": "Direct, respectful adult explanations. No automatic trivial vocabulary quizzes; learner will ask again if unclear.",
     "clarification_source": "Sessions/2026-10-17_01_FORMAT_FEEDBACK.json",
@@ -201,9 +202,10 @@
     "interactive_learning_required": true,
     "interactive_source": "2026-10-17_interactive-learning-feedback.json",
     "practice_first_game_pilot": {
-      "state": "colorful_mission_ready",
+      "state": "stopped_by_user",
       "source": "2026-10-17_game-mission-rebuild.json",
-      "display_revision_source": "2026-10-19_colorful-game-design.json"
+      "display_revision_source": "2026-10-19_colorful-game-design.json",
+      "stop_source": "2026-10-20_stop-game-format.json"
     },
     "case_information": "Show tools and workflows clearly enough for the player to make informed decisions; do not conflate a player information gap with case actors lacking skills.",
     "mission_design": "Show a coherent current workflow, proposed change, objective and constraints; make the purpose of each decision clear. Accept well-supported alternatives.",
@@ -221,7 +223,14 @@
     "onboarding": {
       "source": "Sessions/2026-10-20_GUIDED_CAFE_PASS.json",
       "need": "Explain the goal and first interaction before expecting play. Avoid requiring prose just to try a scene; distinguish guided demonstration from independent response."
-    }
+    },
+    "current_format": {
+      "source": "2026-10-20_stop-game-format.json",
+      "mode": "source_based_explanation_worked_example_dialogue",
+      "rationale": "Learner reports no understanding or purpose in the game; stop redesigning it.",
+      "effectiveness": "not yet assessed"
+    },
+    "interaction_now": "Dialogue, questions and joint case reasoning; an interactive game is not required."
   },
   "curriculum_path": "CURRICULUM.json",
   "coverage_path": "COVERAGE.md",
@@ -233,7 +242,7 @@
     "stages_unchanged": 14,
     "core_blocks": 42
   },
-  "handoff_note": "NEW_CHAT_PROMPT_RU.md updated for the requested fresh teaching start; live records remain authoritative.",
+  "handoff_note": "20 October: game pilot stopped by user. Continue with source-based foundational explanation and dialogue; keep earlier attempts as history.",
   "previous_sessions": [
     {
       "id": "2026-10-17_01",
