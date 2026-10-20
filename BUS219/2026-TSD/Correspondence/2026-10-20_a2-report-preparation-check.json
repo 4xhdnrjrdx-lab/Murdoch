@@ -1,0 +1,169 @@
+{
+  "checked_at": "2026-10-20T15:10:52.683009+04:00",
+  "operations": "read only BUS219 assignment, course content, news forum and own submission status",
+  "assignments": [
+    {
+      "id": 126475,
+      "cmid": 3111392,
+      "name": "Business project report due:  at 23.55pm, 6th of Nov",
+      "duedate": 1793980500,
+      "cutoffdate": 0,
+      "intro_text": " Group leaders please submit the report on behalf of your groups ",
+      "due_dubai": "2026-11-06T19:55:00+04:00",
+      "own_submission_status": "new"
+    }
+  ],
+  "announcements": [
+    {
+      "name": "Assessment Quiz 1 ",
+      "modified": 1791781638,
+      "message": "Dear Students, Hope you are well. Assessment Quiz 1 is now open on the LMS and must be completed by Tuesday, 20th October. Please attempt it in good time so that any technical issues can be resolved before the deadline. If you have any questions, please get in touch. Best, Navneet"
+    },
+    {
+      "name": "Group Formation &amp; Pre- Workshop Reminder",
+      "modified": 1788942668,
+      "message": "Dear Students, I hope you're doing well. This is a gentle reminder to please form groups of four for the upcoming presentations in Week 6. Kindly email me the names of your group members. I've also included a link to the McKinsey report we discussed yesterday, \"Geopolitics and the Geometry of Global Trade: 2026 Update\" — https://www.mckinsey.com/mgi/our-research/geopolitics-and-the-geometry-of-global-trade-2026-update Lastly, please make sure to go through the slides and recording ahead of next week's lecture, so we can have an engaging discussion in class. Thank you very much for your cooperation. Best, Navneet"
+    }
+  ],
+  "assessment_resources": [
+    {
+      "section": "Unit information",
+      "name": "Unit Outline TSD 2026",
+      "url": "https://moodleprod.murdoch.edu.au/mod/resource/view.php?id=3111383",
+      "description": "",
+      "files": [
+        {
+          "filename": "BUS219 International Business TSD 2026.docx",
+          "filesize": 1024836,
+          "timemodified": 1785851702
+        }
+      ]
+    },
+    {
+      "section": "Assessments",
+      "name": "Quiz 1 due:  by 23:55, 20th of Oct",
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3111389",
+      "description": "",
+      "files": []
+    },
+    {
+      "section": "Assessments",
+      "name": "Quiz 2 due: 23:55, 24th of Nov",
+      "url": "https://moodleprod.murdoch.edu.au/mod/quiz/view.php?id=3111390",
+      "description": "",
+      "files": []
+    },
+    {
+      "section": "Assessments",
+      "name": "Business project report due:  at 23.55pm, 6th of Nov",
+      "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3111392",
+      "description": "  Group leaders please submit the report on behalf of your groups  ",
+      "files": []
+    },
+    {
+      "section": "Assessments",
+      "name": "Assignment guidelines, forms and marking guides",
+      "url": "https://moodleprod.murdoch.edu.au/mod/folder/view.php?id=3111393",
+      "description": "",
+      "files": [
+        {
+          "filename": "BUS219 Project Proposal marking guide.doc",
+          "filesize": 48640,
+          "timemodified": 1784279778,
+          "sha256": "739d8d4adc1b1b8f06cee3e1949e9d074c7bbf56ee4526e4a69cfb8dd98035c7",
+          "matches_retained": true
+        },
+        {
+          "filename": "BUS219 Major Project Report marking guide.doc",
+          "filesize": 73728,
+          "timemodified": 1784279778,
+          "sha256": "d3580d7a7783d0fd3d100ca281bf0f695d6ef2dbf2f0aee87394ef0077ef1edd",
+          "matches_retained": true
+        },
+        {
+          "filename": "Policy on Group Projects.doc",
+          "filesize": 27136,
+          "timemodified": 1784279778
+        },
+        {
+          "filename": "Group Charter.doc",
+          "filesize": 34304,
+          "timemodified": 1784279778
+        },
+        {
+          "filename": "Major Project Peer Evaluation.doc",
+          "filesize": 33280,
+          "timemodified": 1784279778
+        },
+        {
+          "filename": "Group Project team meeting time sheet.doc",
+          "filesize": 30208,
+          "timemodified": 1784279778
+        }
+      ]
+    },
+    {
+      "section": "Academic Integrity",
+      "name": "Academic Integrity",
+      "url": "https://moodleprod.murdoch.edu.au/mod/resource/view.php?id=3111394",
+      "description": "",
+      "files": [
+        {
+          "filename": "Academic Integrity Slide deck 3.pptx",
+          "filesize": 73186,
+          "timemodified": 1784279778
+        }
+      ]
+    },
+    {
+      "section": "Academic Integrity",
+      "name": "Exam Protocols",
+      "url": "https://moodleprod.murdoch.edu.au/mod/resource/view.php?id=3111395",
+      "description": "",
+      "files": [
+        {
+          "filename": "Exam protocols.pptx",
+          "filesize": 307365,
+          "timemodified": 1784279778
+        }
+      ]
+    },
+    {
+      "section": "Topic 5: The Legal and Political Environment",
+      "name": "Complementary slides_Assessing and managing political risks",
+      "url": "https://moodleprod.murdoch.edu.au/mod/resource/view.php?id=3111438",
+      "description": "",
+      "files": [
+        {
+          "filename": "Additional slides to BUS219 session 5 assessing and managing political risks.pptx",
+          "filesize": 331296,
+          "timemodified": 1784279779
+        }
+      ]
+    }
+  ],
+  "lms_result": "ok",
+  "mail": {
+    "checked_at": "2026-10-20T15:42:48+04:00",
+    "account": "jafarovfayaz@gmail.com",
+    "scope": "after:2026/10/06 (BUS219 OR \"International Business\" OR \"Major Project\" OR \"The Levant Five\")",
+    "result": "Поиск исчерпан: два прежних письма о Quiz 1 (12 и 18 октября); новых требований A2 в этом охвате нет. Прочитаны метаданные и snippet; тела писем сегодня не перечитывались. Объявление Quiz 1 полностью прочитано в Moodle.",
+    "matched_dates": [
+      "2026-10-12",
+      "2026-10-18"
+    ],
+    "uncovered": [
+      "Полный университетский Outlook",
+      "WhatsApp",
+      "Сообщения вне поискового охвата"
+    ],
+    "evidence": "BUS219/2026-TSD/Correspondence/2026-10-20_a2-report-preparation-check.json"
+  },
+  "outline": "Existing local Unit Outline read; not downloaded again.",
+  "rubric_result": "Final report guide and proposal guide freshly compared with retained files, SHA-256 equal; two photographs visually confirmed as Project Proposal guide.",
+  "limitations": [
+    "Own Moodle status does not establish the group leader’s submission status.",
+    "No submission, email, team message, registration change or automation performed.",
+    "AI use for assessed submission not specifically authorised in the sources reviewed. Draft prepared for team review with disclosure."
+  ]
+}

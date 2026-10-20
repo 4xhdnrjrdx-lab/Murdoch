@@ -1,0 +1,9 @@
+{
+  "method": "Whitespace-delimited visible tokens. Includes headings, citations and each URL as a token; excludes headers, footers and appendix/exhibit text. Conservative total adds cover, disclaimer, contents and bibliography. Word processors may differ on punctuation.",
+  "main_including_headings": 3366,
+  "bibliography_including_heading_note_urls": 300,
+  "front_matter_and_contents": 268,
+  "conservative_total_before_appendices": 3934,
+  "unit_outline_limit": 4000,
+  "references_excluded_from_limit": false
+}

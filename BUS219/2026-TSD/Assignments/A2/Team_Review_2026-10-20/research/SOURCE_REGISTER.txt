@@ -1,0 +1,183 @@
+SOURCE AND CLAIM REGISTER
+Checked: 20 October 2026
+Each item gives claim, source, date and limitation.
+
+S01 | Entry mode and control trade-offs; strategy must follow operating pressures.
+Cengage Learning. (2017). Entry strategies in global business; control of global business [BUS219 lecture slides, Sessions 7 and 8]. Murdoch University LMS.
+https://moodleprod.murdoch.edu.au/
+Source date: 2017 copyright on supplied slides | Scope: Course framework | Check: 2026-10-20 | Status: read
+Limit: Read course slide files, not the full textbook. No invented book page numbers.
+
+S02 | Advertised 48-hour Amman delivery, Arabic/English shopping, COD and card options.
+Dumyah. (n.d.). Frequently asked questions.
+https://www.dumyah.com/en/faq
+Source date: Undated | Scope: Jordan | Check: 2026-10-20 | Status: read
+Limit: Merchant claims, not independent performance data; timings vary by service. Do not infer market share.
+
+S03 | General sales-tax tables contain exceptions; standard residual rate 16%.
+Income and Sales Tax Department. (n.d.). General sales tax tables.
+https://istd.gov.jo/EN/List/General__Sales_Tax_Tables
+Source date: Undated current table | Scope: Jordan | Check: 2026-10-20 | Status: read
+Limit: Arabic rates page explicitly supplies residual 16%; English page lists tables. No SKU or commission/service tax opinion.
+
+S04 | Commercial importer registration/card and import documents.
+International Trade Administration. (2026b, February 26). Jordan: Import requirements and documentation.
+https://www.trade.gov/country-commercial-guides/jordan-import-requirements-and-documentation
+Source date: 2026-02-26 | Scope: Jordan imports | Check: 2026-10-20 | Status: read
+Limit: Guide includes US-specific export documents; those details are not transplanted to UAE exports. Confirm local importer and customs procedure.
+
+S05 | Page quotes 10% with minimum JOD 5 for low-value personal parcels.
+International Trade Administration. (2026a, February 26). Jordan: eCommerce.
+https://www.trade.gov/country-commercial-guides/jordan-ecommerce
+Source date: 2026-02-26 | Scope: Jordan | Check: 2026-10-20 | Status: read
+Limit: Conflicts with current Jordan Customs FAQ stating 16%; not used as current project tax input. Personal parcels are not commercial imports.
+
+S06 | 2.81 million mobile-wallet users in 2025.
+JoPACC. (2026, March 29). JoPACC releases its 2025 payments systems report.
+https://www.jopacc.com/media-center/news/jopacc-releases-its-2025-payments-systems-report
+Source date: 2026-03-29 | Scope: Jordan, data 2025 | Check: 2026-10-20 | Status: read
+Limit: Payment users are not a count of online shoppers or noon customers. No conversion to market size.
+
+S07 | Arabic FAQ states 16% for personal postal parcels with value below JOD 200.
+Jordan Customs. (n.d.). Frequently asked questions [Arabic].
+https://www.customs.gov.jo/AR/Modules/faq
+Source date: Undated current FAQ | Scope: Jordan | Check: 2026-10-20 | Status: read
+Limit: Scope limited to qualifying personal parcels. Commercial rate depends on classification and origin. Conflict with ITA retained openly.
+
+S08 | 96.5% of households had internet access in 2024; survey covers 8,270 households.
+Ministry of Digital Economy and Entrepreneurship. (n.d.-b). Summary of the survey on ICT access and use in households and by individuals 2024.
+https://modee.gov.jo/ebv4.0/root_storage/en/eb_list_page/summary_of_the_survey_on_ict_access_and_use_in_households_and_by_individuals_2024.pdf
+Source date: Publication date not established; data 2024 | Scope: Jordan | Check: 2026-10-20 | Status: read
+Limit: Households, not individuals, purchasers, or order demand. Survey sample is not market size.
+
+S09 | Personal Data Protection Law effective 17 March 2024; processing and transfer checks required.
+Ministry of Digital Economy and Entrepreneurship. (n.d.-a). Personal data protection: FAQs.
+https://modee.gov.jo/EN/Pages/FAQs
+Source date: Undated FAQ | Scope: Jordan | Check: 2026-10-20 | Status: read
+Limit: FAQ is guidance, not an entity-specific legal assessment. Official bilingual law was also read, including Article 15 on overseas transfers.
+
+S10 | Official register lists Investment Environment Regulation No. 7 of 2023 and a regulation with amendments.
+Ministry of Investment. (n.d.). Regulations [Register of the Investment Environment Regulation and amendments]. Consolidated current text unverified.
+https://www.moin.gov.jo/En/List/Regulation
+Source date: Page displays update 2026-10-13 | Scope: Jordan | Check: 2026-10-20 | Status: register read; operative text not fully verified
+Limit: Register readable via web tool. Consolidated PDF not obtained; direct request returned 451. No current foreign ownership percentage is asserted.
+
+S11 | Cabinet announcement of amendments to investment-environment regulation.
+Ministry of Investment. (2026, May 17). Cabinet approves amended investment environment regulation 2026.
+https://invest.jo/en/news/cabinet-approves-amended-investment-environment-regulation-2026
+Source date: 2026-05-17 | Scope: Jordan | Check: 2026-10-20 | Status: read
+Limit: Announcement describes licensing/incentive reforms; it does not establish a particular JV ownership entitlement or a tax holiday for this project.
+
+S12 | Existing cross-border merchant programme extends UAE operations to four Gulf destinations; logistics/customs requirements exist.
+noon. (n.d.-a). Cross-border selling [Seller guidance].
+https://helpcenter.noon.partners/en/category/global-selling/cross-border-selling
+Source date: Undated current seller guidance | Scope: UAE, Bahrain, Kuwait, Oman, Qatar; separate KSA lane | Check: 2026-10-20 | Status: read
+Limit: GCC programme is evidence of capability, not permission, price quote or process applicable to Jordan.
+
+S13 | UAE seller fee page includes 15% historical home-category referral fees and differentiated current/old September 2026 tables.
+noon. (n.d.-b). Fulfilled by partner (FBP) fees in UAE.
+https://helpcenter.noon.partners/en/category/fulfilled-by-partner-fbp/fulfilled-by-partner-fbp-fees-in-uae
+Source date: Changes effective 2026-09-10; page undated | Scope: UAE FBP | Check: 2026-10-20 | Status: read
+Limit: 15% is a scenario benchmark, not a Jordan quote. Tax base, merchant contract and category schedule must be agreed; no outdated fee claimed as universal current rate.
+
+S14 | noon.com commercial journey described as starting in 2017; mission concerns buying and selling.
+noon. (n.d.-c). noon Next: Dream bigger. Achieve more.
+https://www.noonnext.com/en/
+Source date: Undated | Scope: Regional company | Check: 2026-10-20 | Status: read
+Limit: Self-description; promotional claims of scale/leadership omitted. Founding announcement is 2016, launch 2017.
+
+S15 | Delivery information lists UAE, Saudi Arabia and Egypt.
+noon. (n.d.-d). Where does noon deliver?
+https://help.noon.com/portal/en/kb/articles/deliver
+Source date: Undated | Scope: Core retail destinations | Check: 2026-10-20 | Status: read
+Limit: Read alongside expanded seller cross-border page. Absence of Jordan from lists is not definitive proof of no retail activity or no group service.
+
+S16 | Privacy policy identifies Noon E-Commerce owned by Noon AD Holdings One Person Company, a Dubai LLC.
+noon. (2026, February). Privacy policy.
+https://k.nooncdn.com/noon-cdn/send/Legal/noonSend_PrivacyPolicy.pdf
+Source date: 2026-02 | Scope: UAE | Check: 2026-10-20 | Status: read
+Limit: Operating entity is not the current group cap table or confirmed Jordan contracting entity.
+
+S17 | Supported merchant countries include Jordan.
+noon Payments. (n.d.). Frequently asked questions.
+https://docs.noonpayments.com/start/faq
+Source date: Undated | Scope: Payments merchant availability | Check: 2026-10-20 | Status: official indexed page text read; dynamic page body limited
+Limit: Payment acceptance services differ from noon retail delivery. Does not demonstrate a Jordan retail marketplace launch.
+
+S18 | Tool attribution: Codex used in preparing the report.
+OpenAI. (n.d.). Codex [Generative AI assistant]. Used for preparation of this draft; see disclosure and Appendix C.
+https://openai.com/codex/
+Source date: Software page undated | Scope: Tool disclosure | Check: 2026-10-20 | Status: tool attribution; not used as a factual research source
+Limit: Attribution of actual workflow, not a source of market facts. No model version or AI-detection performance invented.
+
+S19 | 2016 venture announcement identified PIF 50% equity and Mohamed Alabbar.
+Public Investment Fund. (2016, November 13). PIF: 50% equity [noon launch announcement].
+https://www.pif.gov.sa/en/news-and-insights/press-releases/2016/pif-50-equity/
+Source date: 2016-11-13 | Scope: Company founding | Check: 2026-10-20 | Status: read
+Limit: Historical ownership only; current dilution/capitalisation not verified.
+
+S20 | Jordan shopping/shipping destination exists.
+SHEIN. (n.d.). Shipping information: Jordan.
+https://m.shein.com/jo/shipping-info-a-280.html?language=en
+Source date: Undated | Scope: Jordan site | Check: 2026-10-20 | Status: read
+Limit: Displayed delivery windows depend on session/date. No current exact shipping price or delivered-performance claim used.
+
+S21 | International strategy should be justified through cost pressure and local responsiveness.
+Walia, N. (2026, October 13). International strategy and the group report [BUS219 class explanation; local lecture notes]. Murdoch University Dubai.
+None
+Source date: 2026-10-13 | Scope: BUS219 Dubai | Check: 2026-10-20 | Status: read
+Limit: Local notes/transcript of class explanation, not an invented direct quote. Recording segment noted in course HISTORY.
+
+S22 | Consumer Protection Law No. 7 of 2017 exists; accurate information and redress are relevant.
+WIPO. (2017). Consumer Protection Law No. 7 of 2017: Jordan [WIPO Lex record].
+https://www.wipo.int/wipolex/en/legislation/details/19690
+Source date: 2017 law record | Scope: Jordan | Check: 2026-10-20 | Status: read
+Limit: WIPO record establishes legal source. UNEP/FAO abstract separately reviewed for scope; no invented cooling-off period.
+
+S23 | 2025 growth estimate 2.8%; unemployment 21.4% in Q3 2025; regional disruption risks.
+World Bank. (n.d.). Jordan overview.
+https://www.worldbank.org/ext/en/country/jordan
+Source date: Dynamic country overview, read 2026-10-20 | Scope: Jordan | Check: 2026-10-20 | Status: read
+Limit: Growth is an estimate and unemployment is a dated national measure; neither predicts category demand. Old poverty statistic deliberately excluded.
+
+P01 | Poster National article exists: noon plans Syria operations.
+Jain, S. (2026, May 17). Alabbar’s noon plans to launch operations in Syria. The National.
+https://www.thenationalnews.com/business/economy/2026/05/17/alabbars-noon-plans-to-launch-operations-in-syria/
+Source date: 2026-05-17 | Scope: Syria/regional | Check: 2026-10-20 | Status: read
+Limit: Plans are not proof of retail launch; does not establish Jordan entry.
+
+P02 | Poster Wamda funding article exists, reporting USD 500 million.
+Wamda. (2025, December 15). noon raises $500 million from PIF-backed investors ahead of potential IPO.
+https://www.wamda.com/index.php/en/2025/12/noon-raises-500-million-pif-backed-investors-ahead-potential-ipo
+Source date: 2025-12-15 | Scope: Regional company | Check: 2026-10-20 | Status: read
+Limit: Secondary report with anonymous sourcing; no inference about cash committed to Jordan or current ownership percentages.
+
+P03 | Poster ITA Jordan ICT 2026 publication exists.
+International Trade Administration. (2026, February 26). Jordan: Information and communication technology.
+https://www.trade.gov/country-commercial-guides/jordan-information-and-communication-technology
+Source date: 2026-02-26 | Scope: Jordan ICT sector | Check: 2026-10-20 | Status: read
+Limit: Sector opportunity description is not consumer e-commerce demand.
+
+P04 | IPC publicly describes cross-border shopper research.
+International Post Corporation. (n.d.). Cross-border e-commerce shopper survey.
+https://www.ipc.be/shopper
+Source date: 2025 survey, public release January 2026 | Scope: 37-country study | Check: 2026-10-20 | Status: read
+Limit: The poster’s joint Statista/IPC citation lacks an identifiable item/metric. Global results cannot be assigned to Jordan.
+
+P05 | Hill international-business textbook exists; poster edition/year absent.
+McGraw Hill. (n.d.). International business: Competing in the global marketplace.
+https://www.mheducation.com/highered/product/international-business-competing-in-the-global-marketplace-hill.html?viewOption=student
+Source date: Publisher catalogue read 2026-10-20 | Scope: Textbook | Check: 2026-10-20 | Status: catalogue read, full book not read
+Limit: No edition, quotation or page number invented. The report uses supplied course slides instead.
+
+A01 | AI use in assessment must be authorised and acknowledged.
+Murdoch University. Student Academic Integrity Policy.
+https://cdn.murdoch.edu.au/mu-docs/default-source/published_published_files/Student-Academic-Integrity-Policy.pdf
+Source date: Current policy retrieved 2026-10-20 | Scope: Murdoch policy | Check: 2026-10-20 | Status: relevant policy clause read
+Limit: Course-specific permission for this full draft has not been verified; no submission-ready claim.
+
+A02 | Generative AI used in preparation should be disclosed and referenced.
+Murdoch University Library. APA: Generative AI.
+https://libguides.murdoch.edu.au/APA/generativeAI
+Source date: Undated current guide | Scope: Murdoch referencing | Check: 2026-10-20 | Status: read
+Limit: Guide does not authorise use in this assignment. Full conversation is not claimed to be archived in the package.

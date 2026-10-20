@@ -5,15 +5,20 @@
     "result": "Подтверждена скидка Early Bird 5% на January 2027. Для Bachelor of Business последняя дата 18 ноября 2026 включительно; точный час не указан. Без рассрочки и повторных юнитов. Проверка ограничена письмами Finance, не является новой проверкой всех предметов.",
     "last_check_by_course": {
       "BUS219": {
-        "checked_at": "2026-10-20T14:48:38.912774+04:00",
+        "checked_at": "2026-10-20T15:42:48+04:00",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "after:2026/10/18 (BUS219 OR \"International Business\" OR from:Navneet.Walia@murdoch.edu.au)",
-        "result": "Одно найденное письмо — прежнее подтверждение Quiz 1 от 18 октября; новых инструкций к отчёту в этом охвате нет. Поиск метаданных, тело письма сегодня не перечитывалось.",
+        "scope": "after:2026/10/06 (BUS219 OR \"International Business\" OR \"Major Project\" OR \"The Levant Five\")",
+        "result": "Поиск исчерпан: два прежних письма о Quiz 1 (12 и 18 октября); новых требований A2 в этом охвате нет. Прочитаны метаданные и snippet; тела писем сегодня не перечитывались. Объявление Quiz 1 полностью прочитано в Moodle.",
+        "matched_dates": [
+          "2026-10-12",
+          "2026-10-18"
+        ],
         "uncovered": [
           "Полный университетский Outlook",
-          "WhatsApp"
+          "WhatsApp",
+          "Сообщения вне поискового охвата"
         ],
-        "evidence": "BUS219/2026-TSD/Correspondence/2026-10-20_a2-status-check.json"
+        "evidence": "BUS219/2026-TSD/Correspondence/2026-10-20_a2-report-preparation-check.json"
       },
       "BUS230": {
         "checked_at": "2026-10-20T14:16:18.179243+04:00",
@@ -110,11 +115,11 @@
     }
   },
   "lms": {
-    "checked_at": "2026-10-20T14:16:18.179243+04:00",
+    "checked_at": "2026-10-20T15:10:52.683009+04:00",
     "result": "ok",
-    "operation": "Latest read-only check: BUS230 Assessment3 exam heading/description; other checks retained",
+    "operation": "Latest read-only check: BUS219 report task, own status, announcements and marking-guide files; other course checks retained.",
     "last_success_by_course": {
-      "BUS219": "2026-10-20T14:47:29.245313+04:00",
+      "BUS219": "2026-10-20T15:10:52.683009+04:00",
       "BUS225": "2026-10-17T03:02:12.923855+04:00",
       "BUS230": "2026-10-20T14:16:18.179243+04:00",
       "BUS334": "2026-10-18T23:01:55.469482+04:00"
@@ -130,7 +135,7 @@
       "BUS334": true
     },
     "evidence": {
-      "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-20_a2-status-check.json",
+      "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-20_a2-report-preparation-check.json",
       "BUS225": "BUS225/2026-TSD/Correspondence/2026-10-17_general-lms-check.json",
       "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-20_study-continuation-check.json",
       "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-18_A3-report-check.json"
