@@ -1,0 +1,24 @@
+{
+  "checked_at": "2026-10-20T15:55:01+04:00",
+  "status": "PASS",
+  "restored_commit": "31e800c57e9d45c00bc20d67b7ba441b300f6501",
+  "source_repository": "https://github.com/4xhdnrjrdx-lab/Murdoch",
+  "method": "Fresh depth-one GitHub clone, configure, full scripts/verify.py, then byte comparison of every package file with the prepared working copy.",
+  "repository_file_count": 756,
+  "repository_total_bytes": 495944436,
+  "package_files_compared": 22,
+  "artifact_checks": [
+    {
+      "name": "35553299DzhafarovF-2-TeamReview.docx",
+      "bytes": 62096,
+      "sha256": "ee4ff231cfd2a4841fdd30054ed36f5bd140af9ce6b14bcb84b765a4eeebc025"
+    },
+    {
+      "name": "35553299DzhafarovF-2-TeamReview.pdf",
+      "bytes": 454413,
+      "sha256": "8b3fac038a1f109c212534da6e6dc6df57bb27d3063709ce39b389a7de43884e"
+    }
+  ],
+  "result": "Full repository verification passed. Every package file matched. Actual DOCX/PDF bytes matched recorded SHA-256 and sizes.",
+  "scope_note": "This record documents restoration of the stated source commit. Its subsequent publication changes only verification documentation and the generated manifest; it does not claim its own future commit has been restored."
+}
