@@ -1,0 +1,47 @@
+{
+  "checked_at": "2026-10-20T16:12:22.346027+04:00",
+  "course_id": 31585,
+  "source": "Authenticated Moodle course participant list and core_user_get_users_by_field. Aram public-profile UI independently checked; no student ID field shown.",
+  "scope": "Only five team-associated people retained. Internal Moodle user IDs are not student numbers.",
+  "membership_basis": "Team membership/short names from supplied poster; full names matched to BUS219 classmates. Abdoul → Abdoulaye and Denis → Dennis are name matches, not a registered LMS project-group roster.",
+  "members": [
+    {
+      "poster_name": "Aram",
+      "moodle_full_name": "Aram Avetisyan",
+      "moodle_user_id": 272550,
+      "student_id": "35818705",
+      "student_id_status": "provided directly by user; not exposed independently in LMS"
+    },
+    {
+      "poster_name": "Faiaz",
+      "moodle_full_name": "Faiaz Dzhafarov",
+      "moodle_user_id": 257560,
+      "student_id": "35553299",
+      "student_id_status": "verified"
+    },
+    {
+      "poster_name": "Abdoul",
+      "moodle_full_name": "Abdoulaye Wahab Diabagate",
+      "moodle_user_id": 211473,
+      "student_id": "34704818",
+      "student_id_status": "provided directly by user; not exposed independently in LMS"
+    },
+    {
+      "poster_name": "Hatim",
+      "moodle_full_name": "Hatim Hatim",
+      "moodle_user_id": 274768,
+      "student_id": "35839091",
+      "student_id_status": "provided directly by user; not exposed independently in LMS"
+    },
+    {
+      "poster_name": "Denis",
+      "moodle_full_name": "Dennis Afanasiev",
+      "moodle_user_id": 277316,
+      "student_id": "35907935",
+      "student_id_status": "provided directly by user; not exposed independently in LMS"
+    }
+  ],
+  "ui_note": "Hatim Hatim is exactly the LMS display name; the earlier chat label Hatim Mohammad differs. No unverified replacement is made.",
+  "user_confirmation_at": "2026-10-20T16:21:00.811514+04:00",
+  "user_confirmation": "User supplied the four student numbers in response to the named LMS matches in this chat."
+}

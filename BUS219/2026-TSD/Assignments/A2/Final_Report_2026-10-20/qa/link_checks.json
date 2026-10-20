@@ -1,0 +1,232 @@
+{
+  "checked_at": "2026-10-20T16:17:25.967486+04:00",
+  "method": "Direct GET plus manual official-page content checks. 403/451 or dynamic content is not classified as a broken URL. No fake source is accepted based on HTTP status alone.",
+  "results": [
+    {
+      "reference": "Cengage Learning. (2017a). Control of global business [BUS219 lecture slides, Session 8]. Murdoch University LMS.",
+      "url": "https://moodleprod.murdoch.edu.au/mod/resource/view.php?id=3111463",
+      "status": "authenticated LMS module verified",
+      "http_status": null,
+      "note": "Current course API lists the exact resource ID; local lecture content read. Login required.",
+      "content_verification": "Exact resource exists in current BUS219 course API; retained slides read."
+    },
+    {
+      "reference": "Cengage Learning. (2017b). Entry strategies in global business [BUS219 lecture slides, Session 7]. Murdoch University LMS.",
+      "url": "https://moodleprod.murdoch.edu.au/mod/resource/view.php?id=3111454",
+      "status": "authenticated LMS module verified",
+      "http_status": null,
+      "note": "Current course API lists the exact resource ID; local lecture content read. Login required.",
+      "content_verification": "Exact resource exists in current BUS219 course API; retained slides read."
+    },
+    {
+      "reference": "Dumyah. (n.d.). Frequently asked questions.",
+      "url": "https://www.dumyah.com/en/faq",
+      "http_status": 403,
+      "status": "automated fetch restricted; cross-check browser/search evidence",
+      "content_verification": "Opened and read official source through web browsing on 20 October 2026; source identity and report claim checked."
+    },
+    {
+      "reference": "Income and Sales Tax Department. (n.d.). Tax rates [Arabic].",
+      "url": "https://istd.gov.jo/AR/List/النسب_الضريبية",
+      "http_status": 200,
+      "final_url": "https://istd.gov.jo/AR/List/%D8%A7%D9%84%D9%86%D8%B3%D8%A8_%D8%A7%D9%84%D8%B6%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9",
+      "content_type": "text/html",
+      "page_title": "Request Rejected - MoDEE Hosting",
+      "status": "HTTP 200 is a hosting-block page; not counted as source-content success. Official Arabic tax-rate content verified via web tool.",
+      "content_verification": "Opened and read official source through web browsing on 20 October 2026; source identity and report claim checked."
+    },
+    {
+      "reference": "International Trade Administration. (2026a, February 26). Jordan: eCommerce.",
+      "url": "https://www.trade.gov/country-commercial-guides/jordan-ecommerce",
+      "http_status": 200,
+      "final_url": "https://www.trade.gov/country-commercial-guides/jordan-ecommerce",
+      "content_type": "text/html; charset=utf-8",
+      "page_title": "Jordan - eCommerce",
+      "status": "HTML response; content separately verified",
+      "content_verification": "Opened and read official source through web browsing on 20 October 2026; source identity and report claim checked."
+    },
+    {
+      "reference": "International Trade Administration. (2026b, February 26). Jordan: Import requirements and documentation.",
+      "url": "https://www.trade.gov/country-commercial-guides/jordan-import-requirements-and-documentation",
+      "http_status": 200,
+      "final_url": "https://www.trade.gov/country-commercial-guides/jordan-import-requirements-and-documentation",
+      "content_type": "text/html; charset=utf-8",
+      "page_title": "Jordan - Import Requirements and Documentation",
+      "status": "HTML response; content separately verified",
+      "content_verification": "Opened and read official source through web browsing on 20 October 2026; source identity and report claim checked."
+    },
+    {
+      "reference": "JoPACC. (2026, March 29). JoPACC releases its 2025 payments systems report.",
+      "url": "https://www.jopacc.com/media-center/news/jopacc-releases-its-2025-payments-systems-report",
+      "http_status": 403,
+      "status": "automated fetch restricted; cross-check browser/search evidence",
+      "content_verification": "Opened and read official source through web browsing on 20 October 2026; source identity and report claim checked."
+    },
+    {
+      "reference": "Jordan Customs. (n.d.). Frequently asked questions [Arabic].",
+      "url": "https://www.customs.gov.jo/AR/Modules/faq",
+      "http_status": 200,
+      "final_url": "https://www.customs.gov.jo/AR/Modules/faq",
+      "content_type": "text/html; charset=utf-8",
+      "page_title": "الاسئلة الاكثر تكرارا - دائرة الجمارك الأردنية",
+      "status": "HTML response; content separately verified",
+      "content_verification": "Opened and read official source through web browsing on 20 October 2026; source identity and report claim checked."
+    },
+    {
+      "reference": "Ministry of Digital Economy and Entrepreneurship. (n.d.-a). Personal data protection: FAQs.",
+      "url": "https://modee.gov.jo/EN/Pages/FAQs",
+      "http_status": 200,
+      "final_url": "https://modee.gov.jo/EN/Pages/FAQs",
+      "content_type": "text/html; charset=utf-8",
+      "page_title": "FAQs_PDP - Ministry of Digital Economy and Entrepreneurship",
+      "status": "HTML response; content separately verified",
+      "content_verification": "Opened and read official source through web browsing on 20 October 2026; source identity and report claim checked."
+    },
+    {
+      "reference": "Ministry of Digital Economy and Entrepreneurship. (n.d.-b). Summary of the survey on ICT access and use in households and by individuals 2024.",
+      "url": "https://modee.gov.jo/ebv4.0/root_storage/en/eb_list_page/summary_of_the_survey_on_ict_access_and_use_in_households_and_by_individuals_2024.pdf",
+      "http_status": 200,
+      "final_url": "https://modee.gov.jo/ebv4.0/root_storage/en/eb_list_page/summary_of_the_survey_on_ict_access_and_use_in_households_and_by_individuals_2024.pdf",
+      "content_type": "application/pdf",
+      "status": "PDF response",
+      "pdf_signature": true,
+      "content_verification": "Opened and read official source through web browsing on 20 October 2026; source identity and report claim checked."
+    },
+    {
+      "reference": "Ministry of Investment. (n.d.). Regulations [Register of the Investment Environment Regulation and amendments].",
+      "url": "https://www.moin.gov.jo/En/List/Regulation",
+      "http_status": 200,
+      "final_url": "https://www.moin.gov.jo/En/List/Regulation",
+      "content_type": "text/html; charset=utf-8",
+      "page_title": "Regulations - Ministry of Investment",
+      "status": "HTML response; content separately verified",
+      "content_verification": "Opened and read official source through web browsing on 20 October 2026; source identity and report claim checked."
+    },
+    {
+      "reference": "Ministry of Investment. (2026, May 17). Cabinet approves amended investment environment regulation 2026.",
+      "url": "https://invest.jo/en/news/cabinet-approves-amended-investment-environment-regulation-2026",
+      "http_status": 200,
+      "final_url": "https://invest.jo/en/news/cabinet-approves-amended-investment-environment-regulation-2026",
+      "content_type": "text/html; charset=UTF-8",
+      "page_title": "Cabinet Approves Amended Investment Environment Regulation for 2026 | Invest Jordan",
+      "status": "HTML response; content separately verified",
+      "content_verification": "Opened and read official source through web browsing on 20 October 2026; source identity and report claim checked."
+    },
+    {
+      "reference": "noon. (n.d.-a). Cross-border selling [Seller guidance].",
+      "url": "https://helpcenter.noon.partners/en/category/global-selling/cross-border-selling",
+      "http_status": 200,
+      "final_url": "https://helpcenter.noon.partners/en/category/global-selling/cross-border-selling",
+      "content_type": "text/html; charset=utf-8",
+      "page_title": "Cross-border selling | noon Seller Help Center",
+      "status": "HTML response; content separately verified",
+      "content_verification": "Opened and read official source through web browsing on 20 October 2026; source identity and report claim checked."
+    },
+    {
+      "reference": "noon. (n.d.-b). Delivery options.",
+      "url": "https://help.noon.com/portal/en/kb/articles/deliver",
+      "http_status": 200,
+      "final_url": "https://help.noon.com/portal/en/kb/articles/deliver",
+      "content_type": "text/html;charset=UTF-8",
+      "page_title": null,
+      "status": "HTML response; content separately verified",
+      "content_verification": "Opened and read official source through web browsing on 20 October 2026; source identity and report claim checked.",
+      "correction": "Actual page title Delivery options; bibliography and APA suffixes updated."
+    },
+    {
+      "reference": "noon. (n.d.-c). Fulfilled by partner (FBP) fees in UAE.",
+      "url": "https://helpcenter.noon.partners/en/category/fulfilled-by-partner-fbp/fulfilled-by-partner-fbp-fees-in-uae",
+      "http_status": 200,
+      "final_url": "https://helpcenter.noon.partners/en/category/fulfilled-by-partner-fbp/fulfilled-by-partner-fbp-fees-in-uae",
+      "content_type": "text/html; charset=utf-8",
+      "page_title": "Fulfilled by partner (FBP) fees in UAE | noon Seller Help Center",
+      "status": "HTML response; content separately verified",
+      "content_verification": "Opened and read official source through web browsing on 20 October 2026; source identity and report claim checked."
+    },
+    {
+      "reference": "noon. (n.d.-d). noon Next: Dream bigger. Achieve more.",
+      "url": "https://www.noonnext.com/en/",
+      "http_status": 200,
+      "final_url": "https://www.noonnext.com/en/",
+      "content_type": "text/html; charset=UTF-8",
+      "page_title": "noon Next: dream bigger. achieve more.",
+      "status": "HTML response; content separately verified",
+      "content_verification": "Opened and read official source through web browsing on 20 October 2026; source identity and report claim checked."
+    },
+    {
+      "reference": "noon. (2026, February). Privacy policy.",
+      "url": "https://k.nooncdn.com/noon-cdn/send/Legal/noonSend_PrivacyPolicy.pdf",
+      "http_status": 200,
+      "final_url": "https://k.nooncdn.com/noon-cdn/send/Legal/noonSend_PrivacyPolicy.pdf",
+      "content_type": "application/pdf",
+      "status": "PDF response",
+      "pdf_signature": true,
+      "content_verification": "Opened and read official source through web browsing on 20 October 2026; source identity and report claim checked."
+    },
+    {
+      "reference": "noon Payments. (n.d.). Frequently asked questions.",
+      "url": "https://docs.noonpayments.com/start/faq",
+      "http_status": 200,
+      "final_url": "https://docs.noonpayments.com/start/faq",
+      "content_type": "text/html",
+      "page_title": "Documentation - noon payments",
+      "status": "HTML response; content separately verified",
+      "content_verification": "Official FAQ indexed text explicitly lists Jordan. Direct/browser page shell loads but full body does not render; limitation retained."
+    },
+    {
+      "reference": "OpenAI. (n.d.). Codex [Generative AI assistant]. Used in preparing this report; see the preparation disclosure.",
+      "url": "https://openai.com/codex/",
+      "http_status": 403,
+      "status": "automated fetch restricted; cross-check browser/search evidence",
+      "content_verification": "Opened and read official source through web browsing on 20 October 2026; source identity and report claim checked."
+    },
+    {
+      "reference": "Public Investment Fund. (2016, November 13). PIF: 50% equity [noon launch announcement].",
+      "url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2016/pif-50-equity/",
+      "http_status": 403,
+      "status": "automated fetch restricted; cross-check browser/search evidence",
+      "content_verification": "Opened and read official source through web browsing on 20 October 2026; source identity and report claim checked."
+    },
+    {
+      "reference": "SHEIN. (n.d.). Shipping information: Jordan.",
+      "url": "https://m.shein.com/jo/shipping-info-a-280.html?language=en",
+      "http_status": 200,
+      "final_url": "https://m.shein.com/jo/shipping-info-a-280.html?language=en",
+      "content_type": "text/html; charset=utf-8",
+      "page_title": "Women's & Men's Clothing, Shop Online Fashion | SHEIN",
+      "status": "HTML response; content separately verified",
+      "content_verification": "Opened and read official source through web browsing on 20 October 2026; source identity and report claim checked."
+    },
+    {
+      "reference": "WIPO. (2017). Consumer Protection Law No. 7 of 2017: Jordan [WIPO Lex record].",
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/19690",
+      "http_status": 200,
+      "final_url": "https://www.wipo.int/wipolex/en/legislation/details/19690",
+      "content_type": "text/html; charset=utf-8",
+      "page_title": "Law No. 7 of 2017 on Consumer Protection, Jordan, WIPO Lex",
+      "status": "HTML response; content separately verified",
+      "content_verification": "Opened and read official source through web browsing on 20 October 2026; source identity and report claim checked."
+    },
+    {
+      "reference": "World Bank. (n.d.). Jordan overview.",
+      "url": "https://www.worldbank.org/ext/en/country/jordan",
+      "http_status": 200,
+      "final_url": "https://www.worldbank.org/ext/en/country/jordan",
+      "content_type": "text/html; charset=utf-8",
+      "page_title": "Jordan | World Bank Group",
+      "status": "HTML response; content separately verified",
+      "content_verification": "Opened and read official source through web browsing on 20 October 2026; source identity and report claim checked."
+    }
+  ],
+  "summary": {
+    "bibliography_hyperlinks": 23,
+    "authenticated_course_links": 2,
+    "public_links": 21,
+    "invented_or_confirmed_dead_links": 0,
+    "limitations": [
+      "Some automated GETs are blocked despite readable source pages in the web tool.",
+      "noon Payments relies on indexed official FAQ content; full dynamic body not rendered.",
+      "External availability can change."
+    ]
+  }
+}
