@@ -111,6 +111,12 @@
         "checked_at": "2026-10-19T13:45:32.376919+04:00",
         "scope": "Study Gmail after 5 August 2026: course/study plan, offerings, January 2027, BUS299/BUS210, Murdoch senders; search exhausted (7 results). No newer personal plan found. July 28 enrolment notice read for official portal URL.",
         "evidence": "Archive/Correspondence/2026-10-19_degree-progress.json"
+      },
+      "completion_target_followup": {
+        "checked_at": "2026-10-20T18:34:12.657653+04:00",
+        "scope": "after:2026/10/18 (from:Dubai.StudentServices@murdoch.edu.au OR from:Dubai.AcademicServices@murdoch.edu.au) (\"plan\" OR \"enrolment\" OR \"2027\" OR \"BUS350\" OR \"BUS299\")",
+        "result": "No matching messages; search exhausted.",
+        "evidence": "Archive/Correspondence/2026-10-20_august-2027-completion-request.json"
       }
     }
   },

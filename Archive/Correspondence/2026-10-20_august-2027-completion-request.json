@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "prepared_at": "2026-10-20T18:34:12.657653+04:00",
+  "target": "Completion of all academic requirements by August 2027; ceremony timing is separate and not confirmed",
+  "status": "proposed; not sent, not approved, no enrolment changes",
+  "student": {
+    "name": "Faiaz Dzhafarov",
+    "id": "35553299",
+    "degree": "Bachelor of Business – Marketing and Management"
+  },
+  "current_units_must_pass": [
+    "BUS219",
+    "BUS225",
+    "BUS230",
+    "BUS334"
+  ],
+  "proposed_sequence": {
+    "2027-TJD": [
+      "BUS278 (2027 title Content Marketing; degree mapping to be confirmed)",
+      "BUS338 Global Strategic Management",
+      "COM203 Consulting and Freelancing",
+      "Approved Part II General Elective (specific eligible unit required)"
+    ],
+    "2027-TMD": [
+      "BUS299 Consumer Behaviour",
+      "BUS210 Marketing Research and Analysis",
+      "BUS368 Cultures of Innovation",
+      "BUS350 Strategic Marketing (conditional on approved prerequisite waiver / concurrent enrolment)"
+    ]
+  },
+  "critical_request": {
+    "unit": "BUS350",
+    "period": "2027-TMD",
+    "prerequisite": "BUS299",
+    "requested_concurrent_unit": "BUS299",
+    "approval_status": "not requested yet",
+    "official_form_url": "https://cdn.murdoch.edu.au/mu-docs/tnelibraries/default-document-library/transnational---waiveunitprereq-feb-2022.pdf?sfvrsn=d3f9582d_2",
+    "form_display_title": "Waive Unit Prerequisite — Online Application for Transnational Students / Direct application: 2025",
+    "verified_date": "2026-10-20",
+    "verified_process": "Form explicitly asks whether request is for concurrent enrolment with prerequisite. Dubai submission to Student Services; Academic Chair approves or refuses. Adequate preparation and impact on support/time are assessed. No approval presumed. Current form/version to be confirmed by Student Services."
+  },
+  "approval_recipient": "dubai.studentservices@murdoch.edu.au",
+  "checks_to_request": [
+    "Academic record and all recognised credits audited; confirm exact remaining requirements for both majors and degree.",
+    "Confirm BUS350 and BUS299 concurrent enrolment permission in TMD 2027 and applicable waiver form.",
+    "If concurrent request not approved, identify approved earlier BUS299/equivalent or other pathway that still completes all requirements by August 2027. No alternative eligibility, delivery or credit is assumed.",
+    "Confirm BUS278 2027 title/content satisfies existing degree requirement.",
+    "Select a specific eligible Part II elective available in January 2027.",
+    "Verify prerequisite credits for BUS210, timetable clashes, seats and final result timing.",
+    "Issue updated written personal study plan with completion target August 2027."
+  ],
+  "mail_check": {
+    "checked_at": "2026-10-20T18:34:12.657653+04:00",
+    "account": "jafarovfayaz@gmail.com",
+    "query": "after:2026/10/18 (from:Dubai.StudentServices@murdoch.edu.au OR from:Dubai.AcademicServices@murdoch.edu.au) (\"plan\" OR \"enrolment\" OR \"2027\" OR \"BUS350\" OR \"BUS299\")",
+    "result": "No matching messages; search exhausted."
+  },
+  "lms_basis": {
+    "last_own_enrolment_check": "2026-10-19T13:34:03.858964+04:00",
+    "note": "Moodle confirms current units only and does not establish degree audit, future registration seats or waiver approval. No new Moodle assessment audit required for this planning request."
+  },
+  "portal_limit": "19 October existing student.murdoch session rejected; alternate account selection blocked by approval review. No new portal attempt this turn. Seats remain unverified.",
+  "draft_email_file": "Archive/Correspondence/2026-10-20_august-2027-email-draft.txt",
+  "external_action_authorization": "User authorization to send is required under AGENTS.md; no mail, form, registration or payment submitted."
+}
