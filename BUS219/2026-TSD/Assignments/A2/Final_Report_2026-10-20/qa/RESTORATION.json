@@ -1,0 +1,160 @@
+{
+  "checked_at": "2026-10-20T16:31:18+04:00",
+  "status": "PASS",
+  "published_commit_restored": "e5622479c7c8feb3d12b9be7d31a70f03fc16e20",
+  "method": "Independent existing clean clone fetched the published GitHub main and fast-forwarded. No file copy from the authoring checkout was used. Full repository verify.py passed, then every final-package file was compared by size, SHA-256 and bytes.",
+  "restore_directory": "/Users/king1/Documents/Murdoch-BUS219-A2-20261020",
+  "package_files_checked": 24,
+  "full_repository_files_checked": 783,
+  "full_repository_bytes_checked": 496708499,
+  "pdf_pages": 25,
+  "docx_zip_and_document_open": "PASS",
+  "restored_checkout_clean": true,
+  "files": [
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/35553299DzhafarovF-2-Final.docx",
+      "bytes": 60446,
+      "sha256": "1db97d58daf4b80a5ddd7e01ecf359ec89a46dbc23e07a4889317046f645fc3c",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/35553299DzhafarovF-2-Final.pdf",
+      "bytes": 432569,
+      "sha256": "fb05bad0104b44528a8c81f785e28726c3c606f71903c62be83f538cf6de56d1",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/PACKAGE_README_RU.txt",
+      "bytes": 5380,
+      "sha256": "96592277578136c3e844d9a83e8e590882f1e0ab9a87a02ced52b652604b7a3b",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/REVIEW_NOTES_RU.txt",
+      "bytes": 7145,
+      "sha256": "f73b742a9e65fbdd6f168283f77a4743061630ad2bf4bfac5a8928f73b495901",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/TEAM_REVIEW_RU.html",
+      "bytes": 15910,
+      "sha256": "a25ffe8fd719885af13f90dc924ecb0de7d95c2be83d068e86872bd32cb71e61",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/financial_model.json",
+      "bytes": 20546,
+      "sha256": "76eb08daf8c53dcc46bc32c12977db761158684aee1ed5662c0cff3b97e07d5a",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/qa/HUMANIZER_AUDIT_RU.txt",
+      "bytes": 4395,
+      "sha256": "c78adbca51f7d832db015a14d0cf2fe9c61fca7bc81b0eedfa57bd6fd3461afe",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/qa/VERIFICATION.json",
+      "bytes": 14360,
+      "sha256": "5a89dae52ea3f898a82565b8e8dc06631be1f1ee24880be08505466150423824",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/qa/link_checks.json",
+      "bytes": 14263,
+      "sha256": "2ad98bd8b8c9a3a68379ee76fe8d8f79ee51073d8bb050a8708c5161cbf02d6c",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/qa/page_map.json",
+      "bytes": 1687,
+      "sha256": "20bbc9248031305c72d299d55f163e74b2f81ab81bd1217e017cda2d31c50dd4",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/qa/rubric_map.json",
+      "bytes": 14398,
+      "sha256": "b6e04c50186c23b14f3a7fd8459870dae10582d59df341e2e472237d68bf31fb",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/qa/visual_review.json",
+      "bytes": 3230,
+      "sha256": "4f48e3025912d3e5140a6f474c8f1886dc43ad847aa770aa26346218c3209d0c",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/qa/word_count.json",
+      "bytes": 518,
+      "sha256": "621e5cfecde7c388f6bc4e2383a971e5d8f07f5eaeedce12f32bfb7aa554aefd",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/research/POSTER_AUDIT_RU.txt",
+      "bytes": 5484,
+      "sha256": "96aa91d477ad152aa49c303c59276d69f89be16cd1c7b0169ac2c9dfde3270ab",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/research/SOURCE_REGISTER.txt",
+      "bytes": 12052,
+      "sha256": "8218bd341b0eb75546fe5fd5a5d8894e26c1739009cbb2879641100a3a3ec0ab",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/research/source_register.json",
+      "bytes": 20271,
+      "sha256": "9f4db18a5d26052860a95d486c7e363882c522fbcf1849bd81467caeecb4797e",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/source/build_report.py",
+      "bytes": 15388,
+      "sha256": "c6a0c0e40e20a5663908f7ccb9919e40af4c1cf04f3882a79b0690663879d5df",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/source/content.py",
+      "bytes": 29603,
+      "sha256": "f170bb786da79bb764eda4a141d4099ee4dd9cc07d2b1cdeedf22633cc945aac",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/source/exhibits.py",
+      "bytes": 6650,
+      "sha256": "a25d30189853c1964cda2e8a77ee64ddd8d240279abbf31c0d9c1d41688cad34",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/source/finance.py",
+      "bytes": 7529,
+      "sha256": "b66a886461013e6afe0fea6e39da6df5202f0821b745246a11f42f3a2e44fa7c",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/source/map_pages.py",
+      "bytes": 1297,
+      "sha256": "2228ddc3dcc8df0753fc470ed195a722001fee5628029df92adbc49b335136bc",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/source/report_prose.txt",
+      "bytes": 27713,
+      "sha256": "d75404be6c608cc07e4f0c5d0dc9b03bd30b30c539ebcc46e5a1e080146ba2d4",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/source/review_pack.py",
+      "bytes": 17933,
+      "sha256": "b4b810f94a6e64bb326c0a207bd693a7220eb640520b4c94e6e6c3f5e3ceae59",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-10-20/source/verify_package.py",
+      "bytes": 5546,
+      "sha256": "504cc7cd275e4d10d26a402d9467d8e7bb4fdb4e7449661ec14fd71db9ee6ff9",
+      "storage": "git"
+    }
+  ],
+  "note": "This record is added after successful restoration; it does not change the deliverable bytes."
+}
