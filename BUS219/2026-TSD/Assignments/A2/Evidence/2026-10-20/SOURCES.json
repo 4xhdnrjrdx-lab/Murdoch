@@ -1,0 +1,66 @@
+{
+  "recorded_at": "2026-10-20T15:04:21.051050+04:00",
+  "source": "Attachments supplied directly by Faiaz on 20 October 2026; images visually inspected",
+  "files": [
+    {
+      "path": "Assignments/A2/Evidence/2026-10-20/IMG_0459.HEIC",
+      "bytes": 2316001,
+      "sha256": "bd2748e7848fd153d94cc1b99b1d7d05f38ba1a326a57b0ceefb3acd76a84d10",
+      "received_at": "2026-10-20",
+      "original_capture_date": "not independently established"
+    },
+    {
+      "path": "Assignments/A2/Evidence/2026-10-20/IMG_0460.HEIC",
+      "bytes": 2535162,
+      "sha256": "8a0b78d1f7ee450d16a4028df36dcd23c14ce2781e81e60122f295ee5dc6e336",
+      "received_at": "2026-10-20",
+      "original_capture_date": "not independently established"
+    },
+    {
+      "path": "Assignments/A2/Poster/Taking_noon_to_Jordan_received_2026-10-20.jpg",
+      "bytes": 243493,
+      "sha256": "b2494e541969871a06c400e0433b53c9a4be07e1f813c835d156b68c9001d8da",
+      "received_at": "2026-10-20",
+      "original_capture_date": "not independently established"
+    }
+  ],
+  "photo_rubric": {
+    "document_title_visible": "BUS219 Project Proposal marking guide",
+    "scope": "Proposal rubric, not the Major Project Report rubric",
+    "sections_percent": {
+      "Project Brief": 5,
+      "Company Description": 10,
+      "Product/Service Factors": 10,
+      "Environmental Factors": 10,
+      "Business Strategies": 20,
+      "Financial Planning": 5,
+      "Management Considerations": 5,
+      "Evidence of group organisation": 10,
+      "Anticipated group difficulties and solutions": 10,
+      "Indicative information sources": 5,
+      "Overall proposal preparation": 10
+    }
+  },
+  "poster": {
+    "title": "Taking noon to Jordan",
+    "team": "The Levant Five",
+    "roles": {
+      "Aram": "Weeks 1 to 3: noon profile, business model, data gathering",
+      "Faiaz": "Weeks 4 to 6: Jordan PESTEL, micro analysis, SWOT",
+      "Abdoul": "Weeks 7 to 9: strategy, entry mode, financial outline",
+      "Hatim": "Weeks 10 to 12: sources, editing, final report and slides",
+      "Denis": "Overall coordination; weekly check-ins, shared drive, backup owner per section are proposed arrangements, not proven activities"
+    },
+    "proposed_entry": "Exporting from Saudi/UAE fulfilment centres, then a joint venture with a Jordanian logistics partner for local warehousing and last-mile delivery",
+    "limits": "Poster received and readable. Actual presentation, lecturer approval, completed contribution, research accuracy, cited publication validity and named uploader remain unconfirmed. Corporate and market assertions require external verification."
+  },
+  "handoff": {
+    "path": "Assignments/A2/NEW_CHAT_PROMPT_RU.txt",
+    "requested_by_user": "A prompt for a new chat to prepare the whole assignment for sharing with the team, using LMS, rubrics and humanizer editing preferences",
+    "current_result": "Prompt and source images prepared; no report drafted or submitted in this turn",
+    "humanizer": "https://github.com/blader/humanizer",
+    "style": "Natural clear academic English; avoid formulaic prose and dashes as punctuation, preserve factual details and necessary symbols; no detector guarantee"
+  },
+  "last_mail_lms_check": "Correspondence/2026-10-20_a2-status-check.json",
+  "check_note": "The earlier checks at 14:47 to 14:48 Dubai today remain the source for LMS/mail status; no later check is claimed."
+}

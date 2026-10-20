@@ -430,15 +430,45 @@
       "storage": "git"
     },
     {
+      "path": "BUS219/2026-TSD/Assignments/A2/Evidence/2026-10-20/IMG_0459.HEIC",
+      "bytes": 2316001,
+      "sha256": "bd2748e7848fd153d94cc1b99b1d7d05f38ba1a326a57b0ceefb3acd76a84d10",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Evidence/2026-10-20/IMG_0460.HEIC",
+      "bytes": 2535162,
+      "sha256": "8a0b78d1f7ee450d16a4028df36dcd23c14ce2781e81e60122f295ee5dc6e336",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Evidence/2026-10-20/SOURCES.json",
+      "bytes": 3411,
+      "sha256": "1589c74ad5ce77380b6b847aa547d5d18271a926007cfb53122779287f3fc756",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/NEW_CHAT_PROMPT_RU.txt",
+      "bytes": 11651,
+      "sha256": "5c26af4523ecee8bad5ab048c730e0c645a5213433f23c21289188984e16f749",
+      "storage": "git"
+    },
+    {
       "path": "BUS219/2026-TSD/Assignments/A2/Poster/Faiaz_Speaker_Notes_2026-09-29.md",
       "bytes": 1718,
       "sha256": "0b626c58a789dc5397cac06b278ea236465c04a2440ddfa4f4a592d5f1480052",
       "storage": "git"
     },
     {
+      "path": "BUS219/2026-TSD/Assignments/A2/Poster/Taking_noon_to_Jordan_received_2026-10-20.jpg",
+      "bytes": 243493,
+      "sha256": "b2494e541969871a06c400e0433b53c9a4be07e1f813c835d156b68c9001d8da",
+      "storage": "git"
+    },
+    {
       "path": "BUS219/2026-TSD/Assignments/A2/README.md",
-      "bytes": 457,
-      "sha256": "d40d9d79fce645f8e92bb7cb3e28b0ba6a1bf189de43a4a7a4e95361021d6717",
+      "bytes": 791,
+      "sha256": "43fb6f7350370a59893aa1af42d438803d3fcb93ba6058e8092ee7fa5fe6ba13",
       "storage": "git"
     },
     {
@@ -479,8 +509,8 @@
     },
     {
       "path": "BUS219/2026-TSD/CONTEXT.md",
-      "bytes": 13503,
-      "sha256": "e48774081499aab42d33f66bebcfd0a167e1c3a8bf23b379bac6118a2b317b84",
+      "bytes": 15056,
+      "sha256": "93c0604cbac3df23cbe7d39559ec937acb01abf37ee847f55522cee8c2afae3c",
       "storage": "git"
     },
     {
@@ -557,8 +587,8 @@
     },
     {
       "path": "BUS219/2026-TSD/HISTORY.md",
-      "bytes": 8284,
-      "sha256": "b4f60f71f4b706e003a277c08c30b4edaa96fae205e6095c6f6c195fa5ed33df",
+      "bytes": 8888,
+      "sha256": "099f92dbac2b52a9a403e412a9c6d6d8d10366b3cc93198d25cafce1bff212f1",
       "storage": "git"
     },
     {
@@ -965,20 +995,20 @@
     },
     {
       "path": "BUS219/2026-TSD/TASKS.json",
-      "bytes": 18129,
-      "sha256": "b9ebc8cada09e236f0e3d2bf7242b6b7c87b9d813d1c1906bdb53b3c5377ef30",
+      "bytes": 19563,
+      "sha256": "1174444332a643ffe2fc097179202ce888311a64face012abba68d797098ba9c",
       "storage": "git"
     },
     {
       "path": "BUS219/2026-TSD/TASKS.md",
-      "bytes": 13802,
-      "sha256": "b12e147e3e6a43134647b7fb09ca499d2a273eb24b49065b229ace5b3259d396",
+      "bytes": 15070,
+      "sha256": "b9d8b2df817311f195e6ff6f2dc840a7867292ebdc18bbb293490e91ef28f305",
       "storage": "git"
     },
     {
       "path": "BUS219/2026-TSD/TEAM.md",
-      "bytes": 1767,
-      "sha256": "a6de5d0a864405cefe8f2d6db7321dd270a46173e0483c8dfb0e7b33b8430de8",
+      "bytes": 2248,
+      "sha256": "dac92e61ff305191ca44ec34899c9051b260951ec4434100b6593e474fbac3db",
       "storage": "git"
     },
     {
@@ -4283,8 +4313,8 @@
     },
     {
       "path": "Migration/GAPS.md",
-      "bytes": 4964,
-      "sha256": "c2e8e9267e44a8279392f8863449694f58c559cd115931e67acbf0a9e6c20504",
+      "bytes": 5147,
+      "sha256": "e1362f424c3b0582af4dbf49c773c264f4b8ecce982e851e783041a81b6c04ba",
       "storage": "git"
     },
     {
@@ -4301,8 +4331,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5583,
-      "sha256": "92eb94df84953ab861aea817246c5e7b4e64a3e6a6adefaa447ad971cfcfb8b3",
+      "bytes": 5652,
+      "sha256": "4d295155c4d09c1182cec7366f064e614bbe28620155930691d91d9bdf969f3e",
       "storage": "git"
     },
     {
@@ -4372,6 +4402,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 728,
-  "total_bytes": 490075095
+  "file_count": 733,
+  "total_bytes": 495190739
 }
