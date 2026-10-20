@@ -1,0 +1,48 @@
+{
+  "checked_at": "2026-10-20T14:47:29.245313+04:00",
+  "course": "BUS219",
+  "operations": "read-only site info, assignments, own submission status and news forums",
+  "lms_result": "ok",
+  "assignments": [
+    {
+      "id": 126475,
+      "cmid": 3111392,
+      "name": "Business project report due:  at 23.55pm, 6th of Nov",
+      "duedate": 1793980500,
+      "cutoffdate": 0,
+      "intro_text": " Group leaders please submit the report on behalf of your groups ",
+      "due_dubai": "2026-11-06T19:55:00+04:00",
+      "submission_state": "new",
+      "submitted_files": []
+    }
+  ],
+  "announcements": [
+    {
+      "name": "Assessment Quiz 1 ",
+      "modified": 1791781638
+    },
+    {
+      "name": "Group Formation &amp; Pre- Workshop Reminder",
+      "modified": 1788942668
+    }
+  ],
+  "mail": {
+    "checked_at": "2026-10-20T14:48:38.912774+04:00",
+    "account": "jafarovfayaz@gmail.com",
+    "scope": "after:2026/10/18 (BUS219 OR \"International Business\" OR from:Navneet.Walia@murdoch.edu.au)",
+    "result": "Одно найденное письмо — прежнее подтверждение Quiz 1 от 18 октября; новых инструкций к отчёту в этом охвате нет. Поиск метаданных, тело письма сегодня не перечитывалось.",
+    "uncovered": [
+      "Полный университетский Outlook",
+      "WhatsApp"
+    ]
+  },
+  "local_materials": {
+    "rubric": "Materials/02 Assessments/BUS219 Major Project Report marking guide.txt",
+    "a2_files_found": [
+      "Assignments/A2/README.md",
+      "Assignments/A2/Poster/Faiaz_Speaker_Notes_2026-09-29.md"
+    ],
+    "note": "Общего отчёта A2 в опубликованной базе на момент проверки не найдено; это не исключает работы команды вне базы."
+  },
+  "limits": "Статус new и отсутствие файлов относятся к проверенному собственному профилю. Возможная загрузка лидером группы не установлена. Именной загрузчик, одобрение темы и внутренний срок команды остаются неизвестными."
+}
