@@ -4,7 +4,7 @@
   "period": "2026-TSD",
   "timezone": "Asia/Dubai",
   "started_at": "2026-10-17",
-  "updated_at": "2026-10-19T16:41:14.150452+04:00",
+  "updated_at": "2026-10-20T14:16:18.179243+04:00",
   "authorization": "Прямое сообщение Faiaz: «давай начнём подготовку к экзамену уже сегодня и будем фиксировать всё».",
   "availability": {
     "user_response_verbatim": "по разному",
@@ -30,20 +30,21 @@
       "verbatim": "ну готовится нам надо на английском\nтаким образом подтянем мой язык, а то я не умею разговаривать и писать на английском особо",
       "evidence_type": "self_report_not_assessment"
     },
-    "independent_english_speaking_level": null
+    "independent_english_speaking_level": null,
+    "latest_evidence_limit": "20 October: followed a supplied walkthrough with copied teacher-supplied reason; no independent mastery from that run."
   },
   "active_session": {
     "id": "2026-10-17_02",
     "path": "Sessions/2026-10-17_02_RESTART.md",
     "kind": "subject_focused_visual_lesson",
-    "state": "colorful_workflow_mission_ready",
-    "response_count": 2,
+    "state": "guided_demo_complete_new_transfer_pending",
+    "response_count": 3,
     "actual_minutes": null,
-    "result": "Two earlier learner answers retained. Colorful visual redesign prepared on request; no new learner response or demonstrated mastery.",
+    "result": "Shared/FIFO cafe run completed with all4 orders ready. Choice and Russian explanation were explicitly supplied by assistant; guided demo, not independent knowledge. New gift-request transfer case prepared; no response yet.",
     "language": "English",
     "support": "Visual subject explanation and clarification; no separate English lessons",
     "current_block": "1.1",
-    "game_path": "Interactive/cedar-cafe-game.html"
+    "game_path": "Interactive/cedar-gifts-transfer.html"
   },
   "topics": [
     {
@@ -51,11 +52,12 @@
       "title": "Drivers of Change",
       "material_state": "block_1_1_game_attempt_tool_fit_discussed",
       "assessed_independently": false,
-      "last_practiced_at": "2026-10-17T23:05:12.762227+04:00",
+      "last_practiced_at": "2026-10-20T14:16:18.179243+04:00",
       "evidence": [
         "Sessions/2026-10-17_01_ATTEMPT_01.json",
         "Sessions/2026-10-17_02_GAME_ATTEMPT_01.json",
-        "Sessions/2026-10-17_02_GAME_ATTEMPT_02.json"
+        "Sessions/2026-10-17_02_GAME_ATTEMPT_02.json",
+        "Sessions/2026-10-20_GUIDED_CAFE_PASS.json"
       ],
       "curriculum_topic": 1
     },
@@ -139,7 +141,7 @@
       "response_evidence": "Sessions/2026-10-17_01_FORMAT_FEEDBACK.json"
     }
   ],
-  "next_action": "Open Interactive/cedar-cafe-game.html and continue block 1.1: choose routing and priority, explain the plan, run the orders, then discuss the two short learning/course statements. New independent transfer remains pending.",
+  "next_action": "Try the new Cedar Gifts case without a supplied choice. Capture any original reason before consequence separately from later discussion.",
   "continuation_rules": [
     "Главная цель — освоение BUS230 и экзаменационное применение. Следовать PLAN_RU.md и карте всех блоков CURRICULUM.json, не выбирать темы произвольно.",
     "Учебное объяснение и практика по предмету — на простом взрослом английском; русский для краткой помощи. Английский не является отдельным преподаваемым предметом.",
@@ -215,6 +217,10 @@
       "request_verbatim": "хотелось бы красочнее, а то не хочется играть",
       "response": "Colorful scene, visible characters and moving order tickets; adult subject content retained.",
       "effect_on_learning": "not yet evaluated"
+    },
+    "onboarding": {
+      "source": "Sessions/2026-10-20_GUIDED_CAFE_PASS.json",
+      "need": "Explain the goal and first interaction before expecting play. Avoid requiring prose just to try a scene; distinguish guided demonstration from independent response."
     }
   },
   "curriculum_path": "CURRICULUM.json",

@@ -1,0 +1,19 @@
+{
+  "prepared_at": "2026-10-20T14:16:18.179243+04:00",
+  "title": "Cedar Gifts — missing gift-wrap information",
+  "path": "Interactive/cedar-gifts-transfer.html",
+  "type": "Original fictional transfer exercise after guided cafe demonstration, not official exam or workshop material",
+  "block": "1.1",
+  "official_source": "Topic1 lecture slide4: tool-based perspective provides recipes, techniques and tools to manage change; source verified previously and unchanged.",
+  "teacher_made_guidance": "problem → action → check; illustrative checklist, not a named official model",
+  "facts": [
+    "Customer message asks for gift-wrap on order305.",
+    "Order form has product, quantity and contact phone but no gift-wrap field.",
+    "Packing team already knows wrapping and sees the order list, not customer messages."
+  ],
+  "goal": "Make gift-wrap requests visible to packing.",
+  "interface": "One action click. Original reason before consequence is optional; no reason is invented. Consequence and two short course/learning statements appear after choice.",
+  "model_boundaries": "Capturing a request only helps if it is actually linked to the packing list. Manual asking adds a task; no real time or business performance quantified. Own plan requires discussion rather than an invented simulated outcome.",
+  "assessment": "Awaiting own choice. Choice alone is insufficient for mastery; if no original reason is entered ask one meaningful subject question.",
+  "validation": "All4 actions, no pre-choice consequence, conditional ribbon/ticket state, no-reason play, Russian help, exact pre-consequence reason, fallback, 320px and styled sandbox checked. Screenshot inspected."
+}

@@ -1,0 +1,45 @@
+{
+  "recorded_at": "2026-10-20T14:16:18.179243+04:00",
+  "completed_at": "unknown; received with 20 October client date",
+  "source": "User-submitted visualization follow-up plus matching widget state revision 27",
+  "case": "Cedar Café workflow mission",
+  "block": "1.1",
+  "learner_input": {
+    "route": "shared",
+    "priority": "fifo",
+    "reason_verbatim": "Чтобы повар видел оба вида заказов в одной очереди",
+    "russian_help_button_used": false
+  },
+  "observed_model_result": {
+    "steps": 4,
+    "ready": [
+      "C001",
+      "A001",
+      "C002",
+      "A002"
+    ],
+    "waiting": [],
+    "cashier_handoffs": 0,
+    "cook_checks": 0,
+    "events": [
+      "Cook prepares C001.",
+      "Cook prepares A001.",
+      "Cook prepares C002.",
+      "Cook prepares A002."
+    ]
+  },
+  "support_provenance": {
+    "preceding_user_feedback_verbatim": "Честно, я вообще не знаю и не понял, как в это играть.",
+    "assistant_guidance": "Assistant explicitly instructed the shared-screen choice, FIFO priority and the exact Russian reason, then step-through until Prepared4/4.",
+    "classification": "guided demonstration completed; teacher-supplied choice and reason; not an independent answer",
+    "recording_rule": "Preserve as the submitted text, but do not treat the supplied wording as independently generated reasoning."
+  },
+  "feedback": {
+    "model_conclusion": "Under the stated feasible-integration assumption, all four orders entered a shared queue and were prepared in arrival order. Four steps are model actions, not real minutes.",
+    "learning_sentence": "Чему должна была научить сцена: изменение технологии нужно согласовать с порядком работы людей.",
+    "course_sentence": "Как этот этап связан с курсом: Topic1 slide4, tool-based perspective — практическое руководство; здесь учебная схема «проблема → действие → проверка».",
+    "concept_limit": "The shared queue is an operational intervention. The tool-based perspective is the use of practical guidance/techniques to manage change; do not equate every software feature with a change-management framework. The three-step checklist is teacher-made, not a named official course model."
+  },
+  "knowledge_assessment": "No independent mastery inferred. The run confirms completion of the supplied walkthrough only.",
+  "next_action": "Try the new Cedar Gifts case without a supplied choice. Capture any original reason before consequence separately from later discussion."
+}

@@ -12,16 +12,16 @@
         "evidence": "BUS219/2026-TSD/Assignments/A1/Quiz1_2026-10-18/SUBMISSION_CONFIRMATION_RU.md"
       },
       "BUS230": {
-        "checked_at": "2026-10-19T16:41:14.150452+04:00",
+        "checked_at": "2026-10-20T14:16:18.179243+04:00",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "after:2026/10/17 (BUS230 OR \"BUS 230\" OR \"Change Management\" OR from:Shahinda.Baig@murdoch.edu.au)",
-        "result": "No matching messages; full Outlook and WhatsApp not checked.",
+        "scope": "after:2026/10/19 (BUS230 OR \"BUS 230\" OR \"Change Management\" OR from:Shahinda.Baig@murdoch.edu.au)",
+        "result": "No matching messages; full Outlook/WhatsApp not covered.",
         "uncovered": [
           "Full university Outlook",
           "WhatsApp",
           "Messages outside search terms"
         ],
-        "evidence": "BUS230/2026-TSD/Correspondence/2026-10-19_game-design-check.json"
+        "evidence": "BUS230/2026-TSD/Correspondence/2026-10-20_study-continuation-check.json"
       },
       "BUS225": {
         "checked_at": "2026-10-17T03:04:05.007342+04:00",
@@ -106,13 +106,13 @@
     }
   },
   "lms": {
-    "checked_at": "2026-10-19T16:41:14.150452+04:00",
+    "checked_at": "2026-10-20T14:16:18.179243+04:00",
     "result": "ok",
-    "operation": "Latest read-only check: BUS230 exam/revision sections; other checks retained",
+    "operation": "Latest read-only check: BUS230 Assessment3 exam heading/description; other checks retained",
     "last_success_by_course": {
       "BUS219": "2026-10-18T12:54:56.564366+04:00",
       "BUS225": "2026-10-17T03:02:12.923855+04:00",
-      "BUS230": "2026-10-19T16:41:14.150452+04:00",
+      "BUS230": "2026-10-20T14:16:18.179243+04:00",
       "BUS334": "2026-10-18T23:01:55.469482+04:00"
     },
     "token_expiry": "unknown",
@@ -128,7 +128,7 @@
     "evidence": {
       "BUS219": "BUS219/2026-TSD/Assignments/A1/Quiz1_2026-10-18/FINISHED_CHECK.json",
       "BUS225": "BUS225/2026-TSD/Correspondence/2026-10-17_general-lms-check.json",
-      "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-19_game-design-check.json",
+      "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-20_study-continuation-check.json",
       "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-18_A3-report-check.json"
     },
     "enrolment_check": {
