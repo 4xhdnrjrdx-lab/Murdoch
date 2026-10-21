@@ -18,5 +18,27 @@
   "ui_state": "Unsaved edit form retains original Report.pdf and Appendices.pdf; CSV removed only from draft. New PDF upload did not complete because Safari native file chooser kept Upload disabled. File picker closed; form left open. Save changes was not pressed.",
   "ui_evidence": "2026-10-21_unsaved_edit_form.png",
   "user_action": "Add Original_Responses.pdf, confirm three PDFs, read/accept Assignment Declaration personally and Save changes. Then verify via Moodle API and file hashes.",
-  "original_submission_evidence": "../_submission_checks/2026-10-21/SUBMISSION_CHECK.json"
+  "original_submission_evidence": "../_submission_checks/2026-10-21/SUBMISSION_CHECK.json",
+  "post_edit_read_only_moodle_check": {
+    "checked_at": "2026-10-21",
+    "timestamp_precision": "date; exact API query time not retained",
+    "submission_status": "submitted",
+    "grading_status": "notgraded",
+    "timemodified": 1792603777,
+    "files": [
+      {
+        "filename": "35553299_Dzhafarov_BUS334_A3_Appendices.pdf",
+        "bytes": 442931
+      },
+      {
+        "filename": "35553299_Dzhafarov_BUS334_A3_Report.pdf",
+        "bytes": 497652
+      },
+      {
+        "filename": "Google_Forms_Responses_2026-10-18.csv",
+        "bytes": 13826
+      }
+    ],
+    "result": "Original submitted set still present; replacement is not saved. No fresh download/hash comparison in this query."
+  }
 }

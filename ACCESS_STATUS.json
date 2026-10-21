@@ -128,14 +128,14 @@
     }
   },
   "lms": {
-    "checked_at": "2026-10-21T21:33:42.269841+04:00",
+    "checked_at": "2026-10-21",
     "result": "ok",
-    "operation": "Read-only BUS334 A3 submission status and SHA-256 comparison of three submitted files",
+    "operation": "Read-only BUS334 A3 status/file-list check after preparing unsaved CSV replacement",
     "last_success_by_course": {
       "BUS219": "2026-10-20T16:13:06.356169+04:00",
       "BUS225": "2026-10-21T11:23:11.519614+04:00",
       "BUS230": "2026-10-21",
-      "BUS334": "2026-10-21T21:33:42.269841+04:00"
+      "BUS334": "2026-10-21"
     },
     "token_expiry": "unknown",
     "successful_account_check": {
@@ -151,7 +151,7 @@
       "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-20_a2-finalisation-check.json",
       "BUS225": "BUS225/2026-TSD/Correspondence/2026-10-21_A2-completion-check.json",
       "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-21_A2-redesign-check.json",
-      "BUS334": "BUS334/2026-TSD/Assignments/A3/_submission_checks/2026-10-21/SUBMISSION_CHECK.json"
+      "BUS334": "BUS334/2026-TSD/Assignments/A3/CSV_Replacement_2026-10-21/VERIFICATION.json"
     },
     "enrolment_check": {
       "checked_at": "2026-10-19T13:34:03.858964+04:00",
@@ -165,7 +165,8 @@
       "result": "ok",
       "scope": "A2 group submission status and portal due date",
       "evidence": "BUS230/2026-TSD/Correspondence/2026-10-21_A2-redesign-check.json"
-    }
+    },
+    "timestamp_precision": "date; exact latest API query time not retained"
   },
   "secret_storage": {
     "selected_at": "2026-10-07",

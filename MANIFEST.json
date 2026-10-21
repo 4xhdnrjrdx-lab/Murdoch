@@ -23,8 +23,8 @@
     },
     {
       "path": "ACCESS_STATUS.json",
-      "bytes": 10102,
-      "sha256": "30d77b5460d6ee4c3a68f2eceb623b59bcc8dfd3299e39500e258bb082f421e8",
+      "bytes": 10125,
+      "sha256": "cca9f7702237cd61cf699219bd79eadb4bbea77f092beb193f8cc99894dcb525",
       "storage": "git"
     },
     {
@@ -3971,8 +3971,8 @@
     },
     {
       "path": "BUS334/2026-TSD/Assignments/A3/CSV_Replacement_2026-10-21/VERIFICATION.json",
-      "bytes": 1695,
-      "sha256": "8ecd2e1f6e9400a1ad1bb25a00b41e133dbcdc9e69ab1652061e8891c1683b94",
+      "bytes": 2410,
+      "sha256": "02dec1100ecca55ae8944f219f628446f17a76d2da444f80d72270b1d09df210",
       "storage": "git"
     },
     {
@@ -5105,8 +5105,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5669,
-      "sha256": "b11d2685fb80df561539ab264108a4076c8d1a2aa3f62a171caf84cc50dc58be",
+      "bytes": 5647,
+      "sha256": "bb2a7645f747e475914d21eb9fefc63d8e4618e2761281e7e3da90d1519904a9",
       "storage": "git"
     },
     {
@@ -5183,5 +5183,5 @@
     }
   ],
   "file_count": 863,
-  "total_bytes": 509067545
+  "total_bytes": 509068261
 }
