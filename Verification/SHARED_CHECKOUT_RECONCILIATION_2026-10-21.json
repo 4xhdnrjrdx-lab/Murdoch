@@ -1,0 +1,123 @@
+{
+  "checked_at": "2026-10-21T11:26:18.744587+04:00",
+  "purpose": "Reconcile shared local checkout with current GitHub main while preserving all previously uncommitted files",
+  "authorization": "User asked to repair the stale shared checkout after the diagnosis in this chat",
+  "before": {
+    "head": "c4129051937e643187f9cf8809d726f31512e2d8",
+    "origin_main": "cca4b559594084dbc397b3267b390f74a341a854",
+    "behind_commits": 91,
+    "ahead_commits": 0,
+    "modified_files": 12,
+    "untracked_files": 3,
+    "verify_failure": "Hash/size mismatch: ACCESS_STATUS.json"
+  },
+  "preservation": {
+    "original_file_count": 15,
+    "original_bytes": 192912,
+    "exact_archived_snapshots": 12,
+    "identical_files_already_in_git": 3,
+    "all_15_backup_and_stash_hashes_verified": true,
+    "stash_commit": "c02aa523b612c33d5641dbd95c47b99d9e1ff1d1",
+    "snapshot_index": "Archive/Recovery/2026-10-21_shared-checkout/SNAPSHOT_INDEX.json",
+    "local_backup": ".recovery/2026-10-21_shared-checkout (ignored; retains all 15 source files and binary patch)",
+    "stash_kept_not_applied": true
+  },
+  "reconciliation": {
+    "method": "Verified ignored backup and path-limited git stash with untracked files; clean main updated by git pull --ff-only",
+    "updated_to_main": "cca4b559594084dbc397b3267b390f74a341a854",
+    "old_course_evidence_review": [
+      {
+        "course": "BUS225",
+        "old_reviewed_at": "2026-10-07T13:04:57.563432+04:00",
+        "current_reviewed_at": "2026-10-17T03:04:05.007342+04:00",
+        "tasks": [
+          {
+            "task": "PROFILE",
+            "local_status": "сдано",
+            "current_status": "сдано",
+            "original_evidence_entries": 4,
+            "all_original_evidence_entries_retained": true
+          },
+          {
+            "task": "A1",
+            "local_status": "сдано",
+            "current_status": "оценено",
+            "original_evidence_entries": 4,
+            "all_original_evidence_entries_retained": true
+          },
+          {
+            "task": "A2",
+            "local_status": "согласовано",
+            "current_status": "согласовано",
+            "original_evidence_entries": 4,
+            "all_original_evidence_entries_retained": true
+          },
+          {
+            "task": "PEER",
+            "local_status": "предложено",
+            "current_status": "предложено",
+            "original_evidence_entries": 3,
+            "all_original_evidence_entries_retained": true
+          },
+          {
+            "task": "A3",
+            "local_status": "предложено",
+            "current_status": "в работе",
+            "original_evidence_entries": 2,
+            "all_original_evidence_entries_retained": true
+          }
+        ]
+      },
+      {
+        "course": "BUS230",
+        "old_reviewed_at": "2026-10-07T13:05:17.617533+04:00",
+        "current_reviewed_at": "2026-10-17T16:52:20.037422+04:00",
+        "tasks": [
+          {
+            "task": "A1",
+            "local_status": "оценено",
+            "current_status": "оценено",
+            "original_evidence_entries": 4,
+            "all_original_evidence_entries_retained": true
+          },
+          {
+            "task": "A2",
+            "local_status": "в работе",
+            "current_status": "в работе",
+            "original_evidence_entries": 4,
+            "all_original_evidence_entries_retained": true
+          },
+          {
+            "task": "PEER",
+            "local_status": "предложено",
+            "current_status": "предложено",
+            "original_evidence_entries": 3,
+            "all_original_evidence_entries_retained": true
+          },
+          {
+            "task": "A3",
+            "local_status": "предложено",
+            "current_status": "в работе",
+            "original_evidence_entries": 2,
+            "all_original_evidence_entries_retained": true
+          }
+        ]
+      }
+    ],
+    "resolution": "Original evidence is already retained in current main. Keep current statuses and newer decisions. Preserve dated original working files as history; do not replay outdated summaries over current records.",
+    "no_hard_reset_force_push_or_git_clean": true,
+    "no_branch_switch_in_shared_checkout": true,
+    "local_ignored_access_config": "Kept in place; secrets not copied into archive"
+  },
+  "verification_before_archiving": {
+    "verify": "PASS",
+    "retained_files": 790,
+    "retained_bytes": 496776412,
+    "scope": "SHA-256, scope, sources, links, states and secret scan"
+  },
+  "scope_limits": [
+    "This is a Git/filesystem repair, not a new mail or LMS check. Existing source-check dates stay unchanged.",
+    "Open historical/source gaps in Migration/GAPS.md remain open.",
+    "Final published HEAD is external Git state, checked against GitHub after push. The historical base SHA above is not a live sync indicator."
+  ]
+}

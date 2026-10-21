@@ -1,0 +1,213 @@
+{
+  "captured_at": "2026-10-21T11:23:20.614569+04:00",
+  "repository": "4xhdnrjrdx-lab/Murdoch",
+  "base_head": "c4129051937e643187f9cf8809d726f31512e2d8",
+  "remote_main_at_capture": "cca4b559594084dbc397b3267b390f74a341a854",
+  "branch": "main",
+  "status_porcelain": " M ACCESS_STATUS.json\n M BUS225/2026-TSD/CONTEXT.md\n M BUS225/2026-TSD/HISTORY.md\n M BUS225/2026-TSD/TASKS.json\n M BUS225/2026-TSD/TASKS.md\n M BUS230/2026-TSD/CONTEXT.md\n M BUS230/2026-TSD/Correspondence/README.md\n M BUS230/2026-TSD/HISTORY.md\n M BUS230/2026-TSD/TASKS.json\n M BUS230/2026-TSD/TASKS.md\n M MANIFEST.json\n M README.md\n?? BUS225/2026-TSD/Correspondence/2026-10-07_1304_lms-check.json\n?? BUS225/2026-TSD/Correspondence/2026-10-07_followup-check.md\n?? BUS230/2026-TSD/Correspondence/2026-10-07_continuation-check.json\n",
+  "patch_sha256": "648a12c8dab6f12e836ed986634c5bfe2d5adf694e43d3e5b8a69c92fc29f2da",
+  "files": [
+    {
+      "path": "ACCESS_STATUS.json",
+      "git_status": " M",
+      "bytes": 3405,
+      "sha256": "3203497a3ed3d72738b45710be1392c6ac6583214f6d77f710c9749c1d14062a",
+      "identical_to_remote_main": false,
+      "remote_comparison_sha256": "7675e84ddc049f654644ee56dfe9696ad7a7d4aa7bd345fda97d43516e63d835",
+      "preservation": "archive_exact_snapshot",
+      "restore_from": {
+        "kind": "archived_snapshot",
+        "path": "Archive/Recovery/2026-10-21_shared-checkout/files/ACCESS_STATUS.json"
+      }
+    },
+    {
+      "path": "BUS225/2026-TSD/CONTEXT.md",
+      "git_status": " M",
+      "bytes": 4900,
+      "sha256": "29cf68b14ba74bf5446d8d515865cc7371eb119388f4e3743dea114f58b35cd0",
+      "identical_to_remote_main": false,
+      "remote_comparison_sha256": "a8e41ad39d8a6425a49b1c510a46d29a1a65fcedf897a52c72b8b8eddc8bf08c",
+      "preservation": "archive_exact_snapshot",
+      "restore_from": {
+        "kind": "archived_snapshot",
+        "path": "Archive/Recovery/2026-10-21_shared-checkout/files/BUS225/2026-TSD/CONTEXT.md"
+      }
+    },
+    {
+      "path": "BUS225/2026-TSD/HISTORY.md",
+      "git_status": " M",
+      "bytes": 1943,
+      "sha256": "1d55c5a580bfa45e36f0e35213e67c3c1f86a57d4a31512bedddeff2294b779c",
+      "identical_to_remote_main": false,
+      "remote_comparison_sha256": "9d19c58d3c3476f9da475420111a341a4daa9df84c2add40aa6c1597328c6d3e",
+      "preservation": "archive_exact_snapshot",
+      "restore_from": {
+        "kind": "archived_snapshot",
+        "path": "Archive/Recovery/2026-10-21_shared-checkout/files/BUS225/2026-TSD/HISTORY.md"
+      }
+    },
+    {
+      "path": "BUS225/2026-TSD/TASKS.json",
+      "git_status": " M",
+      "bytes": 10963,
+      "sha256": "3cc144d01c40876efdf34a0b021d9a058bd824521270b561dd45953b27feb898",
+      "identical_to_remote_main": false,
+      "remote_comparison_sha256": "bf28c0cc5234d46b4e7216db1aa1f558b55becc9bf4a975a7728a798d75e281b",
+      "preservation": "archive_exact_snapshot",
+      "restore_from": {
+        "kind": "archived_snapshot",
+        "path": "Archive/Recovery/2026-10-21_shared-checkout/files/BUS225/2026-TSD/TASKS.json"
+      }
+    },
+    {
+      "path": "BUS225/2026-TSD/TASKS.md",
+      "git_status": " M",
+      "bytes": 8139,
+      "sha256": "73121db3a22798aed68059bf3a403788fa27e5535466afbf1affcfa3463912b2",
+      "identical_to_remote_main": false,
+      "remote_comparison_sha256": "4951dd72a7ebc441262e09268367f753c00dfb68a4b94106bea4a1e77415f550",
+      "preservation": "archive_exact_snapshot",
+      "restore_from": {
+        "kind": "archived_snapshot",
+        "path": "Archive/Recovery/2026-10-21_shared-checkout/files/BUS225/2026-TSD/TASKS.md"
+      }
+    },
+    {
+      "path": "BUS230/2026-TSD/CONTEXT.md",
+      "git_status": " M",
+      "bytes": 4430,
+      "sha256": "6a7a716c96bc25df09656e7a8a4d4404aa291b01439ae287983bb9a031ddd978",
+      "identical_to_remote_main": false,
+      "remote_comparison_sha256": "dea4ceaa1bb1389487930263008877e703653a48f63f5747adc9455085f34aa8",
+      "preservation": "archive_exact_snapshot",
+      "restore_from": {
+        "kind": "archived_snapshot",
+        "path": "Archive/Recovery/2026-10-21_shared-checkout/files/BUS230/2026-TSD/CONTEXT.md"
+      }
+    },
+    {
+      "path": "BUS230/2026-TSD/Correspondence/README.md",
+      "git_status": " M",
+      "bytes": 512,
+      "sha256": "aaf3c2ce19d6ff963ba62441aa33abe0fd2bec47c0a70806f22d5b8adf4eb4c1",
+      "identical_to_remote_main": false,
+      "remote_comparison_sha256": "d904b4a2056b3eb1101c7110527100e04d80666d3f8f54b9cebbeb8ffdba8fa4",
+      "preservation": "archive_exact_snapshot",
+      "restore_from": {
+        "kind": "archived_snapshot",
+        "path": "Archive/Recovery/2026-10-21_shared-checkout/files/BUS230/2026-TSD/Correspondence/README.md"
+      }
+    },
+    {
+      "path": "BUS230/2026-TSD/HISTORY.md",
+      "git_status": " M",
+      "bytes": 2243,
+      "sha256": "a8babc7c5a4df8c75c80c81e551a3fb3c1745b87d098b509b55dfab9825f51dd",
+      "identical_to_remote_main": false,
+      "remote_comparison_sha256": "bd8e0c41ddc4cea0c843b26725fc452b0ed27552b15644abca6b2138bff3dda0",
+      "preservation": "archive_exact_snapshot",
+      "restore_from": {
+        "kind": "archived_snapshot",
+        "path": "Archive/Recovery/2026-10-21_shared-checkout/files/BUS230/2026-TSD/HISTORY.md"
+      }
+    },
+    {
+      "path": "BUS230/2026-TSD/TASKS.json",
+      "git_status": " M",
+      "bytes": 8691,
+      "sha256": "1a89414489c62a632f72ae484d278f543a8bbd268fdc670a6a254c74a6601b2f",
+      "identical_to_remote_main": false,
+      "remote_comparison_sha256": "09e2e6f4a23254bc6339e4d9d28bca37d27696fcfe671b50d5acaebe49b9aa0f",
+      "preservation": "archive_exact_snapshot",
+      "restore_from": {
+        "kind": "archived_snapshot",
+        "path": "Archive/Recovery/2026-10-21_shared-checkout/files/BUS230/2026-TSD/TASKS.json"
+      }
+    },
+    {
+      "path": "BUS230/2026-TSD/TASKS.md",
+      "git_status": " M",
+      "bytes": 6477,
+      "sha256": "34d1a4838ea5b4e1465af668cd3f20095607d2cff01c9ce05e323bc4e6d8ba52",
+      "identical_to_remote_main": false,
+      "remote_comparison_sha256": "f450c6da5b5c79af384eac102ee3746c788f3b4a004cacc1f67bd8a0357a260f",
+      "preservation": "archive_exact_snapshot",
+      "restore_from": {
+        "kind": "archived_snapshot",
+        "path": "Archive/Recovery/2026-10-21_shared-checkout/files/BUS230/2026-TSD/TASKS.md"
+      }
+    },
+    {
+      "path": "MANIFEST.json",
+      "git_status": " M",
+      "bytes": 125522,
+      "sha256": "d7d7fb84e51aaa0a95be80b68f0258e15fe0041b1def5e19850e66fd8c0f885c",
+      "identical_to_remote_main": false,
+      "remote_comparison_sha256": "62e3a82c6057018860b2f36360e28d29c1868b5914e44a7a5bcbf3d9f3ac9e1e",
+      "preservation": "archive_exact_snapshot",
+      "restore_from": {
+        "kind": "archived_snapshot",
+        "path": "Archive/Recovery/2026-10-21_shared-checkout/files/MANIFEST.json"
+      }
+    },
+    {
+      "path": "README.md",
+      "git_status": " M",
+      "bytes": 4615,
+      "sha256": "eab09f5318be8267ee485e649a0444b25f00dcfa1e0c23e66e646edd965fdb3d",
+      "identical_to_remote_main": false,
+      "remote_comparison_sha256": "29c700459a2134b7c495fed554e1ecac18ef2405971f926b5edbce9f62f63b24",
+      "preservation": "archive_exact_snapshot",
+      "restore_from": {
+        "kind": "archived_snapshot",
+        "path": "Archive/Recovery/2026-10-21_shared-checkout/files/README.md"
+      }
+    },
+    {
+      "path": "BUS225/2026-TSD/Correspondence/2026-10-07_1304_lms-check.json",
+      "git_status": "??",
+      "bytes": 4093,
+      "sha256": "31789335ec33b6171079f4e6e2d369202c31c39546aca05444586374c48b6a5d",
+      "identical_to_remote_main": true,
+      "remote_comparison_sha256": "31789335ec33b6171079f4e6e2d369202c31c39546aca05444586374c48b6a5d",
+      "preservation": "existing_identical_git_file",
+      "restore_from": {
+        "kind": "existing_git_file",
+        "commit": "cca4b559594084dbc397b3267b390f74a341a854",
+        "path": "BUS225/2026-TSD/Correspondence/2026-10-07_1304_lms-check.json"
+      }
+    },
+    {
+      "path": "BUS225/2026-TSD/Correspondence/2026-10-07_followup-check.md",
+      "git_status": "??",
+      "bytes": 2905,
+      "sha256": "2aca53705f7ce877d71fb07066168b37ca243e5c865afc8bbb1b593904093b6a",
+      "identical_to_remote_main": true,
+      "remote_comparison_sha256": "2aca53705f7ce877d71fb07066168b37ca243e5c865afc8bbb1b593904093b6a",
+      "preservation": "existing_identical_git_file",
+      "restore_from": {
+        "kind": "existing_git_file",
+        "commit": "cca4b559594084dbc397b3267b390f74a341a854",
+        "path": "BUS225/2026-TSD/Correspondence/2026-10-07_followup-check.md"
+      }
+    },
+    {
+      "path": "BUS230/2026-TSD/Correspondence/2026-10-07_continuation-check.json",
+      "git_status": "??",
+      "bytes": 4074,
+      "sha256": "1cee676a516356d22602e9804db9b95b981625b21a3637976d51875209a8cb5e",
+      "identical_to_remote_main": true,
+      "remote_comparison_sha256": "1cee676a516356d22602e9804db9b95b981625b21a3637976d51875209a8cb5e",
+      "preservation": "existing_identical_git_file",
+      "restore_from": {
+        "kind": "existing_git_file",
+        "commit": "cca4b559594084dbc397b3267b390f74a341a854",
+        "path": "BUS230/2026-TSD/Correspondence/2026-10-07_continuation-check.json"
+      }
+    }
+  ],
+  "preserved_git_stash": "c02aa523b612c33d5641dbd95c47b99d9e1ff1d1",
+  "local_backup": ".recovery/2026-10-21_shared-checkout (ignored; retains all 15 source files and binary patch)",
+  "status": "Historical exact-byte snapshot only; current records are in the canonical course folders and ACCESS_STATUS.json",
+  "restore_note": "For each entry, read restore_from.path from this archive, or git show restore_from.commit:restore_from.path. Verify its original bytes and SHA-256. Restore historical files into a separate folder, not over current main."
+}

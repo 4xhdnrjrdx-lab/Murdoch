@@ -268,6 +268,84 @@
       "storage": "git"
     },
     {
+      "path": "Archive/Recovery/2026-10-21_shared-checkout/SNAPSHOT_INDEX.json",
+      "bytes": 9826,
+      "sha256": "e7bbbb75b3398eb979ccaa64375f70b30cd176878ca24c2856c546188d157ebf",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/Recovery/2026-10-21_shared-checkout/files/ACCESS_STATUS.json",
+      "bytes": 3405,
+      "sha256": "3203497a3ed3d72738b45710be1392c6ac6583214f6d77f710c9749c1d14062a",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/Recovery/2026-10-21_shared-checkout/files/BUS225/2026-TSD/CONTEXT.md",
+      "bytes": 4900,
+      "sha256": "29cf68b14ba74bf5446d8d515865cc7371eb119388f4e3743dea114f58b35cd0",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/Recovery/2026-10-21_shared-checkout/files/BUS225/2026-TSD/HISTORY.md",
+      "bytes": 1943,
+      "sha256": "1d55c5a580bfa45e36f0e35213e67c3c1f86a57d4a31512bedddeff2294b779c",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/Recovery/2026-10-21_shared-checkout/files/BUS225/2026-TSD/TASKS.json",
+      "bytes": 10963,
+      "sha256": "3cc144d01c40876efdf34a0b021d9a058bd824521270b561dd45953b27feb898",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/Recovery/2026-10-21_shared-checkout/files/BUS225/2026-TSD/TASKS.md",
+      "bytes": 8139,
+      "sha256": "73121db3a22798aed68059bf3a403788fa27e5535466afbf1affcfa3463912b2",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/Recovery/2026-10-21_shared-checkout/files/BUS230/2026-TSD/CONTEXT.md",
+      "bytes": 4430,
+      "sha256": "6a7a716c96bc25df09656e7a8a4d4404aa291b01439ae287983bb9a031ddd978",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/Recovery/2026-10-21_shared-checkout/files/BUS230/2026-TSD/Correspondence/README.md",
+      "bytes": 512,
+      "sha256": "aaf3c2ce19d6ff963ba62441aa33abe0fd2bec47c0a70806f22d5b8adf4eb4c1",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/Recovery/2026-10-21_shared-checkout/files/BUS230/2026-TSD/HISTORY.md",
+      "bytes": 2243,
+      "sha256": "a8babc7c5a4df8c75c80c81e551a3fb3c1745b87d098b509b55dfab9825f51dd",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/Recovery/2026-10-21_shared-checkout/files/BUS230/2026-TSD/TASKS.json",
+      "bytes": 8691,
+      "sha256": "1a89414489c62a632f72ae484d278f543a8bbd268fdc670a6a254c74a6601b2f",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/Recovery/2026-10-21_shared-checkout/files/BUS230/2026-TSD/TASKS.md",
+      "bytes": 6477,
+      "sha256": "34d1a4838ea5b4e1465af668cd3f20095607d2cff01c9ce05e323bc4e6d8ba52",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/Recovery/2026-10-21_shared-checkout/files/MANIFEST.json",
+      "bytes": 125522,
+      "sha256": "d7d7fb84e51aaa0a95be80b68f0258e15fe0041b1def5e19850e66fd8c0f885c",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/Recovery/2026-10-21_shared-checkout/files/README.md",
+      "bytes": 4615,
+      "sha256": "eab09f5318be8267ee485e649a0444b25f00dcfa1e0c23e66e646edd965fdb3d",
+      "storage": "git"
+    },
+    {
       "path": "BUS219/2026-TSD/Archive/LegacyRecords/00_CHAT_CONTEXT.md",
       "bytes": 15523,
       "sha256": "5587ad65fd46040f06456fb4a4aa40c3216b9c62c080fe915dd0f8c261fa7245",
@@ -4691,8 +4769,14 @@
     },
     {
       "path": "Verification/RESTORE_REPORT.md",
-      "bytes": 5908,
-      "sha256": "25027440beb2f924d580f48f272f31bc6720dc3227e18535889c0fff2bcff3a7",
+      "bytes": 8067,
+      "sha256": "7891c66a752c8bab9df6f4531627b0c1910e95c80376e39b35a46a3b39f13787",
+      "storage": "git"
+    },
+    {
+      "path": "Verification/SHARED_CHECKOUT_RECONCILIATION_2026-10-21.json",
+      "bytes": 5015,
+      "sha256": "bae813098f53cd6bf87f004f9caed2e7e310a75c4869d2b6fb8fc93d13e9b943",
       "storage": "git"
     },
     {
@@ -4744,6 +4828,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 790,
-  "total_bytes": 496776412
+  "file_count": 804,
+  "total_bytes": 496975252
 }

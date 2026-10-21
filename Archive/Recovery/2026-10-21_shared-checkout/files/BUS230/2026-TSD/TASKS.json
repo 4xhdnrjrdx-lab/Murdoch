@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "course": "BUS230",
+  "period": "2026-TSD",
+  "reviewed_at": "2026-10-07T13:05:17.617533+04:00",
+  "allowed_states": [
+    "предложено",
+    "согласовано",
+    "в работе",
+    "готово к сдаче",
+    "сдано",
+    "оценено"
+  ],
+  "notes": "",
+  "tasks": [
+    {
+      "id": "A1",
+      "title": "Individual reflective essay, 30%",
+      "status": "оценено",
+      "next_action": "При необходимости открыть оценку в LMS вручную; API подтвердил оценивание без числа.",
+      "detail": "7 октября API: submitted, gradingstatus graded; последнее изменение остаётся 17 сентября 18:08:19 Dubai. Число баллов и feedback API не вернул. Максимум задания 30 баллов не является результатом студента.",
+      "deadlines": [
+        {
+          "value": "2026-09-18 19:59 Asia/Dubai",
+          "source_label": "Moodle API timestamp",
+          "checked_at": "2026-10-07",
+          "source_path": "Correspondence/2026-10-07_continuation-check.json"
+        }
+      ],
+      "evidence": [
+        {
+          "date": "2026-09-19",
+          "note": "API: submitted, notgraded; последнее изменение 17 сентября 18:08:19 Dubai.",
+          "path": "Archive/LegacyRecords/00_CHAT_CONTEXT.md",
+          "source": ""
+        },
+        {
+          "date": "2026-10-05",
+          "note": "Turnitin получил одноимённый файл; письмо не подтверждает новую официальную сдачу в Moodle.",
+          "path": "Correspondence/2026-10-05_turnitin-receipt.md",
+          "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Прочитаны актуальные портал, срок и доступный статус. Submission submitted; grading graded. ",
+          "path": "Correspondence/2026-10-07_lms-check.json",
+          "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Повторная проверка: submitted и graded; число баллов и feedback по-прежнему недоступны.",
+          "path": "Correspondence/2026-10-07_continuation-check.json",
+          "source": ""
+        }
+      ],
+      "unknown": "Число баллов/комментарий и причина новой квитанции Turnitin от 5 октября.",
+      "show_on_overview": true,
+      "correction": ""
+    },
+    {
+      "id": "A2",
+      "title": "Group multimedia manager training presentation, 40%",
+      "status": "в работе",
+      "next_action": "Согласовать с Class 2 Group 4 модель, роли и дату выступления; сообщить свою часть для подготовки A2.",
+      "detail": "Class 2 Group 4 зарегистрирована 23 сентября. Kotter 1996 предложен; решение команды не подтверждено. Максимум 30 слайдов и 30 минут; всем выступать; 15–20 академических источников. Полная проверка требований 23 сентября сохранена.",
+      "deadlines": [
+        {
+          "value": "2026-11-06 19:59 Asia/Dubai",
+          "source_label": "Moodle API timestamp",
+          "checked_at": "2026-10-07",
+          "source_path": "Correspondence/2026-10-07_continuation-check.json"
+        },
+        {
+          "value": "Вечером накануне назначенного выступления, sessions 10/11",
+          "source_label": "Unit Outline §5.2.2",
+          "checked_at": "2026-09-23",
+          "source_path": "Materials/UnitOutline/00_UNIT_OUTLINE_BUS230_TSD2026.md"
+        }
+      ],
+      "evidence": [
+        {
+          "date": "2026-09-23",
+          "note": "Скриншот регистрации группы и предложения модели.",
+          "path": "Archive/LegacyRecords/00_CHAT_CONTEXT.md",
+          "source": ""
+        },
+        {
+          "date": "2026-09-23",
+          "note": "Полная проверка рубрики и требований.",
+          "path": "Archive/LegacyRecords/A2_ПРОВЕРКА_ТРЕБОВАНИЙ.md",
+          "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Прочитаны актуальные портал, срок и доступный статус. ",
+          "path": "Correspondence/2026-10-07_lms-check.json",
+          "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Повторная проверка: срок 6 ноября 19:59 Dubai; групповая сдача new. Class 2 Group 4 подтверждена.",
+          "path": "Correspondence/2026-10-07_continuation-check.json",
+          "source": ""
+        }
+      ],
+      "unknown": "Дата конкретной команды, согласованная модель, роли и окончательный стиль ссылок: Chicago 17 против APA в примерной структуре.",
+      "show_on_overview": true,
+      "correction": ""
+    },
+    {
+      "id": "PEER",
+      "title": "Peer assessment",
+      "status": "предложено",
+      "next_action": "Уточнить отдельные требования и срок в LMS.",
+      "detail": "Выбран отдельный портал Wednesday Class Shahinda Baig (instance 372), соответствующий Class 2 пользователя. Его дата отличается от общего срока A2.",
+      "deadlines": [
+        {
+          "value": "2026-12-01T19:59:00+04:00",
+          "source_label": "Moodle course contents, Wednesday class peerwork",
+          "checked_at": "2026-10-07",
+          "source_path": "Correspondence/2026-10-07_continuation-check.json"
+        }
+      ],
+      "evidence": [
+        {
+          "date": "2026-09-15",
+          "note": "Снимок Moodle с модулем peerwork.",
+          "path": "Materials/LMS_Snapshots/_lms_dump_2026-09-15/course_contents.json",
+          "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Подтверждён срок отдельного Wednesday peerwork.",
+          "path": "Correspondence/2026-10-07_lms-check.json",
+          "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Повторно подтверждён срок Wednesday class peerwork: 1 декабря 19:59 Dubai.",
+          "path": "Correspondence/2026-10-07_continuation-check.json",
+          "source": ""
+        }
+      ],
+      "unknown": "Прохождение peerwork не проверено отдельным методом; уточнить требования.",
+      "show_on_overview": false,
+      "correction": ""
+    },
+    {
+      "id": "A3",
+      "title": "Final Exam, 30%",
+      "status": "предложено",
+      "next_action": "Подготовиться к экзамену; ближе к дате проверить аудиторию и обновления.",
+      "detail": "Дата и время подтверждены официальным расписанием и правилом местного времени Dubai ISC. Допустимые материалы сохранены в источнике.",
+      "deadlines": [
+        {
+          "value": "2026-11-21 13:30 Asia/Dubai, Dubai ISC",
+          "source_label": "официальное расписание Trimester S, 2026",
+          "checked_at": "2026-10-07",
+          "source_path": "../../Archive/Correspondence/2026-10-07_exam-timetable.md"
+        }
+      ],
+      "evidence": [
+        {
+          "date": "2026-09-30",
+          "note": "Уведомление об экзаменах.",
+          "path": "../../Archive/Correspondence/2026-09-30_final-exam.md",
+          "source": ""
+        },
+        {
+          "date": "2026-10-07",
+          "note": "Строка Dubai ISC, допустимые материалы и правило местного времени TNE проверены на официальном сайте.",
+          "path": "../../Archive/Correspondence/2026-10-07_exam-timetable.md",
+          "source": ""
+        }
+      ],
+      "unknown": "Номер аудитории и возможные поздние изменения.",
+      "show_on_overview": false,
+      "correction": ""
+    }
+  ]
+}
