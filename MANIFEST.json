@@ -1709,8 +1709,8 @@
     },
     {
       "path": "BUS225/2026-TSD/Assignments/A2/Complete_2026-10-21/READ_ME_RU.txt",
-      "bytes": 4742,
-      "sha256": "d21f8928a93c6756ab8442542bdb9ce9b1273a3af051a9758650b43d7cce491e",
+      "bytes": 1119,
+      "sha256": "970be991aaafd9492ee7fea97df671412131557e4c7b5b056b6e17ad9a411a9d",
       "storage": "git"
     },
     {
@@ -1801,6 +1801,12 @@
       "path": "BUS225/2026-TSD/Assignments/A2/Complete_2026-10-21/Source/service_blueprint_diagram.pdf",
       "bytes": 5722,
       "sha256": "390232fd843fc22b669f7fed014cef07fb150a90a3b329761f8d0754a66128e8",
+      "storage": "git"
+    },
+    {
+      "path": "BUS225/2026-TSD/Assignments/A2/For_Submission/BUS225_A2_Group9_Carrefour.docx",
+      "bytes": 544915,
+      "sha256": "77e9c6b28cf77f80315504f66542f9b99d5c4a5edf394f833553d37c4043b63c",
       "storage": "git"
     },
     {
@@ -1985,8 +1991,8 @@
     },
     {
       "path": "BUS225/2026-TSD/HISTORY.md",
-      "bytes": 7065,
-      "sha256": "e8822d3e3ce9d0542b7783492fa6dfc14c7b96abfa44d2901fae39d9289b8636",
+      "bytes": 7476,
+      "sha256": "87918b01a856373eb187fce1f2e488724b01e46e42fff623eccff536cf3fc31f",
       "storage": "git"
     },
     {
@@ -2267,14 +2273,14 @@
     },
     {
       "path": "BUS225/2026-TSD/TASKS.json",
-      "bytes": 20059,
-      "sha256": "36e9d8bacddb7a0509a3bac1aa82ed1f318a4960bf38b5de5238303ffecb9ddb",
+      "bytes": 20637,
+      "sha256": "afeb70276b8fd57e6eea09fbbbdf021cac18ec07dc4b4c9abae15b00c674c891",
       "storage": "git"
     },
     {
       "path": "BUS225/2026-TSD/TASKS.md",
-      "bytes": 15892,
-      "sha256": "4b01161d6c640a957edbd6f8b1d45326be5bf44c25fc4bd48df3f8dfafb77948",
+      "bytes": 16387,
+      "sha256": "ee92e1b3349100b33341722b7fec7f9b81ffbd7e92dc2ccc51f3e9cf1e70bb8b",
       "storage": "git"
     },
     {
@@ -4937,8 +4943,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5877,
-      "sha256": "8fb9ad6258113cd32fd17968b8d76e23c4cc433233a396b4e2b87a759b27e141",
+      "bytes": 5959,
+      "sha256": "43f8ef5a432e664cedc01f8ca5322ad50806442d859c8ff45761ced850617e95",
       "storage": "git"
     },
     {
@@ -5014,6 +5020,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 835,
-  "total_bytes": 501596445
+  "file_count": 836,
+  "total_bytes": 502139303
 }
