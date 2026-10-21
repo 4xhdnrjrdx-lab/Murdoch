@@ -4,7 +4,7 @@
   "period": "2026-TSD",
   "timezone": "Asia/Dubai",
   "started_at": "2026-10-17",
-  "updated_at": "2026-10-20T14:29:27+04:00",
+  "updated_at": "2026-10-21T14:15:26.602350+04:00",
   "authorization": "Прямое сообщение Faiaz: «давай начнём подготовку к экзамену уже сегодня и будем фиксировать всё».",
   "availability": {
     "user_response_verbatim": "по разному",
@@ -37,14 +37,15 @@
     "id": "2026-10-17_02",
     "path": "Sessions/2026-10-17_02_RESTART.md",
     "kind": "source_based_explanation_and_dialogue",
-    "state": "game_stopped_foundation_explanation_next",
+    "state": "foundation_explanation_prepared_dialogue_pending",
     "response_count": 3,
     "actual_minutes": null,
-    "result": "Learner explicitly rejected the game format as unclear and without purpose. Earlier supported responses retained; Cedar Gifts not attempted. Restart the subject explanation from meaning and purpose, with a worked example and dialogue.",
+    "result": "21 October: resumed short source-based explanation with a hypothetical department-merger example; prepared for current reply. No new learner response. Earlier supported answers and game-stop decision retained.",
     "language": "English",
     "support": "Short coherent explanations, worked examples and questions in dialogue; Russian scaffolding when needed.",
     "current_block": "1.1",
-    "previous_game_path": "Interactive/cedar-gifts-transfer.html"
+    "previous_game_path": "Interactive/cedar-gifts-transfer.html",
+    "latest_explanation_path": "Sessions/2026-10-21_FOUNDATION_EXPLANATION.md"
   },
   "topics": [
     {
@@ -141,7 +142,7 @@
       "response_evidence": "Sessions/2026-10-17_01_FORMAT_FEEDBACK.json"
     }
   ],
-  "next_action": "Explain what organisational change management studies, using one clearly hypothetical department-merger example. Discuss questions before moving to Topic 1 three perspectives. No game or immediate quiz.",
+  "next_action": "Discuss learner questions about the meaning and purpose of organisational change management using the department-merger example, then introduce the three Topic 1 perspectives gradually. No game or immediate quiz.",
   "continuation_rules": [
     "Главная цель — освоение BUS230 и экзаменационное применение. Следовать PLAN_RU.md и карте всех блоков CURRICULUM.json, не выбирать темы произвольно.",
     "20 октября игровой формат остановлен по прямой просьбе. Не продолжать Cedar Gifts и не создавать заменяющую игру. Короткое объяснение по лекции, разобранный пример и диалог; проверочная практика позже, после понимания.",

@@ -1,0 +1,24 @@
+{
+  "checked_at": "2026-10-21T14:15:26.602350+04:00",
+  "course": "BUS230",
+  "result": "ok",
+  "mail": {
+    "account": "jafarovfayaz@gmail.com",
+    "query": "after:2026/10/19 (BUS230 OR \"BUS 230\" OR \"Change Management\" OR from:Shahinda.Baig@murdoch.edu.au)",
+    "matching_messages": 0,
+    "next_page_token_present": false,
+    "uncovered": [
+      "Full university Outlook",
+      "WhatsApp",
+      "Messages outside search terms"
+    ]
+  },
+  "lms": {
+    "checked_at": "2026-10-21T14:14:22.093703+04:00",
+    "scope": "Assessment 3 heading and description via core_course_get_contents; news forum latest-discussion query returned no discussions",
+    "finding": "2 hours, 3 questions; heading specifies 13+13+14=40 marks; description still states 30. Conflict unresolved.",
+    "calendar_rechecked": false,
+    "downloads": false
+  },
+  "actions": "Read-only source checks. No messages, submissions or LMS changes."
+}

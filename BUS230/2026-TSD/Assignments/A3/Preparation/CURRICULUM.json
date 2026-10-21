@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course": "BUS230",
   "period": "2026-TSD",
-  "updated_at": "2026-10-17T23:18:05.771042+04:00",
+  "updated_at": "2026-10-21T14:15:26.602350+04:00",
   "purpose": "Subject-focused lecture-by-lecture coverage and evidence of learning; English is the medium, not a separate course.",
   "total_topics": 8,
   "total_core_blocks": 42,
@@ -64,7 +64,8 @@
             "2026-10-19_colorful-game-design.json",
             "Sessions/2026-10-20_GUIDED_CAFE_PASS.json",
             "2026-10-20_gift-transfer-preparation.json",
-            "2026-10-20_stop-game-format.json"
+            "2026-10-20_stop-game-format.json",
+            "Sessions/2026-10-21_FOUNDATION_EXPLANATION.md"
           ],
           "partial_coverage": {
             "focus": "Tool-based perspective and organisational change",
@@ -76,7 +77,7 @@
               "Fresh independent application and delayed recall"
             ],
             "previous_mission": "Interactive/cedar-gifts-transfer.html",
-            "current_method": "Source-based explanation, worked example and dialogue; game stopped by user 20 October."
+            "current_method": "Short lecture-based explanation with hypothetical department-merger example, prepared 21 October; learner dialogue pending. Prior practice status is historical support, not independent mastery."
           }
         },
         {
