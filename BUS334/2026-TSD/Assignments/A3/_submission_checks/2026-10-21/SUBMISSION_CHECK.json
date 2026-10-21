@@ -1,0 +1,51 @@
+{
+  "checked_at": "2026-10-21T21:33:42.269841+04:00",
+  "operation": "Read-only Moodle submission status and download of the three submitted files for byte comparison",
+  "assignment_id": 124856,
+  "portal_url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3070560",
+  "submission_status": "submitted",
+  "grading_status": "notgraded",
+  "submission_last_modified_unix": 1792603777,
+  "submission_last_modified_dubai": "2026-10-21T21:29:37+04:00",
+  "files": [
+    {
+      "filename": "35553299_Dzhafarov_BUS334_A3_Appendices.pdf",
+      "bytes": 442931,
+      "sha256": "b70594e5b391e347d5ebe02cc9aa9e6a3639df0ed9681ffcd20e78f2802f0e4e",
+      "matches_prepared_file": true,
+      "canonical_path": "Assignments/A3/Report_2026-10-18/35553299_Dzhafarov_BUS334_A3_Appendices.pdf"
+    },
+    {
+      "filename": "35553299_Dzhafarov_BUS334_A3_Report.pdf",
+      "bytes": 497652,
+      "sha256": "3d2341ea7ab05f855c4ce4718cc6c8f5713f1a82853032921ee8cee80dcffd24",
+      "matches_prepared_file": true,
+      "canonical_path": "Assignments/A3/Report_2026-10-18/35553299_Dzhafarov_BUS334_A3_Report.pdf"
+    },
+    {
+      "filename": "Google_Forms_Responses_2026-10-18.csv",
+      "bytes": 13826,
+      "sha256": "b1abab5b724541cde709c1334edeb7bf7fbb550fe5d4a0b0c715b84afb6326f3",
+      "matches_prepared_file": true,
+      "canonical_path": "Assignments/A3/Responses_2026-10-18/Google_Forms_Responses_2026-10-18.csv"
+    }
+  ],
+  "screenshot": "Assignments/A3/_submission_checks/2026-10-21/2026-10-21_user_submission_status.png",
+  "ui_observations": {
+    "source": "User screenshot, 21 October 2026, 21:30 Dubai by filename",
+    "submission_status": "Submitted for grading",
+    "grading_status": "Not graded",
+    "pdf_turnitin_status": "Queued for both PDFs",
+    "csv_turnitin_message": "Unsupported file type; accepted list does not include .csv",
+    "displayed_last_modified": "Thursday, 22 October 2026, 1:29 AM",
+    "display_timezone": "Not stated in screenshot. API timestamp converted to Asia/Dubai is authoritative for stored time."
+  },
+  "interpretation": "All three files are present in a submitted Moodle assignment and match the prepared originals. The CSV Turnitin format warning is not an overall submission rejection. Full response evidence is also in the submitted PDF appendix. No resubmission or replacement was performed.",
+  "mail": {
+    "checked_at": "2026-10-21T21:33:42.269841+04:00",
+    "account": "jafarovfayaz@gmail.com",
+    "query": "after:2026/10/20 (BUS334 OR \"BUS 334\" OR (\"Submission confirmation\" \"Assignment 3\"))",
+    "result": "No matching messages; search exhausted. Full Outlook and WhatsApp not checked."
+  },
+  "actions_performed": "Read, download for comparison and save evidence only. No submission edits, messages or grading actions."
+}

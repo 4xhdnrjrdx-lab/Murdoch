@@ -1,8 +1,8 @@
 {
   "mail": {
-    "checked_at": "2026-10-19T12:42:52.154487+04:00",
-    "scope": "Study Gmail jafarovfayaz@gmail.com: Early Bird / Dubai Finance January 2027 since 1 August; 14 and 19 October message bodies read",
-    "result": "Подтверждена скидка Early Bird 5% на January 2027. Для Bachelor of Business последняя дата 18 ноября 2026 включительно; точный час не указан. Без рассрочки и повторных юнитов. Проверка ограничена письмами Finance, не является новой проверкой всех предметов.",
+    "checked_at": "2026-10-21T21:33:42.269841+04:00",
+    "scope": "after:2026/10/20 (BUS334 OR \"BUS 334\" OR (\"Submission confirmation\" \"Assignment 3\"))",
+    "result": "No matching messages; search exhausted. Full Outlook and WhatsApp not checked.",
     "last_check_by_course": {
       "BUS219": {
         "checked_at": "2026-10-20",
@@ -51,14 +51,14 @@
         "evidence": "BUS225/2026-TSD/Correspondence/2026-10-21_A2-completion-check.json"
       },
       "BUS334": {
-        "checked_at": "2026-10-18T23:01:55.469482+04:00",
+        "checked_at": "2026-10-21T21:33:42.269841+04:00",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "after:2026/10/18 (BUS334 OR \"BUS 334\" OR from:Ashok.Mitra@murdoch.edu.au)",
+        "scope": "after:2026/10/20 (BUS334 OR \"BUS 334\" OR (\"Submission confirmation\" \"Assignment 3\"))",
         "result": "No matching messages; search exhausted. Full Outlook and WhatsApp not checked.",
-        "evidence": "BUS334/2026-TSD/Correspondence/2026-10-18_A3-report-check.json"
+        "evidence": "BUS334/2026-TSD/Assignments/A3/_submission_checks/2026-10-21/SUBMISSION_CHECK.json"
       }
     },
-    "evidence": "Archive/Correspondence/2026-10-19_early-bird-january-2027.json",
+    "evidence": "BUS334/2026-TSD/Assignments/A3/_submission_checks/2026-10-21/SUBMISSION_CHECK.json",
     "outlook_attempt": {
       "attempted_at": "2026-10-07T13:31:59.360199+04:00",
       "result": "No accessible Outlook tab in connected browser inventory; no Outlook connector available in this chat",
@@ -128,14 +128,14 @@
     }
   },
   "lms": {
-    "checked_at": "2026-10-21T14:14:22.093703+04:00",
+    "checked_at": "2026-10-21T21:33:42.269841+04:00",
     "result": "ok",
-    "operation": "Latest read-only check: BUS230 exam heading/description and news forum; unrelated course checks retained.",
+    "operation": "Read-only BUS334 A3 submission status and SHA-256 comparison of three submitted files",
     "last_success_by_course": {
       "BUS219": "2026-10-20T16:13:06.356169+04:00",
       "BUS225": "2026-10-21T11:23:11.519614+04:00",
       "BUS230": "2026-10-21",
-      "BUS334": "2026-10-18T23:01:55.469482+04:00"
+      "BUS334": "2026-10-21T21:33:42.269841+04:00"
     },
     "token_expiry": "unknown",
     "successful_account_check": {
@@ -151,7 +151,7 @@
       "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-20_a2-finalisation-check.json",
       "BUS225": "BUS225/2026-TSD/Correspondence/2026-10-21_A2-completion-check.json",
       "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-21_A2-redesign-check.json",
-      "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-18_A3-report-check.json"
+      "BUS334": "BUS334/2026-TSD/Assignments/A3/_submission_checks/2026-10-21/SUBMISSION_CHECK.json"
     },
     "enrolment_check": {
       "checked_at": "2026-10-19T13:34:03.858964+04:00",
