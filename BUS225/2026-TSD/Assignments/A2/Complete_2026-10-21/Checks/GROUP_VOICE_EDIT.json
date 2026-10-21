@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-21",
+  "scope": "Targeted author-voice edit only",
+  "original_sha256": "aaebdc48e562855490caab6a3560051535f5d3cca0277122a86d9704c5c54a3b",
+  "final_sha256": "7b5745644b3d1a514b182f2ff5c420eeec6a92e2e9e669bfe28bc6ae849da84d",
+  "sentences_changed": 15,
+  "before_after": [
+    {
+      "before": "I would judge automation by whether it reduces the customer's total effort.",
+      "after": "We assess automation by whether it reduces the customer's total effort."
+    },
+    {
+      "before": "Mapping the journey changes where I would look for good service.",
+      "after": "Mapping the journey changes how we assess good service."
+    },
+    {
+      "before": "At stage 1, I would value an assistant that keeps suggestions within my stated budget, but I would still check pack size and current prices.",
+      "after": "At stage 1, shoppers could value suggestions within their stated budget while still checking pack size and current prices."
+    },
+    {
+      "before": "Displaying the source and update time would help me judge uncertainty before travelling.",
+      "after": "Displaying the source and update time would help shoppers judge uncertainty before travelling."
+    },
+    {
+      "before": "I would prefer a clear warning about uncertain availability to a confident promise.",
+      "after": "Our analysis favours a clear warning about uncertain availability over a confident promise."
+    },
+    {
+      "before": "I would use a search screen if it saved walking, but not if registration took longer than asking an employee.",
+      "after": "A search screen would help if it saved walking, unless registration took longer than asking an employee."
+    },
+    {
+      "before": "At F2, a shelf gap would matter more to me than the presence of a robot.",
+      "after": "At F2, we see a stocked shelf as more important than the presence of a robot."
+    },
+    {
+      "before": "This distinction helps me understand the line of visibility: customers experience the outcome of work that they usually cannot see.",
+      "after": "This distinction helps us understand the line of visibility: customers experience the outcome of work that they usually cannot see."
+    },
+    {
+      "before": "If an alternative met a price target but conflicted with my dietary preference, I would reject it.",
+      "after": "A shopper could reasonably reject an alternative that met a price target but conflicted with their dietary preference."
+    },
+    {
+      "before": "I would want a reason for the recommendation and access to a colleague at F3.",
+      "after": "Explaining the recommendation and offering staff help at F3 would support that choice."
+    },
+    {
+      "before": "At payment, self-service also makes me responsible for scanning and checking the total.",
+      "after": "At payment, self-service also makes the shopper responsible for scanning and checking the total."
+    },
+    {
+      "before": "A missing discount at F4 should trigger a price check, with the basket preserved so I do not have to restart.",
+      "after": "A missing discount at F4 should trigger a price check, with the basket preserved so the shopper need not restart."
+    },
+    {
+      "before": "After purchase, I would judge the retailer partly by how easily it corrects mistakes.",
+      "after": "After purchase, we would assess the retailer partly by how easily it corrects mistakes."
+    },
+    {
+      "before": "My future preference would depend on reliable help across the whole journey, including its least convenient moments.",
+      "after": "This leads us to value reliable help across the whole journey, including its least convenient moments."
+    },
+    {
+      "before": "I would choose Carrefour's intelligent service when it makes information more dependable and leaves me a workable route to human help.",
+      "after": "Our analysis supports choosing Carrefour's intelligent service when it offers dependable information and a workable route to human help."
+    }
+  ],
+  "remaining_singular_author_pronouns": 0,
+  "changed_docx_parts": [
+    "word/document.xml"
+  ],
+  "formatting_structure_unchanged": true,
+  "all_other_package_members_byte_identical": true,
+  "total_words_including_blueprint_excluding_references": 1882,
+  "word_change": -16,
+  "visual_review": "PASS: all five pages reviewed; no clipping, overflow, blank pages or orphan lines.",
+  "pages": 5,
+  "figure_and_reference_pages_pixel_identical_to_original": {
+    "4": true,
+    "5": true
+  },
+  "page_1_review": "Final render is pixel-identical to the reviewed first edit render."
+}
