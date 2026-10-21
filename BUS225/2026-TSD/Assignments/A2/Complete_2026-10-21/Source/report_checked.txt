@@ -1,0 +1,55 @@
+Carrefour UAE grocery shopping with intelligent service systems
+
+Reflective report and proposed service blueprint
+
+BUS225 Services Marketing | Assignment 2 | 2026 TSD | Group 9
+
+Faiaz Dzhafarov | Muhammad Aun Abbas | Beky Sufyan
+
+1 Service context
+
+Carrefour UAE combines tangible groceries with services that help customers find, compare, and pay for them. Majid Al Futtaim manages the UAE business. Its ESG report records the expansion of Tally inventory robots to 11 additional UAE Carrefour stores during 2021 (Majid Al Futtaim, 2022, p. 44). This supports studying robots in these stores, although it does not establish their presence in every store today. Figure 1 proposes an improved service blueprint for a typical physical grocery store, from planning a basket to resolving post-purchase issues.
+
+We evaluate automation by whether it reduces shoppers' overall effort. Accurate shelf alerts are only useful if someone responds. Fast checkout is less useful if correcting a receipt error becomes difficult. The blueprint therefore links intelligent systems to specific staff responsibilities.
+
+2 Matching technology to the service task
+
+Huang and Rust (2021) distinguish mechanical AI for repetitive tasks, thinking AI for analytical decisions, and feeling AI for interpreting interactions and emotions. In Figure 1, repetitive shelf scanning falls primarily into the first category; recognizing missing items and recommending alternatives require analytical processing. These capabilities can coexist within one system. A friendly greeting alone does not indicate emotional understanding. A barcode scanner is self-service technology, but not necessarily AI. Here, intelligence lies in interpreting shelf images and product requests; checkout remains the payment interface. We should not attribute to AI benefits already provided by conventional automation.
+
+Tally is a physical robot: it moves through aisles and collects shelf information. Majid Al Futtaim's report describes checks for missing, misplaced, and incorrectly priced items. A chatbot processes information; it cannot restock shelves. At stage 3, the proposed link between a robot alert and an employee's restocking task addresses fail point F2, where recorded availability differs from what a customer can buy. This is a service reliability issue, despite the physical nature of the products. Restocking remains a human task, and staff must verify uncertain alerts.
+
+Carrefour has also tested software tools outside the UAE. In June 2023, it announced Hopla on its French website, offering shopping recommendations based on budgets and dietary restrictions (Carrefour, 2023). Brazil's June 2021 Nutri Choice announcement described an algorithm comparing nutritional scores and prices, with recommendations based on purchase history (Carrefour, 2021). Neither announcement confirms a UAE deployment. These examples inform our proposed optional planning assistant at stage 1 and product comparisons at stage 4. Recommendations must use local catalog data and explain their basis; nutritional ratings cannot replace checking ingredients.
+
+Wirtz et al. (2018) distinguish routine service tasks from situations requiring emotional and social judgment. Their framework supports automating repeated checks while retaining staff for disputes. These conceptual predictions do not establish local customer acceptance. Company publications also describe initiatives rather than independent satisfaction tests. Carrefour UAE should test task performance and customer effort before expanding the proposed system.
+
+3 Reflecting on the customer journey
+
+Visualizing the purchasing journey changes our perception of quality service. At stage 1, shoppers may appreciate recommendations within their budget while still checking package sizes and current prices. Fail point F1 shows how persuasive advice can create expectations the store cannot meet. Displaying the source and update time would help shoppers assess uncertainty before visiting. We believe a clear warning about uncertain availability is more helpful than a confident promise.
+
+When entering a store and searching for products, aisle signs and accessible routes remain important even with digital aids. The course's treatment of customers as co-producers explains why transferring tasks to shoppers can reduce labor costs while increasing customer work (Wirtz, 2023). A search screen would help if it saved walking, unless registration took longer than asking an employee. Stage 2 therefore keeps a route without an app. The physical servicescape and digital interface should support the same journey.
+
+At F2, we believe a stocked shelf is more important than having a robot. Following the arrows in Figure 1 shows that detection, staff verification, and restocking must happen before the availability message changes. Scanning alone cannot deliver the promised benefits. The line of visibility helps explain this: shoppers depend on work usually performed out of their sight.
+
+At stage 4, who controls the choice? A shopper may reject an option that meets the target price but conflicts with their dietary preferences. Explaining the recommendation and offering staff assistance at F3 would support that choice. Self-checkout also makes shoppers responsible for scanning items and verifying the total. A missing discount at F4 should prompt a price check, with the basket saved so the shopper does not have to restart.
+
+After purchase, we would evaluate the retailer partly by how easily it corrects mistakes. At F5, repeating the same details to a chatbot and then a staff member would create unnecessary work. Forwarding the case record to an authorized colleague would avoid asking the customer to start again. This applies the course's process-redesign principle: remove unnecessary steps and provide recovery when self-service fails (Wirtz, 2023). We would seek reliable assistance throughout the interaction, especially when something goes wrong.
+
+4 Ethical implications
+
+Personalization creates a conflict between useful recommendations and excessive data collection. Brazil's Nutri Choice shows how purchase history can support recommendations (Carrefour, 2021). For the proposed UAE assistant, these records could also reveal sensitive dietary preferences. At stages 1 and 4, guest mode should work without saving a purchase profile. Separate consent for saved preferences and marketing would let shoppers choose convenience without disclosing unrelated data. Short retention and restricted access would reduce exposure, although less historical data could weaken personalization.
+
+Commercial interests can also influence recommendations. Huang and Rust (2021) warn that optimization can produce biased results without intentionally discriminatory instructions. If Carrefour's proposed assistant prioritizes profit margins, cheaper suitable products may become harder to find. The retailer should label sponsored offers and allow sorting by unit price. Shoppers retain the final choice. Advertising revenue should not depend on shoppers mistaking paid placements for unbiased advice.
+
+Physical robotics affects more than app users. Wirtz et al. (2018) identify privacy and safety concerns arising from robots' sensing capabilities. At stage 3, shelf analysis should minimize capture of identifiable shoppers, with restricted use and retention of incidental images. The robot must yield to people and have an accessible stop procedure. At F3, staffed assistance and readable instructions protect shoppers with limited digital confidence, language difficulties, or disabilities. Equal access costs money, but compulsory self-service would shift the retailer's operational burden onto those least able to handle it.
+
+Employees may save time through automated checks while facing more alerts, monitoring, and difficult customer cases. Carrefour should involve shelf staff in alert design, provide paid training, and measure workload alongside response times. An unresolved alert should not count as poor employee performance when stock is unavailable. Managers remain responsible for staffing and recovery; using third-party software does not remove their responsibility to customers. Integration and maintenance costs may exceed savings if alerts are inaccurate. A limited pilot protects service continuity while testing this risk.
+
+5 Recommendations and learning
+
+The store operations manager and inventory team should pilot the stage 3 alert-to-restocking process before adding more customer-facing automation. Use a four-week pilot after recording a baseline, with matched peak and off-peak periods. The finance manager should compare operating savings with equipment, maintenance, and training costs. Expansion should require better availability without increased complaints or workload, rather than simply more alerts processed. Compare alert accuracy, time to verified shelf correction, and shelf availability against manual checks during comparable trading periods. Close the alert at F2 only after staff verify the shelf. This failure-proofing control prevents unfinished tasks from creating false availability promises. Monitor blocked aisles and staff workload; suspend robot operations after a safety incident.
+
+The digital product and merchandising teams should test the optional assistant at F1 and F3 against standard product search. Measure budget compliance, unsupported recommendations, and task completion, including customers using staff assistance. Test different language and accessibility needs. Keep the same offers and service entitlements across routes. If current catalog data cannot support advice, show uncertainty and offer staff help. Avoid personalized ranking until its commercial incentives and data controls are clear.
+
+The checkout supervisor and customer service manager should jointly own fail points F4 and F5. Transfer item, price, and receipt details into one case, obtain customer confirmation before corrections, and give employees authority within an agreed refund policy. Proposed pilot standards are staff acknowledgment within two minutes of an in-store help request and a human response within one working day for a post-purchase case. Track the share meeting these standards, repeat contacts, and total resolution time; these are proposed targets, not measured outcomes.
+
+Automation still depends on staff being able to act on the information. We would judge Carrefour's intelligent service by the reliability of its information and how easily shoppers can reach a person for help.
