@@ -21,18 +21,19 @@
         "earlier_same_day_check": "BUS219/2026-TSD/Correspondence/2026-10-20_a2-report-preparation-check.json"
       },
       "BUS230": {
-        "checked_at": "2026-10-21T14:15:26.602350+04:00",
+        "checked_at": "2026-10-21",
+        "timestamp_precision": "date; exact earlier API/search times not retained",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "after:2026/10/19 (BUS230 OR \"BUS 230\" OR \"Change Management\" OR from:Shahinda.Baig@murdoch.edu.au)",
+        "scope": "after:2026/10/14 (BUS230 OR \"Change Management\")",
         "result": "No matching messages; search exhausted. Full Outlook and WhatsApp not checked.",
         "matched_messages": 0,
         "next_page_token_present": false,
         "uncovered": [
           "Full university Outlook",
           "WhatsApp",
-          "Messages outside search terms"
+          "Messages outside query"
         ],
-        "evidence": "BUS230/2026-TSD/Correspondence/2026-10-21_study-continuation-check.json"
+        "evidence": "BUS230/2026-TSD/Correspondence/2026-10-21_A2-redesign-check.json"
       },
       "BUS225": {
         "checked_at": "2026-10-21",
@@ -133,7 +134,7 @@
     "last_success_by_course": {
       "BUS219": "2026-10-20T16:13:06.356169+04:00",
       "BUS225": "2026-10-21T11:23:11.519614+04:00",
-      "BUS230": "2026-10-21T14:14:22.093703+04:00",
+      "BUS230": "2026-10-21",
       "BUS334": "2026-10-18T23:01:55.469482+04:00"
     },
     "token_expiry": "unknown",
@@ -149,7 +150,7 @@
     "evidence": {
       "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-20_a2-finalisation-check.json",
       "BUS225": "BUS225/2026-TSD/Correspondence/2026-10-21_A2-completion-check.json",
-      "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-21_study-continuation-check.json",
+      "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-21_A2-redesign-check.json",
       "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-18_A3-report-check.json"
     },
     "enrolment_check": {
@@ -157,6 +158,13 @@
       "result": "ok",
       "scope": "Own course list only; four current BUS units match registry. Course assessment check timestamps unchanged.",
       "evidence": "Archive/Correspondence/2026-10-19_degree-progress.json"
+    },
+    "latest_bus230_a2_check": {
+      "checked_at": "2026-10-21",
+      "timestamp_precision": "date; exact earlier API/search times not retained",
+      "result": "ok",
+      "scope": "A2 group submission status and portal due date",
+      "evidence": "BUS230/2026-TSD/Correspondence/2026-10-21_A2-redesign-check.json"
     }
   },
   "secret_storage": {

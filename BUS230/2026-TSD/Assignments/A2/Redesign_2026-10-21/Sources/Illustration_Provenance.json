@@ -1,0 +1,9 @@
+{
+  "created_on": "2026-10-21",
+  "tool": "Built-in image_gen.imagegen",
+  "use_case": "productivity-visual",
+  "purpose": "Editorial background on slides 1 and 21; fictional stockroom, not research evidence",
+  "asset": "Editorial_Background.png",
+  "user_reference": "Design_Reference.jpg",
+  "prompt": "Use case: productivity-visual. Asset type: background artwork for a premium 16:9 university corporate management workshop presentation, no text. Primary request: Swiss editorial design inspired by a minimalist orange black grayscale presentation. Full canvas warm pale grey #F1F0EC. All artwork confined to RIGHTMOST 40 percent, LEFT 60 percent perfectly empty pale grey for editable slide title. Right composition: one large black circle, one vivid safety orange #FF5500 circle, one smaller circular monochrome photographic crop showing shelves, cardboard boxes and a handheld barcode scanner in a fictional retail stockroom. Flat crisp graphic style, generous negative space, subtle grayscale photographic texture only within photo circle, no shadows or gradients, no words, no logos, no people, no labels. Perfect elegant editorial balance and geometric circles, premium contemporary presentation aesthetic. Landscape 16:9."
+}

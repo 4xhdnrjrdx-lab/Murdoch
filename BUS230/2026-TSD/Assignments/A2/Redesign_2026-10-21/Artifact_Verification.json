@@ -1,0 +1,134 @@
+{
+  "checked_on": "2026-10-21",
+  "files": [
+    {
+      "file": "BUS230Assessment2Class2Group4_2026-10-21.pptx",
+      "sha256": "5e8ebdf5b6c16b9fe68b3ba2ab290e5d012f7581748e61156c1a23a312aad1b8",
+      "bytes": 2211893,
+      "slides": 30,
+      "hidden_slides": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "internal_links": [
+        {
+          "from": 22,
+          "object": "decision-A",
+          "target": "slide23.xml"
+        },
+        {
+          "from": 22,
+          "object": "decision-B",
+          "target": "slide23.xml"
+        },
+        {
+          "from": 22,
+          "object": "decision-C",
+          "target": "slide23.xml"
+        },
+        {
+          "from": 23,
+          "object": "nav-scenario",
+          "target": "slide22.xml"
+        },
+        {
+          "from": 23,
+          "object": "nav-conclusion",
+          "target": "slide24.xml"
+        }
+      ],
+      "speaker_notes_parts": 30
+    },
+    {
+      "file": "BUS230A2_Aram_Slides19-24_2026-10-21.pptx",
+      "sha256": "3d29850480ef251b80685b3369b9a9fb586e925af3ae388e7262d0b0d210f3aa",
+      "bytes": 1075988,
+      "slides": 6,
+      "hidden_slides": [],
+      "internal_links": [
+        {
+          "from": 4,
+          "object": "decision-A",
+          "target": "slide5.xml"
+        },
+        {
+          "from": 4,
+          "object": "decision-B",
+          "target": "slide5.xml"
+        },
+        {
+          "from": 4,
+          "object": "decision-C",
+          "target": "slide5.xml"
+        },
+        {
+          "from": 5,
+          "object": "nav-scenario",
+          "target": "slide4.xml"
+        },
+        {
+          "from": 5,
+          "object": "nav-conclusion",
+          "target": "slide6.xml"
+        }
+      ],
+      "speaker_notes_parts": 6
+    }
+  ],
+  "automated_checks": {
+    "full": {
+      "package_findings": 0,
+      "layout_findings": 0,
+      "layout_warnings": 0,
+      "first_party_import_passed": true
+    },
+    "aram": {
+      "package_findings": 0,
+      "layout_findings": 0,
+      "layout_warnings": 0,
+      "first_party_import_passed": true
+    }
+  },
+  "visual_review": "All 30 source slides and redesigned slide renders inspected; slide 16 repaired and re-inspected. Linked final bytes match validated candidates.",
+  "native_powerpoint": {
+    "full_deck_opened": true,
+    "full_deck_slideshow_inspected": [
+      1,
+      22
+    ],
+    "final_aram_file_opened": true,
+    "final_aram_offline_actions_verified": [
+      "A to answer",
+      "B to answer",
+      "C to answer",
+      "Scenario back link",
+      "Conclusion forward link"
+    ],
+    "interaction_method": "PowerPoint Slide Show: Tab / Return activates native shape hyperlinks; resulting slide numbers observed in accessibility state.",
+    "limitations": "Mouse click automation in the full-screen window returned noWindowsAvailable. Hyperlinks were exercised with keyboard selection. Final full-deck hyperlinks additionally checked structurally with correct targets and OOXML element order.",
+    "actual_rehearsal": false,
+    "delivery_computer_test": false
+  },
+  "timing": {
+    "first_three_blocks_seconds": [
+      420,
+      420,
+      420
+    ],
+    "aram_seconds": [
+      60,
+      60,
+      45,
+      120,
+      75,
+      60
+    ],
+    "core_total_seconds": 1680,
+    "questions_budget_seconds": 120,
+    "precision": "Planned budgets, not measured speech delivery."
+  }
+}

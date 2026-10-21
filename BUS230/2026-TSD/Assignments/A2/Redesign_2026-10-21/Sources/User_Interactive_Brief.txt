@@ -1,0 +1,327 @@
+
+
+TASK: Create an Interactive PowerPoint Presentation — BUS230 ADKAR
+
+You are a professional PowerPoint designer, university presentation specialist, and corporate training consultant.
+
+Create a fully designed, presentation-ready PowerPoint (.pptx) for my individual section of a university group assessment.
+
+1. Project Context
+
+* University: Murdoch University Dubai
+* Unit: BUS230 — Change Management
+* Assessment: Assessment 2 — Multimedia Group Presentation
+* Topic: Using ADKAR with Context and Evidence
+* Presenter: Aram Avetisyan
+* My slides: 19–24
+* My speaking time: exactly 7 minutes
+* Total team presentation: 30 minutes
+* Presentation language: English
+
+I am the fourth and final presenter.
+
+The audience includes our lecturer and other university students. One other student group has agreed to participate in our interactive activity.
+
+Important: Use the attached ADKAR Team Plan PDF as the primary source for the academic content, fictional case, modifications, and references.
+
+2. Main Objective
+
+Create six professional, visually engaging PowerPoint slides that combine academic analysis, practical management training, and an interactive decision-making activity.
+
+The presentation must feel like a real corporate management workshop, not a traditional university lecture.
+
+The audience should feel that they are learning how to apply the modified ADKAR model in a real management situation.
+
+3. Visual Design Requirements
+
+Use a premium, modern corporate presentation style.
+
+Colour palette:
+
+* Dark navy blue background
+* White text
+* Light blue accents
+* Green for successful decisions
+* Amber for warnings
+* Red for critical problems
+
+Design principles:
+
+* Minimal text on each slide
+* Strong visual hierarchy
+* Professional typography
+* Clean diagrams and visual decision cards
+* Consistent layout across all six slides
+* 16:9 widescreen format
+* Large, readable fonts suitable for classroom projection
+* Visually attractive but academically appropriate
+
+Avoid:
+
+* Dense paragraphs
+* Generic PowerPoint templates
+* Unnecessary decorative graphics
+* Too many animations
+* Excessive bullet points
+
+Use editable PowerPoint elements wherever possible.
+
+4. Required Slide Structure
+
+SLIDE 19 — Why ADKAR Scores Are Not Enough
+
+Time: 1 minute
+
+Title: “Beyond the ADKAR Score”
+
+Explain the fourth limitation of the standalone ADKAR model:
+
+A high self-reported score does not necessarily prove actual workplace performance.
+
+Visual concept:
+
+Show three connected elements:
+
+SELF-REPORT → TASK DEMONSTRATION → WORKING CONDITIONS
+
+Highlight the rule:
+
+“If evidence conflicts, readiness is NOT YET VERIFIED.”
+
+Explain that this is our team’s proposed Evidence Disagreement Rule, not an official Prosci feature.
+
+SLIDE 20 — Knowledge vs Ability
+
+Time: 1 minute
+
+Title: “Knowing Is Not the Same as Doing”
+
+Create a strong visual comparison between Knowledge and Ability.
+
+Left side:
+
+KNOWLEDGE
+
+* Understands the procedure
+* Can explain the steps
+
+Right side:
+
+ABILITY
+
+* Performs the task correctly
+* Uses real equipment
+* Works under realistic conditions
+
+Use the fictional Cedar Retail inventory system as the example.
+
+Include the takeaway:
+
+“Knowledge must be explained. Ability must be demonstrated.”
+
+SLIDE 21 — Communication and Audience Preparation
+
+Time: 45 seconds
+
+Title: “Now It’s Your Turn!”
+
+This slide introduces the interactive activity.
+
+Start with a brief message about the importance of two-way communication, employee feedback, and psychological safety.
+
+Then transition into the workshop.
+
+Display:
+
+“Welcome to Cedar Retail Management Training”
+
+“Your team is now responsible for making a management decision.”
+
+Use a visually engaging corporate workshop layout.
+
+Speaker instruction:
+
+Invite the volunteer student group to participate from their seats.
+
+Do not require participants to move to the front of the classroom.
+
+SLIDE 22 — INTERACTIVE CHALLENGE
+
+Time: 2 minutes
+
+Title: “You Are the Manager”
+
+This is the most important interactive slide.
+
+Design it as a professional decision-making simulation.
+
+Scenario:
+
+Cedar Retail is introducing a digital inventory system.
+
+An evening-shift employee understands the new procedure, but:
+
+1. The scanner is unreliable.
+2. There is no protected practice time.
+3. The employee fears unfair penalties for previous stock errors.
+
+The manager suggests another motivational talk.
+
+Display the main question prominently:
+
+“WHAT WOULD YOUR TEAM DECIDE?”
+
+Show three large decision cards:
+
+A — CONTINUE (green)
+
+B — REVISE (amber)
+
+C — PAUSE (red)
+
+Underneath:
+
+“30 seconds to discuss. Choose one decision and explain why.”
+
+Interactive sequence:
+
+1. Presenter introduces the scenario.
+2. Volunteer group discusses for 30 seconds.
+3. Presenter asks the group to choose A, B, or C.
+4. One participant explains the decision.
+5. Presenter thanks the participants and moves to the next slide.
+
+Design the decision cards to look like interactive buttons.
+
+If technically feasible, make the buttons clickable in PowerPoint. Otherwise, use simple click-to-reveal animations or a straightforward slide transition.
+
+Do not require internet access or external polling applications.
+
+SLIDE 23 — Reveal the Correct Decision
+
+Time: 1 minute 15 seconds
+
+Title: “The Evidence-Based Decision”
+
+Reveal the recommended answer:
+
+C — PAUSE THE AFFECTED TASK
+
+Important: This does not mean stopping the entire organisational change project.
+
+Explain the four management actions:
+
+1. IT Lead — Provide reliable scanner access.
+2. Store Manager — Arrange protected practice time.
+3. Operations Sponsor — Review the disputed penalty policy and communicate a reasoned decision.
+4. Manager — Observe a realistic task to verify Ability after the conditions are addressed.
+
+Use a visual decision flow or four professional action cards.
+
+Highlight:
+
+“A motivational talk alone cannot solve missing organisational conditions.”
+
+Also explain that revising the penalty policy is necessary, but the affected task should remain paused until its essential prerequisites are met.
+
+SLIDE 24 — Final Conclusion
+
+Time: 1 minute
+
+Title: “From ADKAR Scores to Better Decisions”
+
+Summarise the four key principles:
+
+1. Identify individual ADKAR barriers.
+2. Check organisational conditions.
+3. Listen and respond to employee concerns.
+4. Verify real workplace performance.
+
+Create a visually powerful final slide.
+
+Main closing statement:
+
+“DON’T ASSUME READINESS. VERIFY IT.”
+
+Add:
+
+“Thank you — Questions?”
+
+This slide should provide a strong conclusion to the entire group presentation, not just my section.
+
+5. Academic Requirements
+
+Use the five academic sources assigned to Aram in the attached plan:
+
+* Edmondson (1999)
+* Morrison (2023)
+* Kluger and DeNisi (1996)
+* Baldwin and Ford (1988)
+* Lewis (1999)
+
+Use Chicago 17 author-date referencing as the working style specified in the team plan.
+
+Include appropriate short in-slide citations and full references in the speaker notes or an additional reference document.
+
+Do not invent academic findings, statistics, or research results.
+
+Do not claim that the modified ADKAR tool has been scientifically validated.
+
+Clearly distinguish the original ADKAR model from our team’s proposed additions.
+
+6. Speaker Notes
+
+Add detailed speaker notes for every slide.
+
+The notes must include:
+
+* Exactly what I should say in English
+* Natural, conversational language
+* Smooth transitions between slides
+* Clear instructions for the interactive activity
+* The expected answer and explanation
+* A backup response if the volunteer group does not answer
+* A respectful response if the group chooses Continue or Revise
+
+The speech should be easy for a university student to memorise and deliver confidently.
+
+Target the following timing:
+
+Slide	Time
+19	1:00
+20	1:00
+21	0:45
+22	2:00
+23	1:15
+24	1:00
+Total	7:00
+
+The interactive activity must fit within the allocated two minutes.
+
+7. Technical Requirements
+
+* Deliver an editable PowerPoint (.pptx).
+* Use 16:9 widescreen.
+* Make text readable on a projector.
+* Use professional diagrams and decision cards.
+* Include speaker notes.
+* Ensure all interactive elements work offline.
+* Avoid unnecessary external dependencies.
+* Maintain consistent styling.
+* Keep the slides numbered 19–24.
+
+If an existing PowerPoint is attached, match its visual identity and preserve the established academic content.
+
+8. Final Deliverables
+
+Provide:
+
+1. The finished six-slide PowerPoint file.
+2. Complete speaker notes.
+3. The interactive activity with the recommended answer.
+4. Proper academic citations.
+5. A brief explanation of how the interactive slide works during the presentation.
+
+Final instruction: Do not simply provide slide outlines or recommendations. Actually create the finished, professionally designed PowerPoint file that I can download, rehearse, and insert into my team’s final presentation.
+
+Prioritise visual quality, academic accuracy, practical training, audience engagement, and strict time management.

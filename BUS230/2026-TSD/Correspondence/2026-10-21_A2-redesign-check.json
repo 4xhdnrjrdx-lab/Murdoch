@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-21",
+  "timestamp_precision": "date; exact earlier API/search times not retained",
+  "recorded_at": "2026-10-21T14:46:05.576292+04:00",
+  "mail": {
+    "account": "jafarovfayaz@gmail.com",
+    "link_name": "Учёба",
+    "scope": "after:2026/10/14 (BUS230 OR \"Change Management\")",
+    "matched_messages": 0,
+    "next_page_token_present": false,
+    "uncovered": [
+      "Full university Outlook",
+      "WhatsApp",
+      "Messages outside query"
+    ]
+  },
+  "lms": {
+    "operation": "mod_assign_get_assignments / mod_assign_get_submission_status, read only",
+    "course_id": 31305,
+    "assignment_id": 124983,
+    "name": "Assessment 2: Presentation Material (Group) Submission Portal",
+    "team_submission_status": "new",
+    "due_timestamp": 1793980740,
+    "due_dubai": "2026-11-06T19:59:00+04:00",
+    "cutoff_timestamp": 0
+  },
+  "not_checked": [
+    "Assigned group presentation date",
+    "Team agreement",
+    "Actual volunteer attendance"
+  ],
+  "source": "Read-only source checks performed during this redesign session; no message sent and no submission made."
+}
