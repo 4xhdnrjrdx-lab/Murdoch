@@ -1,8 +1,8 @@
 {
   "mail": {
-    "checked_at": "2026-10-21T21:33:42.269841+04:00",
+    "checked_at": "2026-10-21T23:08:38+04:00",
     "scope": "after:2026/10/20 (BUS334 OR \"BUS 334\" OR (\"Submission confirmation\" \"Assignment 3\"))",
-    "result": "No matching messages; search exhausted. Full Outlook and WhatsApp not checked.",
+    "result": "Two Turnitin receipt emails for the original report and appendices; no further matches. Search exhausted. Full Outlook and WhatsApp not checked. These receipts confirm similarity processing, not final Moodle submission.",
     "last_check_by_course": {
       "BUS219": {
         "checked_at": "2026-10-20",
@@ -51,14 +51,16 @@
         "evidence": "BUS225/2026-TSD/Correspondence/2026-10-21_A2-completion-check.json"
       },
       "BUS334": {
-        "checked_at": "2026-10-21T21:33:42.269841+04:00",
+        "checked_at": "2026-10-21T23:08:38+04:00",
         "account": "jafarovfayaz@gmail.com",
         "scope": "after:2026/10/20 (BUS334 OR \"BUS 334\" OR (\"Submission confirmation\" \"Assignment 3\"))",
-        "result": "No matching messages; search exhausted. Full Outlook and WhatsApp not checked.",
-        "evidence": "BUS334/2026-TSD/Assignments/A3/_submission_checks/2026-10-21/SUBMISSION_CHECK.json"
+        "result": "Two Turnitin receipt emails for the original report and appendices; no further matches. Search exhausted. Full Outlook and WhatsApp not checked. These receipts confirm similarity processing, not final Moodle submission.",
+        "matched_messages": 2,
+        "next_page_token_present": false,
+        "evidence": "BUS334/2026-TSD/Correspondence/2026-10-21_A3-replacement-mail-check.json"
       }
     },
-    "evidence": "BUS334/2026-TSD/Assignments/A3/_submission_checks/2026-10-21/SUBMISSION_CHECK.json",
+    "evidence": "BUS334/2026-TSD/Correspondence/2026-10-21_A3-replacement-mail-check.json",
     "outlook_attempt": {
       "attempted_at": "2026-10-07T13:31:59.360199+04:00",
       "result": "No accessible Outlook tab in connected browser inventory; no Outlook connector available in this chat",
@@ -128,14 +130,14 @@
     }
   },
   "lms": {
-    "checked_at": "2026-10-21",
+    "checked_at": "2026-10-21T23:08:38+04:00",
     "result": "ok",
-    "operation": "Read-only BUS334 A3 status/file-list check after preparing unsaved CSV replacement",
+    "operation": "Read-only BUS334 A3 replacement submission status; all three PDFs downloaded and SHA-256 matched",
     "last_success_by_course": {
       "BUS219": "2026-10-20T16:13:06.356169+04:00",
       "BUS225": "2026-10-21T11:23:11.519614+04:00",
       "BUS230": "2026-10-21",
-      "BUS334": "2026-10-21"
+      "BUS334": "2026-10-21T23:08:38+04:00"
     },
     "token_expiry": "unknown",
     "successful_account_check": {
@@ -151,7 +153,7 @@
       "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-20_a2-finalisation-check.json",
       "BUS225": "BUS225/2026-TSD/Correspondence/2026-10-21_A2-completion-check.json",
       "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-21_A2-redesign-check.json",
-      "BUS334": "BUS334/2026-TSD/Assignments/A3/CSV_Replacement_2026-10-21/VERIFICATION.json"
+      "BUS334": "BUS334/2026-TSD/Assignments/A3/_submission_checks/2026-10-21/REPLACEMENT_CHECK.json"
     },
     "enrolment_check": {
       "checked_at": "2026-10-19T13:34:03.858964+04:00",
@@ -166,7 +168,7 @@
       "scope": "A2 group submission status and portal due date",
       "evidence": "BUS230/2026-TSD/Correspondence/2026-10-21_A2-redesign-check.json"
     },
-    "timestamp_precision": "date; exact latest API query time not retained"
+    "timestamp_precision": "seconds"
   },
   "secret_storage": {
     "selected_at": "2026-10-07",

@@ -23,7 +23,7 @@ Faiaz Dzhafarov · student ID 35553299 · время Asia/Dubai (UTC+4).
 
 ### [BUS334](BUS334/2026-TSD/README.md) · учимся
 
-- A3: Добавить 35553299_Dzhafarov_BUS334_A3_Original_Responses.pdf в открытую форму Moodle, проверить три PDF, лично прочитать/подтвердить Assignment Declaration и нажать Save changes; затем проверить сохранённые файлы и статус через Moodle API.
+- A3: Дождаться оценки A3. При следующем запросе проверить завершение обработки Report и Original_Responses в Turnitin и feedback. Повторная загрузка сейчас не требуется; далее согласовать с командой дату и подготовку A4.
 
 
 Сроки, состояния отдельных работ и их основания доступны в таблицах заданий каждого предмета. Главная страница формируется из основных записей.
@@ -41,8 +41,8 @@ Faiaz Dzhafarov · student ID 35553299 · время Asia/Dubai (UTC+4).
 
 ## Свежесть и сохранение
 
-- Почта: проверена 2026-10-21T21:33:42.269841+04:00. No matching messages; search exhausted. Full Outlook and WhatsApp not checked.
-- LMS: проверка 2026-10-21, результат `ok`. Даты и подтверждения по предметам приведены в заданиях.
+- Почта: проверена 2026-10-21T23:08:38+04:00. Two Turnitin receipt emails for the original report and appendices; no further matches. Search exhausted. Full Outlook and WhatsApp not checked. These receipts confirm similarity processing, not final Moodle submission.
+- LMS: проверка 2026-10-21T23:08:38+04:00, результат `ok`. Даты и подтверждения по предметам приведены в заданиях.
 - GitHub: текущая опубликованная версия определяется SHA ветки main, показанным GitHub. Проверка локальной синхронизации: `python3 scripts/sync.py status`. Сверка файлов: `python3 scripts/verify.py`.
 - Проверки выполняются при начале работы по предмету или запросе статуса. Фоновых заданий нет.
 

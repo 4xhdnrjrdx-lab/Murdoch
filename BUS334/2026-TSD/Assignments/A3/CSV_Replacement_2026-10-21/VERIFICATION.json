@@ -12,12 +12,12 @@
   "all_20_question_headers_present_for_each_respondent": true,
   "purpose": "Replace unsupported CSV in the third Moodle submission slot with readable PDF evidence; original CSV and prior submission evidence are preserved.",
   "visual_review": "All 22 pages checked in six contact sheets; page 1 reviewed at full size. Tables, all 20 questions, answers and timestamps fit without clipping. PDF text verified against every source value.",
-  "lms_replacement_status": "pending user upload and declaration/save; not submitted",
+  "lms_replacement_status": "confirmed submitted; CSV replaced by Original_Responses.pdf",
   "checked_at": "2026-10-21T21:56:06+04:00",
   "pdf_bytes": 130841,
   "ui_state": "Unsaved edit form retains original Report.pdf and Appendices.pdf; CSV removed only from draft. New PDF upload did not complete because Safari native file chooser kept Upload disabled. File picker closed; form left open. Save changes was not pressed.",
   "ui_evidence": "2026-10-21_unsaved_edit_form.png",
-  "user_action": "Add Original_Responses.pdf, confirm three PDFs, read/accept Assignment Declaration personally and Save changes. Then verify via Moodle API and file hashes.",
+  "user_action": "Completed by user; all three submitted PDFs verified by download and SHA-256.",
   "original_submission_evidence": "../_submission_checks/2026-10-21/SUBMISSION_CHECK.json",
   "post_edit_read_only_moodle_check": {
     "checked_at": "2026-10-21",
@@ -40,5 +40,9 @@
       }
     ],
     "result": "Original submitted set still present; replacement is not saved. No fresh download/hash comparison in this query."
-  }
+  },
+  "replacement_confirmed_at": "2026-10-21T23:08:38+04:00",
+  "replacement_submission_modified_at": "2026-10-21T23:05:35+04:00",
+  "latest_submission_evidence": "../_submission_checks/2026-10-21/REPLACEMENT_CHECK.json",
+  "historical_ui_note": "ui_state, ui_evidence and post_edit_read_only_moodle_check describe the earlier unsaved state; the later REPLACEMENT_CHECK supersedes that pending state."
 }

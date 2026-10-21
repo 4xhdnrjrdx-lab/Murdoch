@@ -1,0 +1,48 @@
+{
+  "checked_at": "2026-10-21T23:08:38+04:00",
+  "source": "Read-only Moodle API status/file list; downloaded PDFs compared with prepared originals; user screenshot",
+  "portal": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3070560",
+  "assignment_id": 124856,
+  "status": "submitted",
+  "grading_status": "notgraded",
+  "timemodified": 1792609535,
+  "last_modified_dubai": "2026-10-21T23:05:35+04:00",
+  "files": [
+    {
+      "filename": "35553299_Dzhafarov_BUS334_A3_Appendices.pdf",
+      "bytes": 442931,
+      "sha256": "b70594e5b391e347d5ebe02cc9aa9e6a3639df0ed9681ffcd20e78f2802f0e4e",
+      "matches_prepared_sha256": true
+    },
+    {
+      "filename": "35553299_Dzhafarov_BUS334_A3_Original_Responses.pdf",
+      "bytes": 130841,
+      "sha256": "c288ea8d73794e71c6ffd7d493e66fd70b0e16f7c9ef84e1ae11f9dee731f931",
+      "matches_prepared_sha256": true
+    },
+    {
+      "filename": "35553299_Dzhafarov_BUS334_A3_Report.pdf",
+      "bytes": 497652,
+      "sha256": "3d2341ea7ab05f855c4ce4718cc6c8f5713f1a82853032921ee8cee80dcffd24",
+      "matches_prepared_sha256": true
+    }
+  ],
+  "original_submission_evidence": "SUBMISSION_CHECK.json",
+  "agent_submitted": false,
+  "file_count": 3,
+  "csv_absent": true,
+  "three_expected_pdfs": true,
+  "all_match_prepared_sha256": true,
+  "user_screenshot": {
+    "path": "2026-10-21_230555_replacement_submitted.png",
+    "capture_time_dubai": "2026-10-21T23:05:55+04:00",
+    "status": "Submitted for grading",
+    "grading_status": "Not graded",
+    "appendices_turnitin_similarity_percent": 8,
+    "appendices_turnitin_id": "3066487504",
+    "original_responses_turnitin_status": "Queued",
+    "report_turnitin_status": "Queued",
+    "note": "8% is the displayed Appendices similarity, not a mark or AI score; pending reports not yet observed complete.",
+    "sha256": "3add2107289f8d5df3263810cdcf0b99039b040bef1651447565226a73a08727"
+  }
+}

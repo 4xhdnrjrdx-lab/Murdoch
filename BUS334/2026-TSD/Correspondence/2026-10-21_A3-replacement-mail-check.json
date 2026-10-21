@@ -1,0 +1,23 @@
+{
+  "checked_at": "2026-10-21T23:08:38+04:00",
+  "account": "jafarovfayaz@gmail.com",
+  "scope": "after:2026/10/20 (BUS334 OR \"BUS 334\" OR (\"Submission confirmation\" \"Assignment 3\"))",
+  "result": "Two Turnitin receipt emails for the original report and appendices; no further matches. Search exhausted. Full Outlook and WhatsApp not checked. These receipts confirm similarity processing, not final Moodle submission.",
+  "matched_messages": 2,
+  "next_page_token_present": false,
+  "receipts": [
+    {
+      "message_id": "1a15f86f7f0a2804",
+      "filename": "35553299_Dzhafarov_BUS334_A3_Report.pdf",
+      "turnitin_submission_id": "3066487551",
+      "received_utc": "2026-10-21T17:33:55+00:00"
+    },
+    {
+      "message_id": "1a15f86e4916ed57",
+      "filename": "35553299_Dzhafarov_BUS334_A3_Appendices.pdf",
+      "turnitin_submission_id": "3066487504",
+      "received_utc": "2026-10-21T17:33:51+00:00"
+    }
+  ],
+  "note": "Sanitized summary of read receipt bodies; raw email headers are not saved."
+}
