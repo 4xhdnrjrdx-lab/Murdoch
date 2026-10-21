@@ -1,0 +1,105 @@
+{
+  "checked_at": "2026-10-21T11:39:30.526229+04:00",
+  "sources": [
+    {
+      "id": "carrefour2021",
+      "reference": {
+        "id": "carrefour2021",
+        "author": "Carrefour",
+        "date": "2021, June 8",
+        "title": "Carrefour is innovating and making available an intuitive tool that enables customers to choose more nutritionally balanced and cheaper food",
+        "type": "press",
+        "url": "https://www.carrefour.com/sites/default/files/2021-06/carrefou_bresil_score_nutritionnel_FR.pdf"
+      },
+      "content_read": "PDF pp. 1–3; dated São Paulo, 8 June 2021.",
+      "claim_and_limit": "Nutri Choice in Brazil uses nutrition and price information and recent purchase history. Used in report sections 2 and 4. A company announcement supports the design example, not proven health benefits, customer satisfaction or UAE availability."
+    },
+    {
+      "id": "carrefour2023",
+      "reference": {
+        "id": "carrefour2023",
+        "author": "Carrefour",
+        "date": "2023, June 8",
+        "title": "Carrefour integrates OpenAI technologies and launches a generative AI-powered shopping experience",
+        "type": "press",
+        "url": "https://www.carrefour.com/sites/default/files/2023-06/Press%20Release%20-%20Carrefour%20integrates%20OpenAI%20technologies%20and%20launches%20a%20generative%20AI-powered%20shopping%20experience%20%281%29.pdf"
+      },
+      "content_read": "PDF pp. 1–2; Massy, 8 June 2023.",
+      "claim_and_limit": "Hopla on carrefour.fr supports basket suggestions using budget and food constraints. Used in section 2. Describes a French launch; no current UAE rollout or measured benefit claimed."
+    },
+    {
+      "id": "huang2021",
+      "reference": {
+        "id": "huang2021",
+        "author": "Huang, M.-H., & Rust, R. T.",
+        "date": "2021",
+        "title": "A strategic framework for artificial intelligence in marketing",
+        "type": "journal",
+        "journal": "Journal of the Academy of Marketing Science",
+        "volume": "49",
+        "issue": "1",
+        "pages": "30–50",
+        "url": "https://doi.org/10.1007/s11747-020-00749-9"
+      },
+      "content_read": "Publisher full article; abstract, AI capability framework and limitations/ethical discussion.",
+      "claim_and_limit": "Mechanical, thinking and feeling AI used in section 2; optimisation bias used in section 4. Online-first date is 2020, but final volume 49(1), pp. 30–50 is 2021. Conceptual theory, not Carrefour field evidence."
+    },
+    {
+      "id": "maf",
+      "reference": {
+        "id": "maf",
+        "author": "Majid Al Futtaim",
+        "date": "n.d.",
+        "title": "Great moments for everyone, everyday: ESG report 2021",
+        "type": "report",
+        "url": "https://www.majidalfuttaim.com/docs/default-source/reports/majid-al-futtaim-esg-report-2021-en.pdf?sfvrsn=ccf441f5_7"
+      },
+      "content_read": "ESG report 2021, printed p. 44; p. 44–45 spread is PDF page 23.",
+      "claim_and_limit": "Additional 11 UAE Carrefour stores used Tally in the 2021 reporting period. Shelf checks detect missing/misplaced/incorrectly priced products. Sections 1–2 and figure note. Reporting year is not necessarily publication date; no explicit publication date established, so APA n.d. is used and the reporting year remains in the title. No claim of current store coverage."
+    },
+    {
+      "id": "course2023",
+      "reference": {
+        "id": "course2023",
+        "author": "Wirtz, J.",
+        "date": "2023",
+        "title": "Essentials of services marketing",
+        "type": "book",
+        "edition": "4th ed.",
+        "publisher": "Pearson",
+        "url": null
+      },
+      "content_read": "Fourth-edition title/copyright pages; course Chapter 8 lecture and supplied restaurant blueprint excerpt, pp. 242–245.",
+      "claim_and_limit": "Process blueprint, visibility boundaries, customer co-production and redesign applied in sections 3 and 5 and Figure 1. The actual 4th-edition copyright page identifies Jochen Wirtz alone and ©2023. This takes precedence over conflicting course/catalogue author listings. Author-hosted sampler and publisher title page checked; whole textbook was not claimed read.",
+      "bibliographic_verification_urls": [
+        "https://jochenwirtz.com/wp-content/uploads/2024/02/Essentials-of-Services-Marketing-4th-edition-Sampler-1.pdf",
+        "https://www.pearson.de/media/muster/ext/9781292425160.pdf"
+      ]
+    },
+    {
+      "id": "wirtz2018",
+      "reference": {
+        "id": "wirtz2018",
+        "author": "Wirtz, J., Patterson, P. G., Kunz, W. H., Gruber, T., Lu, V. N., Paluch, S., & Martins, A.",
+        "date": "2018",
+        "title": "Brave new world: Service robots in the frontline",
+        "type": "journal",
+        "journal": "Journal of Service Management",
+        "volume": "29",
+        "issue": "5",
+        "pages": "907–931",
+        "url": "https://doi.org/10.1108/JOSM-04-2018-0119"
+      },
+      "content_read": "Publisher full article: capabilities, customer perspective and ethical/societal implications.",
+      "claim_and_limit": "Routine/cognitive versus emotional/social service roles, privacy, safety and employee implications used in sections 2 and 4. All seven authors, year, volume, issue, pages and DOI checked. Conceptual predictions do not prove local acceptance."
+    }
+  ],
+  "APA_checks": [
+    "Alphabetical order and same-author chronological order checked.",
+    "Single-author Wirtz entry before Wirtz and coauthors, irrespective of year.",
+    "Sentence case; correct italic journal/volume and standalone titles; hanging indent; DOI canonical URLs.",
+    "Every cited source included; no uncited reference.",
+    "No source used only on search-snippet evidence."
+  ],
+  "excluded_from_submission": "Research/QA files and draft are supporting work, not report appendices."
+}

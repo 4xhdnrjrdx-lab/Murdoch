@@ -1,0 +1,246 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="640" viewBox="0 0 1080 640">
+<rect width="1080" height="640" fill="white"/>
+<text x="8" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#162434">Physical grocery purchase with optional digital assistance</text>
+<rect x="143" y="33" width="142" height="27" fill="#215c79" stroke="#215c79" stroke-width="0.7"/>
+<text x="151" y="52" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="white">1 Plan basket</text>
+<rect x="297" y="33" width="142" height="27" fill="#215c79" stroke="#215c79" stroke-width="0.7"/>
+<text x="305" y="52" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="white">2 Enter store</text>
+<rect x="451" y="33" width="142" height="27" fill="#215c79" stroke="#215c79" stroke-width="0.7"/>
+<text x="459" y="52" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="white">3 Find products</text>
+<rect x="605" y="33" width="142" height="27" fill="#215c79" stroke="#215c79" stroke-width="0.7"/>
+<text x="613" y="52" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="white">4 Choose and ask</text>
+<rect x="759" y="33" width="142" height="27" fill="#215c79" stroke="#215c79" stroke-width="0.7"/>
+<text x="767" y="52" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="white">5 Pay and leave</text>
+<rect x="913" y="33" width="142" height="27" fill="#215c79" stroke="#215c79" stroke-width="0.7"/>
+<text x="921" y="52" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="white">6 Resolve issue</text>
+<text x="8" y="86.0" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#162434">Physical and</text>
+<text x="8" y="102.1" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#162434">digital evidence</text>
+<rect x="143" y="66" width="142" height="58" fill="#edf3f6" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="151" y="91.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">List; budget; dated</text>
+<text x="151" y="107.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">suggestions</text>
+<rect x="297" y="66" width="142" height="58" fill="#edf3f6" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="305" y="91.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Signs; trolley;</text>
+<text x="305" y="107.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">accessible routes</text>
+<rect x="451" y="66" width="142" height="58" fill="#edf3f6" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="459" y="91.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Shelves; labels;</text>
+<text x="459" y="107.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">visible Tally</text>
+<rect x="605" y="66" width="142" height="58" fill="#edf3f6" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="613" y="91.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Packs; comparison</text>
+<text x="613" y="107.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">screen; colleague</text>
+<rect x="759" y="66" width="142" height="58" fill="#edf3f6" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="767" y="83.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Checkout display;</text>
+<text x="767" y="99.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">payment terminal;</text>
+<text x="767" y="115.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">receipt</text>
+<rect x="913" y="66" width="142" height="58" fill="#edf3f6" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="921" y="83.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Help desk; case</text>
+<text x="921" y="99.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">number; resolution</text>
+<text x="921" y="115.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">notice</text>
+<text x="8" y="153.0" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#162434">Customer actions</text>
+<rect x="143" y="133" width="142" height="58" fill="white" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="151" y="158.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Set budget; accept</text>
+<text x="151" y="174.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">or reject advice</text>
+<line x1="285" y1="162" x2="297" y2="162" stroke="#215c79" stroke-width="1"/>
+<polygon points="297,162 291.5973173858839,164.60979320466737 291.5973173858839,159.39020679533263" fill="#215c79"/>
+<rect x="297" y="133" width="142" height="58" fill="white" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="305" y="158.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Choose app or</text>
+<text x="305" y="174.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">staffed route</text>
+<line x1="439" y1="162" x2="451" y2="162" stroke="#215c79" stroke-width="1"/>
+<polygon points="451,162 445.5973173858839,164.60979320466737 445.5973173858839,159.39020679533263" fill="#215c79"/>
+<rect x="451" y="133" width="142" height="58" fill="white" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="459" y="158.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Locate item; report</text>
+<text x="459" y="174.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">shelf gap</text>
+<line x1="593" y1="162" x2="605" y2="162" stroke="#215c79" stroke-width="1"/>
+<polygon points="605,162 599.5973173858839,164.60979320466737 599.5973173858839,159.39020679533263" fill="#215c79"/>
+<rect x="605" y="133" width="142" height="58" fill="white" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="613" y="150.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Compare</text>
+<text x="613" y="166.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">ingredients; select</text>
+<text x="613" y="182.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">or request help</text>
+<line x1="747" y1="162" x2="759" y2="162" stroke="#215c79" stroke-width="1"/>
+<polygon points="759,162 753.5973173858839,164.60979320466737 753.5973173858839,159.39020679533263" fill="#215c79"/>
+<rect x="759" y="133" width="142" height="58" fill="white" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="767" y="158.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Check total; pay;</text>
+<text x="767" y="174.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">keep receipt</text>
+<line x1="901" y1="162" x2="913" y2="162" stroke="#215c79" stroke-width="1"/>
+<polygon points="913,162 907.5973173858839,164.60979320466737 907.5973173858839,159.39020679533263" fill="#215c79"/>
+<rect x="913" y="133" width="142" height="58" fill="white" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="921" y="150.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">If needed, report</text>
+<text x="921" y="166.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">problem; confirm</text>
+<text x="921" y="182.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">resolution</text>
+<text x="8" y="243.0" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#162434">Frontstage</text>
+<text x="8" y="259.1" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#162434">actions</text>
+<rect x="143" y="223" width="142" height="70" fill="#edf3f6" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="151" y="246.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#9c312d">Optional assistant</text>
+<text x="151" y="262.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#9c312d">explains</text>
+<text x="151" y="278.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#9c312d">suggestions F1</text>
+<rect x="297" y="223" width="142" height="70" fill="#edf3f6" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="305" y="246.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Employee offers</text>
+<text x="305" y="262.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">directions without</text>
+<text x="305" y="278.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">registration</text>
+<rect x="451" y="223" width="142" height="70" fill="#edf3f6" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="459" y="246.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#9c312d">Tally scans;</text>
+<text x="459" y="262.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#9c312d">colleague</text>
+<text x="459" y="278.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#9c312d">replenishes F2 W</text>
+<rect x="605" y="223" width="142" height="70" fill="#edf3f6" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="613" y="238.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#9c312d">Colleague explains</text>
+<text x="613" y="254.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#9c312d">alternatives;</text>
+<text x="613" y="270.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#9c312d">accessible help F3</text>
+<text x="613" y="286.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#9c312d">W</text>
+<rect x="759" y="223" width="142" height="70" fill="#edf3f6" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="767" y="238.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#9c312d">Cashier or</text>
+<text x="767" y="254.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#9c312d">self-checkout;</text>
+<text x="767" y="270.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#9c312d">supervisor corrects</text>
+<text x="767" y="286.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#9c312d">F4 W</text>
+<rect x="913" y="223" width="142" height="70" fill="#edf3f6" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="921" y="246.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#9c312d">Agent receives</text>
+<text x="921" y="262.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#9c312d">case; explains</text>
+<text x="921" y="278.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#9c312d">remedy F5 W</text>
+<text x="8" y="334.0" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#162434">Backstage actions</text>
+<rect x="143" y="314" width="142" height="70" fill="white" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="151" y="337.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Merchandiser</text>
+<text x="151" y="353.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">validates local</text>
+<text x="151" y="369.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">product facts</text>
+<rect x="297" y="314" width="142" height="70" fill="white" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="305" y="337.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Supervisor</text>
+<text x="305" y="353.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">allocates help</text>
+<text x="305" y="369.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">coverage</text>
+<rect x="451" y="314" width="142" height="70" fill="white" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="459" y="337.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Check stockroom;</text>
+<text x="459" y="353.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">assign task;</text>
+<text x="459" y="369.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">validate closure</text>
+<rect x="605" y="314" width="142" height="70" fill="white" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="613" y="345.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Specialist checks</text>
+<text x="613" y="361.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">product information</text>
+<rect x="759" y="314" width="142" height="70" fill="white" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="767" y="329.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Supervisor verifies</text>
+<text x="767" y="345.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">price and</text>
+<text x="767" y="361.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">authorises</text>
+<text x="767" y="377.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">correction</text>
+<rect x="913" y="314" width="142" height="70" fill="white" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="921" y="329.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Manager reviews</text>
+<text x="921" y="345.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">evidence;</text>
+<text x="921" y="361.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">authorises refund;</text>
+<text x="921" y="377.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">escalates</text>
+<text x="8" y="425.0" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#162434">Support</text>
+<text x="8" y="441.1" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#162434">processes and IT</text>
+<rect x="143" y="405" width="142" height="70" fill="#edf3f6" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="151" y="428.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Catalogue; price</text>
+<text x="151" y="444.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">feed; optional</text>
+<text x="151" y="460.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">consent record</text>
+<rect x="297" y="405" width="142" height="70" fill="#edf3f6" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="305" y="436.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Store map; staffing</text>
+<text x="305" y="452.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">roster; training</text>
+<rect x="451" y="405" width="142" height="70" fill="#edf3f6" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="459" y="428.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Vision analysis;</text>
+<text x="459" y="444.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">stock system; task</text>
+<text x="459" y="460.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">queue</text>
+<rect x="605" y="405" width="142" height="70" fill="#edf3f6" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="613" y="420.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Ingredient</text>
+<text x="613" y="436.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">database; ranking</text>
+<text x="613" y="452.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">rules; staff</text>
+<text x="613" y="468.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">knowledge</text>
+<rect x="759" y="405" width="142" height="70" fill="#edf3f6" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="767" y="428.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Price database;</text>
+<text x="767" y="444.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">payment service;</text>
+<text x="767" y="460.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">receipt archive</text>
+<rect x="913" y="405" width="142" height="70" fill="#edf3f6" stroke="#b9c4cb" stroke-width="0.7"/>
+<text x="921" y="428.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">Case system;</text>
+<text x="921" y="444.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">refund policy;</text>
+<text x="921" y="460.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#162434">access controls</text>
+<line x1="143" y1="207" x2="1072" y2="207" stroke="#b9c4cb" stroke-width="0.8" stroke-dasharray="4 3"/>
+<text x="5" y="205" font-family="Arial, sans-serif" font-size="11.5" font-weight="700" fill="#162434">Line of interaction</text>
+<line x1="143" y1="298" x2="1072" y2="298" stroke="#b9c4cb" stroke-width="0.8" stroke-dasharray="4 3"/>
+<text x="5" y="296" font-family="Arial, sans-serif" font-size="11.5" font-weight="700" fill="#162434">Line of visibility</text>
+<line x1="143" y1="389" x2="1072" y2="389" stroke="#b9c4cb" stroke-width="0.8" stroke-dasharray="4 3"/>
+<text x="5" y="387" font-family="Arial, sans-serif" font-size="11.5" font-weight="700" fill="#162434">Line of internal</text>
+<text x="5" y="399" font-family="Arial, sans-serif" font-size="11.5" font-weight="700" fill="#162434">interaction</text>
+<line x1="245.24" y1="191" x2="245.24" y2="223" stroke="#215c79" stroke-width="1.25"/>
+<polygon points="245.24,223 242.63020679533264,217.59731738588394 247.84979320466738,217.59731738588394" fill="#215c79"/>
+<line x1="236.24" y1="223" x2="236.24" y2="191" stroke="#215c79" stroke-width="0.8"/>
+<polygon points="236.24,191 238.84979320466738,196.40268261411606 233.63020679533264,196.40268261411606" fill="#215c79"/>
+<line x1="245.24" y1="293" x2="245.24" y2="314" stroke="#215c79" stroke-width="1.25"/>
+<polygon points="245.24,314 242.63020679533264,308.5973173858839 247.84979320466738,308.5973173858839" fill="#215c79"/>
+<line x1="236.24" y1="314" x2="236.24" y2="293" stroke="#215c79" stroke-width="0.8"/>
+<polygon points="236.24,293 238.84979320466738,298.4026826141161 233.63020679533264,298.4026826141161" fill="#215c79"/>
+<line x1="245.24" y1="384" x2="245.24" y2="405" stroke="#215c79" stroke-width="1.25"/>
+<polygon points="245.24,405 242.63020679533264,399.5973173858839 247.84979320466738,399.5973173858839" fill="#215c79"/>
+<line x1="236.24" y1="405" x2="236.24" y2="384" stroke="#215c79" stroke-width="0.8"/>
+<polygon points="236.24,384 238.84979320466738,389.4026826141161 233.63020679533264,389.4026826141161" fill="#215c79"/>
+<line x1="399.24" y1="191" x2="399.24" y2="223" stroke="#215c79" stroke-width="1.25"/>
+<polygon points="399.24,223 396.63020679533264,217.59731738588394 401.8497932046674,217.59731738588394" fill="#215c79"/>
+<line x1="390.24" y1="223" x2="390.24" y2="191" stroke="#215c79" stroke-width="0.8"/>
+<polygon points="390.24,191 392.8497932046674,196.40268261411606 387.63020679533264,196.40268261411606" fill="#215c79"/>
+<line x1="399.24" y1="293" x2="399.24" y2="314" stroke="#215c79" stroke-width="1.25"/>
+<polygon points="399.24,314 396.63020679533264,308.5973173858839 401.8497932046674,308.5973173858839" fill="#215c79"/>
+<line x1="390.24" y1="314" x2="390.24" y2="293" stroke="#215c79" stroke-width="0.8"/>
+<polygon points="390.24,293 392.8497932046674,298.4026826141161 387.63020679533264,298.4026826141161" fill="#215c79"/>
+<line x1="399.24" y1="384" x2="399.24" y2="405" stroke="#215c79" stroke-width="1.25"/>
+<polygon points="399.24,405 396.63020679533264,399.5973173858839 401.8497932046674,399.5973173858839" fill="#215c79"/>
+<line x1="390.24" y1="405" x2="390.24" y2="384" stroke="#215c79" stroke-width="0.8"/>
+<polygon points="390.24,384 392.8497932046674,389.4026826141161 387.63020679533264,389.4026826141161" fill="#215c79"/>
+<line x1="553.24" y1="191" x2="553.24" y2="223" stroke="#215c79" stroke-width="1.25"/>
+<polygon points="553.24,223 550.6302067953326,217.59731738588394 555.8497932046674,217.59731738588394" fill="#215c79"/>
+<line x1="544.24" y1="223" x2="544.24" y2="191" stroke="#215c79" stroke-width="0.8"/>
+<polygon points="544.24,191 546.8497932046674,196.40268261411606 541.6302067953326,196.40268261411606" fill="#215c79"/>
+<line x1="553.24" y1="293" x2="553.24" y2="314" stroke="#215c79" stroke-width="1.25"/>
+<polygon points="553.24,314 550.6302067953326,308.5973173858839 555.8497932046674,308.5973173858839" fill="#215c79"/>
+<line x1="544.24" y1="314" x2="544.24" y2="293" stroke="#215c79" stroke-width="0.8"/>
+<polygon points="544.24,293 546.8497932046674,298.4026826141161 541.6302067953326,298.4026826141161" fill="#215c79"/>
+<line x1="553.24" y1="384" x2="553.24" y2="405" stroke="#215c79" stroke-width="1.25"/>
+<polygon points="553.24,405 550.6302067953326,399.5973173858839 555.8497932046674,399.5973173858839" fill="#215c79"/>
+<line x1="544.24" y1="405" x2="544.24" y2="384" stroke="#215c79" stroke-width="0.8"/>
+<polygon points="544.24,384 546.8497932046674,389.4026826141161 541.6302067953326,389.4026826141161" fill="#215c79"/>
+<line x1="707.24" y1="191" x2="707.24" y2="223" stroke="#215c79" stroke-width="1.25"/>
+<polygon points="707.24,223 704.6302067953326,217.59731738588394 709.8497932046674,217.59731738588394" fill="#215c79"/>
+<line x1="698.24" y1="223" x2="698.24" y2="191" stroke="#215c79" stroke-width="0.8"/>
+<polygon points="698.24,191 700.8497932046674,196.40268261411606 695.6302067953326,196.40268261411606" fill="#215c79"/>
+<line x1="707.24" y1="293" x2="707.24" y2="314" stroke="#215c79" stroke-width="1.25"/>
+<polygon points="707.24,314 704.6302067953326,308.5973173858839 709.8497932046674,308.5973173858839" fill="#215c79"/>
+<line x1="698.24" y1="314" x2="698.24" y2="293" stroke="#215c79" stroke-width="0.8"/>
+<polygon points="698.24,293 700.8497932046674,298.4026826141161 695.6302067953326,298.4026826141161" fill="#215c79"/>
+<line x1="707.24" y1="384" x2="707.24" y2="405" stroke="#215c79" stroke-width="1.25"/>
+<polygon points="707.24,405 704.6302067953326,399.5973173858839 709.8497932046674,399.5973173858839" fill="#215c79"/>
+<line x1="698.24" y1="405" x2="698.24" y2="384" stroke="#215c79" stroke-width="0.8"/>
+<polygon points="698.24,384 700.8497932046674,389.4026826141161 695.6302067953326,389.4026826141161" fill="#215c79"/>
+<line x1="861.24" y1="191" x2="861.24" y2="223" stroke="#215c79" stroke-width="1.25"/>
+<polygon points="861.24,223 858.6302067953326,217.59731738588394 863.8497932046674,217.59731738588394" fill="#215c79"/>
+<line x1="852.24" y1="223" x2="852.24" y2="191" stroke="#215c79" stroke-width="0.8"/>
+<polygon points="852.24,191 854.8497932046674,196.40268261411606 849.6302067953326,196.40268261411606" fill="#215c79"/>
+<line x1="861.24" y1="293" x2="861.24" y2="314" stroke="#215c79" stroke-width="1.25"/>
+<polygon points="861.24,314 858.6302067953326,308.5973173858839 863.8497932046674,308.5973173858839" fill="#215c79"/>
+<line x1="852.24" y1="314" x2="852.24" y2="293" stroke="#215c79" stroke-width="0.8"/>
+<polygon points="852.24,293 854.8497932046674,298.4026826141161 849.6302067953326,298.4026826141161" fill="#215c79"/>
+<line x1="861.24" y1="384" x2="861.24" y2="405" stroke="#215c79" stroke-width="1.25"/>
+<polygon points="861.24,405 858.6302067953326,399.5973173858839 863.8497932046674,399.5973173858839" fill="#215c79"/>
+<line x1="852.24" y1="405" x2="852.24" y2="384" stroke="#215c79" stroke-width="0.8"/>
+<polygon points="852.24,384 854.8497932046674,389.4026826141161 849.6302067953326,389.4026826141161" fill="#215c79"/>
+<line x1="1015.24" y1="191" x2="1015.24" y2="223" stroke="#215c79" stroke-width="1.25"/>
+<polygon points="1015.24,223 1012.6302067953326,217.59731738588394 1017.8497932046674,217.59731738588394" fill="#215c79"/>
+<line x1="1006.24" y1="223" x2="1006.24" y2="191" stroke="#215c79" stroke-width="0.8"/>
+<polygon points="1006.24,191 1008.8497932046674,196.40268261411606 1003.6302067953326,196.40268261411606" fill="#215c79"/>
+<line x1="1015.24" y1="293" x2="1015.24" y2="314" stroke="#215c79" stroke-width="1.25"/>
+<polygon points="1015.24,314 1012.6302067953326,308.5973173858839 1017.8497932046674,308.5973173858839" fill="#215c79"/>
+<line x1="1006.24" y1="314" x2="1006.24" y2="293" stroke="#215c79" stroke-width="0.8"/>
+<polygon points="1006.24,293 1008.8497932046674,298.4026826141161 1003.6302067953326,298.4026826141161" fill="#215c79"/>
+<line x1="1015.24" y1="384" x2="1015.24" y2="405" stroke="#215c79" stroke-width="1.25"/>
+<polygon points="1015.24,405 1012.6302067953326,399.5973173858839 1017.8497932046674,399.5973173858839" fill="#215c79"/>
+<line x1="1006.24" y1="405" x2="1006.24" y2="384" stroke="#215c79" stroke-width="0.8"/>
+<polygon points="1006.24,384 1008.8497932046674,389.4026826141161 1003.6302067953326,389.4026826141161" fill="#215c79"/>
+<line x1="901" y1="440" x2="913" y2="440" stroke="#215c79" stroke-width="1.25"/>
+<polygon points="913,440 907.5973173858839,442.60979320466737 907.5973173858839,437.39020679533263" fill="#215c79"/>
+<text x="144" y="485" font-family="Arial, sans-serif" font-size="11.3" font-weight="400" fill="#215c79">Request and response</text>
+<text x="452" y="485" font-family="Arial, sans-serif" font-size="11.3" font-weight="400" fill="#215c79">Shelf alert and verified closure</text>
+<text x="760" y="485" font-family="Arial, sans-serif" font-size="11.3" font-weight="400" fill="#215c79">Price and receipt</text>
+<text x="914" y="485" font-family="Arial, sans-serif" font-size="11.3" font-weight="400" fill="#215c79">Case and decision</text>
+<line x1="1060" y1="456" x2="1077" y2="456" stroke="#9c312d" stroke-width="1.2"/>
+<line x1="1077" y1="456" x2="1077" y2="240" stroke="#9c312d" stroke-width="1.2"/>
+<line x1="1077" y1="240" x2="1060" y2="240" stroke="#9c312d" stroke-width="1.2"/>
+<polygon points="1060,240 1065.402682614116,237.39020679533263 1065.402682614116,242.60979320466737" fill="#9c312d"/>
+<text x="8" y="509" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#162434">Fail points and proposed controls</text>
+<text x="8" y="530" font-family="Arial, sans-serif" font-size="13.4" font-weight="400" fill="#162434">F1 Unsupported advice: dated facts; uncertainty warning.</text>
+<text x="8" y="549" font-family="Arial, sans-serif" font-size="13.4" font-weight="400" fill="#162434">F2 False availability: verify shelf before closing alert.</text>
+<text x="8" y="568" font-family="Arial, sans-serif" font-size="13.4" font-weight="400" fill="#162434">F3 Exclusion or poor advice: staffed route; customer choice.</text>
+<text x="550" y="530" font-family="Arial, sans-serif" font-size="13.4" font-weight="400" fill="#162434">F4 Wrong charge: preserve basket; verify price.</text>
+<text x="550" y="549" font-family="Arial, sans-serif" font-size="13.4" font-weight="400" fill="#162434">F5 Repeated complaint: one case; named human owner.</text>
+<text x="8" y="589" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#162434">Arrows show sequence and information handoffs. W marks potential waiting. Red labels mark potential failures. The return arrow reopens unresolved cases.</text>
+<text x="8" y="621" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#162434">Proposed standards: acknowledge in-store help within two minutes; human response to post-purchase cases within one working day. Measure resolution separately.</text>
+</svg>

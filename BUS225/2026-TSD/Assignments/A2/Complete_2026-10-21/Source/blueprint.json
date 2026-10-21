@@ -1,0 +1,91 @@
+{
+  "title": "Figure 1 Proposed improved Carrefour UAE service blueprint",
+  "subtitle": "Physical grocery purchase with optional digital assistance",
+  "columns": [
+    "1 Plan basket",
+    "2 Enter store",
+    "3 Find products",
+    "4 Choose and ask",
+    "5 Pay and leave",
+    "6 Resolve issue"
+  ],
+  "lanes": [
+    {
+      "label": "Physical and digital evidence",
+      "cells": [
+        "List; budget; dated suggestions",
+        "Signs; trolley; accessible routes",
+        "Shelves; labels; visible Tally",
+        "Packs; comparison screen; colleague",
+        "Checkout display; payment terminal; receipt",
+        "Help desk; case number; resolution notice"
+      ]
+    },
+    {
+      "label": "Customer actions",
+      "cells": [
+        "Set budget; accept or reject advice",
+        "Choose app or staffed route",
+        "Locate item; report shelf gap",
+        "Compare ingredients; select or request help",
+        "Check total; pay; keep receipt",
+        "If needed, report problem; confirm resolution"
+      ]
+    },
+    {
+      "label": "Frontstage actions",
+      "cells": [
+        "Optional assistant explains suggestions F1",
+        "Employee offers directions without registration",
+        "Tally scans; colleague replenishes F2 W",
+        "Colleague explains alternatives; accessible help F3 W",
+        "Cashier or self-checkout; supervisor corrects F4 W",
+        "Agent receives case; explains remedy F5 W"
+      ]
+    },
+    {
+      "label": "Backstage actions",
+      "cells": [
+        "Merchandiser validates local product facts",
+        "Supervisor allocates help coverage",
+        "Check stockroom; assign task; validate closure",
+        "Specialist checks product information",
+        "Supervisor verifies price and authorises correction",
+        "Manager reviews evidence; authorises refund; escalates"
+      ]
+    },
+    {
+      "label": "Support processes and IT",
+      "cells": [
+        "Catalogue; price feed; optional consent record",
+        "Store map; staffing roster; training",
+        "Vision analysis; stock system; task queue",
+        "Ingredient database; ranking rules; staff knowledge",
+        "Price database; payment service; receipt archive",
+        "Case system; refund policy; access controls"
+      ]
+    }
+  ],
+  "boundaries": [
+    "Line of interaction",
+    "Line of visibility",
+    "Line of internal interaction"
+  ],
+  "links": [
+    "Request and response",
+    "Shelf alert and verified closure",
+    "Price and receipt",
+    "Case and decision"
+  ],
+  "controls_title": "Fail points and proposed controls",
+  "controls": [
+    "F1 Unsupported advice: dated facts; uncertainty warning.",
+    "F2 False availability: verify shelf before closing alert.",
+    "F3 Exclusion or poor advice: staffed route; customer choice.",
+    "F4 Wrong charge: preserve basket; verify price.",
+    "F5 Repeated complaint: one case; named human owner."
+  ],
+  "legend": "Arrows show sequence and information handoffs. W marks potential waiting. Red labels mark potential failures. The return arrow reopens unresolved cases.",
+  "standards": "Proposed standards: acknowledge in-store help within two minutes; human response to post-purchase cases within one working day. Measure resolution separately.",
+  "note": "Note. Proposed design using the blueprint structure in Wirtz (2023), informed by Majid Al Futtaim (n.d.). The optional assistant, integrations and controls are recommendations, not a verified internal process."
+}

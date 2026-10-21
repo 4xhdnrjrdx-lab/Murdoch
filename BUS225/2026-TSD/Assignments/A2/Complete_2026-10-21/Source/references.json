@@ -1,0 +1,60 @@
+[
+  {
+    "id": "carrefour2021",
+    "author": "Carrefour",
+    "date": "2021, June 8",
+    "title": "Carrefour is innovating and making available an intuitive tool that enables customers to choose more nutritionally balanced and cheaper food",
+    "type": "press",
+    "url": "https://www.carrefour.com/sites/default/files/2021-06/carrefou_bresil_score_nutritionnel_FR.pdf"
+  },
+  {
+    "id": "carrefour2023",
+    "author": "Carrefour",
+    "date": "2023, June 8",
+    "title": "Carrefour integrates OpenAI technologies and launches a generative AI-powered shopping experience",
+    "type": "press",
+    "url": "https://www.carrefour.com/sites/default/files/2023-06/Press%20Release%20-%20Carrefour%20integrates%20OpenAI%20technologies%20and%20launches%20a%20generative%20AI-powered%20shopping%20experience%20%281%29.pdf"
+  },
+  {
+    "id": "huang2021",
+    "author": "Huang, M.-H., & Rust, R. T.",
+    "date": "2021",
+    "title": "A strategic framework for artificial intelligence in marketing",
+    "type": "journal",
+    "journal": "Journal of the Academy of Marketing Science",
+    "volume": "49",
+    "issue": "1",
+    "pages": "30–50",
+    "url": "https://doi.org/10.1007/s11747-020-00749-9"
+  },
+  {
+    "id": "maf",
+    "author": "Majid Al Futtaim",
+    "date": "n.d.",
+    "title": "Great moments for everyone, everyday: ESG report 2021",
+    "type": "report",
+    "url": "https://www.majidalfuttaim.com/docs/default-source/reports/majid-al-futtaim-esg-report-2021-en.pdf?sfvrsn=ccf441f5_7"
+  },
+  {
+    "id": "course2023",
+    "author": "Wirtz, J.",
+    "date": "2023",
+    "title": "Essentials of services marketing",
+    "type": "book",
+    "edition": "4th ed.",
+    "publisher": "Pearson",
+    "url": null
+  },
+  {
+    "id": "wirtz2018",
+    "author": "Wirtz, J., Patterson, P. G., Kunz, W. H., Gruber, T., Lu, V. N., Paluch, S., & Martins, A.",
+    "date": "2018",
+    "title": "Brave new world: Service robots in the frontline",
+    "type": "journal",
+    "journal": "Journal of Service Management",
+    "volume": "29",
+    "issue": "5",
+    "pages": "907–931",
+    "url": "https://doi.org/10.1108/JOSM-04-2018-0119"
+  }
+]

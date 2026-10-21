@@ -1,0 +1,5 @@
+Editorial review, 21 October 2026
+
+Humanizer checklist applied to the draft and final report. Removed stock openings such as "The analysis leads me to judge" in favour of "I would judge". Removed vague statements about a "central lesson" and named the process consequence instead. Varied paragraph length where the argument required it, kept direct first-person reflection, and replaced unsupported evaluative language with specific actions and limitations.
+
+Final pass: no long dashes in authored prose, promotional claims, invented quotations, exaggerated significance, formulaic conclusions, anonymous expert attributions or invented personal experience. Technical labels are retained where needed to explain the blueprint. The distinction between ordinary self-service, intelligent software and physical robotics is explicit. Source titles and APA page-range punctuation are retained accurately.

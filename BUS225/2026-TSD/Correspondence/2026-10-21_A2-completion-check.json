@@ -1,0 +1,49 @@
+{
+  "checked_at": "2026-10-21T11:23:11.519614+04:00",
+  "course": "BUS225",
+  "mail": {
+    "checked_at": "2026-10-21",
+    "timestamp_precision": "date; exact search time not retained",
+    "account": "jafarovfayaz@gmail.com",
+    "scope": "after:2026/10/16 (BUS225 OR Carrefour OR \"Khoury\" OR \"Services Marketing\")",
+    "result": "No matching messages; search exhausted.",
+    "matched_messages": 0,
+    "next_page_token_present": false,
+    "uncovered": [
+      "Full university Outlook",
+      "WhatsApp",
+      "Messages outside search terms"
+    ]
+  },
+  "lms": {
+    "result": "ok",
+    "assignments": [
+      {
+        "id": 125041,
+        "name": "Peer review submission - Individual",
+        "duedate": 1793970000,
+        "cutoffdate": 1794747600,
+        "due_dubai": "2026-11-06T17:00:00+04:00",
+        "status": "new",
+        "canedit": true
+      },
+      {
+        "id": 125040,
+        "name": "Reflective Journal and Service Blueprint - Group submission (one per group)",
+        "duedate": 1793970000,
+        "cutoffdate": 1794574800,
+        "due_dubai": "2026-11-06T17:00:00+04:00",
+        "status": null,
+        "canedit": true
+      }
+    ],
+    "announcements": [
+      {
+        "name": "Links for ONLINE students",
+        "modified": 1787234337
+      }
+    ],
+    "additional_requirement_result": "No new A2-specific instruction in the assignment descriptions or retrieved announcement; existing local Outline and rubric used.",
+    "status_interpretation": "Group status field was null in retrieved response, so submission is not established. Peer review was new. Cutoff dates are not extensions."
+  }
+}

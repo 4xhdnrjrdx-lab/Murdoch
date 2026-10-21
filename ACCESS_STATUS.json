@@ -33,15 +33,19 @@
         "evidence": "BUS230/2026-TSD/Correspondence/2026-10-20_study-continuation-check.json"
       },
       "BUS225": {
-        "checked_at": "2026-10-17T03:04:05.007342+04:00",
+        "checked_at": "2026-10-21",
+        "timestamp_precision": "date; exact search time not retained",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "Study Gmail jafarovfayaz@gmail.com: course names and instructor addresses after 7 October; university senders after 10 October; searches exhausted, Quiz 1 and two final-exam reminder bodies read",
-        "result": "Новых более поздних требований по предмету в указанном охвате не найдено.",
+        "scope": "after:2026/10/16 (BUS225 OR Carrefour OR \"Khoury\" OR \"Services Marketing\")",
+        "result": "No matching messages; search exhausted.",
+        "matched_messages": 0,
+        "next_page_token_present": false,
         "uncovered": [
           "Full university Outlook",
-          "WhatsApp contents"
+          "WhatsApp",
+          "Messages outside search terms"
         ],
-        "evidence": "Archive/Correspondence/2026-10-17_general-study-check.json"
+        "evidence": "BUS225/2026-TSD/Correspondence/2026-10-21_A2-completion-check.json"
       },
       "BUS334": {
         "checked_at": "2026-10-18T23:01:55.469482+04:00",
@@ -126,7 +130,7 @@
     "operation": "Latest read-only check: BUS219 assignment, own status, announcements, participant names and both marking guides; unrelated course checks retained.",
     "last_success_by_course": {
       "BUS219": "2026-10-20T16:13:06.356169+04:00",
-      "BUS225": "2026-10-17T03:02:12.923855+04:00",
+      "BUS225": "2026-10-21T11:23:11.519614+04:00",
       "BUS230": "2026-10-20T14:16:18.179243+04:00",
       "BUS334": "2026-10-18T23:01:55.469482+04:00"
     },
@@ -142,7 +146,7 @@
     },
     "evidence": {
       "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-20_a2-finalisation-check.json",
-      "BUS225": "BUS225/2026-TSD/Correspondence/2026-10-17_general-lms-check.json",
+      "BUS225": "BUS225/2026-TSD/Correspondence/2026-10-21_A2-completion-check.json",
       "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-20_study-continuation-check.json",
       "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-18_A3-report-check.json"
     },

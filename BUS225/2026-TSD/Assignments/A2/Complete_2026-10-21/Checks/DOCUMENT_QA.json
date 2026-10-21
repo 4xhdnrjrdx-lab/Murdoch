@@ -1,0 +1,36 @@
+{
+  "checked_at": "2026-10-21T11:39:30.526229+04:00",
+  "result": "PASS",
+  "word_count": {
+    "report_including_title_headings_names": 1548,
+    "blueprint_all_visible_text_including_title_note_legend": 350,
+    "total": 1898,
+    "conservative_punctuation_and_hyphen_split": 1912,
+    "limit": 2000
+  },
+  "count_method": "Whitespace-delimited tokens, including all report metadata, headings, diagram labels, caption and note; punctuation-only separators included conservatively. References excluded. Counting each hyphen-separated element separately gives 1912; adding five page numbers gives 1917. Diagram text taken from its complete source because the embedded figure is an image.",
+  "pages": 5,
+  "visual_review": {
+    "1": "Title and report text readable; no overflow.",
+    "2": "Reflection and ethics text readable; no clipping.",
+    "3": "Recommendations and final reflection fit; footer clear.",
+    "4": "Landscape blueprint: all 30 cells, six stages, three boundaries, F1-F5, W, arrows, legend, standards and note visible; no overlapping labels.",
+    "5": "Six APA references, hanging indents, consistent italics and active links."
+  },
+  "links": {
+    "docx_unique": 5,
+    "pdf_unique": 5,
+    "targets_match_after_equivalent_percent_decoding": true,
+    "note": "The exporter decodes parentheses in the Carrefour 2023 URL. Both encodings resolve to the same PDF."
+  },
+  "citation_audit": "All six references cited. Corporate author/year and book author/year match. Wirtz (2023) precedes Wirtz et al. (2018) because a single-author entry precedes multiple-author entries with the same first author.",
+  "content_checks": [
+    "No invented visit, interview, consent, measured pilot result or participant contribution.",
+    "Documented country/date initiatives separated from proposed UAE design.",
+    "F1-F5 identifiers match report, figure and controls.",
+    "No draft markers or empty sections in final files.",
+    "Numbers are explicitly proposed pilot standards.",
+    "Physical replenishment is frontstage; stockroom verification and task ownership are backstage."
+  ],
+  "limitations": "Evaluation is a research-supported proposal, not an operational audit or measured customer study. Grading and group contribution evidence remain outside these artifact checks."
+}

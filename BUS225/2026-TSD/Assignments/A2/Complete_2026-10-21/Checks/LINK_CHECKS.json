@@ -1,0 +1,50 @@
+{
+  "checked_at": "2026-10-21T11:39:30.526229+04:00",
+  "scope": "All five unique external links actually embedded in the final DOCX and PDF; content and bibliographic checks supplement HTTP checks.",
+  "links": [
+    {
+      "id": "carrefour2021",
+      "url": "https://www.carrefour.com/sites/default/files/2021-06/carrefou_bresil_score_nutritionnel_FR.pdf",
+      "resolved_url": "https://www.carrefour.com/sites/default/files/2021-06/carrefou_bresil_score_nutritionnel_FR.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 934994,
+      "pdf_signature": true
+    },
+    {
+      "id": "carrefour2023",
+      "url": "https://www.carrefour.com/sites/default/files/2023-06/Press%20Release%20-%20Carrefour%20integrates%20OpenAI%20technologies%20and%20launches%20a%20generative%20AI-powered%20shopping%20experience%20%281%29.pdf",
+      "resolved_url": "https://www.carrefour.com/sites/default/files/2023-06/Press%20Release%20-%20Carrefour%20integrates%20OpenAI%20technologies%20and%20launches%20a%20generative%20AI-powered%20shopping%20experience%20%281%29.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 773657,
+      "pdf_signature": true
+    },
+    {
+      "id": "huang2021",
+      "url": "https://doi.org/10.1007/s11747-020-00749-9",
+      "resolved_url": "https://link.springer.com/article/10.1007/s11747-020-00749-9",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 544057,
+      "pdf_signature": false,
+      "content_verified": "Full publisher article opened and read using web browser; not inferred from HTTP status."
+    },
+    {
+      "id": "maf",
+      "url": "https://www.majidalfuttaim.com/docs/default-source/reports/majid-al-futtaim-esg-report-2021-en.pdf?sfvrsn=ccf441f5_7",
+      "resolved_url": "https://www.majidalfuttaim.com/docs/default-source/reports/majid-al-futtaim-esg-report-2021-en.pdf?sfvrsn=ccf441f5_7",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 11278777,
+      "pdf_signature": true
+    },
+    {
+      "id": "wirtz2018",
+      "url": "https://doi.org/10.1108/JOSM-04-2018-0119",
+      "http_error": "HTTP Error 403: Forbidden",
+      "browser_resolution": "https://www.emerald.com/josm/article/29/5/907/235589/Brave-new-world-service-robots-in-the-frontline",
+      "content_verified": "DOI opened in normal browser after final export; title, journal, authors and full article visible. Automated HTTP client receives 403; this does not indicate a broken DOI."
+    }
+  ]
+}

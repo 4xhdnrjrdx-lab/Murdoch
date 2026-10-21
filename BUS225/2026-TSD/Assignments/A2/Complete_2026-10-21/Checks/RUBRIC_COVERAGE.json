@@ -1,0 +1,83 @@
+{
+  "basis": "Unit Outline 5.2.2; full Component A and B rubric; latest 21 October decisions",
+  "word_budget": {
+    "report_including_title_headings_names": 1548,
+    "blueprint_all_visible_text_including_title_note_legend": 350,
+    "total": 1898,
+    "conservative_punctuation_and_hyphen_split": 1912,
+    "limit": 2000
+  },
+  "criteria": [
+    {
+      "component": "A",
+      "criterion": "Structure and completeness",
+      "raw_max": 10,
+      "final_evidence": "Six chronological stages; physical/digital evidence; customer, frontstage, backstage, support/IT lanes; three named boundaries; customer flow, cross-lane information and recovery loop",
+      "pages": "4",
+      "coverage_checked": true
+    },
+    {
+      "component": "A",
+      "criterion": "Failures and improvements",
+      "raw_max": 5,
+      "final_evidence": "F1-F5, wait markers, matched controls and service standards; direct links to report recommendations",
+      "pages": "3–4",
+      "coverage_checked": true
+    },
+    {
+      "component": "A",
+      "criterion": "Clarity",
+      "raw_max": 5,
+      "final_evidence": "Landscape A4, legible labels, legend, complete visual review",
+      "pages": "4",
+      "coverage_checked": true
+    },
+    {
+      "component": "B",
+      "criterion": "Robotics and intelligent systems",
+      "raw_max": 10,
+      "final_evidence": "Physical Tally versus software; task-fit framework, retail service application, France and Brazil comparison; dated claims, limits of conceptual and corporate evidence",
+      "pages": "1–2",
+      "coverage_checked": true
+    },
+    {
+      "component": "B",
+      "criterion": "Customer journey reflection",
+      "raw_max": 10,
+      "final_evidence": "First-person analytical and future reflection; stage and fail-point references; customer participation, effort, trust and service recovery",
+      "pages": "2, 4",
+      "coverage_checked": true
+    },
+    {
+      "component": "B",
+      "criterion": "Ethical implications",
+      "raw_max": 10,
+      "final_evidence": "Customer autonomy, privacy, accessibility, safety, employee workload and retraining, retailer accountability; tradeoffs and concrete controls",
+      "pages": "2–3",
+      "coverage_checked": true
+    },
+    {
+      "component": "B",
+      "criterion": "Critical recommendations",
+      "raw_max": 10,
+      "final_evidence": "Prioritised pilot; named process owners, risks, measures, comparisons and stop conditions",
+      "pages": "3–4",
+      "coverage_checked": true
+    },
+    {
+      "component": "B",
+      "criterion": "Writing and referencing",
+      "raw_max": 10,
+      "final_evidence": "Humanizer editorial pass, APA 7, verified claim-source mapping, links, joint word count",
+      "pages": "1–5",
+      "coverage_checked": true
+    }
+  ],
+  "weights": {
+    "A_raw_total": 20,
+    "A_unit_percent": 10,
+    "B_raw_total": 50,
+    "B_unit_percent": 30
+  },
+  "score_note": "Coverage is not an awarded or predicted grade."
+}
