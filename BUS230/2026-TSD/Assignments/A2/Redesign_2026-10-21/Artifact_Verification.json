@@ -3,8 +3,8 @@
   "files": [
     {
       "file": "BUS230Assessment2Class2Group4_2026-10-21.pptx",
-      "sha256": "5e8ebdf5b6c16b9fe68b3ba2ab290e5d012f7581748e61156c1a23a312aad1b8",
-      "bytes": 2211893,
+      "sha256": "824c7466a6f87919994b0fb2b97a4b4bb3505f4f4e3486a5112a4697bb5ef799",
+      "bytes": 2210452,
       "slides": 30,
       "hidden_slides": [
         25,
@@ -111,7 +111,8 @@
     "interaction_method": "PowerPoint Slide Show: Tab / Return activates native shape hyperlinks; resulting slide numbers observed in accessibility state.",
     "limitations": "Mouse click automation in the full-screen window returned noWindowsAvailable. Hyperlinks were exercised with keyboard selection. Final full-deck hyperlinks additionally checked structurally with correct targets and OOXML element order.",
     "actual_rehearsal": false,
-    "delivery_computer_test": false
+    "delivery_computer_test": false,
+    "full_deck_test_scope": "Full deck visual-equivalent candidate inspected; final notes repair does not change slides. Final full-deck slide hyperlinks verified structurally; final separate Aram deck exercised in PowerPoint."
   },
   "timing": {
     "first_three_blocks_seconds": [
@@ -130,5 +131,6 @@
     "core_total_seconds": 1680,
     "questions_budget_seconds": 120,
     "precision": "Planned budgets, not measured speech delivery."
-  }
+  },
+  "notes_final_review": "Removed obsolete 90-second question instructions / old reference numbering in appendix notes; shortened slide 18 transition. All 30 slide visual XML parts unchanged; six-slide Aram file unchanged."
 }

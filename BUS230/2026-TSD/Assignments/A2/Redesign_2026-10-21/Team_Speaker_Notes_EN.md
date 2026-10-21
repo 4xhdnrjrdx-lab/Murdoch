@@ -1,6 +1,6 @@
 # Team speaker notes
 
-Core slides 1–24: 28-minute budget. Up to two minutes for questions. Appendix slides 25–30 are hidden in the slide show. The first three speakers retain their original seven-minute speeches.
+Core slides 1–24: 28-minute budget. Up to two minutes for questions. Appendix slides 25–30 are hidden in the slide show. The first three speakers retain their content and seven-minute budgets; Faiaz’s final transition is shortened.
 
 ## 1 — Using ADKAR with
 Context and Evidence
@@ -247,13 +247,11 @@ Sources: Nilsen 2015; Errida and Lotfi 2021
 
 Presenter: Faiaz. Budget: 60 seconds.
 
-The added record creates trade-offs. More detail can become paperwork, so the manager should record only what is necessary for the affected task. A sponsor may fail to respond, which means the tool needs an escalation route and a review date.
+Four risks need managing. Keep paperwork limited to the task. Name an escalation route if the sponsor does not respond. Agree a realistic task before observing Ability. Keep evidence gaps visible instead of assuming readiness.
 
-Poorly chosen practice can also create false confidence. The manager should agree a representative task and check the conditions in which it is performed. We must not use a small classroom demonstration to claim causal superiority or business benefits.
+Stouten and colleagues compare management advice with change research. Errida and Lotfi review wider success factors. We use that literature to justify checking conditions, participation and review. It does not validate our record. The research comparison and its limits are in the appendix.
 
-The tool improves the visibility of a judgement. It cannot create resources, guarantee fair treatment, or replace managerial authority. Aram will now explain how research and task evidence support the decision.
-
-Research transition: Stouten, Rousseau and De Cremer (2018) compare change-management advice with the scholarly literature. Errida and Lotfi (2021) identify broader success factors. We use that literature to justify fields for diagnosis, conditions, participation and review; it does not validate our proposed record. Further research comparisons are retained in appendix slide 29. Aram now demonstrates the evidence rule.
+The tool supports judgement; it cannot create resources or replace authority. Aram will now show how to verify evidence and make a decision.
 
 
 
@@ -417,18 +415,9 @@ Our record makes owners and decision reasons explicit. It draws on those existin
 
 The next step is a local usability check, followed by suitable evaluation before wider use. The classroom exercise can check understanding, but cannot establish business impact.
 
-Benchmarking here means comparison with research-informed design criteria, not evidence that Cedar Retail is a real company or that a field evaluation has been conducted. Full sources for the original model and acknowledgements:
-Thank you. We welcome your questions.
+Benchmarking here means comparison with research-informed design criteria, not evidence that Cedar Retail is a real company or that a field evaluation has been conducted.
 
-[Allow up to 90 seconds for questions. If there are no questions, use the short recap below and allow time to review the decision. Display reference slides 29 and 30 when relevant. Keep the total session within 29 minutes and 30 seconds.]
-
-The key practical point is to identify the affected task, name the people who control its conditions, and verify suitable evidence before continuing. A concern may call for a design response as well as individual support. Our record is a teaching proposal that needs local testing. It credits the existing Prosci practices and does not establish business results.
-
-[Decision check after the recap if there are no questions]
-
-We can also check how the decision would change. If scanner access becomes usable but practice time is still missing, the affected task stays paused. If both conditions become usable, the manager still needs suitable task evidence and a reasoned response to the concern. A completed action is evidence for that action, not proof of readiness everywhere.
-
-Continue applies to the specified task when its prerequisites and evidence are acceptable. Revise addresses a disputed or unsuitable requirement. Pause holds a task with an essential input missing. That distinction gives the manager a clear next action while preserving judgement and continued support.
+Appendix for questions only. The main presentation ends on slide 24 after 28 planned minutes. Allow up to two minutes for questions. Academic references are on slides 25–28. Do not read this appendix aloud during the seven-minute Aram block.
 
 
 
@@ -448,18 +437,7 @@ Lewis examines information-giving and input-seeking channels. Morrison reviews e
 
 Following Topic 8's underscore and explore approach, the manager explains the purpose and invites useful questions. An invitation alone does not guarantee meaningful participation. The record therefore includes a response owner.
 
-Professional and course source acknowledgements:
-Thank you. We welcome your questions.
-
-[Allow up to 90 seconds for questions. If there are no questions, use the short recap below and allow time to review the decision. Display reference slides 29 and 30 when relevant. Keep the total session within 29 minutes and 30 seconds.]
-
-The key practical point is to identify the affected task, name the people who control its conditions, and verify suitable evidence before continuing. A concern may call for a design response as well as individual support. Our record is a teaching proposal that needs local testing. It credits the existing Prosci practices and does not establish business results.
-
-[Decision check after the recap if there are no questions]
-
-We can also check how the decision would change. If scanner access becomes usable but practice time is still missing, the affected task stays paused. If both conditions become usable, the manager still needs suitable task evidence and a reasoned response to the concern. A completed action is evidence for that action, not proof of readiness everywhere.
-
-Continue applies to the specified task when its prerequisites and evidence are acceptable. Revise addresses a disputed or unsuitable requirement. Pause holds a task with an essential input missing. That distinction gives the manager a clear next action while preserving judgement and continued support.
+Appendix for questions only. The main presentation ends on slide 24 after 28 planned minutes. Allow up to two minutes for questions. Academic references are on slides 25–28. Do not read this appendix aloud during the seven-minute Aram block.
 
 
 
