@@ -1,0 +1,22 @@
+{
+  "source_csv": "Responses_2026-10-18/Google_Forms_Responses_2026-10-18.csv",
+  "source_csv_sha256": "b1abab5b724541cde709c1334edeb7bf7fbb550fe5d4a0b0c715b84afb6326f3",
+  "pdf": "35553299_Dzhafarov_BUS334_A3_Original_Responses.pdf",
+  "pdf_sha256": "c288ea8d73794e71c6ffd7d493e66fd70b0e16f7c9ef84e1ae11f9dee731f931",
+  "response_count": 22,
+  "question_count": 20,
+  "page_count": 22,
+  "one_respondent_per_page": true,
+  "all_440_answers_match_source_verbatim": true,
+  "all_22_timestamps_match_source": true,
+  "all_20_question_headers_present_for_each_respondent": true,
+  "purpose": "Replace unsupported CSV in the third Moodle submission slot with readable PDF evidence; original CSV and prior submission evidence are preserved.",
+  "visual_review": "All 22 pages checked in six contact sheets; page 1 reviewed at full size. Tables, all 20 questions, answers and timestamps fit without clipping. PDF text verified against every source value.",
+  "lms_replacement_status": "pending user upload and declaration/save; not submitted",
+  "checked_at": "2026-10-21T21:56:06+04:00",
+  "pdf_bytes": 130841,
+  "ui_state": "Unsaved edit form retains original Report.pdf and Appendices.pdf; CSV removed only from draft. New PDF upload did not complete because Safari native file chooser kept Upload disabled. File picker closed; form left open. Save changes was not pressed.",
+  "ui_evidence": "2026-10-21_unsaved_edit_form.png",
+  "user_action": "Add Original_Responses.pdf, confirm three PDFs, read/accept Assignment Declaration personally and Save changes. Then verify via Moodle API and file hashes.",
+  "original_submission_evidence": "../_submission_checks/2026-10-21/SUBMISSION_CHECK.json"
+}
