@@ -102,5 +102,110 @@
       "matches": true
     }
   ],
-  "scope": "Only the new presentation pack; not a claim that every repository recovery gap is closed."
+  "scope": "Only the new presentation pack; not a claim that every repository recovery gap is closed.",
+  "final_notes_recheck": {
+    "checked_at": "2026-10-21T14:54:24.545799+04:00",
+    "source_commit": "04b4f49d02b6aea446e121dbe784e840ad21c825",
+    "file_count": 16,
+    "all_match": true,
+    "files": [
+      {
+        "path": "BUS230/2026-TSD/Assignments/A2/Redesign_2026-10-21/Aram_Speaker_Notes_EN.md",
+        "sha256": "286b37944c340d4bd807c277a5a578ddfdf41574d6ac1284eebe60e66f608822",
+        "bytes": 9647,
+        "matches": true
+      },
+      {
+        "path": "BUS230/2026-TSD/Assignments/A2/Redesign_2026-10-21/Artifact_Verification.json",
+        "sha256": "dc1d72896ed0df7a16b4822160ceb3ec7351c2c206bc9b4e93ff2f177b3e5a2a",
+        "bytes": 3902,
+        "matches": true
+      },
+      {
+        "path": "BUS230/2026-TSD/Assignments/A2/Redesign_2026-10-21/BUS230A2_Aram_Slides19-24_2026-10-21.pptx",
+        "sha256": "3d29850480ef251b80685b3369b9a9fb586e925af3ae388e7262d0b0d210f3aa",
+        "bytes": 1075988,
+        "matches": true
+      },
+      {
+        "path": "BUS230/2026-TSD/Assignments/A2/Redesign_2026-10-21/BUS230Assessment2Class2Group4_2026-10-21.pptx",
+        "sha256": "824c7466a6f87919994b0fb2b97a4b4bb3505f4f4e3486a5112a4697bb5ef799",
+        "bytes": 2210452,
+        "matches": true
+      },
+      {
+        "path": "BUS230/2026-TSD/Assignments/A2/Redesign_2026-10-21/Preview.jpg",
+        "sha256": "1943fb98964522246b3ed2ef4011f0c3f98e13591d5678398715f2a6a951b2e5",
+        "bytes": 306865,
+        "matches": true
+      },
+      {
+        "path": "BUS230/2026-TSD/Assignments/A2/Redesign_2026-10-21/README.md",
+        "sha256": "49e59fbdc4cce77a1c6b08161e64f48c971310e118f73f9504926411d3db24a4",
+        "bytes": 9724,
+        "matches": true
+      },
+      {
+        "path": "BUS230/2026-TSD/Assignments/A2/Redesign_2026-10-21/Sources/Design_Reference.jpg",
+        "sha256": "94d18c85a4cff886e04d9b1b98278ce9fc3567afb69c9ecc89c776769ae0b125",
+        "bytes": 78640,
+        "matches": true
+      },
+      {
+        "path": "BUS230/2026-TSD/Assignments/A2/Redesign_2026-10-21/Sources/Editorial_Background.png",
+        "sha256": "1a152dbec1f74724f815820525db47f7d0ca0049c44cc94efea5c2bbc61d82cf",
+        "bytes": 1250646,
+        "matches": true
+      },
+      {
+        "path": "BUS230/2026-TSD/Assignments/A2/Redesign_2026-10-21/Sources/Illustration_Provenance.json",
+        "sha256": "28310c89d577e034b2043c51a3a81b6023aa00f7154a31eae702ea1da20b8fc5",
+        "bytes": 1236,
+        "matches": true
+      },
+      {
+        "path": "BUS230/2026-TSD/Assignments/A2/Redesign_2026-10-21/Sources/Slide_Content_and_Notes_EN.json",
+        "sha256": "f509557a03806b375abd73df920deb7326c8a46afe9053b5af53aaa321cae89a",
+        "bytes": 97020,
+        "matches": true
+      },
+      {
+        "path": "BUS230/2026-TSD/Assignments/A2/Redesign_2026-10-21/Sources/User_Interactive_Brief.txt",
+        "sha256": "a370779ac1d04116f85452f4a3603d56249728dec151e5680ffdbf67893f7450",
+        "bytes": 9055,
+        "matches": true
+      },
+      {
+        "path": "BUS230/2026-TSD/Assignments/A2/Redesign_2026-10-21/Sources/build.mjs",
+        "sha256": "d5a29de0e9294901caf9342bd67fcde0c18a0f1d35f5c61ff0062845d8b81685",
+        "bytes": 13251,
+        "matches": true
+      },
+      {
+        "path": "BUS230/2026-TSD/Assignments/A2/Redesign_2026-10-21/Sources/finalize.mjs",
+        "sha256": "a3fc438ca70c7d52ac278a7343512c1ec06b06aa5e2a500fef243f6bb21be6d6",
+        "bytes": 1854,
+        "matches": true
+      },
+      {
+        "path": "BUS230/2026-TSD/Assignments/A2/Redesign_2026-10-21/Sources/link_slides.py",
+        "sha256": "8283074c80a5651e462cc133a10a3a4bbf09eb389128f61b67980fccca8c9ab5",
+        "bytes": 2051,
+        "matches": true
+      },
+      {
+        "path": "BUS230/2026-TSD/Assignments/A2/Redesign_2026-10-21/Sources/prepare_content.py",
+        "sha256": "74c6553c04f4ccaafd790f75c24f80c26180fe58d93a1182bf773def8ac125fb",
+        "bytes": 18422,
+        "matches": true
+      },
+      {
+        "path": "BUS230/2026-TSD/Assignments/A2/Redesign_2026-10-21/Team_Speaker_Notes_EN.md",
+        "sha256": "0749db58d288c9cc54b797d19773be683a9865b4bb55acb20849df589710f51e",
+        "bytes": 29739,
+        "matches": true
+      }
+    ],
+    "method": "Independent clone updated from GitHub using fetch and fast-forward, not local files. All 16 final pack files compared again after the notes correction."
+  }
 }
