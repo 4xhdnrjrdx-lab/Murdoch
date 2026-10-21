@@ -1642,6 +1642,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS225/2026-TSD/Assignments/A2/Complete_2026-10-21/BUS225_A2_Group9_Carrefour_Revised.docx",
+      "bytes": 528422,
+      "sha256": "3d732b8b16b444184f688a98af49d6cf9f98de75d4fd55da5ad82bf2ee548f1f",
+      "storage": "git"
+    },
+    {
       "path": "BUS225/2026-TSD/Assignments/A2/Complete_2026-10-21/Checks/ARTIFACT_SHA256.json",
       "bytes": 2185,
       "sha256": "08905538a6fd99c7398be485cf4a34fa220c189ab4b2e6efdbc2c8c82af5e979",
@@ -1672,6 +1678,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS225/2026-TSD/Assignments/A2/Complete_2026-10-21/Checks/REVISION_QA.json",
+      "bytes": 829,
+      "sha256": "2d7edd81d67f05b0208d8eabf4ef32bf7531ffc20b50def4accb16d9b1bd8be9",
+      "storage": "git"
+    },
+    {
       "path": "BUS225/2026-TSD/Assignments/A2/Complete_2026-10-21/Checks/RUBRIC_COVERAGE.json",
       "bytes": 2982,
       "sha256": "443a03ae449197937f5c1adce0a0f30c3abf4d43c5f64f916d0b3d272092f100",
@@ -1685,8 +1697,8 @@
     },
     {
       "path": "BUS225/2026-TSD/Assignments/A2/Complete_2026-10-21/READ_ME_RU.txt",
-      "bytes": 3650,
-      "sha256": "27d369ac256c3df34d0b6f74f60a7300c58d1c66f4b968b92607297d94422fbd",
+      "bytes": 4084,
+      "sha256": "c0646f06b4c8856247059ba5b6054758e074c7f86cafb7dc0ffbe16563cbbc41",
       "storage": "git"
     },
     {
@@ -1708,6 +1720,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS225/2026-TSD/Assignments/A2/Complete_2026-10-21/Source/blueprint_text_revised.txt",
+      "bytes": 2563,
+      "sha256": "a37a0fbe0664a2924f881e35cc67440efe6abee898c6b8f46055cc213bbe218b",
+      "storage": "git"
+    },
+    {
       "path": "BUS225/2026-TSD/Assignments/A2/Complete_2026-10-21/Source/build_documents.py",
       "bytes": 8878,
       "sha256": "dad5519df3c147ab397feb6e643921a653fe19e9f8a636bcf3b86ad20f081e45",
@@ -1717,6 +1735,12 @@
       "path": "BUS225/2026-TSD/Assignments/A2/Complete_2026-10-21/Source/references.json",
       "bytes": 2143,
       "sha256": "431a195290572331e1e8744b8f26ebf3fbc7597704e013f583b9bc91e9a5ef21",
+      "storage": "git"
+    },
+    {
+      "path": "BUS225/2026-TSD/Assignments/A2/Complete_2026-10-21/Source/references_revised.json",
+      "bytes": 2143,
+      "sha256": "f7b0575b740a26fad0b144e1c826117f084ad5b44e11cb911822f56bd5872a10",
       "storage": "git"
     },
     {
@@ -1735,6 +1759,12 @@
       "path": "BUS225/2026-TSD/Assignments/A2/Complete_2026-10-21/Source/report_group_final.txt",
       "bytes": 10777,
       "sha256": "8a9911abde22f40a466553e359706e602cc7cd245a8bed6e02084d73f5078bcd",
+      "storage": "git"
+    },
+    {
+      "path": "BUS225/2026-TSD/Assignments/A2/Complete_2026-10-21/Source/report_revised.txt",
+      "bytes": 10644,
+      "sha256": "c03e42fd24f93c22ef8cff6756b2edde7c041109070fac1e26d02ac3eaab243b",
       "storage": "git"
     },
     {
@@ -4966,6 +4996,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 827,
-  "total_bytes": 500448741
+  "file_count": 832,
+  "total_bytes": 500993776
 }

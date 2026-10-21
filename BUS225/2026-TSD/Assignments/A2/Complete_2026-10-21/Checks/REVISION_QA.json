@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-21",
+  "source_document": "BUS225_A2_Group9_Carrefour_Final.docx",
+  "revised_document": "BUS225_A2_Group9_Carrefour_Revised.docx",
+  "source_sha256": "7b5745644b3d1a514b182f2ff5c420eeec6a92e2e9e669bfe28bc6ae849da84d",
+  "revised_sha256": "3d732b8b16b444184f688a98af49d6cf9f98de75d4fd55da5ad82bf2ee548f1f",
+  "source_year_correction": {
+    "from": "n.d.",
+    "to": "2022",
+    "occurrences": 3,
+    "evidence": "https://www.majidalfuttaim.com/en/who-we-are/sustainability-and-esg/reports",
+    "catalogue_date": "Jun 2022"
+  },
+  "total_words_including_blueprint_excluding_references": 1879,
+  "changed_docx_parts": [
+    "word/document.xml"
+  ],
+  "formatting_structure_unchanged": true,
+  "figure_image_unchanged": true,
+  "hyperlink_targets_unchanged": true,
+  "remaining_singular_author_pronouns": 0
+}
