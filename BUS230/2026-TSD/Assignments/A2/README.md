@@ -33,3 +33,5 @@
 ## Предыдущий вариант ADKAR от 7 октября
 
 [PDF](A2_ADKAR_TEAM_PLAN_EN.pdf), [DOCX](A2_ADKAR_TEAM_PLAN_EN.docx) и [Markdown](A2_ADKAR_TEAM_PLAN_EN.md) сохранены без замены.
+
+[Все файлы новой версии 21 октября независимо восстановлены из GitHub и совпали по SHA-256](2026-10-21_redesign-cloud-restore.json).

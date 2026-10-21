@@ -2380,6 +2380,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS230/2026-TSD/Assignments/A2/2026-10-21_redesign-cloud-restore.json",
+      "bytes": 4292,
+      "sha256": "bc53f4466ebd23a6dabe17fdc8b35f2e527e355e6cbc3105667d3bffa87a11e4",
+      "storage": "git"
+    },
+    {
       "path": "BUS230/2026-TSD/Assignments/A2/A2_ADKAR_TEAM_PLAN_EN.docx",
       "bytes": 56626,
       "sha256": "2440b3c2145f3704269d89c13c586b6f9c49d88accb7a4e76ce2a5832a53adbb",
@@ -2543,8 +2549,8 @@
     },
     {
       "path": "BUS230/2026-TSD/Assignments/A2/README.md",
-      "bytes": 3671,
-      "sha256": "9c8d2abe56b0808a3ef5542fbea8c37ec64424adcbddb1945c5c13081cb66659",
+      "bytes": 3866,
+      "sha256": "f1d4aad7cd2e639be446f88a8b066c34193e9ced0f6c6de77ac82b79c1813621",
       "storage": "git"
     },
     {
@@ -2957,8 +2963,8 @@
     },
     {
       "path": "BUS230/2026-TSD/HISTORY.md",
-      "bytes": 24479,
-      "sha256": "cd03e4537850321a9b998dcfb97c760f9fbd8ba96df7624f1a7d15d4122d16ef",
+      "bytes": 24906,
+      "sha256": "5831683e8da86c3917e404ac37e3567ac83d4f8a915fa374f186fd964ab9e226",
       "storage": "git"
     },
     {
@@ -3359,14 +3365,14 @@
     },
     {
       "path": "BUS230/2026-TSD/TASKS.json",
-      "bytes": 25794,
-      "sha256": "b3ab19e44a317d87837e4070af3babf40074d8aa31edae50a447228bca567323",
+      "bytes": 26199,
+      "sha256": "c8bfb742c8b94d95fcbb2297f69c71cedb0a3b9b0c37a6fb937e683bb287986d",
       "storage": "git"
     },
     {
       "path": "BUS230/2026-TSD/TASKS.md",
-      "bytes": 20401,
-      "sha256": "d61430b9bcf459fd2112eddee29b69c350c4463352a878639bc361b8dc6acff8",
+      "bytes": 20747,
+      "sha256": "f4625c630f29313ce1bdc414c428d9cea1971015b9c53ac2f8bf650e7a03561f",
       "storage": "git"
     },
     {
@@ -5134,6 +5140,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 855,
-  "total_bytes": 507275204
+  "file_count": 856,
+  "total_bytes": 507280869
 }
