@@ -1,0 +1,44 @@
+{
+  "provided_on": "2026-10-22",
+  "source": "User-provided photos of a classmate report in class; partial pages only, not an officially graded or approved exemplar",
+  "files": [
+    {
+      "filename": "IMG_0516.HEIC",
+      "bytes": 1260671,
+      "sha256": "73970d55e3a3337a1380f0c92b729351facbfda874be31d056ecf68e1b09a473",
+      "source_untouched": true
+    },
+    {
+      "filename": "IMG_0517.HEIC",
+      "bytes": 1425385,
+      "sha256": "591a6230a0d54a7547fa2dc721233bd7896c0da4866d457c1056ebd3e3762da3",
+      "source_untouched": true
+    },
+    {
+      "filename": "IMG_0518.HEIC",
+      "bytes": 2584333,
+      "sha256": "abb87d69b7b289f13fb4a6c9f8bf249af4effeca12e11198a1855491d8982d66",
+      "source_untouched": true
+    }
+  ],
+  "inspection": "Separate PNG previews were produced for reading only. HEIC originals unchanged.",
+  "observations": [
+    "Visible Q19 is followed by a pie chart and a framed Interpretation and Implication paragraph interpreting percentages and suggesting promotion channels.",
+    "Visible previous question likewise links percentages to promotional decisions.",
+    "Q20 is an open-ended question followed by a narrative Interpretation and Implication paragraph; a full numeric theme breakdown is not visible in the photographed portion.",
+    "IMG_0518 shows an in-progress note beside Q20 referring to calculating percentages; the photo does not establish who dictated the note or that the whole report was approved.",
+    "Two photos show substantially the same section; only a small portion of the complete report is visible."
+  ],
+  "connection_to_lecturer_audio": "Consistent with grouping open answers into themes and reporting theme percentages (Recording 5); supports clear result/interpretation/business implication layout.",
+  "useful_adaptations_for_own_report": [
+    "After each key result/chart, state the main percentage, interpret its meaning and connect it to a concrete business implication.",
+    "For the open question, provide a compact theme-percentage table using the original 22 responses, with clear coding and overlap rules.",
+    "Preserve assignment length and required sections; photographs do not establish that a separate large chart is required for every question."
+  ],
+  "limits": [
+    "Classmate findings and percentages are from another dataset and are not our evidence.",
+    "No full-report page count, final rubric score, final approval or questionnaire team agreement can be determined from these photos."
+  ],
+  "submitted_files_changed": false,
+  "revision_created": false
+}
