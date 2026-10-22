@@ -1,0 +1,85 @@
+{
+  "reviewed_at": "2026-10-22T16:44:59+04:00",
+  "review_type": "Read-only quality review against A3 assignment and rubric; proposed improvements only",
+  "sources": [
+    "Materials/01 Assessment/BUS334 Assignment 3 Summary.pdf",
+    "Materials/01 Assessment/BUS334_Assignment 3 [Data Collection]_Marking Guide.pdf",
+    "Assignments/A3/Report_2026-10-18/35553299_Dzhafarov_BUS334_A3_Report.pdf",
+    "Assignments/A3/Report_2026-10-18/35553299_Dzhafarov_BUS334_A3_Appendices.pdf"
+  ],
+  "report_pages_text_and_visually_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "appendix_pages_rechecked": [
+    1,
+    2,
+    5,
+    8
+  ],
+  "assessment": "Clear, coherent report covering the main written requirements. Highest grade cannot be assured: rubric HD data criterion requires excellent, versatile sampling; current convenience/social-network sample and questionnaire defects remain material limits.",
+  "strengths": [
+    "Five-page report with 1.5 body spacing and all three required parts",
+    "22 complete returned questionnaires exceeds minimum 15; separate response evidence",
+    "Charts show counts, n=22 and multiple-response caveats",
+    "Recommendations on products, prices and trial derive from results",
+    "Correct distinction between unknown invitation response rate and 100% returned-questionnaire completion",
+    "Limits of hypothetical demand, convenience sampling and questionnaire wording are disclosed"
+  ],
+  "limitations": [
+    "Recruitment through private social network and personal contacts limits generalisability and the HD versatile-sample criterion",
+    "Five checkbox questions ask MOST/MAIN; Q18 wording is incomplete; report discloses both",
+    "Team agreement on the joint questionnaire and incorporation of all team feedback remain unconfirmed in records",
+    "After replacing CSV attachment with Original_Responses.pdf, report pages 1 and 5 and appendix page 5 still say accompanying CSV; underlying data are preserved, but attachment description could be updated"
+  ],
+  "safe_optional_improvements": [
+    "Replace some repeated narrative with one additional exploratory comparison, e.g. campus attendance versus intention, showing small group n and no population inference",
+    "Make trial plan more operational with a measurement table and decision criteria based on actual costs, without inventing costs, forecasts or guaranteed sales",
+    "Update attachment wording to refer to the submitted PDF of the original responses while retaining the unchanged CSV internally",
+    "Keep main report within five pages and 1.5 spacing, preserve three required sections and all original responses"
+  ],
+  "would_require_new_evidence": [
+    "More diverse recruitment across programmes, days and networks",
+    "Actual invitation count for future response-rate calculation",
+    "Pilot corrected questionnaire before a future collection; do not retroactively change collected questions or answers",
+    "Confirmation of team agreement; do not invent it"
+  ],
+  "submitted_files_changed": false,
+  "resubmission_performed": false,
+  "grade_prediction": null,
+  "lms": {
+    "checked_at": "2026-10-22T16:44:59+04:00",
+    "status": "submitted",
+    "grading_status": "notgraded",
+    "timemodified": 1792609535,
+    "filenames": [
+      "35553299_Dzhafarov_BUS334_A3_Appendices.pdf",
+      "35553299_Dzhafarov_BUS334_A3_Original_Responses.pdf",
+      "35553299_Dzhafarov_BUS334_A3_Report.pdf"
+    ]
+  },
+  "mail": {
+    "checked_at": "2026-10-22T16:44:59+04:00",
+    "scope": "after:2026/10/21 (BUS334 OR \"BUS 334\" OR (\"Submission confirmation\" \"Assignment 3\"))",
+    "matched_messages": 4,
+    "search_exhausted": true,
+    "result": "Four Turnitin receipts: two initial PDFs and two after replacement. No other messages in query; full Outlook/WhatsApp not checked. Receipt is not a final grade or completed similarity result.",
+    "new_receipts": [
+      {
+        "filename": "35553299_Dzhafarov_BUS334_A3_Original_Responses.pdf",
+        "message_id": "1a15fdf485e6408c",
+        "turnitin_id": "3066564451",
+        "received_utc": "2026-10-21T19:10:24+00:00"
+      },
+      {
+        "filename": "35553299_Dzhafarov_BUS334_A3_Report.pdf",
+        "message_id": "1a15fdf336d470d1",
+        "turnitin_id": "3066564323",
+        "received_utc": "2026-10-21T19:10:18+00:00"
+      }
+    ]
+  }
+}

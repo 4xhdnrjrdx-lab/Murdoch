@@ -41,8 +41,8 @@ Faiaz Dzhafarov · student ID 35553299 · время Asia/Dubai (UTC+4).
 
 ## Свежесть и сохранение
 
-- Почта: проверена 2026-10-21T23:08:38+04:00. Two Turnitin receipt emails for the original report and appendices; no further matches. Search exhausted. Full Outlook and WhatsApp not checked. These receipts confirm similarity processing, not final Moodle submission.
-- LMS: проверка 2026-10-21T23:08:38+04:00, результат `ok`. Даты и подтверждения по предметам приведены в заданиях.
+- Почта: проверена 2026-10-22T16:44:59+04:00. Four Turnitin receipts: two initial PDFs and two after replacement. No other messages in query; full Outlook/WhatsApp not checked. Receipt is not a final grade or completed similarity result.
+- LMS: проверка 2026-10-22T16:44:59+04:00, результат `ok`. Даты и подтверждения по предметам приведены в заданиях.
 - GitHub: текущая опубликованная версия определяется SHA ветки main, показанным GitHub. Проверка локальной синхронизации: `python3 scripts/sync.py status`. Сверка файлов: `python3 scripts/verify.py`.
 - Проверки выполняются при начале работы по предмету или запросе статуса. Фоновых заданий нет.
 
