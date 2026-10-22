@@ -265,6 +265,12 @@
           "note": "Повторное ревью задания, рубрики, текста и пяти страниц отчёта: основные требования соблюдены; максимум зависит от качества выборки. Предложены необязательные улучшения анализа и описания вложения; сданные файлы не менялись. API submitted/notgraded; в Gmail есть receipts новой версии.",
           "path": "Assignments/A3/Review_2026-10-22/REVIEW.json",
           "source": ""
+        },
+        {
+          "date": "2026-10-22",
+          "note": "Получены три записи вопросов по A3. Ясные разъяснения: тематические проценты для открытых ответов; разные формы визуализации; без первого лица, past passive; отдельные выводы/рекомендации; полная общая анкета и один screenshot числа ответов. Есть предложения уточнения отчёта, но пользователь пока просил только понять записи.",
+          "path": "Materials/Recordings/2026-10-22_Assignment_QA/CLARIFICATIONS.json",
+          "source": ""
         }
       ],
       "unknown": "Оценка и feedback A3 ещё не выставлены. На предоставленном скриншоте Report и Original_Responses ещё Queued в Turnitin; их завершённые результаты не проверены. 8% относится только к приложению. Согласование анкеты командой отдельно не подтверждено; общий охват Telegram и пересечение приглашений неизвестны.",
@@ -290,6 +296,14 @@
         "evidence_path": "Assignments/A3/_submission_checks/2026-10-21/SUBMISSION_CHECK.json",
         "all_submitted_files_match_prepared_sha256": true,
         "file_count": 3
+      },
+      "latest_oral_clarifications": {
+        "received_on": "2026-10-22",
+        "evidence_path": "Materials/Recordings/2026-10-22_Assignment_QA/CLARIFICATIONS.json",
+        "current_report_first_person_conflicts_with_lecturer_style_reply": true,
+        "revision_prepared": false,
+        "revision_requested": false,
+        "note": "Сдача остаётся подтверждённой; устные уточнения и предлагаемые изменения отдельно от выполненной ранее замены CSV."
       }
     },
     {

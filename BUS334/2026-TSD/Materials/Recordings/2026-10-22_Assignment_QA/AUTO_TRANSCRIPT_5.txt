@@ -1,0 +1,117 @@
+AUTOMATIC TRANSCRIPTION DRAFT — English classroom audio, faster-whisper-small, local CPU. Not a verified verbatim transcript. Quiet student questions, overlapping voices and some words are unreliable; speaker identities were not independently verified. See CLARIFICATIONS.json for cautious question/answer interpretation. Timestamps are seconds within the corresponding source recording.
+
+[0000.00-0007.62] class and I was just telling everyone that if you have any queries with regard to the
+[0007.62-0015.24] assignment that you got to submit on the 25th, 25th, you can ask me now.
+[0020.08-0027.84] So before I get into introducing you to the next assignment, which is not too far away
+[0027.84-0036.64] And as I keep on doing, I introduce assignments much in advance just to make your life simpler, my life simpler.
+[0037.58-0040.28] So that's what I would want to do.
+[0040.84-0043.88] Yeah, please.
+[0044.60-0054.06] I just want to start this class with, I just want to start this class with someone who wrote to me
+[0055.30-0065.62] almost eight weeks have gone, it's kind of commencing that student writes to me stating that,
+[0066.60-0070.12] okay, so who do I get the information from?
+[0071.60-0077.92] Can you imagine, I was just looking at that in the mail and I couldn't believe my eyes.
+[0079.82-0084.64] That person said, who do I get the information from? How do I collect the information?
+[0086.34-0093.98] And I said, you know, I didn't even bother to check his attendance record.
+[0094.86-0098.00] But that was quite a bit of a jolt.
+[0099.96-0102.46] Yeah, go for it.
+[0102.46-0116.39] So the question about the tool that you all write, it is open-ended.
+[0116.53-0120.21] The open-ended question?
+[0121.17-0122.09] How do you want to write that?
+[0122.11-0124.37] Do we need to put graph?
+[0126.15-0131.45] Or we just write interpretation and implication, what is that?
+[0131.63-0136.73] Okay, see what will happen is unlike the closed-ended question which is very structured,
+[0136.73-0140.23] So the response patterns are predetermined, all right?
+[0140.65-0141.49] So you already know.
+[0141.61-0146.05] So let's say, for example, I will write very lightly,
+[0147.43-0149.31] probably, whatever the scale is.
+[0149.43-0152.09] So those ones are fixed, and you are writing
+[0152.09-0153.25] on the basis of that.
+[0153.35-0154.13] But in open-ended.
+[0155.93-0157.37] Respondents are verbalizing.
+[0157.55-0159.53] So no two responses are the same.
+[0159.95-0163.35] In other words, suppose if I feel that the price is high,
+[0163.47-0165.11] the way you will say price is high,
+[0165.11-0169.83] The way I will say price is high, the way you will say price is high could be different.
+[0170.81-0177.21] So instead of writing three separate responses and giving me, I mean you could do that,
+[0177.29-0179.59] but I'm just saying a smarter way to do that is.
+[0180.13-0183.91] So you create, you identify themes, okay.
+[0184.41-0190.81] So suppose if your open-ended question was, what was your open-ended question?
+[0190.81-0197.27] What is the main factor that would influence your decision to use or not use the...
+[0197.27-0198.71] Okay, okay, okay.
+[0198.75-0207.29] If that is a question, then try to find out the responses which revolve around price.
+[0208.67-0213.95] The responses which revolve around variety of products.
+[0214.61-0224.01] The responses which revolve around, let's say, some promotional offer.
+[0225.21-0227.01] We are talking about decision dynamics, right?
+[0227.53-0234.93] So my point is that everyone is not going to say the same thing, even on the same theme.
+[0235.41-0238.71] So let's say for example, what was your sample size?
+[0240.75-0241.03] Twenty?
+[0241.35-0242.03] Twenty, yeah.
+[0242.23-0242.41] Twenty.
+[0242.41-0249.73] So out of the 20, suppose 10 have said that the price has to be competitive.
+[0250.15-0254.25] See, I'll tell you, the same thing I will express it in different ways.
+[0254.43-0257.21] I can say the price has to be competitive.
+[0257.93-0259.97] The price has to be affordable.
+[0260.61-0262.37] The price has to be cheap.
+[0262.79-0265.77] The price has to be, you know, it has to be inexpensive.
+[0266.83-0271.57] See, it's the same thing, but I'm saying different ways, right?
+[0271.57-0276.63] So you can so the different respondents will also say in different ways, right?
+[0277.47-0285.83] So what you do is you just put price as a theme and you calculate, let's say out of 20 responses.
+[0286.19-0296.11] If four responses were related to competitive price, you choose your competitive price or affordable price, right?
+[0296.11-0302.91] You choose that theme and you see how many responses are around that theme.
+[0303.41-0304.97] So suppose there are four responses.
+[0305.85-0319.17] That means four out of twenty students have stated something which has got to do with affordable price or competitive price.
+[0319.83-0324.75] So you can say competitive price and then four by twenty into hundred.
+[0324.75-0327.33] How much?
+[0329.59-0332.05] Four divided by twenty.
+[0332.61-0333.01] Five.
+[0333.43-0335.61] Five. Two hundred. Twenty.
+[0336.23-0337.29] So twenty percent.
+[0338.37-0339.75] So you will write it.
+[0340.37-0342.57] So competitive price.
+[0343.25-0343.39] Okay.
+[0343.73-0344.47] And you compute it.
+[0344.57-0345.55] You write twenty percent.
+[0346.11-0347.55] So you understand?
+[0349.11-0350.03] So I need to read.
+[0350.05-0352.35] So in some writing, writing one.
+[0352.35-0362.63] competitive price 1%, inexpensive price 1%, price affordable 1%, that's a smart way of dealing with it.
+[0362.63-0366.17] So because it means the same thing expressed in different ways.
+[0366.35-0372.71] So you just identify the theme, put the theme in, calculate the number of responses around that theme,
+[0373.01-0380.01] divide by the total number of samples, total sample size into 100, get the percentage, put the percentage.
+[0380.01-0386.13] Now you could put that in terms of eye chart, you could put that in the bar chart, you could do whatever you want.
+[0386.71-0389.15] You can be creative about it, how you want to express it.
+[0389.49-0398.03] But I'm just telling you, that's a smarter way of representing data for the open-ended.
+[0398.29-0403.78] And that's applicable for everyone. Good question.
+[0403.78-0411.08] You can do anything.
+[0412.34-0414.42] Chart is also, yeah, you can do anything.
+[0416.06-0419.08] It could be a visual, it could be a table.
+[0420.08-0422.30] Visual looks nice, but it could be anything.
+[0422.36-0423.30] As long as it is right.
+[0423.88-0426.48] Okay. So because I just printed the character, I just wrote,
+[0426.84-0430.16] I just inscribed what he said, I just printed out the details of the character,
+[0430.44-0434.08] but I just did all the calculations, you know, there's no quality right now.
+[0434.30-0438.28] No, it's quant. So basically, you know, it, I'm fine, it's just some chart.
+[0438.28-0445.72] When you look in it up, so you would know how much is on the 6th, 24th, okay?
+[0446.46-0461.85] So let's say theme 1, you would know suppose 6 out of the 24 have articulated something which relates to that theme.
+[0462.69-0468.97] So put that theme, so you know 6 out of 24, which is 1 fourth, which is 25%.
+[0468.97-0471.59] So put that team and say 25%.
+[0478.79-0479.59] Yes.
+[0480.59-0481.11] Yeah.
+[0483.47-0483.99] Sure.
+[0488.75-0489.27] Exactly.
+[0490.35-0490.87] Exactly.
+[0491.27-0494.63] I just, in fact, that is something that I will cover today.
+[0496.11-0496.71] Very right.
+[0497.33-0498.19] No, no frequency.
+[0498.39-0499.21] Just a percentage.
+[0499.43-0505.23] In fact, I will, I have a, I have one world document which I'll share.
+[0506.79-0507.01] Yeah.
+[0507.49-0508.37] Yes, of course.
+[0509.33-0509.55] Yeah.
+[0509.93-0510.57] Louder please.
+[0514.45-0519.15] No, don't write it in first person. Write it in passive voice.
+[0520.55-0529.27] Like I, it's passive voice and also past tense.
+[0530.67-0536.09] Because it's a report, you have to write because your reports are past tense, passive voice.
+[0537.17-0558.88] So it like I did not I did it or it was done by absolutely they don't need all the don't need to be pie chart
+[0558.88-0565.44] They could be a pie chart, a donut chart, you know what is a donut chart, pie chart, donut chart, a vertical part
+[0567.12-0571.70] Just be creative about how you want to, absolutely

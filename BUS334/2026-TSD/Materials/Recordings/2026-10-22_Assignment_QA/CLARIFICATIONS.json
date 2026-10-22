@@ -1,0 +1,83 @@
+{
+  "provided_on": "2026-10-22",
+  "source_type": "Three user-provided classroom recordings; lecturer identity based on user context, not voice verification",
+  "transcription_method": "Local faster-whisper-small, English, beam 5, VAD; original M4A unchanged. Word-level ASR diagnostics not saved as a permanent transcript.",
+  "verification": "Passive/past-tense reply in Recording 5 checked with base.en on 08:25–09:34. Recording 7 cross-checked with base.en; disagreement/noise retained as uncertainty, not filled in.",
+  "not_claimed": "Not all student questions were audible; question formulations below are contextual paraphrases, not verbatim quotes.",
+  "assignment_context": "Recording 5 opening explicitly refers to assignment due on 25th; consistent with BUS334 A3 due 25 October. These clips do not introduce a confirmed A4 date.",
+  "questions_and_answers": [
+    {
+      "topic": "Открытые ответы",
+      "recording": 5,
+      "question_window": "01:42–02:11",
+      "answer_window": "02:11–06:43; 07:26–07:52",
+      "question_paraphrase": "Как показывать ответы на открытый вопрос: нужен график или текст/интерпретация?",
+      "answer": "Прочитать ответы, объединить одинаковые по смыслу формулировки в темы (например, affordable/cheap/inexpensive — цена), посчитать число ответивших по теме и разделить на весь размер выборки ×100. Показать доли в таблице или на графике. Примеры 4/20=20% и 6/24=25% иллюстративные, не новые требования к размеру выборки.",
+      "confidence": "high for lecturer method; exact student wording partially unclear"
+    },
+    {
+      "topic": "Вид графиков и проценты",
+      "recording": 5,
+      "answer_window": "06:43–07:03; 08:17–08:25; 09:04–09:32",
+      "question_paraphrase": "Обязательны ли круговые диаграммы? Нужны частоты или проценты?",
+      "answer": "Можно выбрать bar/pie/donut/таблицу; преподаватель допускает творческий выбор корректного представления. Для обсуждаемого представления тематических результатов прямо просит проценты. Это не установление запрета показывать n выборки.",
+      "confidence": "high for replies; some preceding student questions inaudible"
+    },
+    {
+      "topic": "Стиль и время отчёта",
+      "recording": 5,
+      "answer_window": "08:34–08:56",
+      "question_paraphrase": "Можно ли писать от первого лица, например I did?",
+      "answer": "Нет: преподаватель прямо говорит не использовать first person, просит passive voice и past tense. В описании проведённого исследования следует убрать I/we. Слова first person/passive voice/past tense подтверждены повторным локальным распознаванием другим ASR-моделем.",
+      "confidence": "high; student question not fully captured; direct lecturer reply clear"
+    },
+    {
+      "topic": "Выводы и рекомендации",
+      "recording": 6,
+      "answer_window": "00:08–01:23",
+      "question_paraphrase": "Выводы и рекомендации — одно и то же? Как их разделить?",
+      "answer": "Это отдельные части: conclusions — итоговые выводы/inferences из исследования; recommendations — конкретные будущие действия для клиента/бизнеса, выведенные из значимости результатов. Ограничения также можно включить.",
+      "confidence": "high for conceptual reply; opening question partially outside clip"
+    },
+    {
+      "topic": "Приложение",
+      "recording": 7,
+      "answer_window": "00:07–00:24; 00:54–01:30",
+      "question_paraphrase": "Что приложить: анкету, скриншоты, все диаграммы?",
+      "answer": "Полная общая анкета, оформленная читаемым текстом (обсуждается Word), и подтверждение сбора/числа ответивших. В конце ясно сказано про один screenshot, показывающий число респондентов. Не утверждать, что запрещены все дополнительные исходные ответы: такого однозначного запрета в записи нет.",
+      "confidence": "high for full questionnaire and final one-screenshot reply; medium for surrounding exchange and exact roles; 01:04–01:14 contains unclear numeric phrase"
+    },
+    {
+      "topic": "Ссылки/References",
+      "recording": 7,
+      "answer_window": "01:34–01:41",
+      "question_paraphrase": "Нужны ли references для своих результатов?",
+      "answer": "На вопрос о references преподаватель отвечает утвердительно, что это собственные ответы/анализ. Контекст — собственные результаты опроса; запись не устанавливает общее освобождение от цитирования любых чужих источников.",
+      "confidence": "medium-high; classroom overlap, narrow interpretation retained"
+    }
+  ],
+  "uncertain_details": [
+    "Exact words of several student questions and speaker turns",
+    "Numeric phrase around Recording 7 01:04–01:14: do not treat it as a new minimum sample requirement. Written minimum 15 remains the verified written requirement."
+  ],
+  "implications_for_current_A3": {
+    "already_aligned": [
+      "Part 3 has a concluding paragraph before separate Recommendations heading and limitations",
+      "Q20 price theme already counted (13/22) with original quotations and coding rule",
+      "Main visualisations show denominators and percentages; appendix includes full wording and respondent evidence"
+    ],
+    "proposed_targeted_changes_not_performed": [
+      "Replace first-person research description such as I collected with past passive (e.g. Twenty-two complete responses were collected). Avoid I would in future-research recommendations.",
+      "Show Q20 theme percentages explicitly (price 13/22=59.1%) and, if refining analysis, code other themes consistently in a compact table. Preserve all original answers and explain overlap.",
+      "Provide a clean readable copy of the shared questionnaire and one genuine overview screenshot of total responses, as requested in Recording 7. Current appendix mixes questions with counts and no verified 22-response dashboard screenshot is currently saved.",
+      "Update stale accompanying CSV wording to the actually submitted Original_Responses.pdf"
+    ],
+    "cautions": [
+      "Do not fabricate a screenshot or claim team agreement.",
+      "Original responses and questions used for collection must remain unchanged.",
+      "Submitted files are historical; prepare any requested revision separately and require separate user instruction for LMS submission."
+    ]
+  },
+  "submitted_files_changed": false,
+  "resubmission_performed": false
+}

@@ -1,0 +1,27 @@
+AUTOMATIC TRANSCRIPTION DRAFT — English classroom audio, faster-whisper-small, local CPU. Not a verified verbatim transcript. Quiet student questions, overlapping voices and some words are unreliable; speaker identities were not independently verified. See CLARIFICATIONS.json for cautious question/answer interpretation. Timestamps are seconds within the corresponding source recording.
+
+[0002.86-0004.14] Ending, okay.
+[0008.00-0009.82] Conclusions, and then recommendations.
+[0010.36-0011.40] And then you can put limitations.
+[0011.52-0013.92] But conclusions, recommendations are separate entities.
+[0014.34-0014.50] Yes, yes.
+[0014.74-0015.34] Okay.
+[0015.72-0016.96] Yeah, okay, fair enough.
+[0022.97-0023.69] What do you want to do?
+[0023.69-0025.49] I mean, we've got everything.
+[0025.89-0028.55] All the responses from the students.
+[0028.87-0030.75] So what's the best for the students?
+[0031.01-0032.13] That is the recommendation.
+[0034.23-0035.91] Recommendation is basically
+[0035.91-0039.69] You have taken all the conclusions.
+[0041.15-0042.07] Conclusions is what?
+[0042.29-0044.89] Basically at the end of the day it's a summary of a summary.
+[0045.11-0047.83] Summary of the kind of the bottom lines that you are having.
+[0050.09-0053.47] But you see in each of those you have those implications.
+[0053.91-0054.39] So what?
+[0055.53-0059.51] You can create the way forward through those implications.
+[0059.91-0061.59] So which comes as recommendations.
+[0062.01-0065.03] Like for example you are a consultant, a business consultant.
+[0065.03-0070.89] If I am the client, you are recommending me to take these steps.
+[0071.47-0076.85] So the recommendations are basically steps for the future which the client has to take.
+[0077.17-0083.07] Conclusions are what the influence that you draw from the study. Got it?

@@ -1,0 +1,28 @@
+{
+  "provided_on": "2026-10-22",
+  "timezone": "Asia/Dubai",
+  "description": "User-provided classroom recordings of assignment questions and lecturer answers; preserve originals, no external audio processing. Exact speaker identities and original capture times not independently established.",
+  "files": [
+    {
+      "filename": "Recording_5.m4a",
+      "source_filename": "Новая запись 5.m4a",
+      "bytes": 9618967,
+      "sha256": "9222672b4b08fabc870bf233bc2524dfb3e7e2f88b7a595c9a96233997951657",
+      "source_untouched": true
+    },
+    {
+      "filename": "Recording_6.m4a",
+      "source_filename": "Новая запись 6.m4a",
+      "bytes": 1419969,
+      "sha256": "a84ea64177e4c8100c8685416f61d8cfe77c04bbb84da1501ff4c2c8ead47ee4",
+      "source_untouched": true
+    },
+    {
+      "filename": "Recording_7.m4a",
+      "source_filename": "Новая запись 7.m4a",
+      "bytes": 1747168,
+      "sha256": "9b00603abc457ee5320a8966735d99f0525b323a47956463be7b75aa1751e3ab",
+      "source_untouched": true
+    }
+  ]
+}
