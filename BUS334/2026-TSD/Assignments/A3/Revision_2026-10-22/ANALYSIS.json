@@ -1,0 +1,313 @@
+{
+  "source_csv_sha256": "b1abab5b724541cde709c1334edeb7bf7fbb550fe5d4a0b0c715b84afb6326f3",
+  "response_count": 22,
+  "all_19_closed_question_distributions_reconciled": true,
+  "source_questions_and_answers_unchanged": true,
+  "group_questionnaire_agreement": {
+    "confirmed_by": "User reply 22 October 2026: Да, согласовали эту анкету",
+    "staff_approval_of_questionnaire_not_claimed": true
+  },
+  "open_answer_coding": [
+    {
+      "code": "C",
+      "label": "Convenience and timely access",
+      "ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        12,
+        13,
+        15,
+        16,
+        18,
+        20,
+        21,
+        22
+      ],
+      "rule": "Explicit convenient, nearby or handy access; time saving, quick service, class breaks, busy periods or urgent use. General usefulness alone was not enough.",
+      "count": 17,
+      "percent": 77.3
+    },
+    {
+      "code": "P",
+      "label": "Price and affordability",
+      "ids": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        11,
+        14,
+        17,
+        19,
+        20,
+        22
+      ],
+      "rule": "Explicit prices, affordability, fair or reasonable pricing, or comparison with prices outside campus.",
+      "count": 13,
+      "percent": 59.1
+    },
+    {
+      "code": "F",
+      "label": "Specific food or drink purchases",
+      "ids": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        10,
+        11,
+        16,
+        17,
+        18
+      ],
+      "rule": "Explicit lunch, meals, food, snacks or drinks as a reason to use the store. Generic essentials or options were not counted.",
+      "count": 11,
+      "percent": 50.0
+    },
+    {
+      "code": "Q",
+      "label": "Choice or freshness",
+      "ids": [
+        7,
+        17,
+        19
+      ],
+      "rule": "Explicit good choice or selection, or freshness. A general mention of food was not enough.",
+      "count": 3,
+      "percent": 13.6
+    },
+    {
+      "code": "U",
+      "label": "Forgotten or urgent items",
+      "ids": [
+        9,
+        15,
+        21
+      ],
+      "rule": "Explicit forgetting an item or needing the store in a pinch. A normal short break was not counted as an emergency.",
+      "count": 3,
+      "percent": 13.6
+    }
+  ],
+  "open_response_assignments": [
+    {
+      "id": "R01",
+      "answer": "A campus store would be convenient between classes, especially if prices are similar to nearby shops.",
+      "themes": [
+        "C",
+        "P"
+      ]
+    },
+    {
+      "id": "R02",
+      "answer": "It would be useful for a quick lunch between classes if the prices are reasonable.",
+      "themes": [
+        "C",
+        "P",
+        "F"
+      ]
+    },
+    {
+      "id": "R03",
+      "answer": "I would stop by for a drink or snack when I have a short break.",
+      "themes": [
+        "C",
+        "F"
+      ]
+    },
+    {
+      "id": "R04",
+      "answer": "It would be convenient to pick up a snack between classes if prices are fair.",
+      "themes": [
+        "C",
+        "P",
+        "F"
+      ]
+    },
+    {
+      "id": "R05",
+      "answer": "I would use it for lunch on busy days, especially if there are affordable meal options.",
+      "themes": [
+        "C",
+        "P",
+        "F"
+      ]
+    },
+    {
+      "id": "R06",
+      "answer": "I might buy a drink there occasionally if the checkout is quick and prices are reasonable.",
+      "themes": [
+        "C",
+        "P",
+        "F"
+      ]
+    },
+    {
+      "id": "R07",
+      "answer": "A good choice of meals at reasonable prices would make it useful on campus.",
+      "themes": [
+        "P",
+        "F",
+        "Q"
+      ]
+    },
+    {
+      "id": "R08",
+      "answer": "Having a store nearby would save time, as long as it is not more expensive than outside.",
+      "themes": [
+        "C",
+        "P"
+      ]
+    },
+    {
+      "id": "R09",
+      "answer": "I usually bring food, but a nearby shop would help when I forget something.",
+      "themes": [
+        "C",
+        "U"
+      ]
+    },
+    {
+      "id": "R10",
+      "answer": "A small shop on campus would be handy for a snack between lectures.",
+      "themes": [
+        "C",
+        "F"
+      ]
+    },
+    {
+      "id": "R11",
+      "answer": "I would shop there if it had affordable meals and drinks.",
+      "themes": [
+        "P",
+        "F"
+      ]
+    },
+    {
+      "id": "R12",
+      "answer": "I would use it occasionally when I need something quickly.",
+      "themes": [
+        "C"
+      ]
+    },
+    {
+      "id": "R13",
+      "answer": "It would be a good alternative to ordering food during a busy day.",
+      "themes": [
+        "C"
+      ]
+    },
+    {
+      "id": "R14",
+      "answer": "I would visit for essentials if the prices are similar to nearby shops.",
+      "themes": [
+        "P"
+      ]
+    },
+    {
+      "id": "R15",
+      "answer": "I normally bring food, but a campus shop would be useful in a pinch.",
+      "themes": [
+        "C",
+        "U"
+      ]
+    },
+    {
+      "id": "R16",
+      "answer": "A nearby shop would make it easier to buy a drink between classes.",
+      "themes": [
+        "C",
+        "F"
+      ]
+    },
+    {
+      "id": "R17",
+      "answer": "I would use it for lunch if the food is fresh and reasonably priced.",
+      "themes": [
+        "P",
+        "F",
+        "Q"
+      ]
+    },
+    {
+      "id": "R18",
+      "answer": "It would be useful for an occasional snack without leaving campus.",
+      "themes": [
+        "C",
+        "F"
+      ]
+    },
+    {
+      "id": "R19",
+      "answer": "I would consider it if there is a good selection and fair prices.",
+      "themes": [
+        "P",
+        "Q"
+      ]
+    },
+    {
+      "id": "R20",
+      "answer": "I could stop by during breaks if the store has affordable options.",
+      "themes": [
+        "C",
+        "P"
+      ]
+    },
+    {
+      "id": "R21",
+      "answer": "It would be convenient when I need something I forgot to bring.",
+      "themes": [
+        "C",
+        "U"
+      ]
+    },
+    {
+      "id": "R22",
+      "answer": "I would shop there because it would be convenient between classes, especially if the prices are affordable.",
+      "themes": [
+        "C",
+        "P"
+      ]
+    }
+  ],
+  "exploratory_crosstab": [
+    {
+      "campus_days": "2 days",
+      "n": 4,
+      "positive": 1,
+      "percent": 25.0
+    },
+    {
+      "campus_days": "3 days",
+      "n": 11,
+      "positive": 8,
+      "percent": 72.7
+    },
+    {
+      "campus_days": "4 days",
+      "n": 7,
+      "positive": 7,
+      "percent": 100.0
+    }
+  ],
+  "no_first_person_in_report_prose": true,
+  "research_process_described_in_past_passive": true,
+  "no_population_or_causal_inference_from_crosstab": true,
+  "response_rate": null,
+  "response_rate_reason": "Unknown Telegram reach and channel overlap",
+  "completion_rate": 1,
+  "new_submission_performed": false,
+  "screenshot_sha256": "b6ada922863e5abe6957da0a58f6cb08926786a57a0ae832154bb246d43d2380"
+}

@@ -1,0 +1,62 @@
+{
+  "checked_at": "2026-10-22T17:29:19+04:00",
+  "written_sources": [
+    "Materials/01 Assessment/BUS334 Assignment 3 Summary.pdf",
+    "Materials/01 Assessment/BUS334_Assignment 3 [Data Collection]_Marking Guide.pdf"
+  ],
+  "oral_source": "Materials/Recordings/2026-10-22_Assignment_QA/CLARIFICATIONS.json",
+  "checks": [
+    {
+      "criterion": "Summary",
+      "maximum": 5,
+      "evidence": "Report p1: topic, recruitment, completion, unknown invitation rate, main results and trial recommendation."
+    },
+    {
+      "criterion": "Results",
+      "maximum": 10,
+      "evidence": "Report pp1–4: sample, percentage charts, distributions, exploratory comparison, descriptive coding; complete frequencies in Appendix C."
+    },
+    {
+      "criterion": "Conclusions",
+      "maximum": 10,
+      "evidence": "Report p5: conclusions separated from recommendations, cost-dependent pilot decisions and further research."
+    },
+    {
+      "criterion": "Data and structure",
+      "maximum": 10,
+      "evidence": "22 complete questionnaires; three report parts; unchanged export, full questionnaire and response evidence. Main report exactly 5 pages, body 1.5 spacing."
+    },
+    {
+      "criterion": "Organisation and English",
+      "maximum": 10,
+      "evidence": "Past/passive process description, no first person in author prose, linked interpretation and business implications, captions and sources."
+    },
+    {
+      "criterion": "Quality",
+      "maximum": 5,
+      "evidence": "Counts and percentages recalculated, source limitations explicit, all final pages visually checked."
+    },
+    {
+      "criterion": "Usability",
+      "maximum": 10,
+      "evidence": "Readable charts and labels; decisions tied to demand, range, price and promotion; separate supporting evidence."
+    }
+  ],
+  "lecturer_clarifications_applied": [
+    "Q20 grouped by explicit coding rules with percentages",
+    "Conclusions separated from actions",
+    "Full agreed questionnaire reproduced",
+    "Authentic screenshot of 22 responses included",
+    "No first-person author prose; past/passive process account"
+  ],
+  "limitations_not_solved_by_editing": [
+    "Convenience sample of 22, not representative university sampling",
+    "Unknown invitation reach prevents response rate",
+    "Original priority wording used checkboxes; Q18 incomplete",
+    "No actual sales, costs or independently verified participant identities"
+  ],
+  "group_agreement": "User confirmed group agreement on this questionnaire on 22 October 2026; staff approval not invented",
+  "all_A2_feedback_implemented_claimed": false,
+  "grade_prediction": null,
+  "new_revision_submitted": false
+}

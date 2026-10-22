@@ -1,0 +1,80 @@
+{
+  "checked_at": "2026-10-22T17:29:34+04:00",
+  "pages": {
+    "Report": 5,
+    "Appendices": 13
+  },
+  "report_body_font": "Arial 11",
+  "report_body_line_spacing": 1.5,
+  "figures": 3,
+  "closed_question_distributions_reconciled": 19,
+  "all_20_question_headers_and_options_preserved": true,
+  "all_22_open_answers_verbatim": true,
+  "chart_counts_reconciled": true,
+  "crosstab_recalculated_from_raw": true,
+  "theme_assignments_and_percentages_reconciled": true,
+  "original_screenshot_embedded_without_editing": true,
+  "source_csv_sha256": "b1abab5b724541cde709c1334edeb7bf7fbb550fe5d4a0b0c715b84afb6326f3",
+  "historical_submitted_pdfs_unchanged": {
+    "Report_2026-10-18/35553299_Dzhafarov_BUS334_A3_Report.pdf": "3d2341ea7ab05f855c4ce4718cc6c8f5713f1a82853032921ee8cee80dcffd24",
+    "Report_2026-10-18/35553299_Dzhafarov_BUS334_A3_Appendices.pdf": "b70594e5b391e347d5ebe02cc9aa9e6a3639df0ed9681ffcd20e78f2802f0e4e",
+    "CSV_Replacement_2026-10-21/35553299_Dzhafarov_BUS334_A3_Original_Responses.pdf": "c288ea8d73794e71c6ffd7d493e66fd70b0e16f7c9ef84e1ae11f9dee731f931"
+  },
+  "no_first_person_in_report_prose": true,
+  "no_placeholders_in_product_pdfs": true,
+  "visual_review": {
+    "report_pages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "appendix_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "method": "All final render-2 page PNGs inspected at full page size; no clipping, overlapping text, blank pages or split question tables. Charts, captions and verbatim answer rows were readable."
+  },
+  "source_limits": [
+    "Anonymous identities not independently verified",
+    "Unknown invitation reach and overlap; no invitation response rate",
+    "Small convenience sample",
+    "Original checkbox priority wording and incomplete Q18 retained and disclosed"
+  ],
+  "group_agreement_source": "User confirmation on 22 October 2026; no staff questionnaire approval claimed",
+  "moodle_new_revision_submitted": false,
+  "artifacts": [
+    {
+      "name": "35553299_Dzhafarov_BUS334_A3_Appendices_Revised.docx",
+      "bytes": 239055,
+      "sha256": "fb5a138eb5bfa9458452bb9e0f85d81f63034e1a5a2a00bdf68ba3cb15e7f628"
+    },
+    {
+      "name": "35553299_Dzhafarov_BUS334_A3_Appendices_Revised.pdf",
+      "bytes": 475063,
+      "sha256": "e8672ec861835e29e4fed077cf43b0f732a481f1f251b017507a571904f08863"
+    },
+    {
+      "name": "35553299_Dzhafarov_BUS334_A3_Report_Revised.docx",
+      "bytes": 365214,
+      "sha256": "12ea24e64316dc3ed88c36a2623f6c0dd2c62aabf4cfb6f2720bd50d26dc6fae"
+    },
+    {
+      "name": "35553299_Dzhafarov_BUS334_A3_Report_Revised.pdf",
+      "bytes": 519085,
+      "sha256": "b71c90603970f515206f7bc919cb3ab5a07e44cabaada1f2d0b43f575f6da94f"
+    }
+  ]
+}

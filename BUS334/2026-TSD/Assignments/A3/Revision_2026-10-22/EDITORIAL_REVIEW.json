@@ -1,0 +1,42 @@
+{
+  "skill": "/Users/king1/.agents/skills/humanizer/SKILL.md",
+  "reference": "https://github.com/blader/humanizer",
+  "workflow": [
+    "Draft revision of original report",
+    "Editorial audit and visual review",
+    "Final revised prose and rendered page verification"
+  ],
+  "audit_and_changes": [
+    {
+      "issue": "First-person process narration contradicted lecturer clarification",
+      "original_example": "I collected",
+      "final_example": "22 complete responses were collected through Google Forms on 18 October 2026."
+    },
+    {
+      "issue": "Stale supporting-file reference after CSV replacement",
+      "original_example": "accompanying CSV",
+      "final_example": "The separate Original Responses PDF preserves every submitted answer and timestamp."
+    },
+    {
+      "issue": "General conclusions needed evidence and a testable next step",
+      "final_example": "Conversion of that interest into paid purchases should be measured during a pilot before sales could be forecast."
+    },
+    {
+      "issue": "Pilot financial criterion needed to distinguish revenue and contribution",
+      "final_example": "Contribution covers staffing and occupancy costs",
+      "detail": "Contribution after variable costs was defined in prose; no invented costs or numerical targets."
+    },
+    {
+      "issue": "Repeated subgroup and promotion wording occupied space",
+      "change": "Shortened while retaining group sizes, small-sample caveat and measured referral recommendation."
+    }
+  ],
+  "preserved": [
+    "Raw response wording",
+    "Original question and option wording",
+    "All numerical results",
+    "Uncertainty and limitations"
+  ],
+  "style_priority": "Lecturer requirement for past/passive process description overrides generic active-voice or first-person suggestions.",
+  "detector_result_claimed": false
+}

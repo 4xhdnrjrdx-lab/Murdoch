@@ -1,0 +1,217 @@
+[
+  [
+    [
+      "title",
+      "Campus grocery store feasibility"
+    ],
+    [
+      "subtitle",
+      "BUS334 Assignment 3  Data collection and preliminary analysis"
+    ],
+    [
+      "meta",
+      "Faiaz Dzhafarov  |  Student ID 35553299  |  22 October 2026"
+    ],
+    [
+      "h1",
+      "Part 1  Summary"
+    ],
+    [
+      "p",
+      "Preliminary support was found for a small grocery store at Murdoch University Dubai. Among 22 respondents, 72.7% were likely or very likely to shop there if suitable products were offered at prices similar to nearby shops. Price was selected as the main choice factor by 68.2%, and higher prices were identified as the main barrier by 68.2%. A limited trial of snacks, drinks and quick meals was therefore recommended. Permanent investment could not be justified from this survey alone because actual sales and operating costs were not measured."
+    ],
+    [
+      "h1",
+      "Part 2  Results"
+    ],
+    [
+      "h2",
+      "Data collection and sample"
+    ],
+    [
+      "p",
+      "The agreed group questionnaire comprised 20 questions: 19 closed questions and one open question. For this individual report, 22 complete responses were collected through Google Forms on 18 October 2026. The link was shared in a private Telegram group of Russian-speaking Murdoch students and through approximately 10 direct WhatsApp invitations. The total number reached and the overlap between channels were unknown, so the invitation response rate could not be calculated."
+    ],
+    [
+      "p",
+      "All 22 returned questionnaires were complete, giving a completion rate of 100% and exceeding the minimum of 15. No missing answers, invalid options or identical answer sets were found. All records were retained. Names and email addresses were not collected, so respondent identities could not be independently verified. A convenience sample was obtained, rather than a random sample of the university."
+    ],
+    [
+      "profile",
+      null
+    ],
+    [
+      "source",
+      "Source for all results: Google Forms export, 18 October 2026, n = 22. Appendix A reproduces the questionnaire, Appendix B shows the response overview, Appendix C reports all closed-question frequencies and Appendix D documents the open-answer coding. The separate Original Responses PDF preserves every submitted answer and timestamp."
+    ]
+  ],
+  [
+    [
+      "h1",
+      "Part 2  Results continued"
+    ],
+    [
+      "h2",
+      "Current provision and potential use"
+    ],
+    [
+      "figure",
+      [
+        "01_demand.png",
+        2.45
+      ]
+    ],
+    [
+      "caption",
+      "Figure 1  Satisfaction with existing options and conditional intention to shop. Each panel reports a separate question; n = 22."
+    ],
+    [
+      "interpret",
+      "Half of respondents were neutral about existing options, 18.2% were dissatisfied and 31.8% were satisfied. Nearby supermarkets or convenience stores were selected as a usual source by 40.9% (Q6), and 36.4% had left campus to buy items during the previous month (Q7). An opportunity for convenient purchases was suggested, although widespread dissatisfaction was not demonstrated."
+    ],
+    [
+      "interpret",
+      "Positive intention was recorded for 72.7%, with 27.3% neutral and none unlikely. This interest depended on suitable products and comparable prices. Conversion of that interest into paid purchases should be measured during a pilot before sales could be forecast."
+    ],
+    [
+      "h2",
+      "Exploratory comparison by campus attendance"
+    ],
+    [
+      "cross",
+      null
+    ],
+    [
+      "caption",
+      "Table 1  Positive intention means likely or very likely in Q9. Percentages use the number in each attendance group, not all 22 respondents."
+    ],
+    [
+      "p",
+      "Positive intention was higher in the groups attending more often. With groups of only four, 11 and seven, no university-wide or causal conclusion could be drawn. Actual pilot purchases should be compared across teaching days."
+    ]
+  ],
+  [
+    [
+      "h1",
+      "Part 2  Results continued"
+    ],
+    [
+      "h2",
+      "Purchases and the store offer"
+    ],
+    [
+      "figure",
+      [
+        "02_purchases.png",
+        3.12
+      ]
+    ],
+    [
+      "caption",
+      "Figure 2  Proposed products, spending per visit and visit frequency; n = 22. Multiple product selections were allowed in Q12, so its percentages total more than 100%."
+    ],
+    [
+      "interpret",
+      "Snacks and drinks were selected by 68.2%, and meals and fruit by 36.4%. Take home groceries and care or stationery items received no selections. Expected spending was concentrated at AED 10 to 24.99 (59.1%), and 68.2% expected at least weekly visits. A compact range was therefore more appropriate for a trial than broad supermarket stock. These were intentions, not observed spending or visits."
+    ],
+    [
+      "offer",
+      null
+    ],
+    [
+      "caption",
+      "Table 2  Leading responses on reasons, incentives, format and promotion; n = 22. Q13, Q15 and Q16 allowed multiple selections. Full distributions appear in Appendix C."
+    ],
+    [
+      "interpret",
+      "The near-even format preferences supported testing a small counter with limited fresh food before making a larger investment. Social media and student groups should be tested through measured customer referrals."
+    ]
+  ],
+  [
+    [
+      "h1",
+      "Part 2  Results continued"
+    ],
+    [
+      "h2",
+      "Price and barriers"
+    ],
+    [
+      "figure",
+      [
+        "03_price.png",
+        2.42
+      ]
+    ],
+    [
+      "caption",
+      "Figure 3  Main choice factor and main barrier; n = 22. The two groups of 68.2% were separate question results and need not contain the same respondents."
+    ],
+    [
+      "interpret",
+      "Price sensitivity was reinforced by Q18: 95.5% selected AED 5.00 as their maximum for water priced at AED 5.00 nearby, and 4.5% selected less. No premium was accepted in that hypothetical comparison. Comparable prices should be tested before relying on a convenience premium. Any ID discount or meal bundle should be checked against the contribution remaining after variable costs."
+    ],
+    [
+      "h2",
+      "Themes in the open answers"
+    ],
+    [
+      "themes",
+      null
+    ],
+    [
+      "caption",
+      "Table 3  Q20 themes were coded once per respondent per theme. Each percentage equals the theme count divided by 22. Themes overlapped and were not expected to total 100%. Coding rules and all original answers appear in Appendix D."
+    ],
+    [
+      "interpret",
+      "Convenience and timely access were mentioned by 77.3%, while price was mentioned by 59.1%. R08 stated, \"Having a store nearby would save time, as long as it is not more expensive than outside.\" The comments linked interest to easy access and affordability, supporting a trial focused on short breaks. Product choice or freshness was also mentioned, but by a smaller share. The coding was a descriptive interpretation of these answers, not an additional survey question."
+    ]
+  ],
+  [
+    [
+      "h1",
+      "Part 3  Preliminary conclusions next steps and recommendations"
+    ],
+    [
+      "h2",
+      "Conclusions"
+    ],
+    [
+      "p",
+      "A small campus store was considered worth testing, subject to affordable prices and suitable products. This conclusion was supported by conditional shopping intention, preferences for snacks and drinks, and the convenience and price themes. A permanent store was not established as financially feasible: costs, realised demand and repeat purchases remained unmeasured."
+    ],
+    [
+      "h2",
+      "Recommendations and next steps"
+    ],
+    [
+      "p",
+      "A pilot with a compact snacks and drinks range and a small fresh-meal selection was recommended. Initial commitments to take home groceries or stationery should be limited. Supplier prices and campus operating costs should be obtained before setting prices. Tests of an ID discount or meal bundle were recommended, subject to an adequate contribution after variable costs. Promotion through social media and student groups was recommended."
+    ],
+    [
+      "pilot",
+      null
+    ],
+    [
+      "caption",
+      "Table 4  Proposed checks before a permanent commitment. Cost-based targets should be set before a pilot; no sales target or profit estimate was assumed from the survey."
+    ],
+    [
+      "h2",
+      "Limitations and further research"
+    ],
+    [
+      "p",
+      "The sample contained 22 students recruited through a limited set of contacts. Its gender balance did not make it representative. Generalisation beyond these respondents was therefore limited. A future survey should reach different programmes, teaching days and student networks, with invitations counted so that a response rate could be calculated."
+    ],
+    [
+      "p",
+      "Five questions used checkboxes despite asking for a MOST or MAIN choice. Q6, Q12, Q15 and Q16 recorded 23 selections each; all selections were retained and percentages were based on 22 people. Q18 ended with an incomplete phrase. Before further collection, that wording should be completed, single-choice fields should be used where one priority was required, and the questionnaire should be piloted. Hypothetical interest and coded themes should then be checked against actual sales."
+    ],
+    [
+      "source",
+      "Research data: individual Google Forms export, 18 October 2026. The original responses were preserved separately; no response or collected question was retrospectively changed."
+    ]
+  ]
+]
