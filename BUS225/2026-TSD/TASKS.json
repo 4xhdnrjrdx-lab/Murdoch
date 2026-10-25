@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course": "BUS225",
   "period": "2026-TSD",
-  "reviewed_at": "2026-10-21T11:39:30.526229+04:00",
+  "reviewed_at": "2026-10-25",
   "allowed_states": [
     "предложено",
     "согласовано",
@@ -147,8 +147,8 @@
         {
           "value": "2026-11-06 17:00 Asia/Dubai",
           "source_label": "Moodle API timestamp",
-          "checked_at": "2026-10-21",
-          "source_path": "Correspondence/2026-10-21_A2-completion-check.json"
+          "checked_at": "2026-10-25",
+          "source_path": "../../Archive/Correspondence/2026-10-25_general-deadlines-check.json"
         }
       ],
       "evidence": [
@@ -211,6 +211,12 @@
           "note": "По просьбе пользователя выделен один окончательный DOCX для группы и LMS; содержимое идентично проверенному Checked.docx.",
           "path": "Assignments/A2/For_Submission/BUS225_A2_Group9_Carrefour.docx",
           "source": ""
+        },
+        {
+          "date": "2026-10-25",
+          "note": "Актуальный срок и собственный статус портала повторно проверены без отправки работ.",
+          "path": "../../Archive/Correspondence/2026-10-25_general-deadlines-check.json",
+          "source": ""
         }
       ],
       "unknown": "Фактические вклады и подтверждающие email участников, конечный загрузчик и финальная сдача не подтверждены. Полный Outlook и WhatsApp не проверены.",
@@ -227,8 +233,8 @@
         {
           "value": "2026-11-06 17:00 Asia/Dubai",
           "source_label": "Moodle API timestamp",
-          "checked_at": "2026-10-21",
-          "source_path": "Correspondence/2026-10-21_A2-completion-check.json"
+          "checked_at": "2026-10-25",
+          "source_path": "../../Archive/Correspondence/2026-10-25_general-deadlines-check.json"
         }
       ],
       "evidence": [
@@ -255,6 +261,12 @@
           "note": "A1 оценено 14/30; Word feedback получен и прочитан. Исходное видео сохраняется, перезапись не требуется. A2 и peer review: 6 ноября 17:00 Dubai, new. У 12 квизов по главам нет timeclose, по 3 попытки, лимит времени не задан; собственных попыток нет. Квизы не выделены в таблице итогового оценивания Outline, обязательность отдельно не подтверждена.",
           "path": "Correspondence/2026-10-17_general-lms-check.json",
           "source": ""
+        },
+        {
+          "date": "2026-10-25",
+          "note": "Актуальный срок и собственный статус портала повторно проверены без отправки работ.",
+          "path": "../../Archive/Correspondence/2026-10-25_general-deadlines-check.json",
+          "source": ""
         }
       ],
       "unknown": "Повторная проверка 7 октября: status new, notgraded; сдача не подтверждена.",
@@ -270,9 +282,9 @@
       "deadlines": [
         {
           "value": "2026-11-28 13:30 Asia/Dubai, Dubai ISC",
-          "source_label": "официальное расписание Trimester S, 2026",
-          "checked_at": "2026-10-17",
-          "source_path": "Correspondence/2026-10-17_exam-preparation-start.md"
+          "source_label": "Официальное расписание Trimester S 2026, редакция 21 октября; проверено 25 октября",
+          "checked_at": "2026-10-25",
+          "source_path": "../../Archive/Correspondence/2026-10-25_general-deadlines-check.json"
         }
       ],
       "evidence": [

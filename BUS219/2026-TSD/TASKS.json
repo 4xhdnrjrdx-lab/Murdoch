@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course": "BUS219",
   "period": "2026-TSD",
-  "reviewed_at": "2026-10-20T16:29:25+04:00",
+  "reviewed_at": "2026-10-25",
   "allowed_states": [
     "предложено",
     "согласовано",
@@ -17,7 +17,7 @@
       "id": "A1",
       "title": "Два онлайн-квиза, суммарно 20%",
       "status": "в работе",
-      "next_action": "Quiz 1 сдан 18 октября в 12:52 Dubai; дождаться открытия просмотра 20 октября после 19:55 Dubai и зафиксировать официальный балл. Quiz 2 ещё предстоит.",
+      "next_action": "Готовиться к Quiz 2 и пройти его до 24 ноября, 19:55 Dubai. Quiz 1 finished; API попытки даёт 15/15 сырых баллов.",
       "detail": "Quiz 1: сдан 18 октября 2026 в 12:52:35 Asia/Dubai, попытка №1 finished, длительность 19 минут 6 секунд. Подтверждены скриншот Moodle, письмо о сохранении ответов и текущий API. Балл пока недоступен. Проверка 15 рекомендованных ответов сохранена отдельно. A1 остаётся «в работе», поскольку включает ещё Quiz 2; для всего A1 статус «сдано» не установлен.",
       "deadlines": [
         {
@@ -29,8 +29,8 @@
         {
           "value": "Quiz 2: 2026-11-24 19:55 Asia/Dubai (timeclose=1795535700)",
           "source_label": "Moodle API, quiz 111648",
-          "checked_at": "2026-10-18",
-          "source_path": "Correspondence/2026-10-18_quiz1-preparation-check.json"
+          "checked_at": "2026-10-25",
+          "source_path": "../../Archive/Correspondence/2026-10-25_general-deadlines-check.json"
         },
         {
           "value": "Quiz 1: к концу занятия Week 10; точный час не указан — прежний ориентир; актуальная дата установлена Moodle 13 октября",
@@ -105,9 +105,21 @@
           "note": "Quiz 1 отправлен: Finished на скриншоте и finished по API, timefinish 12:52:35 Dubai. Получено и прочитано письмо о сохранении ответов. Балл пока недоступен; ожидаем открытия просмотра во вторник.",
           "path": "Assignments/A1/Quiz1_2026-10-18/SUBMISSION_CONFIRMATION_RU.md",
           "source": ""
+        },
+        {
+          "date": "2026-10-25",
+          "note": "Актуальный срок и собственный статус портала повторно проверены без отправки работ.",
+          "path": "../../Archive/Correspondence/2026-10-25_general-deadlines-check.json",
+          "source": ""
+        },
+        {
+          "date": "2026-10-25",
+          "note": "Quiz 1 finished, sumgrades 15/15; Quiz 2 без попыток, лимит 30 минут, одна попытка, закрытие 24 ноября 19:55 Dubai.",
+          "path": "../../Archive/Correspondence/2026-10-25_general-deadlines-check.json",
+          "source": ""
         }
       ],
-      "unknown": "Официальный балл Quiz 1 ещё не доступен. Просмотр закрыт до 20 октября: интерфейс показывает 23:55 без зоны, рабочий ориентир по текущему timestamp — 19:55 Asia/Dubai. Состояние попыток Quiz 2 в этом продолжении не проверялось.",
+      "unknown": "Gradebook-вклад Quiz 1 отдельно не запрошен в этой проверке. По Quiz 2 API попыток пока нет.",
       "show_on_overview": true,
       "correction": "",
       "components": [
@@ -180,8 +192,8 @@
         {
           "value": "2026-11-06 19:55 Asia/Dubai (duedate=1793980500)",
           "source_label": "Moodle API, assignment 126475",
-          "checked_at": "2026-10-20",
-          "source_path": "Correspondence/2026-10-20_a2-finalisation-check.json"
+          "checked_at": "2026-10-25",
+          "source_path": "../../Archive/Correspondence/2026-10-25_general-deadlines-check.json"
         },
         {
           "value": "К концу занятия Week 12 — прежняя запись outline; текущий срок установлен Moodle 13 октября",
@@ -274,6 +286,12 @@
           "note": "В 16:13 Dubai срок и обе рубрики снова подтверждены LMS. Новых писем BUS219 после 19 октября в учебном Gmail не найдено. Сохранённые policy и peer evaluation требуют подлинных документов участников.",
           "path": "Correspondence/2026-10-20_a2-finalisation-check.json",
           "source": ""
+        },
+        {
+          "date": "2026-10-25",
+          "note": "Актуальный срок и собственный статус портала повторно проверены без отправки работ.",
+          "path": "../../Archive/Correspondence/2026-10-25_general-deadlines-check.json",
+          "source": ""
         }
       ],
       "unknown": "Не подтверждены одобрение темы преподавательницей, допустимый объём помощи AI, согласие команды, именной лидер-загрузчик и наличие подлинных peer evaluation/charter/meeting minutes. Полные имена установлены; четыре student ID предоставил пользователь, независимо в LMS они скрыты. Модель сценарная: спрос, тарифы, финансирование и правовая структура требуют коммерческой проверки до запуска бизнеса. Собственный Moodle status new; действия другого лидера не установлены. Отчёт никому не отправлен и агентом не сдан.",
@@ -289,9 +307,9 @@
       "deadlines": [
         {
           "value": "2026-11-28 09:00 Asia/Dubai, Dubai ISC",
-          "source_label": "Официальное расписание Trimester S 2026, редакция 15 октября; проверено 17 октября",
-          "checked_at": "2026-10-17",
-          "source_path": "Correspondence/2026-10-17_exam-preparation-start.md"
+          "source_label": "Официальное расписание Trimester S 2026, редакция 21 октября; проверено 25 октября",
+          "checked_at": "2026-10-25",
+          "source_path": "../../Archive/Correspondence/2026-10-25_general-deadlines-check.json"
         }
       ],
       "evidence": [

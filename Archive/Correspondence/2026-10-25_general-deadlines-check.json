@@ -1,0 +1,541 @@
+{
+  "checked_at": "2026-10-25T14:39:45.386299+04:00",
+  "result": "ok",
+  "timezone": "Asia/Dubai",
+  "scope": "Own assignments/submission statuses, quiz availability, forum list. No submission, message, file download or enrolment changes.",
+  "assignments": [
+    {
+      "course_id": 31585,
+      "id": 126475,
+      "cmid": 3111392,
+      "name": "Business project report due:  at 23.55pm, 6th of Nov",
+      "due": "2026-11-06T19:55:00+04:00",
+      "cutoff": null,
+      "intro": "Group leaders please submit the report on behalf of your groups",
+      "own_submission": {
+        "status": "new",
+        "modified": "2026-10-17T03:01:28+04:00",
+        "grading_status": "notgraded",
+        "files": []
+      }
+    },
+    {
+      "course_id": 31320,
+      "id": 125038,
+      "cmid": 3076824,
+      "name": "Service organisation profile submission (Non assessable item submitted end of Session 4) -One per group",
+      "due": "2026-09-18T09:00:00+04:00",
+      "cutoff": "2026-09-25T09:00:00+04:00",
+      "intro": "",
+      "own_submission": {
+        "status": null,
+        "modified": null,
+        "grading_status": "notgraded",
+        "files": []
+      }
+    },
+    {
+      "course_id": 31320,
+      "id": 125039,
+      "cmid": 3076825,
+      "name": "Video Presentation Submission",
+      "due": "2026-10-02T17:00:00+04:00",
+      "cutoff": "2026-10-09T17:00:00+04:00",
+      "intro": "",
+      "own_submission": {
+        "status": "submitted",
+        "modified": "2026-09-26T21:08:52+04:00",
+        "grading_status": "graded",
+        "files": []
+      }
+    },
+    {
+      "course_id": 31320,
+      "id": 125041,
+      "cmid": 3076827,
+      "name": "Peer review submission - Individual",
+      "due": "2026-11-06T17:00:00+04:00",
+      "cutoff": "2026-11-15T17:00:00+04:00",
+      "intro": "",
+      "own_submission": {
+        "status": "new",
+        "modified": "2026-10-07T12:22:38+04:00",
+        "grading_status": "notgraded",
+        "files": []
+      }
+    },
+    {
+      "course_id": 31320,
+      "id": 125040,
+      "cmid": 3076826,
+      "name": "Reflective Journal and Service Blueprint - Group submission (one per group)",
+      "due": "2026-11-06T17:00:00+04:00",
+      "cutoff": "2026-11-13T17:00:00+04:00",
+      "intro": "",
+      "own_submission": {
+        "status": "new",
+        "modified": "2026-10-21T11:23:15+04:00",
+        "grading_status": "notgraded",
+        "files": []
+      }
+    },
+    {
+      "course_id": 31305,
+      "id": 124983,
+      "cmid": 3074736,
+      "name": "Assessment 2: Presentation Material (Group) Submission Portal",
+      "due": "2026-11-06T19:59:00+04:00",
+      "cutoff": null,
+      "intro": "Due: Friday, 06 November 2026, 23:59 (Perth Time). One team member to submit.",
+      "own_submission": {
+        "status": "new",
+        "modified": "2026-10-07T12:22:44+04:00",
+        "grading_status": "notgraded",
+        "files": []
+      }
+    },
+    {
+      "course_id": 31305,
+      "id": 124982,
+      "cmid": 3074730,
+      "name": "Assessment 1: Essay (Individual) Submission Portal",
+      "due": "2026-09-18T19:59:00+04:00",
+      "cutoff": null,
+      "intro": "Due: Friday, 18 Sep 2026, 11:59pm (Perth Time).",
+      "own_submission": {
+        "status": "submitted",
+        "modified": "2026-09-17T18:08:19+04:00",
+        "grading_status": "graded",
+        "files": [
+          {
+            "name": "BUS230Assign1FaiazDzhafarov35553299.docx",
+            "size": 40716,
+            "modified": "2026-09-17T18:08:19+04:00"
+          }
+        ]
+      }
+    },
+    {
+      "course_id": 31274,
+      "id": 124857,
+      "cmid": 3070561,
+      "name": "Assignment 4 Supporting materials submission: Data Analysis &amp; Presentation (40%)",
+      "due": null,
+      "cutoff": null,
+      "intro": "Please submit the supporting material (e.g. PPT slides) 24 hrs before your scheduled presentation here. Supporting documents may include any materials deemed necessary to assist the lecturer or marker in evaluating your presentation.",
+      "own_submission": {
+        "status": "new",
+        "modified": "2026-07-22T16:38:00+04:00",
+        "grading_status": "notgraded",
+        "files": []
+      }
+    },
+    {
+      "course_id": 31274,
+      "id": 124858,
+      "cmid": 3070562,
+      "name": "Peer Evaluation Form Submission (Individual)",
+      "due": "2026-11-28T19:55:00+04:00",
+      "cutoff": "2026-11-29T19:55:00+04:00",
+      "intro": "Each student, please make sure to submit your peer evaluation form independently and individually.",
+      "own_submission": {
+        "status": "new",
+        "modified": "2026-10-07T12:22:54+04:00",
+        "grading_status": "notgraded",
+        "files": []
+      }
+    },
+    {
+      "course_id": 31274,
+      "id": 124854,
+      "cmid": 3070558,
+      "name": "Assignment 1: Engagement (10%)",
+      "due": "2026-11-19T13:00:00+04:00",
+      "cutoff": "2026-12-21T13:00:00+04:00",
+      "intro": "This portal is for the lecturer's use only to record grades and provide feedback; no student submission is required. Following the marking guide, Class participation is assessed based on students’ active engagement across all sessions, including participation activities and discussions, as observed by the lecturer(s).",
+      "own_submission": {
+        "status": "new",
+        "modified": "2026-10-07T12:22:55+04:00",
+        "grading_status": "notgraded",
+        "files": []
+      }
+    },
+    {
+      "course_id": 31274,
+      "id": 124855,
+      "cmid": 3070559,
+      "name": "Assignment 2 Submission: Questionnaire (20%)",
+      "due": "2026-09-20T19:59:00+04:00",
+      "cutoff": "2026-09-23T19:59:00+04:00",
+      "intro": "The questionnaire to be submitted electronically here",
+      "own_submission": {
+        "status": "submitted",
+        "modified": "2026-09-19T00:26:26+04:00",
+        "grading_status": "graded",
+        "files": [
+          {
+            "name": "35553299_Dzhafarov_BUS334_Assignment2_Questionnaire.docx",
+            "size": 40749,
+            "modified": "2026-09-19T00:26:26+04:00"
+          }
+        ]
+      }
+    },
+    {
+      "course_id": 31274,
+      "id": 124856,
+      "cmid": 3070560,
+      "name": "Assignment 3 Submission: Data Collection &amp; Preliminary Analysis (30%)",
+      "due": "2026-10-25T19:59:00+04:00",
+      "cutoff": "2026-10-28T19:59:00+04:00",
+      "intro": "The data collection and analysis is to be conducted individually, the assignment should be also submitted and marked individually.",
+      "own_submission": {
+        "status": "submitted",
+        "modified": "2026-10-22T17:57:10+04:00",
+        "grading_status": "notgraded",
+        "files": [
+          {
+            "name": "35553299_Dzhafarov_BUS334_A3_Appendices_Revised.pdf",
+            "size": 475063,
+            "modified": "2026-10-22T17:57:10+04:00"
+          },
+          {
+            "name": "35553299_Dzhafarov_BUS334_A3_Original_Responses.pdf",
+            "size": 130841,
+            "modified": "2026-10-21T23:05:35+04:00"
+          },
+          {
+            "name": "35553299_Dzhafarov_BUS334_A3_Report_Revised.pdf",
+            "size": 519085,
+            "modified": "2026-10-22T17:57:10+04:00"
+          }
+        ]
+      }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": 111647,
+      "course": 31585,
+      "coursemodule": 3111389,
+      "name": "Quiz 1 due:  by 23:55, 20th of Oct",
+      "timelimit": 1800,
+      "attempts": 1,
+      "grade": 10,
+      "sumgrades": 15,
+      "opens": null,
+      "closes": "2026-10-20T19:55:00+04:00",
+      "intro": ""
+    },
+    {
+      "id": 111648,
+      "course": 31585,
+      "coursemodule": 3111390,
+      "name": "Quiz 2 due: 23:55, 24th of Nov",
+      "timelimit": 1800,
+      "attempts": 1,
+      "grade": 10,
+      "sumgrades": 15,
+      "opens": null,
+      "closes": "2026-11-24T19:55:00+04:00",
+      "intro": ""
+    },
+    {
+      "id": 110572,
+      "course": 31320,
+      "coursemodule": 3076842,
+      "name": "Quiz 1 - Services Marketing",
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 100,
+      "sumgrades": 3,
+      "opens": null,
+      "closes": null,
+      "intro": ""
+    },
+    {
+      "id": 110573,
+      "course": 31320,
+      "coursemodule": 3076849,
+      "name": "Quiz 2 - Service Consumers",
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 3,
+      "sumgrades": 3,
+      "opens": null,
+      "closes": null,
+      "intro": ""
+    },
+    {
+      "id": 110574,
+      "course": 31320,
+      "coursemodule": 3076858,
+      "name": "Quiz 3 - Positioning Services",
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 3,
+      "sumgrades": 3,
+      "opens": null,
+      "closes": null,
+      "intro": ""
+    },
+    {
+      "id": 110575,
+      "course": 31320,
+      "coursemodule": 3076865,
+      "name": "Quiz 4 - Service Products",
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 3,
+      "sumgrades": 3,
+      "opens": null,
+      "closes": null,
+      "intro": ""
+    },
+    {
+      "id": 110576,
+      "course": 31320,
+      "coursemodule": 3076872,
+      "name": "Quiz 5 - Service Distribution",
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 3,
+      "sumgrades": 3,
+      "opens": null,
+      "closes": null,
+      "intro": ""
+    },
+    {
+      "id": 110577,
+      "course": 31320,
+      "coursemodule": 3076880,
+      "name": "Setting Prices and Implementing Revenue Management",
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 3,
+      "sumgrades": 3,
+      "opens": null,
+      "closes": null,
+      "intro": ""
+    },
+    {
+      "id": 110578,
+      "course": 31320,
+      "coursemodule": 3076887,
+      "name": "Quiz 7 - Integrated Marketing Communications",
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 100,
+      "sumgrades": 3,
+      "opens": null,
+      "closes": null,
+      "intro": ""
+    },
+    {
+      "id": 110579,
+      "course": 31320,
+      "coursemodule": 3076896,
+      "name": "Quiz 8 - Designing service processes",
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 3,
+      "sumgrades": 3,
+      "opens": null,
+      "closes": null,
+      "intro": ""
+    },
+    {
+      "id": 110580,
+      "course": 31320,
+      "coursemodule": 3076903,
+      "name": "Quiz 9 - Crafting the Service Environment",
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 100,
+      "sumgrades": 3,
+      "opens": null,
+      "closes": null,
+      "intro": ""
+    },
+    {
+      "id": 110581,
+      "course": 31320,
+      "coursemodule": 3076910,
+      "name": "Quiz 10 - Managing People and Customer Service Function",
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 100,
+      "sumgrades": 3,
+      "opens": null,
+      "closes": null,
+      "intro": ""
+    },
+    {
+      "id": 110582,
+      "course": 31320,
+      "coursemodule": 3076917,
+      "name": "Quiz 11 - Managing Customer Relationships in Services",
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 100,
+      "sumgrades": 3,
+      "opens": null,
+      "closes": null,
+      "intro": ""
+    },
+    {
+      "id": 110583,
+      "course": 31320,
+      "coursemodule": 3076925,
+      "name": "Quiz 12 - Customer Satisfaction and Service Quality",
+      "timelimit": 0,
+      "attempts": 3,
+      "grade": 100,
+      "sumgrades": 3,
+      "opens": null,
+      "closes": null,
+      "intro": ""
+    }
+  ],
+  "forums": [
+    {
+      "id": 151065,
+      "course": 31585,
+      "name": "Announcements",
+      "type": "news"
+    },
+    {
+      "id": 151066,
+      "course": 31585,
+      "name": "Main Discussion Forum",
+      "type": "general"
+    },
+    {
+      "id": 149822,
+      "course": 31320,
+      "name": "Announcements",
+      "type": "news"
+    },
+    {
+      "id": 149823,
+      "course": 31320,
+      "name": "Main Discussion Forum",
+      "type": "general"
+    },
+    {
+      "id": 149752,
+      "course": 31305,
+      "name": "Welcome to BUS230",
+      "type": "news"
+    },
+    {
+      "id": 149753,
+      "course": 31305,
+      "name": "Team Discussion Forum",
+      "type": "general"
+    },
+    {
+      "id": 149576,
+      "course": 31274,
+      "name": "Announcements",
+      "type": "news"
+    },
+    {
+      "id": 149577,
+      "course": 31274,
+      "name": "Main Discussion Forum",
+      "type": "general"
+    }
+  ],
+  "announcements": [
+    {
+      "course": 31585,
+      "forumid": 151065,
+      "discussions": [
+        {
+          "name": "Assessment Quiz 1 ",
+          "modified": "2026-10-12T09:07:18+04:00",
+          "message": "Dear Students, Hope you are well. Assessment Quiz 1 is now open on the LMS and must be completed by Tuesday, 20th October. Please attempt it in good time so that any technical issues can be resolved before the deadline. If you have any questions, please get in touch. Best, Navneet"
+        },
+        {
+          "name": "Group Formation &amp; Pre- Workshop Reminder",
+          "modified": "2026-09-09T12:31:08+04:00",
+          "message": "Dear Students, I hope you're doing well. This is a gentle reminder to please form groups of four for the upcoming presentations in Week 6. Kindly email me the names of your group members. I've also included a link to the McKinsey report we discussed yesterday, \"Geopolitics and the Geometry of Global Trade: 2026 Update\" — https://www.mckinsey.com/mgi/our-research/geopolitics-and-the-geometry-of-global-trade-2026-update Lastly, please make sure to go through the slides and recording ahead of next week's lecture, so we can have an engaging discussion in class. Thank you very much for your cooperation. Best, Navneet"
+        }
+      ]
+    },
+    {
+      "course": 31320,
+      "forumid": 149822,
+      "discussions": [
+        {
+          "name": "Links for ONLINE students",
+          "modified": "2026-08-20T17:58:57+04:00",
+          "message": "Dear BUS225 Students, Welcome to SERVICE MARKETING! A course that promises to be as intellectually engaging as it is demanding. Please make every effort to attend the first class (26th / 27th August). Beyond covering our first chapter, this session will lay out the assignment requirements and expectations that are essential to your success in the course. Missing it will put you at a real disadvantage from day one. Online students, please note the following: Wednesday class, please join the first link on LMS ( Class 1 ) Thursday class, please join the second link on LMS ( Class 2 ). I look forward to meeting you all and to the term ahead. Regards, Dana Khoury Eid"
+        }
+      ]
+    },
+    {
+      "course": 31305,
+      "forumid": 149752,
+      "discussions": []
+    },
+    {
+      "course": 31274,
+      "forumid": 149576,
+      "discussions": []
+    }
+  ],
+  "quiz_attempts": {
+    "111647": [
+      {
+        "attempt": 1,
+        "state": "finished",
+        "timefinish": 1792313555,
+        "sumgrades": 15
+      }
+    ],
+    "111648": []
+  },
+  "mail": {
+    "checked_at": "2026-10-25T14:41:58.109857+04:00",
+    "account": "jafarovfayaz@gmail.com",
+    "scope": "Since 20 October: course codes BUS219/BUS225/BUS230/BUS334 and Student/Academic Services; additional instructor-address and subject exam/assessment search. Both searches exhausted.",
+    "latest_material_change": "BUS334/2026-TSD/Correspondence/2026-10-24_final-assignment-instructions.json",
+    "uncovered": [
+      "Full university Outlook",
+      "WhatsApp contents"
+    ],
+    "receipt_summary": "22 October receipts mention BUS334 revised Report and Appendices. Direct Moodle submitted status and filenames confirm latest submission; receipts alone are not relied on as final submission evidence."
+  },
+  "exam_timetable": {
+    "checked_at": "2026-10-25T14:41:58.109857+04:00",
+    "url": "https://timetables.murdoch.edu.au/exams/cgi/ex-gen?format=code&semester=2t&year=26",
+    "edition": "21 October 2026, 2:30pm",
+    "timezone": "Asia/Dubai for Dubai ISC; local-time basis previously verified",
+    "rows": [
+      {
+        "course": "BUS230",
+        "datetime": "2026-11-21T13:30:00+04:00",
+        "duration_hours": 2,
+        "format": "open book",
+        "venue": "Dubai ISC"
+      },
+      {
+        "course": "BUS219",
+        "datetime": "2026-11-28T09:00:00+04:00",
+        "duration_hours": 2,
+        "format": "closed book",
+        "venue": "Dubai ISC"
+      },
+      {
+        "course": "BUS225",
+        "datetime": "2026-11-28T13:30:00+04:00",
+        "duration_hours": 1,
+        "format": "closed book",
+        "venue": "Dubai ISC"
+      }
+    ],
+    "room_numbers": "unknown"
+  }
+}

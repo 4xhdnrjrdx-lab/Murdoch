@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course": "BUS230",
   "period": "2026-TSD",
-  "reviewed_at": "2026-10-17T16:52:20.037422+04:00",
+  "reviewed_at": "2026-10-25",
   "allowed_states": [
     "предложено",
     "согласовано",
@@ -79,8 +79,8 @@
         {
           "value": "2026-11-06 19:59 Asia/Dubai",
           "source_label": "Moodle API timestamp",
-          "checked_at": "2026-10-21",
-          "source_path": "Correspondence/2026-10-21_A2-redesign-check.json"
+          "checked_at": "2026-10-25",
+          "source_path": "../../Archive/Correspondence/2026-10-25_general-deadlines-check.json"
         },
         {
           "value": "Вечером накануне назначенного выступления, sessions 10/11",
@@ -188,6 +188,12 @@
           "date": "2026-10-21",
           "note": "Все 16 файлов новой версии независимо восстановлены из приватного GitHub и сравнены по SHA-256; все совпали. Проверка относится к новому комплекту.",
           "path": "Assignments/A2/2026-10-21_redesign-cloud-restore.json"
+        },
+        {
+          "date": "2026-10-25",
+          "note": "Актуальный срок и собственный статус портала повторно проверены без отправки работ.",
+          "path": "../../Archive/Correspondence/2026-10-25_general-deadlines-check.json",
+          "source": ""
         }
       ],
       "unknown": "Согласие остальных участников с ADKAR, содержанием и кейсом; назначенная дата выступления и загрузчик; уточнение преподавателя о Chicago 17 против APA и максимуме 20 источников против HD 20+. Объём доступа к источникам записан: не все полные тексты и книга Hiatt прочитаны. Фактический хронометраж репетиции и проверка на компьютере выступления ещё неизвестны. Новая последовательность Aram 19–24 из брифа отличается от диапазонов Outline; ожидания преподавателя по этому варианту неизвестны. Пользовательский бриф сообщает о добровольной группе, но фактическое участие/явка не проверены.",
@@ -247,9 +253,9 @@
       "deadlines": [
         {
           "value": "2026-11-21 13:30 Asia/Dubai, Dubai ISC",
-          "source_label": "официальное расписание Trimester S, 2026",
-          "checked_at": "2026-10-07",
-          "source_path": "../../Archive/Correspondence/2026-10-07_exam-timetable.md"
+          "source_label": "Официальное расписание Trimester S 2026, редакция 21 октября; проверено 25 октября",
+          "checked_at": "2026-10-25",
+          "source_path": "../../Archive/Correspondence/2026-10-25_general-deadlines-check.json"
         }
       ],
       "evidence": [

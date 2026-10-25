@@ -1,66 +1,39 @@
 {
   "mail": {
-    "checked_at": "2026-10-22T16:44:59+04:00",
-    "scope": "after:2026/10/21 (BUS334 OR \"BUS 334\" OR (\"Submission confirmation\" \"Assignment 3\"))",
-    "result": "Four Turnitin receipts: two initial PDFs and two after replacement. No other messages in query; full Outlook/WhatsApp not checked. Receipt is not a final grade or completed similarity result.",
+    "checked_at": "2026-10-25T14:41:58.109857+04:00",
+    "scope": "Since 20 October: course codes BUS219/BUS225/BUS230/BUS334 and Student/Academic Services; additional instructor-address and subject exam/assessment search. Both searches exhausted.",
+    "result": "Прочитано письмо Ashok от 24 октября: BUS334 A4 12 ноября, явка 16:15, Room 106; каждому supporting materials за 24 часа. Полный Outlook/WhatsApp не охвачены.",
     "last_check_by_course": {
       "BUS219": {
-        "checked_at": "2026-10-20",
-        "timestamp_precision": "date; checked during the finalisation session, exact search time not retained",
+        "checked_at": "2026-10-25T14:41:58.109857+04:00",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "after:2026/10/19 (BUS219 OR \"International Business\" OR \"Major Project\" OR \"The Levant Five\")",
-        "result": "Поиск исчерпан: новых писем не найдено. Более широкий поиск от 15:42 того же дня сохранён отдельно.",
-        "matched_messages": 0,
-        "next_page_token_present": false,
-        "uncovered": [
-          "Полный университетский Outlook",
-          "WhatsApp",
-          "Сообщения вне поискового охвата"
-        ],
-        "evidence": "BUS219/2026-TSD/Correspondence/2026-10-20_a2-finalisation-check.json",
-        "earlier_same_day_check": "BUS219/2026-TSD/Correspondence/2026-10-20_a2-report-preparation-check.json"
+        "scope": "Since 20 October: course codes BUS219/BUS225/BUS230/BUS334 and Student/Academic Services; additional instructor-address and subject exam/assessment search. Both searches exhausted.",
+        "result": "Новых сроков в заданном охвате не найдено.",
+        "evidence": "Archive/Correspondence/2026-10-25_general-deadlines-check.json"
       },
       "BUS230": {
-        "checked_at": "2026-10-21",
-        "timestamp_precision": "date; exact earlier API/search times not retained",
+        "checked_at": "2026-10-25T14:41:58.109857+04:00",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "after:2026/10/14 (BUS230 OR \"Change Management\")",
-        "result": "No matching messages; search exhausted. Full Outlook and WhatsApp not checked.",
-        "matched_messages": 0,
-        "next_page_token_present": false,
-        "uncovered": [
-          "Full university Outlook",
-          "WhatsApp",
-          "Messages outside query"
-        ],
-        "evidence": "BUS230/2026-TSD/Correspondence/2026-10-21_A2-redesign-check.json"
+        "scope": "Since 20 October: course codes BUS219/BUS225/BUS230/BUS334 and Student/Academic Services; additional instructor-address and subject exam/assessment search. Both searches exhausted.",
+        "result": "Новых сроков в заданном охвате не найдено.",
+        "evidence": "Archive/Correspondence/2026-10-25_general-deadlines-check.json"
       },
       "BUS225": {
-        "checked_at": "2026-10-21",
-        "timestamp_precision": "date; exact search time not retained",
+        "checked_at": "2026-10-25T14:41:58.109857+04:00",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "after:2026/10/16 (BUS225 OR Carrefour OR \"Khoury\" OR \"Services Marketing\")",
-        "result": "No matching messages; search exhausted.",
-        "matched_messages": 0,
-        "next_page_token_present": false,
-        "uncovered": [
-          "Full university Outlook",
-          "WhatsApp",
-          "Messages outside search terms"
-        ],
-        "evidence": "BUS225/2026-TSD/Correspondence/2026-10-21_A2-completion-check.json"
+        "scope": "Since 20 October: course codes BUS219/BUS225/BUS230/BUS334 and Student/Academic Services; additional instructor-address and subject exam/assessment search. Both searches exhausted.",
+        "result": "Новых сроков в заданном охвате не найдено.",
+        "evidence": "Archive/Correspondence/2026-10-25_general-deadlines-check.json"
       },
       "BUS334": {
-        "checked_at": "2026-10-22T16:44:59+04:00",
+        "checked_at": "2026-10-25T14:41:58.109857+04:00",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "after:2026/10/21 (BUS334 OR \"BUS 334\" OR (\"Submission confirmation\" \"Assignment 3\"))",
-        "result": "Four Turnitin receipts: two initial PDFs and two after replacement. No other messages in query; full Outlook/WhatsApp not checked. Receipt is not a final grade or completed similarity result.",
-        "matched_messages": 4,
-        "next_page_token_present": false,
-        "evidence": "BUS334/2026-TSD/Assignments/A3/Review_2026-10-22/REVIEW.json"
+        "scope": "Since 20 October: course codes BUS219/BUS225/BUS230/BUS334 and Student/Academic Services; additional instructor-address and subject exam/assessment search. Both searches exhausted.",
+        "result": "Новое письмо от 24 октября устанавливает A4 на 12 ноября для Thursday/Class 1.",
+        "evidence": "Archive/Correspondence/2026-10-25_general-deadlines-check.json"
       }
     },
-    "evidence": "BUS334/2026-TSD/Assignments/A3/Review_2026-10-22/REVIEW.json",
+    "evidence": "Archive/Correspondence/2026-10-25_general-deadlines-check.json",
     "outlook_attempt": {
       "attempted_at": "2026-10-07T13:31:59.360199+04:00",
       "result": "No accessible Outlook tab in connected browser inventory; no Outlook connector available in this chat",
@@ -130,14 +103,14 @@
     }
   },
   "lms": {
-    "checked_at": "2026-10-22T16:44:59+04:00",
+    "checked_at": "2026-10-25T14:39:45.386299+04:00",
     "result": "ok",
-    "operation": "Read-only A3 status and submitted filenames; submitted/notgraded unchanged",
+    "operation": "Read-only assignment dates and own submissions, quizzes and own BUS219 attempts, four course news forums",
     "last_success_by_course": {
-      "BUS219": "2026-10-20T16:13:06.356169+04:00",
-      "BUS225": "2026-10-21T11:23:11.519614+04:00",
-      "BUS230": "2026-10-21",
-      "BUS334": "2026-10-22T16:44:59+04:00"
+      "BUS219": "2026-10-25T14:39:45.386299+04:00",
+      "BUS225": "2026-10-25T14:39:45.386299+04:00",
+      "BUS230": "2026-10-25T14:39:45.386299+04:00",
+      "BUS334": "2026-10-25T14:39:45.386299+04:00"
     },
     "token_expiry": "unknown",
     "successful_account_check": {
@@ -150,10 +123,10 @@
       "BUS334": true
     },
     "evidence": {
-      "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-20_a2-finalisation-check.json",
-      "BUS225": "BUS225/2026-TSD/Correspondence/2026-10-21_A2-completion-check.json",
-      "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-21_A2-redesign-check.json",
-      "BUS334": "BUS334/2026-TSD/Assignments/A3/Review_2026-10-22/REVIEW.json"
+      "BUS219": "Archive/Correspondence/2026-10-25_general-deadlines-check.json",
+      "BUS225": "Archive/Correspondence/2026-10-25_general-deadlines-check.json",
+      "BUS230": "Archive/Correspondence/2026-10-25_general-deadlines-check.json",
+      "BUS334": "Archive/Correspondence/2026-10-25_general-deadlines-check.json"
     },
     "enrolment_check": {
       "checked_at": "2026-10-19T13:34:03.858964+04:00",

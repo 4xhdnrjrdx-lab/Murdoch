@@ -1,0 +1,39 @@
+{
+  "checked_at": "2026-10-25T14:41:58.109857+04:00",
+  "message_id": "1a16d23362ec3ef3",
+  "sent_at": "2026-10-24T12:59:39+04:00",
+  "sender": "Ashok.Mitra@murdoch.edu.au",
+  "subject": "BUS 334 : Final Assignment - Important Instructions",
+  "url": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/1a16d23362ec3ef3",
+  "own_group": {
+    "class": "Thursday / Class 1",
+    "group": 1,
+    "members": [
+      "Faiaz",
+      "Nikita",
+      "Khushal",
+      "Vishal",
+      "Irzakov"
+    ]
+  },
+  "presentation": {
+    "date": "2026-11-12",
+    "arrive_by": "16:15 Asia/Dubai",
+    "session_starts": "16:30 Asia/Dubai",
+    "room": "106",
+    "scheduled_end": "18:30 Asia/Dubai",
+    "may_finish_later": true,
+    "own_group_slot": "not specified",
+    "format": "in-class face-to-face group verbal presentation",
+    "duration_minutes": 15,
+    "minimum_minutes_each": 3,
+    "questions": "Each member receives one relevant question after the presentation."
+  },
+  "submission": {
+    "lms": "Every individual submits supporting materials 24 hours before their presentation.",
+    "provisional_safe_target": "2026-11-11 16:30 Asia/Dubai; working target based on session start, own group slot unknown.",
+    "email": "One member emails final presentation to Ashok on presentation afternoon before class.",
+    "sent_by_agent": false
+  },
+  "source_scope": "Relevant requirements and own group only; other class lists omitted."
+}
