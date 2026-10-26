@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-26",
+  "timezone": "Asia/Dubai",
+  "files": [
+    {
+      "path": "BUS230Assessment2Class2Group4_2026-10-26.pptx",
+      "sha256": "a380ea2feff8d2e158180cc70cf906b8335e0ca0645acea62268e65cb01b209f",
+      "bytes": 2255520
+    },
+    {
+      "path": "BUS230A2_Aram_Slides19-30_2026-10-26.pptx",
+      "sha256": "94fdb10841501053d201faf66d2c635d98904f854e863c086a23c2e4aaa5117e",
+      "bytes": 1130754
+    }
+  ],
+  "validation": {
+    "full": {
+      "slides": 30,
+      "package_findings": 0,
+      "layout_findings": 0,
+      "layout_warnings": 0,
+      "import_passed": true,
+      "native_tables": 12
+    },
+    "aram": {
+      "slides": 12,
+      "package_findings": 0,
+      "layout_findings": 0,
+      "layout_warnings": 0,
+      "import_passed": true,
+      "native_tables": 5
+    }
+  },
+  "visible_slide_count": 30,
+  "hidden_slide_count": 0,
+  "academic_reference_count": 20,
+  "academic_dois_on_reference_slides": true,
+  "source_working_copy_untouched": true,
+  "source_slide_objects_2_to_18_byte_identical": true,
+  "cover_visible_change": "Prepared date only, 21 to 26 October",
+  "source_slide_renders_2_to_18_pixel_identical": true,
+  "visual_review": {
+    "source_slides_reviewed": "all thirty, deck overview and relevant individual slides",
+    "changed_slides_reviewed_full_size": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "final_full_deck_rendered_before_notes_only_update": 30,
+    "last_visual_cleanup": "removed redundant covered objects from game slide; no visible layout change",
+    "native_powerpoint_verified": false
+  },
+  "speaker_notes_match_content_json": true,
+  "planned_duration_with_questions_seconds": 1730,
+  "duration_measured": false,
+  "limitations": [
+    "Game website, multi-device synchronisation, protected host results and QR are pending.",
+    "Award idea remains backlog only.",
+    "No final rehearsal or presentation-machine test.",
+    "Font Avenir Next must be available or reviewed for substitution.",
+    "Not submitted to Moodle."
+  ]
+}

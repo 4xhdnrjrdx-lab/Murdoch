@@ -1,0 +1,74 @@
+BUS230 A2: REFERENCE RECORD
+Chicago 17 author-date
+20 academic publications, all displayed on slides 29–30.
+
+Baldwin, Timothy T., and J. Kevin Ford. 1988. “Transfer of Training: A Review and Directions for Future Research.” *Personnel Psychology* 41 (1): 63-105. https://doi.org/10.1111/j.1744-6570.1988.tb00632.x.
+
+Burke, W. Warner, and George H. Litwin. 1992. “A Causal Model of Organizational Performance and Change.” *Journal of Management* 18 (3): 523-45. https://doi.org/10.1177/014920639201800306.
+
+Edmondson, Amy. 1999. “Psychological Safety and Learning Behavior in Work Teams.” *Administrative Science Quarterly* 44 (2): 350-83. https://doi.org/10.2307/2666999.
+
+Errida, Abdelouahab, and Bouchra Lotfi. 2021. “The Determinants of Organizational Change Management Success: Literature Review and Case Study.” *International Journal of Engineering Business Management* 13. https://doi.org/10.1177/18479790211016273.
+
+Ford, Jeffrey D., Laurie W. Ford, and Angelo D'Amelio. 2008. “Resistance to Change: The Rest of the Story.” *Academy of Management Review* 33 (2): 362-77. https://doi.org/10.5465/amr.2008.31193235.
+
+Herold, David M., Donald B. Fedor, and Steven D. Caldwell. 2007. “Beyond Change Management: A Multilevel Investigation of Contextual and Personal Influences on Employees' Commitment to Change.” *Journal of Applied Psychology* 92 (4): 942-51. https://doi.org/10.1037/0021-9010.92.4.942.
+
+Holt, Daniel T., Achilles A. Armenakis, Hubert S. Feild, and Stanley G. Harris. 2007. “Readiness for Organizational Change: The Systematic Development of a Scale.” *Journal of Applied Behavioral Science* 43 (2): 232-55. https://doi.org/10.1177/0021886306295295.
+
+Jo, Yunseong, and Ah Jeong Hong. 2023. “Development and Validation of a Readiness for Organizational Change Scale.” *SAGE Open* 13 (4). https://doi.org/10.1177/21582440231207705.
+
+Kluger, Avraham N., and Angelo DeNisi. 1996. “The Effects of Feedback Interventions on Performance: A Historical Review, a Meta-Analysis, and a Preliminary Feedback Intervention Theory.” *Psychological Bulletin* 119 (2): 254-84. https://doi.org/10.1037/0033-2909.119.2.254.
+
+Lewis, Laurie K. 1999. “Disseminating Information and Soliciting Input during Planned Organizational Change: Implementers' Targets, Sources, and Channels for Communicating.” *Management Communication Quarterly* 13 (1): 43-75. https://doi.org/10.1177/0893318999131002.
+
+Morrison, Elizabeth Wolfe. 2023. “Employee Voice and Silence: Taking Stock a Decade Later.” *Annual Review of Organizational Psychology and Organizational Behavior* 10: 79-107. https://doi.org/10.1146/annurev-orgpsych-120920-054654.
+
+Nilsen, Per. 2015. “Making Sense of Implementation Theories, Models and Frameworks.” *Implementation Science* 10: 53. https://doi.org/10.1186/s13012-015-0242-0.
+
+Oreg, Shaul, Maria Vakola, and Achilles Armenakis. 2011. “Change Recipients' Reactions to Organizational Change: A 60-Year Review of Quantitative Studies.” *Journal of Applied Behavioral Science* 47 (4): 461-524. https://doi.org/10.1177/0021886310396550.
+
+Oreg, Shaul, and Noga Sverdlik. 2026. “Responses to Organizational Change: Evolution of the Concept, Established Findings, and Future Directions.” *Annual Review of Organizational Psychology and Organizational Behavior* 13: 387-413. https://doi.org/10.1146/annurev-orgpsych-020924-064623.
+
+Oreg, Shaul. 2006. “Personality, Context, and Resistance to Organizational Change.” *European Journal of Work and Organizational Psychology* 15 (1): 73-101. https://doi.org/10.1080/13594320500451247.
+
+Pettigrew, Andrew M., Richard W. Woodman, and Kim S. Cameron. 2001. “Studying Organizational Change and Development: Challenges for Future Research.” *Academy of Management Journal* 44 (4): 697-713. https://doi.org/10.5465/3069411.
+
+Piderit, Sandy Kristin. 2000. “Rethinking Resistance and Recognizing Ambivalence: A Multidimensional View of Attitudes toward an Organizational Change.” *Academy of Management Review* 25 (4): 783-94. https://doi.org/10.5465/amr.2000.3707722.
+
+Rafferty, Alannah E., Nerina L. Jimmieson, and Achilles A. Armenakis. 2013. “Change Readiness: A Multilevel Review.” *Journal of Management* 39 (1): 110-35. https://doi.org/10.1177/0149206312457417.
+
+Stouten, Jeroen, Denise M. Rousseau, and David De Cremer. 2018. “Successful Organizational Change: Integrating the Management Practice and Scholarly Literatures.” *Academy of Management Annals* 12 (2): 752-88. https://doi.org/10.5465/annals.2016.0095.
+
+Weiner, Bryan J. 2009. “A Theory of Organizational Readiness for Change.” *Implementation Science* 4: 67. https://doi.org/10.1186/1748-5908-4-67.
+
+MODEL, PROFESSIONAL AND COURSE ATTRIBUTION
+
+Hiatt, Jeff. 2006. *ADKAR: A Model for Change in Business, Government and Our Community*. Loveland, CO: Prosci Research. Book identity and model baseline checked; full book not read for this plan.
+
+Creasey, Tim. 2025. “The Prosci ADKAR Model: Why It Works.” Prosci. Updated April 18, 2025. https://www.prosci.com/blog/why-the-adkar-model-works.
+
+Prosci. 2022. “ADKAR Assessment.” https://www.prosci.com/hubfs/2.downloads/webinars/ADKAR-Assessment-Personal-Fillable-2022.pdf.
+
+Prosci. n.d.-a. “The Prosci ADKAR Model.” Accessed October 7, 2026. https://www.prosci.com/methodology/adkar.
+
+Prosci. n.d.-b. “The Prosci Change Triangle PCT Model.” Accessed October 7, 2026. https://www.prosci.com/methodology/pct-model.
+
+Prosci. n.d.-c. “Prosci 3-Phase Process.” Accessed October 7, 2026. https://www.prosci.com/methodology/3-phase-process.
+
+Prosci. n.d.-d. “ADKAR Assessments.” Help Center. Accessed October 7, 2026. https://www.prosci.com/migration/en/help-center/adkar-assessments.
+
+Murdoch University. 2026. *BUS230 Change Management Unit Outline TSD 2026*, section 5.2.2. Local retained copy in Materials/UnitOutline. The explicit Chicago instruction and the example APA reference instruction conflict.
+
+Murdoch University. n.d.-a. “BUS230 Ass 2 Marking Rubric.” Local DOCX in Materials/20 Assessment Two. All eleven criteria were read, including the HD source and timing descriptors.
+
+Murdoch University. n.d.-b. “List of Tools, Models, and Frameworks.” Local PDF in Materials/14 Sessions 9 - Embedding/Engaging Toolkit. ADKAR is listed on page 1.
+
+Murdoch University. n.d.-c. “BUS230 Topics 1 to 8.” Local podcast slides, workshop slides and lecture transcripts in Materials. Topic 2 supplies actors and readiness; Topic 3 constructive resistance; Topic 7 model scope and contextual judgement; Topic 8 dialogue and communication. Topics 1, 4, 5 and 6 support drivers and system alignment. Recorded videos were not watched again; the local transcripts were used.
+
+Moodle. 2026. “BUS230 Assessment 2 Presentation Material Group Submission Portal.” Read-only API check on October 14, 2026, at 13:49 Dubai. Due timestamp 1793980740 equals November 6, 2026, at 19:59 Dubai. Group-specific presentation date not found.
+
+
+
+ACCESS BOUNDARY
+Retains the verification and access scope recorded in the 14 October source register. This revision adds no new empirical study. Do not claim all full texts or the full Hiatt book were read. Lecturer clarification resolves the total-slide limit, not the Chicago/APA wording conflict or the 20/20+ rubric wording.

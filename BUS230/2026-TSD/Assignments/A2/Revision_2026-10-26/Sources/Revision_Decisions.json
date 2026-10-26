@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-26",
+  "timezone": "Asia/Dubai",
+  "source_working_copy_sha256": "e2669e02464a06f87e55bad224b81a82dbdbe20bfaec8deaa5845a4ae6f672f6",
+  "source_original_untouched": true,
+  "lecturer_evidence": "Lecturer_Clarification_Provided_2026-10-26.jpg",
+  "changes": [
+    "30 total slides including references",
+    "research 19–22; communication/engagement 23–26; wrap-up 27–30",
+    "one short interaction plus five-case team game",
+    "all slides visible; no hidden appendix",
+    "first three speaker budgets revised to six minutes each"
+  ],
+  "game_access": "pending separate authorised development chat",
+  "prizes": "backlog only",
+  "team_agreement": "not independently confirmed",
+  "planned_total_with_questions_seconds": 1730,
+  "timing_measured": false
+}

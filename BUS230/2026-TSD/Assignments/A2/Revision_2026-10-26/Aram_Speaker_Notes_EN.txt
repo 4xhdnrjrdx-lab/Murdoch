@@ -1,0 +1,176 @@
+BUS230 ASSESSMENT 2 — ARAM SPEAKER NOTES
+Revision: 26 October 2026, Asia/Dubai
+
+WORKING VERSION: the game access link is pending. Do not use this file as proof of a live game.
+All times are planned, not measured.
+Mazin 00:00–06:00; Beryl 06:00–12:00; Faiaz 12:00–18:00; Aram 18:00–27:50; questions to 28:50.
+The 30-minute maximum includes joining, play, discussion, references and questions.
+
+SLIDE 19: Research behind the decision record
+Aram / 18:00–18:40
+
+SAY THIS
+Three research areas inform our design. Baldwin and Ford distinguish learning from its transfer to work. Edmondson links psychological safety with team learning behaviour. Morrison reviews employee voice and silence. These ideas support observing realistic work, discussing mistakes and recording responses to concerns. None of these studies tests our Cedar Retail record. They support our design choices, while the effectiveness of the combined tool remains unverified.
+
+PRESENTER CUES
+18:00–18:40. Explain the research implication and its boundary. Do not claim a review of every full text or that the studies tested our adaptation.
+
+SOURCES
+Baldwin and Ford 1988; Edmondson 1999; Morrison 2023
+
+============================================================
+
+SLIDE 20: Benchmark against existing practice
+Aram / 18:40–19:10
+
+SAY THIS
+ADKAR already provides individual diagnosis and support. Wider Prosci includes organisational process and sponsorship. Change research supports contextual judgement and participation. Our record makes responsibilities and decision evidence explicit. These comparisons inform the proposal, but they do not establish that it works at Cedar Retail.
+
+PRESENTER CUES
+
+
+SOURCES
+Prosci n.d.-a, n.d.-b, n.d.-c, n.d.-d; Stouten, Rousseau, and De Cremer 2018; Errida and Lotfi 2021
+
+============================================================
+
+SLIDE 21: Cedar Retail: conflicting evidence
+Aram / 19:10–19:40
+
+SAY THIS
+The colleague explains the procedure, which gives some evidence of Knowledge. The scanner is unreliable, practice time is missing and no realistic demonstration has taken place. Ability remains unverified. We pause the affected task and assign its prerequisites. Repairs and practice remain pending until evidence confirms completion.
+
+PRESENTER CUES
+19:10–19:40. Distinguish proposed actions from completed repairs, practice or policy decisions.
+
+SOURCES
+Baldwin and Ford 1988; Kluger and DeNisi 1996; fictional teaching example
+
+============================================================
+
+SLIDE 22: Research insights and a pilot
+Aram / 19:40–20:00
+
+SAY THIS
+Research supports considering context and participation. A small pilot should compare decisions, task errors, unresolved conditions and maintenance time with current practice. Classroom answers show scenario understanding. Workplace Ability requires separate observation.
+
+PRESENTER CUES
+19:40–20:00. Do not present proposed evaluation questions as measured results.
+
+SOURCES
+Weiner 2009; Rafferty, Jimmieson, and Armenakis 2013; Nilsen 2015; Stouten, Rousseau, and De Cremer 2018
+
+============================================================
+
+SLIDE 23: Communication and manager workflow
+Aram / 20:00–20:25
+
+SAY THIS
+Colleagues need a briefing, practice and a chance to raise concerns. IT and management share completion evidence. The sponsor explains policy decisions. Our workflow connects diagnosis to named owners, verified evidence and a decision with a review trigger.
+
+PRESENTER CUES
+
+
+SOURCES
+Lewis 1999; Morrison 2023; Oreg and Sverdlik 2026; BUS230 Topic 8
+
+============================================================
+
+SLIDE 24: Your management decision
+Aram / 20:25–21:10
+
+SAY THIS
+The colleague knows the steps, but equipment and practice time are missing. Which task decision would you choose? Discuss for fifteen seconds. [PAUSE.] One short reason? [LISTEN.] C is our recommendation. Pause the affected task, resolve the conditions, then observe performance.
+
+PRESENTER CUES
+20:25–21:10. One short audience interaction: 10 seconds to read, 15 to discuss, 10 for one response, 10 for feedback. If no response, explain the recommended answer. This is the only extra audience question outside the game. Do not turn the next slide into another quiz.
+
+SOURCES
+Fictional Cedar Retail scenario; apply the proposed decision rules
+
+============================================================
+
+SLIDE 25: Cedar Retail office challenge
+Aram / 21:10–25:40
+
+SAY THIS
+Use one phone per team of four. Open the game and choose your assigned Team 1, Team 2 or Team 3. Visit all five colleagues in any order. Discuss each problem, then choose how to investigate and act. You have four minutes. Use the feedback and try again if needed.
+
+PRESENTER CUES
+21:10–25:40 includes 30 seconds to join and four minutes to play. Planned duration only. The game and public access URL are not built yet. Replace the access placeholder with the verified QR and short URL after the separate game task, then rehearse on phones. Do not claim results have been sent to a live host. In the future game, each first decision remains recorded despite retries. Teams see a neutral completion screen. Prize logic stays in the backlog and is not mentioned to players here. If the game is unavailable during rehearsal, explain the five cases using the fallback in Game_Brief_RU.md. Do not represent the fallback as a completed online game.
+
+SOURCES
+Fictional learning activity; workplace performance requires separate evidence
+
+============================================================
+
+SLIDE 26: Five situations, different responses
+Aram / 25:40–26:20
+
+SAY THIS
+The five situations need different responses. Anna needs a clear explanation of why the change matters. Omar’s concern needs investigation and a reasoned sponsor response. Mia needs instruction and guided practice. Leo needs usable conditions and a realistic observation before Ability can be verified. Sara needs renewed feedback and follow-up after earlier successful use. These are decisions for our fictional cases. Completing the game does not prove a manager can apply the approach at work.
+
+PRESENTER CUES
+25:40–26:20. Explain this synthesis without adding another audience poll or question. Show no rankings, rewards or team error counts on this slide.
+
+SOURCES
+Prosci n.d.-a, n.d.-d; Baldwin and Ford 1988; Morrison 2023; fictional teaching cases
+
+============================================================
+
+SLIDE 27: Conclusion
+Aram / 26:20–27:00
+
+SAY THIS
+Our conclusion returns to the three objectives. ADKAR provides a useful language for individual support. Our proposed record makes organisational conditions, owners and dependencies explicit. It also requires a reasoned response to concerns and an evidence-based task decision. Managers can then explain why they continue, revise or pause an affected task. The proposal complements existing provision. We have shown its logic through a fictional case, rather than established its effectiveness in practice.
+
+PRESENTER CUES
+
+
+SOURCES
+Team synthesis informed by the cited literature; proposed adaptation remains untested
+
+============================================================
+
+SLIDE 28: Recommendations and design lesson
+Aram / 27:00–27:40
+
+SAY THIS
+We recommend trying the record on one task before wider use. Agree the evidence criteria and accountable owners, then compare the decisions and maintenance burden with current practice. Our design lesson is that identifying an individual need does not complete the organisational work required to respond. This lesson comes from our analysis and comparison, not a claimed field trial or an invented personal experience. Thank you. The next two slides provide our references, and we welcome questions.
+
+PRESENTER CUES
+27:00–27:40. Recommendations and reflection both belong to the wrap-up. Move through the two reference pages in ten seconds, then allow up to one minute for questions. Target finish 28:50, with 1:10 margin inside the 30-minute maximum. Rehearse before relying on this plan.
+
+SOURCES
+Nilsen 2015; Stouten, Rousseau, and De Cremer 2018; team design synthesis
+
+============================================================
+
+SLIDE 29: References A–L
+Aram / 27:40–27:45
+
+SAY THIS
+Reference list. Do not read the entries aloud. These sources inform the analysis. Source access and verification boundaries remain those recorded in the 14 October research register. Full model, professional and course attributions also appear below and in the companion reference document.
+
+PRESENTER CUES
+Display briefly. Both reference slides count toward the 30-slide total and remain visible in the slide sequence.
+
+SOURCES
+Chicago 17 author-date; 20 academic publications across slides 29–30
+
+============================================================
+
+SLIDE 30: References M–W
+Aram / 27:45–27:50
+
+SAY THIS
+Reference list. Do not read the entries aloud. These sources inform the analysis. Source access and verification boundaries remain those recorded in the 14 October research register. Full model, professional and course attributions also appear below and in the companion reference document.
+
+PRESENTER CUES
+Display briefly. Both reference slides count toward the 30-slide total and remain visible in the slide sequence.
+
+SOURCES
+Chicago 17 author-date; 20 academic publications across slides 29–30
+
+============================================================
+

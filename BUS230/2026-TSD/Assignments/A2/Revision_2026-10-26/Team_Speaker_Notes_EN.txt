@@ -1,0 +1,429 @@
+BUS230 ASSESSMENT 2 — TEAM SPEAKER NOTES
+Revision: 26 October 2026, Asia/Dubai
+
+WORKING VERSION: the game access link is pending. Do not use this file as proof of a live game.
+All times are planned, not measured.
+Mazin 00:00–06:00; Beryl 06:00–12:00; Faiaz 12:00–18:00; Aram 18:00–27:50; questions to 28:50.
+The 30-minute maximum includes joining, play, discussion, references and questions.
+
+SLIDE 1: Using ADKAR with
+Context and Evidence
+Mazin / 00:00–01:00
+
+SAY THIS
+Good afternoon. We are Class 2 Group 4. Today we will use ADKAR to examine a management problem at a fictional retailer, Cedar Retail. We keep ADKAR’s five outcomes and propose a decision record that makes working conditions and responsibilities explicit. This is a formal training session for managers. We will explain the model, examine its limits, show our proposed record and practise making a decision. Our proposal has not been tested in a real organisation.
+
+PRESENTER CUES
+Planned one-minute slot within a six-minute speaker block. Explain the slide rather than reading the citations. Timing requires rehearsal.
+
+SOURCES
+Prosci n.d.-a; BUS230 Unit Outline §5.2.2
+
+============================================================
+
+SLIDE 2: The management session
+Mazin / 01:00–02:00
+
+SAY THIS
+The session has six sections. We begin with the retail case and our objectives. We then explain ADKAR and four limitations of using its five outcomes as a standalone checklist. Next, we show our proposed decision record. Research provides a basis for the design and also sets limits on our claims. Finally, you will apply the approach in a short discussion and a team office activity. We will close with recommendations and questions.
+
+PRESENTER CUES
+Planned one-minute slot within a six-minute speaker block. Explain the slide rather than reading the citations. Timing requires rehearsal.
+
+SOURCES
+BUS230 Unit Outline §5.2.2
+
+============================================================
+
+SLIDE 3: Cedar Retail: the change
+Mazin / 02:00–03:00
+
+SAY THIS
+Cedar Retail is a fictional retailer introducing digital stock receiving. A colleague must receive a delivery, scan stock and report a mismatch. On the evening shift, the scanner is unreliable and the roster provides no protected practice time. The colleague also questions penalties for inherited stock errors. This gives managers both an individual learning question and organisational issues to resolve. We use the case for teaching. It contains no real company data or observed business results.
+
+PRESENTER CUES
+Planned one-minute slot within a six-minute speaker block. Explain the slide rather than reading the citations. Timing requires rehearsal.
+
+SOURCES
+Fictional teaching scenario; no company research data
+
+============================================================
+
+SLIDE 4: Three manager objectives
+Mazin / 03:00–04:00
+
+SAY THIS
+By the end, a manager should be able to do three things. First, identify the person’s individual ADKAR need and choose relevant support. Second, connect that need to the task’s working conditions and accountable owners. Third, use task evidence to decide whether to continue, revise the design or pause an affected task. These objectives guide our record and the classroom activity. Completing the activity shows understanding of the scenario, rather than proof of ability in an actual workplace.
+
+PRESENTER CUES
+Planned one-minute slot within a six-minute speaker block. Explain the slide rather than reading the citations. Timing requires rehearsal.
+
+SOURCES
+Prosci n.d.-a; Nilsen 2015
+
+============================================================
+
+SLIDE 5: The original ADKAR model
+Mazin / 04:00–05:00
+
+SAY THIS
+ADKAR describes five outcomes of individual change. Awareness means understanding why change is needed. Desire concerns willingness to participate. Knowledge concerns how to change. Ability means applying the relevant skills and behaviours. Reinforcement supports continued use. A manager assesses the person’s needs and provides suitable support, starting with the earliest barrier. Training, coaching and repeated assessment already belong to the baseline approach. We do not present those existing provisions as inventions of our team.
+
+PRESENTER CUES
+Planned one-minute slot within a six-minute speaker block. Explain the slide rather than reading the citations. Timing requires rehearsal.
+
+SOURCES
+Prosci n.d.-a; Creasey 2025
+
+============================================================
+
+SLIDE 6: ADKAR and the wider method
+Mazin / 05:00–06:00
+
+SAY THIS
+We distinguish ADKAR from the wider Prosci Methodology. ADKAR helps managers identify individual support needs. The wider methodology also includes organisational process, sponsorship and project health through the PCT and the 3-Phase Process. Ability can involve external working conditions. Our criticism therefore concerns using the five outcomes alone as a checklist. We do not claim that the wider Prosci approach ignores organisations. Beryl will now explain the remaining gaps and how they inform our proposal.
+
+PRESENTER CUES
+Planned one-minute slot within a six-minute speaker block. Explain the slide rather than reading the citations. Timing requires rehearsal.
+
+SOURCES
+Prosci 2022; Prosci n.d.-b, n.d.-c, n.d.-d; Holt et al. 2007
+
+============================================================
+
+SLIDE 7: 01 / Shared working conditions
+Beryl / 06:00–07:00
+
+SAY THIS
+Our first limitation concerns shared working conditions. ADKAR recognises that Ability can depend on external conditions. However, a five-outcome checklist does not itself allocate responsibility across IT, a store manager and a sponsor. At Cedar Retail, the IT lead owns scanner access and the manager owns practice time. Our added conditions record makes those responsibilities explicit for the affected task. Weiner and the multilevel readiness literature support considering collective conditions. They do not validate our particular record.
+
+PRESENTER CUES
+Planned one-minute slot within a six-minute speaker block. Explain the slide rather than reading the citations. Timing requires rehearsal.
+
+SOURCES
+Weiner 2009; Rafferty, Jimmieson, and Armenakis 2013; Oreg, Vakola, and Armenakis 2011
+
+============================================================
+
+SLIDE 8: 02 / A reasonable objection
+Beryl / 07:00–08:00
+
+SAY THIS
+The second limitation concerns a reasonable objection to the design. A colleague may support better stock records and still question a penalty rule. Piderit’s work on ambivalence and research on resistance help explain why a mixed response deserves investigation. Our addition requires the sponsor to record a reasoned decision about the concern. The sponsor may retain, revise or stop the disputed rule. We must investigate whether the rule is unfair. The fictional colleague’s concern alone does not establish that conclusion.
+
+PRESENTER CUES
+Planned one-minute slot within a six-minute speaker block. Explain the slide rather than reading the citations. Timing requires rehearsal.
+
+SOURCES
+Piderit 2000; Oreg 2006; Ford, Ford, and D'Amelio 2008; Oreg and Sverdlik 2026
+
+============================================================
+
+SLIDE 9: 03 / Dependencies across roles
+Beryl / 08:00–09:00
+
+SAY THIS
+The third limitation concerns dependencies across roles. Individual support and organisational work may need to happen together. A colleague can learn the procedure while IT repairs access and the manager arranges practice. A dependency register links each enabling condition to the task that depends on it, its owner and completion evidence. Systems and contextual change research inform this design. We keep the individual ADKAR assessment and add a route for work that crosses organisational roles.
+
+PRESENTER CUES
+Planned one-minute slot within a six-minute speaker block. Explain the slide rather than reading the citations. Timing requires rehearsal.
+
+SOURCES
+Burke and Litwin 1992; Herold, Fedor, and Caldwell 2007; Pettigrew, Woodman, and Cameron 2001; BUS230 Topic 7
+
+============================================================
+
+SLIDE 10: Four limitations, four additions
+Beryl / 09:00–10:00
+
+SAY THIS
+The fourth limitation concerns conflicting evidence. A colleague’s readiness rating, a task demonstration and actual working conditions may tell different stories. Our evidence rule requires the manager to investigate that conflict and keep readiness unverified until relevant evidence supports the task decision. This slide matches each gap to one addition: conditions and ownership, a reasoned sponsor response, dependency routing and the evidence rule. These are proposed management rules. They are not new validated measures of readiness.
+
+PRESENTER CUES
+Planned one-minute slot within a six-minute speaker block. Explain the slide rather than reading the citations. Timing requires rehearsal.
+
+SOURCES
+Holt et al. 2007; Jo and Hong 2023; Prosci n.d.-d
+
+============================================================
+
+SLIDE 11: Our modified decision tool
+Beryl / 10:00–11:00
+
+SAY THIS
+Our proposed tool keeps the individual ADKAR assessment. It adds conditions, employee concerns, dependencies and task evidence to one decision record. The manager then records a decision, its reason, a named owner and a review trigger. A review may lead to continuing, revising the design or pausing the affected task. We build on existing ideas rather than replacing the complete Prosci Methodology. The record’s usefulness and the time it requires still need to be tested.
+
+PRESENTER CUES
+Planned one-minute slot within a six-minute speaker block. Explain the slide rather than reading the citations. Timing requires rehearsal.
+
+SOURCES
+Prosci n.d.-a, n.d.-b, n.d.-c, n.d.-d; design proposal
+
+============================================================
+
+SLIDE 12: Conditions and concerns
+Beryl / 11:00–12:00
+
+SAY THIS
+Here are example entries for Cedar Retail. Reliable scanner access is missing, so the IT lead owns that condition. Practice time is missing from the roster, so the store manager owns it. The concern about penalties goes to the operations sponsor for a reasoned response. These entries make the required work visible. They do not say that anyone has already repaired the scanner, changed the roster or approved a policy. Faiaz will now show how the entries connect in the complete tool.
+
+PRESENTER CUES
+Planned one-minute slot within a six-minute speaker block. Explain the slide rather than reading the citations. Timing requires rehearsal.
+
+SOURCES
+Ford, Ford, and D'Amelio 2008; design proposal; fictional entries
+
+============================================================
+
+SLIDE 13: The dependency register
+Faiaz / 12:00–13:00
+
+SAY THIS
+The dependency register links an upstream condition to a dependent action. Scanner access supports practice, and a successful login on the actual shift provides completion evidence. Protected time supports realistic practice, with the roster and completed task as evidence. The sponsor’s response clarifies the disputed rule. We assign each action to an organisational role. These roles are different from our student presentation roles. A completed entry requires evidence, rather than a promise that the owner will act later.
+
+PRESENTER CUES
+Planned one-minute slot within a six-minute speaker block. Explain the slide rather than reading the citations. Timing requires rehearsal.
+
+SOURCES
+Burke and Litwin 1992; Herold, Fedor, and Caldwell 2007; Pettigrew, Woodman, and Cameron 2001
+
+============================================================
+
+SLIDE 14: One complete decision record
+Faiaz / 13:00–14:00
+
+SAY THIS
+The complete record asks five sets of questions. What is the task and whose work is affected? Which individual ADKAR need requires support? What condition or concern needs an owner? What must happen first, and what evidence is available? Finally, what decision follows and when will the manager review it? Keep the record focused on one task so it remains usable. The record supports a reasoned discussion. It does not calculate a validated readiness score.
+
+PRESENTER CUES
+Planned one-minute slot within a six-minute speaker block. Explain the slide rather than reading the citations. Timing requires rehearsal.
+
+SOURCES
+Design proposal informed by Weiner 2009 and Pettigrew, Woodman, and Cameron 2001
+
+============================================================
+
+SLIDE 15: Implementation and owners
+Faiaz / 14:00–15:00
+
+SAY THIS
+Implementation starts by agreeing the task and evidence criteria with the colleague. The relevant owners then address conditions and respond to concerns. Some actions can run in parallel. The colleague practises in usable conditions, and the manager observes the representative task. Finally, the manager records a decision and review trigger. These steps prevent an assigned action from being mistaken for completed work. Our classroom example illustrates the process. It does not demonstrate a completed implementation.
+
+PRESENTER CUES
+Planned one-minute slot within a six-minute speaker block. Explain the slide rather than reading the citations. Timing requires rehearsal.
+
+SOURCES
+Pettigrew, Woodman, and Cameron 2001; BUS230 Topics 4-7
+
+============================================================
+
+SLIDE 16: Continue, revise or pause
+Faiaz / 15:00–16:00
+
+SAY THIS
+Our proposed decision rules have three outcomes. Continue when the necessary conditions and task evidence support proceeding with follow-up. Revise when the design needs a reasoned change. Pause the affected task when an essential prerequisite is missing. A task-level pause does not stop the entire change project. Training and repairs may continue while the task remains on hold. The decision record must explain the scope and what evidence would allow the manager to reconsider it.
+
+PRESENTER CUES
+Planned one-minute slot within a six-minute speaker block. Explain the slide rather than reading the citations. Timing requires rehearsal.
+
+SOURCES
+Design proposal; Prosci n.d.-d; Nilsen 2015
+
+============================================================
+
+SLIDE 17: Feasibility and evaluation
+Faiaz / 16:00–17:00
+
+SAY THIS
+The proposal uses one shared digital record and existing manager, IT and sponsor roles. This may make responsibilities easier to follow, but it also takes time to maintain. A pilot should examine task accuracy, unresolved dependencies, the quality of responses to concerns and the time spent updating the record. These are proposed evaluation questions, not measured benefits. We should compare the approach with current practice before making claims about better outcomes.
+
+PRESENTER CUES
+Planned one-minute slot within a six-minute speaker block. Explain the slide rather than reading the citations. Timing requires rehearsal.
+
+SOURCES
+Nilsen 2015; Errida and Lotfi 2021
+
+============================================================
+
+SLIDE 18: Risks and practical safeguards
+Faiaz / 17:00–18:00
+
+SAY THIS
+The main risks are extra paperwork, sponsor inaction, weak task criteria and false confidence. Keep the record limited to essential fields, agree an escalation route and define a representative task before assessing Ability. Leave evidence gaps visible. A completed form alone cannot establish that the colleague can perform the work. Aram will now explain the supporting research, compare our proposal with existing provision and lead the management activity.
+
+PRESENTER CUES
+Planned one-minute slot within a six-minute speaker block. Explain the slide rather than reading the citations. Timing requires rehearsal.
+
+SOURCES
+Nilsen 2015; design risks
+
+============================================================
+
+SLIDE 19: Research behind the decision record
+Aram / 18:00–18:40
+
+SAY THIS
+Three research areas inform our design. Baldwin and Ford distinguish learning from its transfer to work. Edmondson links psychological safety with team learning behaviour. Morrison reviews employee voice and silence. These ideas support observing realistic work, discussing mistakes and recording responses to concerns. None of these studies tests our Cedar Retail record. They support our design choices, while the effectiveness of the combined tool remains unverified.
+
+PRESENTER CUES
+18:00–18:40. Explain the research implication and its boundary. Do not claim a review of every full text or that the studies tested our adaptation.
+
+SOURCES
+Baldwin and Ford 1988; Edmondson 1999; Morrison 2023
+
+============================================================
+
+SLIDE 20: Benchmark against existing practice
+Aram / 18:40–19:10
+
+SAY THIS
+ADKAR already provides individual diagnosis and support. Wider Prosci includes organisational process and sponsorship. Change research supports contextual judgement and participation. Our record makes responsibilities and decision evidence explicit. These comparisons inform the proposal, but they do not establish that it works at Cedar Retail.
+
+PRESENTER CUES
+
+
+SOURCES
+Prosci n.d.-a, n.d.-b, n.d.-c, n.d.-d; Stouten, Rousseau, and De Cremer 2018; Errida and Lotfi 2021
+
+============================================================
+
+SLIDE 21: Cedar Retail: conflicting evidence
+Aram / 19:10–19:40
+
+SAY THIS
+The colleague explains the procedure, which gives some evidence of Knowledge. The scanner is unreliable, practice time is missing and no realistic demonstration has taken place. Ability remains unverified. We pause the affected task and assign its prerequisites. Repairs and practice remain pending until evidence confirms completion.
+
+PRESENTER CUES
+19:10–19:40. Distinguish proposed actions from completed repairs, practice or policy decisions.
+
+SOURCES
+Baldwin and Ford 1988; Kluger and DeNisi 1996; fictional teaching example
+
+============================================================
+
+SLIDE 22: Research insights and a pilot
+Aram / 19:40–20:00
+
+SAY THIS
+Research supports considering context and participation. A small pilot should compare decisions, task errors, unresolved conditions and maintenance time with current practice. Classroom answers show scenario understanding. Workplace Ability requires separate observation.
+
+PRESENTER CUES
+19:40–20:00. Do not present proposed evaluation questions as measured results.
+
+SOURCES
+Weiner 2009; Rafferty, Jimmieson, and Armenakis 2013; Nilsen 2015; Stouten, Rousseau, and De Cremer 2018
+
+============================================================
+
+SLIDE 23: Communication and manager workflow
+Aram / 20:00–20:25
+
+SAY THIS
+Colleagues need a briefing, practice and a chance to raise concerns. IT and management share completion evidence. The sponsor explains policy decisions. Our workflow connects diagnosis to named owners, verified evidence and a decision with a review trigger.
+
+PRESENTER CUES
+
+
+SOURCES
+Lewis 1999; Morrison 2023; Oreg and Sverdlik 2026; BUS230 Topic 8
+
+============================================================
+
+SLIDE 24: Your management decision
+Aram / 20:25–21:10
+
+SAY THIS
+The colleague knows the steps, but equipment and practice time are missing. Which task decision would you choose? Discuss for fifteen seconds. [PAUSE.] One short reason? [LISTEN.] C is our recommendation. Pause the affected task, resolve the conditions, then observe performance.
+
+PRESENTER CUES
+20:25–21:10. One short audience interaction: 10 seconds to read, 15 to discuss, 10 for one response, 10 for feedback. If no response, explain the recommended answer. This is the only extra audience question outside the game. Do not turn the next slide into another quiz.
+
+SOURCES
+Fictional Cedar Retail scenario; apply the proposed decision rules
+
+============================================================
+
+SLIDE 25: Cedar Retail office challenge
+Aram / 21:10–25:40
+
+SAY THIS
+Use one phone per team of four. Open the game and choose your assigned Team 1, Team 2 or Team 3. Visit all five colleagues in any order. Discuss each problem, then choose how to investigate and act. You have four minutes. Use the feedback and try again if needed.
+
+PRESENTER CUES
+21:10–25:40 includes 30 seconds to join and four minutes to play. Planned duration only. The game and public access URL are not built yet. Replace the access placeholder with the verified QR and short URL after the separate game task, then rehearse on phones. Do not claim results have been sent to a live host. In the future game, each first decision remains recorded despite retries. Teams see a neutral completion screen. Prize logic stays in the backlog and is not mentioned to players here. If the game is unavailable during rehearsal, explain the five cases using the fallback in Game_Brief_RU.md. Do not represent the fallback as a completed online game.
+
+SOURCES
+Fictional learning activity; workplace performance requires separate evidence
+
+============================================================
+
+SLIDE 26: Five situations, different responses
+Aram / 25:40–26:20
+
+SAY THIS
+The five situations need different responses. Anna needs a clear explanation of why the change matters. Omar’s concern needs investigation and a reasoned sponsor response. Mia needs instruction and guided practice. Leo needs usable conditions and a realistic observation before Ability can be verified. Sara needs renewed feedback and follow-up after earlier successful use. These are decisions for our fictional cases. Completing the game does not prove a manager can apply the approach at work.
+
+PRESENTER CUES
+25:40–26:20. Explain this synthesis without adding another audience poll or question. Show no rankings, rewards or team error counts on this slide.
+
+SOURCES
+Prosci n.d.-a, n.d.-d; Baldwin and Ford 1988; Morrison 2023; fictional teaching cases
+
+============================================================
+
+SLIDE 27: Conclusion
+Aram / 26:20–27:00
+
+SAY THIS
+Our conclusion returns to the three objectives. ADKAR provides a useful language for individual support. Our proposed record makes organisational conditions, owners and dependencies explicit. It also requires a reasoned response to concerns and an evidence-based task decision. Managers can then explain why they continue, revise or pause an affected task. The proposal complements existing provision. We have shown its logic through a fictional case, rather than established its effectiveness in practice.
+
+PRESENTER CUES
+
+
+SOURCES
+Team synthesis informed by the cited literature; proposed adaptation remains untested
+
+============================================================
+
+SLIDE 28: Recommendations and design lesson
+Aram / 27:00–27:40
+
+SAY THIS
+We recommend trying the record on one task before wider use. Agree the evidence criteria and accountable owners, then compare the decisions and maintenance burden with current practice. Our design lesson is that identifying an individual need does not complete the organisational work required to respond. This lesson comes from our analysis and comparison, not a claimed field trial or an invented personal experience. Thank you. The next two slides provide our references, and we welcome questions.
+
+PRESENTER CUES
+27:00–27:40. Recommendations and reflection both belong to the wrap-up. Move through the two reference pages in ten seconds, then allow up to one minute for questions. Target finish 28:50, with 1:10 margin inside the 30-minute maximum. Rehearse before relying on this plan.
+
+SOURCES
+Nilsen 2015; Stouten, Rousseau, and De Cremer 2018; team design synthesis
+
+============================================================
+
+SLIDE 29: References A–L
+Aram / 27:40–27:45
+
+SAY THIS
+Reference list. Do not read the entries aloud. These sources inform the analysis. Source access and verification boundaries remain those recorded in the 14 October research register. Full model, professional and course attributions also appear below and in the companion reference document.
+
+PRESENTER CUES
+Display briefly. Both reference slides count toward the 30-slide total and remain visible in the slide sequence.
+
+SOURCES
+Chicago 17 author-date; 20 academic publications across slides 29–30
+
+============================================================
+
+SLIDE 30: References M–W
+Aram / 27:45–27:50
+
+SAY THIS
+Reference list. Do not read the entries aloud. These sources inform the analysis. Source access and verification boundaries remain those recorded in the 14 October research register. Full model, professional and course attributions also appear below and in the companion reference document.
+
+PRESENTER CUES
+Display briefly. Both reference slides count toward the 30-slide total and remain visible in the slide sequence.
+
+SOURCES
+Chicago 17 author-date; 20 academic publications across slides 29–30
+
+============================================================
+

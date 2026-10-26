@@ -1,0 +1,147 @@
+{
+  "status": "concept draft for discussion, not deployed",
+  "fictional": true,
+  "source": "Concept discussed in this BUS230 chat on 21–22 October; retained on 26 October",
+  "people": {
+    "anna": {
+      "name": "Anna",
+      "role": "Stock administration",
+      "skin": "#d7a184",
+      "hair": "#493329",
+      "shirt": "#ece9e1",
+      "problem": "“I know the steps, but I still don’t understand why we are replacing our paper records.”",
+      "question": "What should you ask first?",
+      "ask": [
+        "“Which step of the scanning process is difficult?”",
+        "“What would help you understand the reason for the change?”",
+        "“Have you seen the launch deadline?”"
+      ],
+      "askGood": 1,
+      "evidence": "Anna wants to understand the purpose. She is not asking for another procedure guide.",
+      "actionQuestion": "What should your team do next?",
+      "actions": [
+        "Send the procedure guide again.",
+        "Repeat the deadline and responsibilities.",
+        "Explain the stock-record problem, connect it to her work and invite questions."
+      ],
+      "actionGood": 2,
+      "wrongAsk": "Check what Anna is actually questioning: the reason for change, rather than the steps or the date.",
+      "wrongAction": "More instructions or a deadline do not answer the question about purpose.",
+      "event": "Anna joins the shift briefing and asks how the change will affect her daily work.",
+      "note": "Awareness support has started. Other readiness needs still require checking.",
+      "marker": "Briefing arranged"
+    },
+    "omar": {
+      "name": "Omar",
+      "role": "Inventory records",
+      "skin": "#a46e4a",
+      "hair": "#2e2925",
+      "shirt": "#575951",
+      "problem": "“I support better records, but I am worried the new rating will blame me for old stock errors.”",
+      "question": "What evidence should you examine?",
+      "ask": [
+        "Check which errors the rating rule includes and record his concern.",
+        "Ask whether Omar feels motivated enough.",
+        "Ask IT whether his account is active."
+      ],
+      "askGood": 0,
+      "evidence": "The rating rule is disputed. The sponsor needs to check how inherited errors are treated.",
+      "actionQuestion": "What should your team do next?",
+      "actions": [
+        "Promise the policy is fair before checking it.",
+        "Ask the sponsor to review the rule and communicate a reasoned decision.",
+        "Offer another motivational talk."
+      ],
+      "actionGood": 1,
+      "wrongAsk": "Investigate the policy concern before assuming unwillingness or an access problem.",
+      "wrongAction": "Reassurance or motivation alone does not establish whether the rule is fair.",
+      "event": "A policy-review request reaches the operations sponsor, with the concern and an accountable owner.",
+      "note": "The response is pending. A request is not evidence that the policy has already changed.",
+      "marker": "Sponsor review pending"
+    },
+    "mia": {
+      "name": "Mia",
+      "role": "Delivery support",
+      "skin": "#c8916f",
+      "hair": "#262423",
+      "shirt": "#ff5500",
+      "problem": "“The scanner works. I want to use the system, but I don’t know how to record a delivery mismatch.”",
+      "question": "What should you check first?",
+      "ask": [
+        "Ask whether she supports the reason for change.",
+        "Schedule an independent task test immediately.",
+        "Ask whether the mismatch procedure has been explained and demonstrated."
+      ],
+      "askGood": 2,
+      "evidence": "Mia has only been shown a normal delivery. The exception process has not been taught.",
+      "actionQuestion": "What should your team do next?",
+      "actions": [
+        "Demonstrate a mismatch, guide practice and ask her to explain the steps.",
+        "Repeat why accurate stock records matter.",
+        "Ask her to try alone and review errors later."
+      ],
+      "actionGood": 0,
+      "wrongAsk": "Identify the missing instruction before asking for independent performance.",
+      "wrongAction": "Mia needs the procedure and supported practice before working independently.",
+      "event": "The manager and Mia work through a sample mismatch together.",
+      "note": "Explaining the steps supports Knowledge. Realistic performance is still needed to verify Ability.",
+      "marker": "Practice arranged"
+    },
+    "leo": {
+      "name": "Leo",
+      "role": "Evening-shift receiving",
+      "skin": "#e1b191",
+      "hair": "#82654a",
+      "shirt": "#565652",
+      "problem": "“I can explain the procedure, but I still cannot complete the task on my shift.”",
+      "question": "What should you investigate?",
+      "ask": [
+        "Ask him to repeat his confidence score.",
+        "Check scanner reliability, practice time and realistic task evidence.",
+        "Check whether he remembers the launch date."
+      ],
+      "askGood": 1,
+      "evidence": "The scanner is unreliable, there is no protected practice time, and the task has not been observed in usable conditions.",
+      "actionQuestion": "What should your team do next?",
+      "actions": [
+        "Start the task with a supervisor and review errors afterwards.",
+        "Repeat the same training course.",
+        "Pause this task; allocate scanner repair and practice time, then observe a realistic attempt."
+      ],
+      "actionGood": 2,
+      "wrongAsk": "Self-report and deadlines do not establish whether the equipment, time and task evidence are adequate.",
+      "wrongAction": "An essential condition is missing. More training or supervision alone does not remove it.",
+      "event": "IT receives the scanner issue; the store manager protects practice time and schedules a task observation.",
+      "note": "Only the affected task stays paused. Ability remains unverified until conditions and performance are checked.",
+      "marker": "Conditions being addressed"
+    },
+    "sara": {
+      "name": "Sara",
+      "role": "Stock-control follow-up",
+      "skin": "#85543b",
+      "hair": "#272320",
+      "shirt": "#eeede7",
+      "problem": "“I used the system correctly in the pilot, but old paper forms are coming back.”",
+      "question": "What should you check first?",
+      "ask": [
+        "Check whether equipment, knowledge or follow-up has changed.",
+        "Assume she needs the introductory course again.",
+        "Ask only whether she has seen the latest reminder."
+      ],
+      "askGood": 0,
+      "evidence": "The equipment works and Sara knows the procedure. Reviews and feedback stopped after the pilot.",
+      "actionQuestion": "What should your team do next?",
+      "actions": [
+        "Send another reminder and close the issue.",
+        "Arrange brief reviews, task-focused feedback and a way to raise new obstacles.",
+        "Book the same introductory course again."
+      ],
+      "actionGood": 1,
+      "wrongAsk": "Check the current barrier instead of assuming that earlier training has been forgotten.",
+      "wrongAction": "A reminder or repeat course alone does not supply the missing follow-up.",
+      "event": "A regular review and feedback conversation is added to the manager’s schedule.",
+      "note": "Reinforcement needs continuing support. Lasting adoption is not proved by a single reminder or review.",
+      "marker": "Follow-up scheduled"
+    }
+  }
+}

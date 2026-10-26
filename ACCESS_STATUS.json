@@ -1,8 +1,8 @@
 {
   "mail": {
-    "checked_at": "2026-10-25T14:41:58.109857+04:00",
-    "scope": "Since 20 October: course codes BUS219/BUS225/BUS230/BUS334 and Student/Academic Services; additional instructor-address and subject exam/assessment search. Both searches exhausted.",
-    "result": "Прочитано письмо Ashok от 24 октября: BUS334 A4 12 ноября, явка 16:15, Room 106; каждому supporting materials за 24 часа. Полный Outlook/WhatsApp не охвачены.",
+    "checked_at": "2026-10-26",
+    "scope": "after:2026/10/21 (BUS230 OR \"Change Management\")",
+    "result": "В заданном поиске новых инструкций A2 нет. Полный Outlook/WhatsApp не охвачены.",
     "last_check_by_course": {
       "BUS219": {
         "checked_at": "2026-10-25T14:41:58.109857+04:00",
@@ -12,11 +12,12 @@
         "evidence": "Archive/Correspondence/2026-10-25_general-deadlines-check.json"
       },
       "BUS230": {
-        "checked_at": "2026-10-25T14:41:58.109857+04:00",
+        "checked_at": "2026-10-26",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "Since 20 October: course codes BUS219/BUS225/BUS230/BUS334 and Student/Academic Services; additional instructor-address and subject exam/assessment search. Both searches exhausted.",
-        "result": "Новых сроков в заданном охвате не найдено.",
-        "evidence": "Archive/Correspondence/2026-10-25_general-deadlines-check.json"
+        "scope": "after:2026/10/21 (BUS230 OR \"Change Management\")",
+        "result": "В заданном поиске новых инструкций A2 нет. Полный Outlook/WhatsApp не охвачены.",
+        "evidence": "BUS230/2026-TSD/Correspondence/2026-10-26_A2-revision-check.json",
+        "timestamp_precision": "date; exact Gmail tool-call time not retained"
       },
       "BUS225": {
         "checked_at": "2026-10-25T14:41:58.109857+04:00",
@@ -33,7 +34,7 @@
         "evidence": "Archive/Correspondence/2026-10-25_general-deadlines-check.json"
       }
     },
-    "evidence": "Archive/Correspondence/2026-10-25_general-deadlines-check.json",
+    "evidence": "BUS230/2026-TSD/Correspondence/2026-10-26_A2-revision-check.json",
     "outlook_attempt": {
       "attempted_at": "2026-10-07T13:31:59.360199+04:00",
       "result": "No accessible Outlook tab in connected browser inventory; no Outlook connector available in this chat",
@@ -43,7 +44,7 @@
       "preferred_account": "jafarovfayaz@gmail.com",
       "preference_source": "Прямое сообщение пользователя 8 октября 2026: основная почта fayaz201499@gmail.com; для учёбы подключить jafarovfayaz@gmail.com",
       "last_verified_connected_account": "jafarovfayaz@gmail.com",
-      "profile_verified_at": "2026-10-17T03:04:05.007342+04:00",
+      "profile_verified_at": "2026-10-26",
       "switch_status": "verified",
       "personal_account_for_study_checks": "do_not_use",
       "forwarding_observation": {
@@ -100,16 +101,17 @@
         "result": "No matching messages; search exhausted.",
         "evidence": "Archive/Correspondence/2026-10-20_august-2027-completion-request.json"
       }
-    }
+    },
+    "timestamp_precision": "date; exact Gmail tool-call time not retained"
   },
   "lms": {
-    "checked_at": "2026-10-25T14:39:45.386299+04:00",
+    "checked_at": "2026-10-26T19:02:02.570675+04:00",
     "result": "ok",
-    "operation": "Read-only assignment dates and own submissions, quizzes and own BUS219 attempts, four course news forums",
+    "operation": "Read-only BUS230 A2 assignments and group submission status",
     "last_success_by_course": {
       "BUS219": "2026-10-25T14:39:45.386299+04:00",
       "BUS225": "2026-10-25T14:39:45.386299+04:00",
-      "BUS230": "2026-10-25T14:39:45.386299+04:00",
+      "BUS230": "2026-10-26T19:02:02.570675+04:00",
       "BUS334": "2026-10-25T14:39:45.386299+04:00"
     },
     "token_expiry": "unknown",
@@ -125,7 +127,7 @@
     "evidence": {
       "BUS219": "Archive/Correspondence/2026-10-25_general-deadlines-check.json",
       "BUS225": "Archive/Correspondence/2026-10-25_general-deadlines-check.json",
-      "BUS230": "Archive/Correspondence/2026-10-25_general-deadlines-check.json",
+      "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-26_A2-revision-check.json",
       "BUS334": "Archive/Correspondence/2026-10-25_general-deadlines-check.json"
     },
     "enrolment_check": {
@@ -135,11 +137,10 @@
       "evidence": "Archive/Correspondence/2026-10-19_degree-progress.json"
     },
     "latest_bus230_a2_check": {
-      "checked_at": "2026-10-21",
-      "timestamp_precision": "date; exact earlier API/search times not retained",
+      "checked_at": "2026-10-26T19:02:02.570675+04:00",
       "result": "ok",
-      "scope": "A2 group submission status and portal due date",
-      "evidence": "BUS230/2026-TSD/Correspondence/2026-10-21_A2-redesign-check.json"
+      "scope": "A2 group submission status and portal due date only",
+      "evidence": "BUS230/2026-TSD/Correspondence/2026-10-26_A2-revision-check.json"
     },
     "timestamp_precision": "seconds"
   },
