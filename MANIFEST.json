@@ -2392,6 +2392,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS230/2026-TSD/Assignments/A2/2026-10-26_revision-cloud-restore.json",
+      "bytes": 3728,
+      "sha256": "eafb5ae7a2c1c15fb617f135b40a960c7399243b4f2da87ad7f301b399c38e9e",
+      "storage": "git"
+    },
+    {
       "path": "BUS230/2026-TSD/Assignments/A2/A2_ADKAR_TEAM_PLAN_EN.docx",
       "bytes": 56626,
       "sha256": "2440b3c2145f3704269d89c13c586b6f9c49d88accb7a4e76ce2a5832a53adbb",
@@ -3053,8 +3059,8 @@
     },
     {
       "path": "BUS230/2026-TSD/HISTORY.md",
-      "bytes": 25828,
-      "sha256": "98fc8c36b76a9a22f49cd56b97f3df28965d1e8a5fe3fb5501f40ccd38864576",
+      "bytes": 26177,
+      "sha256": "45372f3c6ca99263a34ffe712545affcf3d243cb7b61790688875f8171207033",
       "storage": "git"
     },
     {
@@ -5500,6 +5506,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 916,
-  "total_bytes": 536081717
+  "file_count": 917,
+  "total_bytes": 536085794
 }

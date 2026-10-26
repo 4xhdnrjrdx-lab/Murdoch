@@ -1,0 +1,88 @@
+{
+  "checked_at": "2026-10-26T19:28:21.098012+04:00",
+  "method": "Independent sparse clone from private GitHub via network, without local references or a local clone source",
+  "restored_commit": "2b0d29b6646a7b02120237df95a85af1f67855c5",
+  "scope": "All files in the new Revision_2026-10-26 folder only; does not certify the unrelated working-tree modification in the older PPTX",
+  "file_count": 13,
+  "all_match": true,
+  "files": [
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Revision_2026-10-26/Aram_Speaker_Notes_EN.txt",
+      "sha256": "2417d58771032741312661bd994d8eb9f155c000e9db7b1e98e8d8116dd49847",
+      "bytes": 9461,
+      "cloud_restore_matches": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Revision_2026-10-26/BUS230A2_Aram_Slides19-30_2026-10-26.pptx",
+      "sha256": "94fdb10841501053d201faf66d2c635d98904f854e863c086a23c2e4aaa5117e",
+      "bytes": 1130754,
+      "cloud_restore_matches": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Revision_2026-10-26/BUS230Assessment2Class2Group4_2026-10-26.pptx",
+      "sha256": "a380ea2feff8d2e158180cc70cf906b8335e0ca0645acea62268e65cb01b209f",
+      "bytes": 2255520,
+      "cloud_restore_matches": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Revision_2026-10-26/Game_Brief_RU.txt",
+      "sha256": "353f203d872caccaef39d3df3348761fd35c67989b4bf1a28e784c1666291845",
+      "bytes": 7544,
+      "cloud_restore_matches": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Revision_2026-10-26/Preview.jpg",
+      "sha256": "baa98134dcbf878907fdb50edb60e64a8b7b150d4957e02fa1ecde66c635df19",
+      "bytes": 284470,
+      "cloud_restore_matches": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Revision_2026-10-26/README.md",
+      "sha256": "42db94307fee1e12d22c2c70ddc2395e587dec618038cf33288fafc3672b59f6",
+      "bytes": 6073,
+      "cloud_restore_matches": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Revision_2026-10-26/Research_and_References_EN.txt",
+      "sha256": "be202b6fce933a1d0e859f1b504a1d4d5b09827ee16ee1474bbae372e812cab0",
+      "bytes": 7329,
+      "cloud_restore_matches": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Revision_2026-10-26/Sources/Game_Dialogues_EN.json",
+      "sha256": "bc7b99abf3783bf51958ed27594e1417c2c469837a7504ede4d10ade221d53dc",
+      "bytes": 7415,
+      "cloud_restore_matches": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Revision_2026-10-26/Sources/Lecturer_Clarification_Provided_2026-10-26.jpg",
+      "sha256": "78c09839bd62d8cb322540a2d3dbfef2a02df9811ea906d667d9e7f288ce3127",
+      "bytes": 133811,
+      "cloud_restore_matches": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Revision_2026-10-26/Sources/Revision_Decisions.json",
+      "sha256": "96368104e44c8d3378b5385948015847499fa17e3c6fed3a6baf8e3178c14bc8",
+      "bytes": 786,
+      "cloud_restore_matches": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Revision_2026-10-26/Sources/Slide_Content_and_Notes_EN.json",
+      "sha256": "c788f8686b9adf8df9c442bb0858039ea3dd87b4013e8509ef399f6627156e32",
+      "bytes": 105951,
+      "cloud_restore_matches": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Revision_2026-10-26/Team_Speaker_Notes_EN.txt",
+      "sha256": "cc6b9b174fa80f77cacb8a278330a8d5f1b8e2c5da9b4bf79957d8975677c4c8",
+      "bytes": 24799,
+      "cloud_restore_matches": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Revision_2026-10-26/Verification.json",
+      "sha256": "74d354bd5ec52f6d6c1fb6fa3280c27127450da470fb1406c9843cbb7de7fd30",
+      "bytes": 2104,
+      "cloud_restore_matches": true
+    }
+  ]
+}
