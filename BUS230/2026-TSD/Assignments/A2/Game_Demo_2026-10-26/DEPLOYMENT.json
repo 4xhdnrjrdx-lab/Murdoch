@@ -1,0 +1,13 @@
+{
+  "project_id": "appgprj_6adf7c2cbc3881918722c7f05e6f618d",
+  "version_id": "appgprj_6adf7c2cbc3881918722c7f05e6f618d~appgver_50ba3c6e14048191a388f73514c45d40",
+  "deployment_id": "appgdep_6adf7f07a92c8191be827b88a96ffa4c",
+  "status": "succeeded",
+  "url": "https://cedar-retail-adkar-demo.spicy-rhino-0802.chatgpt.site",
+  "access_mode": "public",
+  "source_commit": "df3e766bf2ffa3840124202fc197aabeafe11b98",
+  "static_directory": "dist",
+  "published_at": "2026-10-26T16:25:58.211460+00:00",
+  "scope": "Browser-local demo only. No shared multi-device results, protected host page or rewards.",
+  "public_access_authorisation": "Direct user answer on 26 October 2026: Да, доступ всем по ссылке"
+}

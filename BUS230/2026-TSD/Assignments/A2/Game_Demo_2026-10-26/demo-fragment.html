@@ -1,0 +1,214 @@
+<div id="cedar-team-concept">
+  <style>
+    #cedar-team-concept .cc-site-tabs{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:8px 0 16px}
+    #cedar-team-concept .cc-site-tab{font:14px/1.3 Arial,sans-serif;min-height:44px;padding:10px 13px;border:0;border-radius:10px;background:#f1f0ec;color:#242421}
+    #cedar-team-concept .cc-site-tab[aria-selected="true"]{background:#ff5500;color:#242421}
+
+    #cedar-team-concept .cc-preview{margin:14px 0;padding:18px 8px;display:flex;justify-content:center}
+    #cedar-team-concept .cc-product{--cc-paper:#f1f0ec;--cc-ink:#242421;--cc-orange:#ff5500;--cc-muted:#666259;--cc-line:#d8d3c8;--cc-soft:#e8e4db;--cc-white:#fff;--cc-floor:#e9e1d2;--cc-wood:#cfb58f;--cc-shadow:#b49a73;--cc-green:#24654e;background:var(--cc-paper);color:var(--cc-ink);font:15px/1.45 'Avenir Next',Avenir,Arial,sans-serif;width:100%;max-width:430px;border-radius:26px;border:1px solid var(--cc-line);overflow:hidden;box-shadow:0 14px 38px #00000012}
+    #cedar-team-concept .cc-product *{box-sizing:border-box}
+    #cedar-team-concept .cc-product [hidden]{display:none!important}
+    #cedar-team-concept .cc-head{padding:22px 22px 17px;display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+    #cedar-team-concept .cc-brand{font-size:11px;letter-spacing:1.8px;color:var(--cc-orange);font-weight:700}
+    #cedar-team-concept .cc-h1{font-size:29px;line-height:1.12;font-weight:500;letter-spacing:-1px;margin:7px 0 0}
+    #cedar-team-concept .cc-team-label{font-size:12px;white-space:nowrap;margin-top:3px;color:var(--cc-muted)}
+    #cedar-team-concept .cc-body{padding:3px 22px 22px}
+    #cedar-team-concept .cc-body p{margin:0 0 16px}
+    #cedar-team-concept .cc-muted{color:var(--cc-muted);font-size:13px}
+    #cedar-team-concept .cc-intro{font-size:16px;line-height:1.55;margin:0 0 19px}
+    #cedar-team-concept .cc-select-label{font-size:12px;color:var(--cc-muted);display:block;margin-bottom:10px}
+    #cedar-team-concept .cc-team-choices{display:flex;gap:9px;margin-bottom:19px}
+    #cedar-team-concept .cc-team-choice{font:inherit;border:1px solid var(--cc-line);border-radius:14px;background:var(--cc-white);color:var(--cc-ink);flex:1;min-height:82px;padding:12px 5px}
+    #cedar-team-concept .cc-team-choice b{font-size:25px;display:block;font-weight:500;line-height:1.1}
+    #cedar-team-concept .cc-team-choice span{font-size:11px;letter-spacing:1px;text-transform:uppercase}
+    #cedar-team-concept .cc-team-choice[aria-pressed="true"]{background:var(--cc-ink);color:var(--cc-white);border-color:var(--cc-ink)}
+    #cedar-team-concept .cc-action{font:inherit;font-size:14px;border:0;border-radius:12px;min-height:46px;padding:12px 16px;background:var(--cc-ink);color:var(--cc-white);width:100%}
+    #cedar-team-concept .cc-action:disabled{opacity:.35}
+    #cedar-team-concept .cc-action.secondary{background:var(--cc-soft);color:var(--cc-ink)}
+    #cedar-team-concept .cc-cover{min-height:180px;background:var(--cc-ink);border-radius:16px;margin-bottom:21px;position:relative;overflow:hidden;padding:22px;color:var(--cc-white)}
+    #cedar-team-concept .cc-cover:before{content:'';width:155px;height:155px;background:var(--cc-orange);border-radius:50%;position:absolute;right:-12px;bottom:-54px}
+    #cedar-team-concept .cc-cover-title{font-size:29px;line-height:1.15;max-width:210px;position:relative;z-index:2;letter-spacing:-.7px}
+    #cedar-team-concept .cc-cover-meta{font-size:11px;color:#d6d3cb;margin-top:17px;position:relative;z-index:2}
+    #cedar-team-concept .cc-office-intro{padding:0 22px 15px;color:var(--cc-muted);font-size:13px}
+    #cedar-team-concept .cc-progress-line{display:flex;align-items:center;gap:12px;margin-top:10px}
+    #cedar-team-concept .cc-progress-track{height:5px;background:var(--cc-line);border-radius:8px;overflow:hidden;flex:1}
+    #cedar-team-concept .cc-progress-fill{height:100%;background:var(--cc-orange);width:0%;transition:width .3s}
+    #cedar-team-concept .cc-progress-word{font-size:11px;white-space:nowrap;color:var(--cc-muted)}
+    #cedar-team-concept .cc-room{height:415px;margin:0 12px;position:relative;border:1px solid var(--cc-line);border-radius:15px;background:var(--cc-floor);overflow:hidden;isolation:isolate;background-image:repeating-linear-gradient(0deg,transparent 0 52px,#00000005 53px 54px),repeating-linear-gradient(90deg,transparent 0 62px,#00000005 63px 64px)}
+    #cedar-team-concept .cc-wall{height:55px;background:var(--cc-soft);border-bottom:5px solid var(--cc-line);position:absolute;inset:0 0 auto}
+    #cedar-team-concept .cc-window{position:absolute;left:26%;top:8px;width:48%;height:30px;border:4px solid var(--cc-white);background:#c8d8d6}
+    #cedar-team-concept .cc-window:after{content:'';width:4px;position:absolute;left:48%;top:0;bottom:0;background:var(--cc-white)}
+    #cedar-team-concept .cc-room-title{position:absolute;top:59px;left:0;right:0;text-align:center;font-size:9px;letter-spacing:1.6px;color:var(--cc-muted)}
+    #cedar-team-concept .cc-staff{position:absolute;width:29%;max-width:105px;height:110px;transform:translateX(-50%);border:0;padding:0;background:none;color:var(--cc-ink);font:inherit}
+    #cedar-team-concept .cc-person{width:38px;height:53px;position:absolute;left:calc(50% - 19px);top:0;z-index:2}
+    #cedar-team-concept .cc-face{position:absolute;left:8px;top:0;width:24px;height:28px;border-radius:45%;background:var(--skin,#c88f6b);border-top:7px solid var(--hair,#39332c)}
+    #cedar-team-concept .cc-face:after{content:'· ·';position:absolute;left:6px;top:0;font-size:14px;line-height:13px;color:#2e2823;white-space:pre}
+    #cedar-team-concept .cc-shirt{position:absolute;top:25px;left:1px;width:37px;height:26px;border-radius:13px 13px 5px 5px;background:var(--shirt,#595b52)}
+    #cedar-team-concept .cc-desk{position:absolute;top:45px;left:9%;width:82%;height:31px;border-radius:7px;background:var(--cc-wood);box-shadow:0 5px 0 var(--cc-shadow)}
+    #cedar-team-concept .cc-pc{position:absolute;left:calc(50% - 19px);top:33px;width:38px;height:25px;border:4px solid #3d403d;border-radius:4px;background:#4d5753;z-index:3}
+    #cedar-team-concept .cc-pc:after{content:'';position:absolute;left:13px;bottom:-9px;width:4px;height:7px;background:#3d403d}
+    #cedar-team-concept .cc-staff-name{position:absolute;top:88px;left:0;right:0;text-align:center;font-size:12px;font-weight:600}
+    #cedar-team-concept .cc-bubble{position:absolute;top:-6px;right:0;width:23px;height:23px;border-radius:50%;background:var(--cc-orange);color:var(--cc-white);font-size:12px;display:grid;place-items:center;font-weight:700;z-index:4}
+    #cedar-team-concept .cc-staff[data-reviewed="true"] .cc-bubble{background:var(--cc-ink)}
+    #cedar-team-concept .cc-manager{position:absolute;left:50%;top:335px;transform:translateX(-50%);width:38px;height:61px;z-index:6;transition:left .4s ease,top .4s ease;pointer-events:none;--shirt:var(--cc-orange);--skin:#c98e6b;--hair:#302c29}
+    #cedar-team-concept .cc-manager .cc-person{left:0}
+    #cedar-team-concept .cc-manager:after{content:'YOU';position:absolute;top:51px;left:0;right:0;font-size:9px;font-weight:700;text-align:center}
+    #cedar-team-concept .cc-plant{position:absolute;left:18px;bottom:18px;width:18px;height:20px;border-radius:3px 3px 7px 7px;background:var(--cc-wood)}
+    #cedar-team-concept .cc-plant:before{content:'';position:absolute;left:-5px;top:-24px;width:29px;height:31px;border-radius:65% 30% 55% 30%;background:#728469;transform:rotate(-13deg)}
+    #cedar-team-concept .cc-door{position:absolute;right:18px;bottom:20px;letter-spacing:1px;font-size:9px;color:var(--cc-muted)}
+    #cedar-team-concept .cc-bottom{padding:15px 22px 22px}
+    #cedar-team-concept .cc-back{font:inherit;font-size:12px;border:0;color:var(--cc-muted);background:none;padding:4px 0 13px;min-height:40px}
+    #cedar-team-concept .cc-person-heading{display:flex;align-items:center;gap:13px;margin-bottom:16px}
+    #cedar-team-concept .cc-avatar{width:50px;height:56px;border-radius:15px;background:var(--cc-soft);position:relative;overflow:hidden;flex-shrink:0}
+    #cedar-team-concept .cc-avatar .cc-person{top:8px}
+    #cedar-team-concept .cc-name{font-size:23px;font-weight:500;margin:0;line-height:1.25}
+    #cedar-team-concept .cc-subtitle{font-size:12px;color:var(--cc-muted)}
+    #cedar-team-concept .cc-step{font-size:10px;letter-spacing:1.5px;color:var(--cc-orange);font-weight:700;margin-bottom:11px}
+    #cedar-team-concept .cc-message{padding:15px 17px;border-radius:15px 15px 15px 3px;background:var(--cc-white);margin-bottom:12px;font-size:15px}
+    #cedar-team-concept .cc-q{font-size:13px;font-weight:600;margin:18px 0 10px}
+    #cedar-team-concept .cc-option{font:inherit;font-size:14px;display:flex;gap:11px;align-items:flex-start;width:100%;min-height:50px;padding:13px 14px;border-radius:12px;border:1px solid var(--cc-line);background:var(--cc-paper);color:var(--cc-ink);text-align:left;margin-bottom:8px}
+    #cedar-team-concept .cc-letter{color:var(--cc-orange);font-size:12px;font-weight:700;margin-top:2px}
+    #cedar-team-concept .cc-option:hover{background:var(--cc-white);border-color:var(--cc-orange)}
+    #cedar-team-concept .cc-feedback{background:var(--cc-white);padding:17px;border-radius:15px;margin-top:15px}
+    #cedar-team-concept .cc-feedback-tag{font-size:10px;letter-spacing:1px;color:var(--cc-orange);font-weight:700;margin-bottom:9px}
+    #cedar-team-concept .cc-feedback p{margin:0 0 13px;font-size:14px}
+    #cedar-team-concept .cc-evidence{margin:13px 0;font-size:12px;padding:12px 0;border-top:1px solid var(--cc-line);border-bottom:1px solid var(--cc-line);color:var(--cc-muted)}
+    #cedar-team-concept .cc-event{padding:18px;border-radius:15px;background:var(--cc-ink);color:var(--cc-white);margin:12px 0}
+    #cedar-team-concept .cc-event .cc-feedback-tag{color:#ff9d6f}
+    #cedar-team-concept .cc-event p{font-size:15px;margin:0 0 12px}
+    #cedar-team-concept .cc-event-note{font-size:12px;color:#d3d1c9}
+    #cedar-team-concept .cc-end-symbol{width:70px;height:70px;border-radius:50%;background:var(--cc-orange);color:var(--cc-ink);display:grid;place-items:center;font-size:31px;margin:8px 0 21px}
+    #cedar-team-concept .cc-end-title{font-size:30px;line-height:1.15;letter-spacing:-1px;font-weight:500;margin-bottom:18px}
+    #cedar-team-concept .cc-separator{height:1px;background:var(--cc-line);margin:23px 0}
+    #cedar-team-concept .cc-host{max-width:650px;border-radius:20px}
+    #cedar-team-concept .cc-host .cc-h1{font-size:27px}
+    #cedar-team-concept .cc-host-kicker{display:flex;gap:9px;align-items:center;font-size:11px;color:var(--cc-muted);white-space:nowrap}
+    #cedar-team-concept .cc-host-kicker i{width:7px;height:7px;background:var(--cc-orange);border-radius:50%}
+    #cedar-team-concept .cc-host-lead{font-size:13px;color:var(--cc-muted);margin-bottom:15px}
+    #cedar-team-concept .cc-host-table{width:100%;border-collapse:collapse;table-layout:fixed}
+    #cedar-team-concept .cc-host-table th{font-size:11px;color:var(--cc-muted);font-weight:400;text-align:left;padding:12px 0;border-bottom:1px solid var(--cc-line)}
+    #cedar-team-concept .cc-host-table td{font-size:14px;padding:19px 7px 19px 0;border-bottom:1px solid var(--cc-line);vertical-align:top;overflow-wrap:anywhere}
+    #cedar-team-concept .cc-host-table td:first-child{font-weight:600}
+    #cedar-team-concept .cc-host-table th:nth-child(1){width:19%}
+    #cedar-team-concept .cc-host-table th:nth-child(2){width:20%}
+    #cedar-team-concept .cc-host-table th:nth-child(3){width:21%}
+    #cedar-team-concept .cc-host-table th:nth-child(4){width:40%}
+    #cedar-team-concept .cc-host-status.clean{color:var(--cc-green)}
+    #cedar-team-concept .cc-host-status.active{color:var(--cc-orange)}
+    #cedar-team-concept .cc-host-caption{font-size:12px;color:var(--cc-muted);margin-top:16px}
+    #cedar-team-concept .cc-classroom{max-width:650px;border-radius:19px}
+    #cedar-team-concept .cc-classroom .cc-head{padding-bottom:27px}
+    #cedar-team-concept .cc-flow{display:flex;align-items:stretch;gap:12px;margin:5px 0 22px}
+    #cedar-team-concept .cc-flow-item{flex:1;min-width:0;padding-top:17px;border-top:2px solid var(--cc-orange)}
+    #cedar-team-concept .cc-flow-number{font-size:25px;color:var(--cc-orange);margin-bottom:13px}
+    #cedar-team-concept .cc-flow-item h3{font-size:16px;font-weight:500;line-height:1.3;margin:0 0 10px}
+    #cedar-team-concept .cc-flow-item p{font-size:12px;color:var(--cc-muted);margin:0}
+    #cedar-team-concept .cc-preview-controls{margin:12px 0}
+    @media(max-width:420px){#cedar-team-concept .cc-head{flex-wrap:wrap}#cedar-team-concept .cc-team-label{white-space:normal}#cedar-team-concept .cc-preview{padding:12px 0}#cedar-team-concept .cc-head{padding-left:16px;padding-right:16px}#cedar-team-concept .cc-body,#cedar-team-concept .cc-bottom{padding-left:16px;padding-right:16px}#cedar-team-concept .cc-office-intro{padding-left:16px;padding-right:16px}#cedar-team-concept .cc-h1{font-size:25px}#cedar-team-concept .cc-host-kicker{white-space:normal}#cedar-team-concept .cc-host .cc-h1{font-size:23px}#cedar-team-concept .cc-host-table td{font-size:12px}#cedar-team-concept .cc-flow{flex-direction:column;gap:20px}#cedar-team-concept .cc-flow-item{display:grid;grid-template-columns:36px 1fr;column-gap:12px;padding-top:11px}#cedar-team-concept .cc-flow-number{grid-row:span 2;margin:0}#cedar-team-concept .cc-flow-item h3{margin-bottom:5px}}
+    @media(prefers-reduced-motion:reduce){#cedar-team-concept .cc-manager,#cedar-team-concept .cc-progress-fill{transition:none}}
+  </style>
+  <div style="font:14px/1.5 Arial,sans-serif;max-width:650px;margin:0 auto 16px;padding:14px 16px;background:#f1f0ec;color:#242421;border-radius:12px"><strong>Демоверсия Cedar Retail</strong><br>Можно пройти пять ситуаций и посмотреть макет результатов. Прогресс сохраняется только в этом браузере; между телефонами результаты не передаются.</div>
+  <div class="cc-site-tabs" role="tablist" aria-label="Посмотреть концепцию со стороны">
+    <button class="cc-site-tab" id="cc-team-tab" role="tab" aria-controls="cc-team-panel" aria-selected="true" type="button">Игра</button>
+    <button class="cc-site-tab" id="cc-host-tab" role="tab" aria-controls="cc-host-panel" aria-selected="false" type="button">Результаты</button>
+    <button class="cc-site-tab" id="cc-session-tab" role="tab" aria-controls="cc-session-panel" aria-selected="false" type="button">План Арама</button>
+  </div>
+  <div id="cc-team-panel" role="tabpanel" aria-labelledby="cc-team-tab">
+    <div class="cc-preview viz-dotted-background">
+      <div class="cc-product" aria-label="Мобильная игра команды: концепция регистрации, офиса и решений">
+        <header class="cc-head"><div><div class="cc-brand">CEDAR RETAIL</div><h2 class="cc-h1">Your first shift</h2></div><div class="cc-team-label" id="cc-team-label">MANAGER TRAINING</div></header>
+        <section class="cc-body" id="cc-register" aria-label="Team registration">
+          <div class="cc-cover" aria-hidden="true"><div class="cc-cover-title">Listen.<br>Investigate.<br>Decide.</div><div class="cc-cover-meta">5 COLLEAGUES · ONE MANAGEMENT TEAM</div></div>
+          <p class="cc-intro">Your store is changing its inventory system. Find out what each colleague needs before deciding what to do.</p>
+          <span class="cc-select-label">Choose your assigned team. Use one phone per team.</span>
+          <div class="cc-team-choices" role="group" aria-label="Choose team">
+            <button class="cc-team-choice cursor-interaction" type="button" aria-pressed="false" data-team="1"><span>Team</span><b>1</b></button>
+            <button class="cc-team-choice cursor-interaction" type="button" aria-pressed="false" data-team="2"><span>Team</span><b>2</b></button>
+            <button class="cc-team-choice cursor-interaction" type="button" aria-pressed="false" data-team="3"><span>Team</span><b>3</b></button>
+          </div>
+          <button class="cc-action cursor-interaction" id="cc-start" type="button" disabled>Enter the office</button>
+          <p class="cc-muted" style="margin:15px 0 0">Discuss the choices together. Everyone can contribute.</p>
+        </section>
+        <section id="cc-office" aria-label="Office" hidden>
+          <div class="cc-office-intro">Choose any colleague. Ask a useful question, then decide.<div class="cc-progress-line"><div class="cc-progress-track" aria-hidden="true"><div class="cc-progress-fill"></div></div><span class="cc-progress-word">0 / 5 reviewed</span></div></div>
+          <div class="cc-room" role="group" aria-label="Office: five colleagues and your manager character">
+            <div class="cc-wall" aria-hidden="true"><div class="cc-window"></div></div><div class="cc-room-title" aria-hidden="true">STORE SUPPORT OFFICE</div>
+            <button type="button" class="cc-staff cursor-interaction" data-person="anna" style="left:25%;top:86px;--skin:#d7a184;--hair:#493329;--shirt:#ece9e1" aria-label="Talk to Anna"><span class="cc-person" aria-hidden="true"><span class="cc-face"></span><span class="cc-shirt"></span></span><span class="cc-desk" aria-hidden="true"></span><span class="cc-pc" aria-hidden="true"></span><span class="cc-bubble" aria-hidden="true">?</span><span class="cc-staff-name">Anna</span></button>
+            <button type="button" class="cc-staff cursor-interaction" data-person="omar" style="left:75%;top:86px;--skin:#a46e4a;--hair:#2e2925;--shirt:#575951" aria-label="Talk to Omar"><span class="cc-person" aria-hidden="true"><span class="cc-face"></span><span class="cc-shirt"></span></span><span class="cc-desk" aria-hidden="true"></span><span class="cc-pc" aria-hidden="true"></span><span class="cc-bubble" aria-hidden="true">?</span><span class="cc-staff-name">Omar</span></button>
+            <button type="button" class="cc-staff cursor-interaction" data-person="mia" style="left:18%;top:226px;--skin:#c8916f;--hair:#262423;--shirt:#ff5500" aria-label="Talk to Mia"><span class="cc-person" aria-hidden="true"><span class="cc-face"></span><span class="cc-shirt"></span></span><span class="cc-desk" aria-hidden="true"></span><span class="cc-pc" aria-hidden="true"></span><span class="cc-bubble" aria-hidden="true">?</span><span class="cc-staff-name">Mia</span></button>
+            <button type="button" class="cc-staff cursor-interaction" data-person="leo" style="left:50%;top:226px;--skin:#e1b191;--hair:#82654a;--shirt:#565652" aria-label="Talk to Leo"><span class="cc-person" aria-hidden="true"><span class="cc-face"></span><span class="cc-shirt"></span></span><span class="cc-desk" aria-hidden="true"></span><span class="cc-pc" aria-hidden="true"></span><span class="cc-bubble" aria-hidden="true">?</span><span class="cc-staff-name">Leo</span></button>
+            <button type="button" class="cc-staff cursor-interaction" data-person="sara" style="left:82%;top:226px;--skin:#85543b;--hair:#272320;--shirt:#eeede7" aria-label="Talk to Sara"><span class="cc-person" aria-hidden="true"><span class="cc-face"></span><span class="cc-shirt"></span></span><span class="cc-desk" aria-hidden="true"></span><span class="cc-pc" aria-hidden="true"></span><span class="cc-bubble" aria-hidden="true">?</span><span class="cc-staff-name">Sara</span></button>
+            <div class="cc-manager" aria-label="You, standing in the aisle"><span class="cc-person"><span class="cc-face"></span><span class="cc-shirt"></span></span></div><div class="cc-plant" aria-hidden="true"></div><div class="cc-door" aria-hidden="true">RECEIVING →</div>
+          </div>
+          <div class="cc-bottom"><button class="cc-action cursor-interaction" id="cc-final-review" type="button" hidden>Finish the shift review</button><div class="cc-muted" id="cc-office-note">Discuss the next step together.</div></div>
+        </section>
+        <section class="cc-body" id="cc-dialogue" aria-label="Colleague conversation" hidden>
+          <button class="cc-back cursor-interaction" id="cc-back-office" type="button">← Back to office</button>
+          <div class="cc-person-heading"><div class="cc-avatar" aria-hidden="true"><span class="cc-person"><span class="cc-face"></span><span class="cc-shirt"></span></span></div><div><h3 class="cc-name"></h3><div class="cc-subtitle"></div></div></div>
+          <div class="cc-step"></div><div class="cc-message"></div><div class="cc-evidence" hidden></div><p class="cc-q"></p><div class="cc-options"></div><div class="cc-feedback" aria-live="polite" hidden></div><div class="cc-event" hidden></div>
+        </section>
+        <section class="cc-body" id="cc-finished" aria-label="Team completion screen" hidden>
+          <div class="cc-end-symbol" aria-hidden="true">✓</div><div class="cc-end-title">Shift review<br>completed.</div>
+          <p>All five situations have been reviewed on this device. Your demo progress is saved in this browser.</p>
+          <div class="cc-separator"></div><div class="cc-step">LET’S DISCUSS</div><p>Which decision needed more evidence before you could continue?</p><p class="cc-muted">Keep listening, checking conditions and verifying performance.</p><button class="cc-action cursor-interaction" type="button" id="cc-demo-reset">Start a new demo</button>
+        </section>
+      </div>
+    </div>
+  </div>
+  <div id="cc-host-panel" role="tabpanel" aria-labelledby="cc-host-tab" hidden>
+    <div class="cc-preview-controls viz-controls"><label class="form-label">Пример результатов<select class="form-select" id="cc-scenario"><option value="current">Текущий пробный проход</option><option value="errors">Все три команды с ошибками</option><option value="two">Две команды без ошибок</option><option value="all">Все три команды без ошибок</option></select></label></div>
+    <div class="cc-preview viz-dotted-background">
+      <div class="cc-product cc-host" aria-label="Макет панели ведущего, локальные демонстрационные данные">
+        <header class="cc-head"><div><div class="cc-brand">CEDAR RETAIL · HOST</div><h2 class="cc-h1">Результаты команд</h2></div><div class="cc-host-kicker"><i aria-hidden="true"></i>Демо на этом устройстве</div></header>
+        <div class="cc-body"><div class="cc-host-lead" id="cc-host-lead">Проверка первых ответов в каждой из пяти ситуаций.</div>
+          <table class="cc-host-table"><thead><tr><th>Команда</th><th>Ситуации</th><th>Ошибки</th><th>Состояние</th></tr></thead><tbody id="cc-host-rows"></tbody></table>
+          <div class="cc-host-caption">Повторное решение помогает обучению. Оно не изменяет записанный первый ответ.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="cc-session-panel" role="tabpanel" aria-labelledby="cc-session-tab" hidden>
+    <div class="cc-preview viz-dotted-background"><div class="cc-product cc-classroom" aria-label="Предлагаемая последовательность активности Арама">
+      <header class="cc-head"><div><div class="cc-brand">BUS230 · ARAM</div><h2 class="cc-h1">От вопроса к решению</h2></div></header>
+      <div class="cc-body"><div class="cc-flow">
+        <div class="cc-flow-item"><div class="cc-flow-number">01</div><h3>Один короткий интерактив</h3><p>Арам задаёт вопрос по ситуации и слушает аргумент группы.</p></div>
+        <div class="cc-flow-item"><div class="cc-flow-number">02</div><h3>Командная игра</h3><p>QR → Team 1, 2 или 3 → пять сотрудников. Одно устройство на команду.</p></div>
+        <div class="cc-flow-item"><div class="cc-flow-number">03</div><h3>Общий разбор</h3><p>Обсуждаем решения. В полной игре результаты будут доступны отдельно ведущему.</p></div>
+      </div><div class="cc-separator"></div><p class="cc-muted">План для обсуждения. Длительность игры и распределение времени Арама ещё предстоит проверить.</p></div>
+    </div></div>
+  </div>
+  <script>
+    (()=>{
+      const root=document.getElementById('cedar-team-concept');
+      root.querySelectorAll('.cc-site-tab').forEach(b=>b.addEventListener('click',()=>{root.querySelectorAll('.cc-site-tab').forEach(t=>{const selected=t===b;t.setAttribute('aria-selected',String(selected));root.querySelector('#'+t.getAttribute('aria-controls')).hidden=!selected;});}));
+      const people={
+        anna:{name:'Anna',role:'Stock administration',skin:'#d7a184',hair:'#493329',shirt:'#ece9e1',problem:'“I know the steps, but I still don’t understand why we are replacing our paper records.”',question:'What should you ask first?',ask:['“Which step of the scanning process is difficult?”','“What would help you understand the reason for the change?”','“Have you seen the launch deadline?”'],askGood:1,evidence:'Anna wants to understand the purpose. She is not asking for another procedure guide.',actionQuestion:'What should your team do next?',actions:['Send the procedure guide again.','Repeat the deadline and responsibilities.','Explain the stock-record problem, connect it to her work and invite questions.'],actionGood:2,wrongAsk:'Check what Anna is actually questioning: the reason for change, rather than the steps or the date.',wrongAction:'More instructions or a deadline do not answer the question about purpose.',event:'Anna joins the shift briefing and asks how the change will affect her daily work.',note:'Awareness support has started. Other readiness needs still require checking.',marker:'Briefing arranged'},
+        omar:{name:'Omar',role:'Inventory records',skin:'#a46e4a',hair:'#2e2925',shirt:'#575951',problem:'“I support better records, but I am worried the new rating will blame me for old stock errors.”',question:'What evidence should you examine?',ask:['Check which errors the rating rule includes and record his concern.','Ask whether Omar feels motivated enough.','Ask IT whether his account is active.'],askGood:0,evidence:'The rating rule is disputed. The sponsor needs to check how inherited errors are treated.',actionQuestion:'What should your team do next?',actions:['Promise the policy is fair before checking it.','Ask the sponsor to review the rule and communicate a reasoned decision.','Offer another motivational talk.'],actionGood:1,wrongAsk:'Investigate the policy concern before assuming unwillingness or an access problem.',wrongAction:'Reassurance or motivation alone does not establish whether the rule is fair.',event:'A policy-review request reaches the operations sponsor, with the concern and an accountable owner.',note:'The response is pending. A request is not evidence that the policy has already changed.',marker:'Sponsor review pending'},
+        mia:{name:'Mia',role:'Delivery support',skin:'#c8916f',hair:'#262423',shirt:'#ff5500',problem:'“The scanner works. I want to use the system, but I don’t know how to record a delivery mismatch.”',question:'What should you check first?',ask:['Ask whether she supports the reason for change.','Schedule an independent task test immediately.','Ask whether the mismatch procedure has been explained and demonstrated.'],askGood:2,evidence:'Mia has only been shown a normal delivery. The exception process has not been taught.',actionQuestion:'What should your team do next?',actions:['Demonstrate a mismatch, guide practice and ask her to explain the steps.','Repeat why accurate stock records matter.','Ask her to try alone and review errors later.'],actionGood:0,wrongAsk:'Identify the missing instruction before asking for independent performance.',wrongAction:'Mia needs the procedure and supported practice before working independently.',event:'The manager and Mia work through a sample mismatch together.',note:'Explaining the steps supports Knowledge. Realistic performance is still needed to verify Ability.',marker:'Practice arranged'},
+        leo:{name:'Leo',role:'Evening-shift receiving',skin:'#e1b191',hair:'#82654a',shirt:'#565652',problem:'“I can explain the procedure, but I still cannot complete the task on my shift.”',question:'What should you investigate?',ask:['Ask him to repeat his confidence score.','Check scanner reliability, practice time and realistic task evidence.','Check whether he remembers the launch date.'],askGood:1,evidence:'The scanner is unreliable, there is no protected practice time, and the task has not been observed in usable conditions.',actionQuestion:'What should your team do next?',actions:['Start the task with a supervisor and review errors afterwards.','Repeat the same training course.','Pause this task; allocate scanner repair and practice time, then observe a realistic attempt.'],actionGood:2,wrongAsk:'Self-report and deadlines do not establish whether the equipment, time and task evidence are adequate.',wrongAction:'An essential condition is missing. More training or supervision alone does not remove it.',event:'IT receives the scanner issue; the store manager protects practice time and schedules a task observation.',note:'Only the affected task stays paused. Ability remains unverified until conditions and performance are checked.',marker:'Conditions being addressed'},
+        sara:{name:'Sara',role:'Stock-control follow-up',skin:'#85543b',hair:'#272320',shirt:'#eeede7',problem:'“I used the system correctly in the pilot, but old paper forms are coming back.”',question:'What should you check first?',ask:['Check whether equipment, knowledge or follow-up has changed.','Assume she needs the introductory course again.','Ask only whether she has seen the latest reminder.'],askGood:0,evidence:'The equipment works and Sara knows the procedure. Reviews and feedback stopped after the pilot.',actionQuestion:'What should your team do next?',actions:['Send another reminder and close the issue.','Arrange brief reviews, task-focused feedback and a way to raise new obstacles.','Book the same introductory course again.'],actionGood:1,wrongAsk:'Check the current barrier instead of assuming that earlier training has been forgotten.',wrongAction:'A reminder or repeat course alone does not supply the missing follow-up.',event:'A regular review and feedback conversation is added to the manager’s schedule.',note:'Reinforcement needs continuing support. Lasting adoption is not proved by a single reminder or review.',marker:'Follow-up scheduled'}
+      };
+      const ids=Object.keys(people),states={};let team=null,picked=null,active=null,stage='ask';
+      const screens={register:root.querySelector('#cc-register'),office:root.querySelector('#cc-office'),dialogue:root.querySelector('#cc-dialogue'),finished:root.querySelector('#cc-finished')};
+      function fresh(){return {started:true,finished:false,reviewed:[],first:{}};}
+      function current(){return states[team];}
+      function show(name){Object.entries(screens).forEach(([k,e])=>e.hidden=k!==name);}
+      let writingLocalState=false;
+      function persist(){if(!window.openai?.setWidgetState)return;writingLocalState=true;try{window.openai.setWidgetState({modelContent:{version:2,concept:'Cedar Retail team game',team,states},privateContent:{picked}}).catch(()=>{});}finally{writingLocalState=false;}}
+      function progress(){const s=current();if(!s)return;root.querySelector('.cc-progress-fill').style.width=(s.reviewed.length*20)+'%';root.querySelector('.cc-progress-word').textContent=s.reviewed.length+' / 5 reviewed';root.querySelectorAll('[data-person]').forEach(b=>{const done=s.reviewed.includes(b.dataset.person);b.dataset.reviewed=String(done);b.querySelector('.cc-bubble').textContent=done?'✓':'?';b.setAttribute('aria-label','Talk to '+people[b.dataset.person].name);});root.querySelector('#cc-final-review').hidden=s.reviewed.length!==5;root.querySelector('#cc-office-note').hidden=s.reviewed.length===5;}
+      function toOffice(){active=null;show('office');progress();renderHost();persist();}
+      function openPerson(id){active=id;stage='ask';const p=people[id];root.querySelector('.cc-name').textContent=p.name;root.querySelector('.cc-subtitle').textContent=p.role;const a=root.querySelector('.cc-avatar');a.style.setProperty('--skin',p.skin);a.style.setProperty('--hair',p.hair);a.style.setProperty('--shirt',p.shirt);const m=root.querySelector('.cc-manager');m.style.left=(['anna','omar'].includes(id)?50:({mia:18,leo:50,sara:82}[id]))+'%';m.style.top=(['anna','omar'].includes(id)?187:345)+'px';show('dialogue');drawChoices();}
+      function drawChoices(){const p=people[active];root.querySelector('.cc-step').textContent=stage==='ask'?'STEP 1 / INVESTIGATE':'STEP 2 / DECIDE';root.querySelector('.cc-message').textContent=p.problem;const e=root.querySelector('.cc-evidence');e.hidden=stage==='ask';e.textContent='What you learned: '+p.evidence;root.querySelector('.cc-q').textContent=stage==='ask'?p.question:p.actionQuestion;root.querySelector('.cc-q').hidden=false;const opts=root.querySelector('.cc-options');opts.hidden=false;opts.replaceChildren();root.querySelector('.cc-feedback').hidden=true;root.querySelector('.cc-event').hidden=true;(stage==='ask'?p.ask:p.actions).forEach((value,i)=>{const b=document.createElement('button');b.type='button';b.className='cc-option cursor-interaction';const n=document.createElement('span');n.className='cc-letter';n.textContent=['A','B','C'][i];const t=document.createElement('span');t.textContent=value;b.append(n,t);b.addEventListener('click',()=>choose(i));opts.appendChild(b);});}
+      function choose(index){const p=people[active],good=index===(stage==='ask'?p.askGood:p.actionGood),s=current(),key=active+'-'+stage;if(!Object.hasOwn(s.first,key))s.first[key]={correct:good,choice:index};renderHost();persist();root.querySelector('.cc-options').hidden=true;root.querySelector('.cc-q').hidden=true;if(good&&stage==='action'){const box=root.querySelector('.cc-event');box.hidden=false;box.replaceChildren();const tag=document.createElement('div');tag.className='cc-feedback-tag';tag.textContent='NEXT IN THE OFFICE';const event=document.createElement('p');event.textContent=p.event;const note=document.createElement('div');note.className='cc-event-note';note.textContent=p.note;const btn=document.createElement('button');btn.type='button';btn.className='cc-action cursor-interaction';btn.style.marginTop='16px';btn.textContent='Record this next step';btn.addEventListener('click',()=>{if(!s.reviewed.includes(active))s.reviewed.push(active);toOffice();});box.append(tag,event,note,btn);return;}const box=root.querySelector('.cc-feedback');box.hidden=false;box.replaceChildren();const tag=document.createElement('div');tag.className='cc-feedback-tag';tag.textContent=good?'EVIDENCE FOUND':'LOOK AGAIN';const text=document.createElement('p');text.textContent=good?p.evidence:(stage==='ask'?p.wrongAsk:p.wrongAction);const btn=document.createElement('button');btn.type='button';btn.className='cc-action cursor-interaction';btn.textContent=good?'Choose an action':'Choose another response';btn.addEventListener('click',()=>{if(good)stage='action';drawChoices();});box.append(tag,text,btn);}
+      function hostRow(number,example){const s=example||states[number];if(!s)return {team:'Team '+number,progress:'—',errors:'—',status:'Не начинали',kind:''};const complete=s.finished;const mistakes=Object.values(s.first).filter(x=>!x.correct).length;return {team:'Team '+number,progress:s.reviewed.length+' / 5',errors:String(mistakes),status:complete?(mistakes===0?'Завершили без ошибок':'Завершили с ошибками'):'В процессе',kind:complete&&mistakes===0?'clean':(!complete?'active':'')};}
+      function examples(scenario,number){if(scenario==='current')return null;const n=scenario==='errors'?number:(scenario==='two'&&number===2?1:0);return {started:true,finished:true,reviewed:[...ids],first:Object.fromEntries(Array.from({length:10},(_,i)=>['step'+i,{correct:i>=n}]))};}
+      function renderHost(){const scenario=root.querySelector('#cc-scenario').value;root.querySelector('#cc-host-lead').textContent=scenario==='current'?'Пример: ответы из текущего пробного прохода.':'Демонстрационные результаты трёх команд, не реальные данные класса.';const body=root.querySelector('#cc-host-rows');body.replaceChildren();[1,2,3].forEach(n=>{const row=hostRow(n,examples(scenario,n));const tr=document.createElement('tr');['team','progress','errors','status'].forEach(k=>{const td=document.createElement('td');td.textContent=row[k];if(k==='status')td.className='cc-host-status '+row.kind;tr.appendChild(td);});body.appendChild(tr);});}
+      root.querySelectorAll('[data-team]').forEach(b=>b.addEventListener('click',()=>{picked=Number(b.dataset.team);root.querySelectorAll('[data-team]').forEach(x=>x.setAttribute('aria-pressed',String(Number(x.dataset.team)===picked)));root.querySelector('#cc-start').disabled=false;}));
+      root.querySelector('#cc-start').addEventListener('click',()=>{if(!picked)return;team=picked;states[team]??=fresh();root.querySelector('#cc-team-label').textContent='TEAM '+team;if(current().finished)show('finished');else toOffice();renderHost();persist();});
+      root.querySelectorAll('[data-person]').forEach(b=>b.addEventListener('click',()=>openPerson(b.dataset.person)));root.querySelector('#cc-back-office').addEventListener('click',toOffice);root.querySelector('#cc-final-review').addEventListener('click',()=>{if(current().reviewed.length!==5)return;current().finished=true;show('finished');renderHost();persist();});root.querySelector('#cc-scenario').addEventListener('change',renderHost);
+      function restore(value){value=value?.modelContent??value;if(!value||value.version!==2)return;const saved=value.states;if(!saved||typeof saved!=='object')return;[1,2,3].forEach(n=>{const s=saved[n];if(s&&Array.isArray(s.reviewed)&&s.first&&typeof s.first==='object')states[n]={started:true,finished:s.finished===true,reviewed:[...new Set(s.reviewed.filter(k=>ids.includes(k)))],first:s.first};});if([1,2,3].includes(value.team)&&states[value.team]){team=value.team;picked=team;root.querySelector('#cc-team-label').textContent='TEAM '+team;show(current().finished?'finished':'office');progress();}renderHost();}
+      root.querySelector('#cc-demo-reset').addEventListener('click',()=>{Object.keys(states).forEach(k=>delete states[k]);team=null;picked=null;active=null;stage='ask';root.querySelector('#cc-team-label').textContent='MANAGER TRAINING';root.querySelectorAll('[data-team]').forEach(b=>b.setAttribute('aria-pressed','false'));root.querySelector('#cc-start').disabled=true;root.querySelector('#cc-scenario').value='current';show('register');renderHost();persist();});
+      restore(window.openai?.widgetState);window.addEventListener('openai:set_globals',e=>{if(!writingLocalState)restore(e.detail?.globals?.widgetState);});renderHost();
+    })();
+  </script>
+</div>

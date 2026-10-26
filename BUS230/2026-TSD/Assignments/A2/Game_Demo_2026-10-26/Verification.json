@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-26",
+  "site_status": "succeeded",
+  "local_browser_complete_five_cases": true,
+  "first_error_retained_after_retry": true,
+  "reload_restored_progress": true,
+  "reset_demo_tested": true,
+  "mobile_width_px": 390,
+  "mobile_navigation_and_office_checked": true,
+  "runtime_console_errors_observed": 0,
+  "published_start_screen_opened": true,
+  "physical_phone_tested": false,
+  "shared_server_results_implemented": false,
+  "prizes_implemented": false,
+  "files": [
+    {
+      "path": ".openai/hosting.json",
+      "sha256": "c56de3dd319c5baa6d9378347bdc19ce7ea7913f9dda8e6592c8fb56ad0a6744",
+      "bytes": 106
+    },
+    {
+      "path": "DEPLOYMENT.json",
+      "sha256": "8208e9c31f3f227605787785e4859d5574132bef2bbc84a050dc2f37dfa9ac27",
+      "bytes": 724
+    },
+    {
+      "path": "README.md",
+      "sha256": "d23d3b93841191d87b5b23d2bf24ae52d1c64745114a035b84ae5a01faa66ebd",
+      "bytes": 3498
+    },
+    {
+      "path": "demo-fragment.html",
+      "sha256": "480295b95424fc72e2d52a2d1fb6b149c0473984177f6756551a1cd7d1b01e1d",
+      "bytes": 39541
+    },
+    {
+      "path": "dist/index.html",
+      "sha256": "b935b53d2c19f7132744a78c24215509b7900534f0fe0b988da455203edbda7e",
+      "bytes": 128042
+    },
+    {
+      "path": "dist/robots.txt",
+      "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1",
+      "bytes": 26
+    }
+  ]
+}
