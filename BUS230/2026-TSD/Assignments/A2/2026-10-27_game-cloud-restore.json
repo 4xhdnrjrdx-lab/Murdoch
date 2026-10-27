@@ -1,0 +1,66 @@
+{
+  "checked_on": "2026-10-27",
+  "source_repository": "4xhdnrjrdx-lab/Murdoch",
+  "restored_main": "b48b0b1dbf40ad94bca5a859a00c4b8a22332f3e",
+  "independent_network_clone": true,
+  "local_reference_used": false,
+  "package_files_verified": [
+    {
+      "path": "DEPLOYMENT.json",
+      "bytes": 630,
+      "sha256": "8d0f801cf9ce324e845a1aaa502f348338c425b924abaf4f87b6fa68f5afbae8"
+    },
+    {
+      "path": "QA/API_Local.json",
+      "bytes": 1531,
+      "sha256": "496ee402942639fa50670d8a95f5261b81cf6782b51ae54a82b6071345d0a78d"
+    },
+    {
+      "path": "QA/Correct_Live.png",
+      "bytes": 47749,
+      "sha256": "663b730cc54c3d180e24aa7fd17b4912e3e0436f422c55bc39831255e9343aa9"
+    },
+    {
+      "path": "QA/Correct_Mobile.png",
+      "bytes": 45606,
+      "sha256": "fcdf4c68005b6563377d5be795d1d03271872f618f0c0ed2e9932fdf6c134f38"
+    },
+    {
+      "path": "QA/Host_Live.png",
+      "bytes": 49130,
+      "sha256": "6e3aa832a9a255d2f16bcfb605f8c6b3ed9c0bb586a5e4f54c117dae259681c4"
+    },
+    {
+      "path": "QA/Host_Local.png",
+      "bytes": 49966,
+      "sha256": "49517ba30be7fb7e189f31d05e30b4b2094e96e0b41aaf8bba3e6aa1715d51d1"
+    },
+    {
+      "path": "QA/Retry_Mobile.png",
+      "bytes": 49047,
+      "sha256": "abc263c912f2a59bea428548c3a2a58a9c11d9ab7ba049054f360bb6c938180e"
+    },
+    {
+      "path": "QA/Verification.json",
+      "bytes": 1586,
+      "sha256": "5432903f198db12f54fc816b3247ce098ae17c1a2de02e722dc2a3f477e79a88"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6508,
+      "sha256": "ca398e08486a78093fe3cf65db5e314938159f5a37e2a8387e2dba7daf86019e"
+    },
+    {
+      "path": "Source.tar.gz",
+      "bytes": 203638,
+      "sha256": "f6c0b89944dcc3277ae6f019408fdadd660f77566feb51d959dfebafbcfc350a"
+    },
+    {
+      "path": "Source_Manifest.json",
+      "bytes": 20681,
+      "sha256": "f0a8e9c61c29f03465564fcd57e43e604c57c59f5a2656cb38f299747df88402"
+    }
+  ],
+  "source_archive_contents_verified": 130,
+  "live_D1_results_backed_up": false
+}

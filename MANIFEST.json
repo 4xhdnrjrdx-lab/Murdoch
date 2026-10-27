@@ -2638,6 +2638,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS230/2026-TSD/Assignments/A2/2026-10-27_game-cloud-restore.json",
+      "bytes": 2008,
+      "sha256": "de64583efd7374dd2d3aae37a39969c9dc1f289fc41001e8fcf7304dcc9cb184",
+      "storage": "git"
+    },
+    {
       "path": "BUS230/2026-TSD/Assignments/A2/A2_ADKAR_TEAM_PLAN_EN.docx",
       "bytes": 56626,
       "sha256": "2440b3c2145f3704269d89c13c586b6f9c49d88accb7a4e76ce2a5832a53adbb",
@@ -3485,8 +3491,8 @@
     },
     {
       "path": "BUS230/2026-TSD/HISTORY.md",
-      "bytes": 29808,
-      "sha256": "1b4ed27f408ff7875fe86b2510a3255276850e1752dc9b69bfaf5cfda4bbee44",
+      "bytes": 30229,
+      "sha256": "c107b9cd46c0b06a4bb94ef1edb21cc9a3feaeb4293ab77901d2bf004b99dc33",
       "storage": "git"
     },
     {
@@ -5938,6 +5944,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 989,
-  "total_bytes": 541115508
+  "file_count": 990,
+  "total_bytes": 541117937
 }
