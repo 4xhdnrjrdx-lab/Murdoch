@@ -2638,6 +2638,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS230/2026-TSD/Assignments/A2/2026-10-27_QR-presentation-cloud-restore.json",
+      "bytes": 3412,
+      "sha256": "075f8fd653f58100266ecbe3c5a4508f789b2484cc5569c58a6376cf1ee2be20",
+      "storage": "git"
+    },
+    {
       "path": "BUS230/2026-TSD/Assignments/A2/2026-10-27_game-cloud-restore.json",
       "bytes": 2008,
       "sha256": "de64583efd7374dd2d3aae37a39969c9dc1f289fc41001e8fcf7304dcc9cb184",
@@ -3605,8 +3611,8 @@
     },
     {
       "path": "BUS230/2026-TSD/HISTORY.md",
-      "bytes": 30919,
-      "sha256": "01ab381d3753d4975e201f06681357ca63f0c72a9a9b620c2084980d54ba1478",
+      "bytes": 31215,
+      "sha256": "5b27eb1a741e2123348d0df4d414d99f3a278ead2fb5397edcce78667a9735cf",
       "storage": "git"
     },
     {
@@ -6058,6 +6064,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 1009,
-  "total_bytes": 543333438
+  "file_count": 1010,
+  "total_bytes": 543337146
 }
