@@ -19,10 +19,12 @@
       "rounds",
       "runs"
     ],
-    "host_login_page": "observed; actual owner sign-in pending",
-    "live_test_attempt": "not created: automatic approval review rejected synthetic production write; explicit user consent requested",
-    "physical_three_phone_test": "not performed"
+    "host_login_page": "Actual owner signed in successfully; protected host dashboard observed",
+    "live_test_attempt": "One synthetic Others attempt explicitly authorized by Faiaz after initial automatic approval rejection. Completed all five situations through production UI, one intentional Anna first error corrected, reload restored progress, Result sent confirmed. Separate signed-in host page showed Completed, 5/5 and one first-answer error. Attempt retained in active session; no second test attempt created.",
+    "physical_three_phone_test": "not performed",
+    "hosted_identity_retry": "First platform callback returned 500; repeating the normal Sites sign-in flow succeeded. No custom auth bypass used."
   },
   "prizes": "removed from current scope; no prizes or rewards in game",
-  "presentation_files_changed": false
+  "presentation_files_changed": false,
+  "production_test_approved_by_user": true
 }
