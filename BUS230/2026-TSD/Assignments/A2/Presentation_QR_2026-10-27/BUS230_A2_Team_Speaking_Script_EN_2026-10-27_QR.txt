@@ -1,0 +1,109 @@
+BUS230 ASSESSMENT 2 — TEAM SPEAKING SCRIPT
+CURRENT QR VERSION — 27 OCTOBER 2026
+
+Read the English paragraphs. Do not read instructions in square brackets.
+Mazin: slides 1–6. Beryl: 7–12. Faiaz: 13–18. Aram: 19–30.
+One audience question on slide 24, the office game on slide 25, explanation only on slide 26.
+
+MAZIN — SLIDE 1: Using ADKAR with Context and Evidence
+Good afternoon. We are Class 2 Group 4. Today we will use ADKAR to examine a management problem at a fictional retailer, Cedar Retail. We keep ADKAR’s five outcomes and propose a decision record that makes working conditions and responsibilities explicit. This is a formal training session for managers. We will explain the model, examine its limits, show our proposed record and practise making a decision. Our proposal has not been tested in a real organisation.
+
+MAZIN — SLIDE 2: The management session
+The session has six sections. We begin with the retail case and our objectives. We then explain ADKAR and four limitations of using its five outcomes as a standalone checklist. Next, we show our proposed decision record. Research provides a basis for the design and also sets limits on our claims. Finally, you will apply the approach in a short discussion and a team office activity. We will close with recommendations and questions.
+
+MAZIN — SLIDE 3: Cedar Retail: the change
+Cedar Retail is a fictional retailer introducing a digital system for receiving stock. The task has three steps. Scan the items, check the quantities against the delivery record, and report any difference. For example, the record may show twenty items, but only eighteen arrive. On the evening shift, the scanner is unreliable and there is no practice time. The employee also worries about penalties for old stock errors. Our manager needs to respond to these problems.
+
+MAZIN — SLIDE 4: Three manager objectives
+By the end, a manager should be able to do three things. First, identify the person’s individual ADKAR need and choose relevant support. Second, connect that need to the task’s working conditions and accountable owners. Third, use task evidence to decide whether to continue, revise the design or pause an affected task. These objectives guide our record and the classroom activity. Completing the activity shows understanding of the scenario, rather than proof of ability in an actual workplace.
+
+MAZIN — SLIDE 5: The original ADKAR model
+ADKAR describes five outcomes of individual change. Awareness means understanding why change is needed. Desire concerns willingness to participate. Knowledge concerns how to change. Ability means applying the relevant skills and behaviours. Reinforcement supports continued use. A manager assesses the person’s needs and provides suitable support, starting with the earliest barrier. Training, coaching and repeated assessment already belong to the baseline approach. We do not present those existing provisions as inventions of our team.
+
+MAZIN — SLIDE 6: ADKAR and the wider method
+ADKAR is part of the wider Prosci Methodology. ADKAR helps managers identify the support an individual needs. The wider methodology also covers organisational processes, sponsorship and project health. Ability can depend on working conditions, including equipment and time. So our criticism concerns using the five outcomes alone as a checklist. We recognise the support that already exists in the wider approach. Beryl will now explain the remaining gaps and our proposed additions.
+
+BERYL — SLIDE 7: 01 / Shared working conditions
+Our first limitation concerns shared working conditions. ADKAR recognises that Ability can depend on external conditions. However, a five-outcome checklist does not itself allocate responsibility across IT, a store manager and a sponsor. At Cedar Retail, the IT lead owns scanner access and the manager owns practice time. Our added conditions record makes those responsibilities explicit for the affected task. Weiner and the multilevel readiness literature support considering collective conditions. They do not validate our particular record.
+
+BERYL — SLIDE 8: 02 / A reasonable objection
+The second limitation concerns a reasonable objection to the design. A colleague may support better stock records and still question a penalty rule. Piderit’s work on ambivalence and research on resistance help explain why a mixed response deserves investigation. Our addition requires the sponsor to record a reasoned decision about the concern. The sponsor may retain, revise or stop the disputed rule. We must investigate whether the rule is unfair. The fictional colleague’s concern alone does not establish that conclusion.
+
+BERYL — SLIDE 9: 03 / Dependencies across roles
+The third limitation concerns dependencies across roles. Individual support and organisational work may need to happen together. A colleague can learn the procedure while IT repairs access and the manager arranges practice. A dependency register links each enabling condition to the task that depends on it, its owner and completion evidence. Systems and contextual change research inform this design. We keep the individual ADKAR assessment and add a route for work that crosses organisational roles.
+
+BERYL — SLIDE 10: Four limitations, four additions
+The fourth limitation concerns conflicting evidence. A colleague’s readiness rating, a task demonstration and actual working conditions may tell different stories. Our evidence rule requires the manager to investigate that conflict and keep readiness unverified until relevant evidence supports the task decision. This slide matches each gap to one addition: conditions and ownership, a reasoned sponsor response, dependency routing and the evidence rule. These are proposed management rules. They are not new validated measures of readiness.
+
+BERYL — SLIDE 11: Our modified decision tool
+Our proposed tool keeps the individual ADKAR assessment. It adds conditions, employee concerns, dependencies and task evidence to one decision record. The manager then records a decision, its reason, a named owner and a review trigger. A review may lead to continuing, revising the design or pausing the affected task. We build on existing ideas rather than replacing the complete Prosci Methodology. The record’s usefulness and the time it requires still need to be tested.
+
+BERYL — SLIDE 12: Conditions and concerns
+Here are example entries for Cedar Retail. Reliable scanner access is missing, so the IT lead owns that condition. Practice time is missing from the roster, so the store manager owns it. The concern about penalties goes to the operations sponsor for a reasoned response. These entries make the required work visible. They do not say that anyone has already repaired the scanner, changed the roster or approved a policy. Faiaz will now show how the entries connect in the complete tool.
+
+FAIAZ — SLIDE 13: The dependency register
+Some actions depend on other actions being completed first. A colleague needs working scanner access before realistic practice can take place. The IT lead must show that the login works on the actual shift. The manager must provide practice time and evidence that the task has been completed. The sponsor must respond to the disputed penalty rule. Our register connects each condition to its owner and completion evidence. Assigning an action does not mean that someone has completed it.
+
+FAIAZ — SLIDE 14: One complete decision record
+The complete record asks five sets of questions. What is the task and whose work is affected? Which individual ADKAR need requires support? What condition or concern needs an owner? What must happen first, and what evidence is available? Finally, what decision follows and when will the manager review it? Keep the record focused on one task so it remains usable. The record supports a reasoned discussion. It does not calculate a validated readiness score.
+
+FAIAZ — SLIDE 15: Implementation and owners
+Implementation starts by agreeing the task and evidence criteria with the colleague. The relevant owners then address conditions and respond to concerns. Some actions can run in parallel. The colleague practises in usable conditions, and the manager observes the representative task. Finally, the manager records a decision and review trigger. These steps prevent an assigned action from being mistaken for completed work. Our classroom example illustrates the process. It does not demonstrate a completed implementation.
+
+FAIAZ — SLIDE 16: Continue, revise or pause
+Our proposed decision rules have three outcomes. Continue when the necessary conditions and task evidence support proceeding with follow-up. Revise when the design needs a reasoned change. Pause the affected task when an essential prerequisite is missing. A task-level pause does not stop the entire change project. Training and repairs may continue while the task remains on hold. The decision record must explain the scope and what evidence would allow the manager to reconsider it.
+
+FAIAZ — SLIDE 17: Feasibility and evaluation
+The proposal uses one shared digital record and existing manager, IT and sponsor roles. This may make responsibilities easier to follow, but it also takes time to maintain. A pilot should examine task accuracy, unresolved dependencies, the quality of responses to concerns and the time spent updating the record. These are proposed evaluation questions, not measured benefits. We should compare the approach with current practice before making claims about better outcomes.
+
+FAIAZ — SLIDE 18: Risks and practical safeguards
+The main risks are extra paperwork, sponsor inaction, weak task criteria and false confidence. Keep the record limited to essential fields, agree an escalation route and define a representative task before assessing Ability. Leave evidence gaps visible. A completed form alone cannot establish that the colleague can perform the work. Aram will now explain the supporting research, compare our proposal with existing provision and lead the management activity.
+
+ARAM — SLIDE 19: Research behind the decision record
+Three research areas inform our design. Baldwin and Ford distinguish learning from its transfer to work. Edmondson links psychological safety with team learning behaviour. Morrison reviews employee voice and silence. These ideas support observing realistic work, discussing mistakes and recording responses to concerns. None of these studies tests our Cedar Retail record. They support our design choices, while the effectiveness of the combined tool remains unverified.
+
+ARAM — SLIDE 20: Benchmark against existing practice
+ADKAR already provides individual diagnosis and support. Wider Prosci includes organisational process and sponsorship. Change research supports contextual judgement and participation. Our record makes responsibilities and decision evidence explicit. These comparisons inform the proposal, but they do not establish that it works at Cedar Retail.
+
+ARAM — SLIDE 21: Cedar Retail: conflicting evidence
+The colleague explains the procedure, which gives some evidence of Knowledge. The scanner is unreliable, practice time is missing and no realistic demonstration has taken place. Ability remains unverified. We pause the affected task and assign its prerequisites. Repairs and practice remain pending until evidence confirms completion.
+
+ARAM — SLIDE 22: Research insights and a pilot
+Research supports considering context and participation. A small pilot should compare decisions, task errors, unresolved conditions and maintenance time with current practice. Classroom answers show scenario understanding. Workplace Ability requires separate observation.
+
+ARAM — SLIDE 23: Communication and manager workflow
+Colleagues need a briefing, practice and a chance to raise concerns. IT and management share completion evidence. The sponsor explains policy decisions. Our workflow connects diagnosis to named owners, verified evidence and a decision with a review trigger.
+
+ARAM — SLIDE 24: Your management decision
+The colleague knows the steps, but the scanner fails and there is no practice time. Which option would you choose for this task: A, B or C? Please discuss for fifteen seconds.
+
+[Pause for fifteen seconds.]
+
+Could one person give a short reason?
+
+[Listen to one short answer. If nobody answers, continue.]
+
+Our recommendation is C. Pause the affected task while the owners fix the missing conditions, then observe realistic performance. The wider project can continue.
+
+ARAM — SLIDE 25: Cedar Retail office challenge
+Now let’s try the office game. Please use one phone per team of four. Scan this QR code and select Team 1, Team 2 or Team 3. Our lecturer and anyone joining separately can choose Others. Tap any colleague. For each situation, first choose what to investigate, then choose an action. A green check means correct. If you see Try again, read the explanation and choose another answer. Visit all five colleagues, then tap Finish and send review. You have four minutes.
+
+[Allow forty-five seconds for the introduction and joining. Then allow four minutes to play. Keep this slide on the projector. The host results stay on a separate private device.]
+
+[If the game cannot connect, continue to slide 26 and explain the five situations. Do not claim that teams have finished or that their results were saved.]
+
+ARAM — SLIDE 26: Five situations, different responses
+The five situations need different responses. Anna needs a clear explanation of why the change matters. Omar’s concern needs investigation and a reasoned sponsor response. Mia needs instruction and guided practice. Leo needs usable conditions and a realistic observation before Ability can be verified. Sara needs renewed feedback and follow-up after earlier successful use. These are decisions for our fictional cases. The game gives us practice with these scenarios. Workplace Ability still needs observation in a real task.
+
+ARAM — SLIDE 27: Conclusion
+Our conclusion returns to the three objectives. ADKAR provides a useful language for individual support. Our proposed record makes organisational conditions, owners and dependencies explicit. It also requires a reasoned response to concerns and an evidence-based task decision. Managers can then explain why they continue, revise or pause an affected task. The proposal complements existing provision. We have shown its logic through a fictional case, rather than established its effectiveness in practice.
+
+ARAM — SLIDE 28: Recommendations and design lesson
+We recommend trying the record on one task before wider use. Agree the evidence needed and name the people responsible. Then compare the decisions and the time needed to maintain the record with current practice. Our main lesson from the analysis is that identifying an individual need still leaves organisational work to do. Someone must take responsibility for that work. Thank you. The next two slides list our references, and we welcome your questions.
+
+ARAM — SLIDE 29: References A–L
+[Show the first reference slide briefly. Do not read the entries aloud.]
+
+ARAM — SLIDE 30: References M–W
+[Show the second reference slide briefly. Allow up to one minute for questions. If no one asks a question, thank the audience and finish.]
+

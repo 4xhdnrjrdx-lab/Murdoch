@@ -1,0 +1,126 @@
+{
+  "total_slides": 30,
+  "visible_slides": 30,
+  "scripted_classroom_activities": [
+    {
+      "slide": 24,
+      "activity": "one A/B/C management decision; one brief audience explanation"
+    },
+    {
+      "slide": 25,
+      "activity": "office game, five colleagues, two choices each"
+    }
+  ],
+  "slide_26": "presenter explanation, no additional question or poll",
+  "closing_questions": "general Q&A after references, not another exercise",
+  "notes_match_current_script": true,
+  "planned_finish_including_general_questions": "29:20",
+  "rehearsed_timing": false,
+  "unchanged_slides_pixel_comparison": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "source_masters_layouts_and_notes_1_to_18": "preserved byte for byte",
+  "text_hyperlink": "omitted after native Safe Links check error; game access through QR and printed URL",
+  "slides": [
+    {
+      "slide": 19,
+      "title": "Research behind the decision record",
+      "role": "research / wrap-up / references",
+      "spoken_words": 66
+    },
+    {
+      "slide": 20,
+      "title": "Benchmark against existing practice",
+      "role": "research / wrap-up / references",
+      "spoken_words": 45
+    },
+    {
+      "slide": 21,
+      "title": "Cedar Retail: conflicting evidence",
+      "role": "research / wrap-up / references",
+      "spoken_words": 47
+    },
+    {
+      "slide": 22,
+      "title": "Research insights and a pilot",
+      "role": "research / wrap-up / references",
+      "spoken_words": 32
+    },
+    {
+      "slide": 23,
+      "title": "Communication and manager workflow",
+      "role": "research / wrap-up / references",
+      "spoken_words": 38
+    },
+    {
+      "slide": 24,
+      "title": "Your management decision",
+      "role": "short audience question",
+      "spoken_words": 63
+    },
+    {
+      "slide": 25,
+      "title": "Cedar Retail office challenge",
+      "role": "office game",
+      "spoken_words": 82
+    },
+    {
+      "slide": 26,
+      "title": "Five situations, different responses",
+      "role": "explanation only",
+      "spoken_words": 78
+    },
+    {
+      "slide": 27,
+      "title": "Conclusion",
+      "role": "research / wrap-up / references",
+      "spoken_words": 72
+    },
+    {
+      "slide": 28,
+      "title": "Recommendations and design lesson",
+      "role": "research / wrap-up / references",
+      "spoken_words": 74
+    },
+    {
+      "slide": 29,
+      "title": "References A–L",
+      "role": "research / wrap-up / references",
+      "spoken_words": 0
+    },
+    {
+      "slide": 30,
+      "title": "References M–W",
+      "role": "research / wrap-up / references",
+      "spoken_words": 0
+    }
+  ]
+}

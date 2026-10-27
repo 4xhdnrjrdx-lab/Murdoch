@@ -1,0 +1,26 @@
+{
+  "target": "https://cedar-retail-adkar-demo.spicy-rhino-0802.chatgpt.site/",
+  "generator": "ReportLab QR encoder, error correction Q; functional QR asset",
+  "matrix_modules": 41,
+  "quiet_zone_modules": 4,
+  "png_pixels": [
+    784,
+    784
+  ],
+  "slide_display_pixels": [
+    352,
+    352
+  ],
+  "decoded_from_asset": true,
+  "decoded_from_final_slide_render": true,
+  "decoded_from_native_powerpoint_show_screenshot": true,
+  "decoder": "macOS Vision QR detector, CPU",
+  "physical_phone_and_actual_projector_test": false,
+  "native_powerpoint_checked_slides": [
+    24,
+    25,
+    26
+  ],
+  "final_pptx_sha256": "0890d46b98bbca6b47205e41789edf3a06f44ada8fdfa1e2eb745ba2ae31e0d0",
+  "native_text_hyperlink": "Removed after Microsoft Safe Links verification failed on this Mac. No protection bypass performed. The final slide uses QR entry plus a printed URL."
+}
