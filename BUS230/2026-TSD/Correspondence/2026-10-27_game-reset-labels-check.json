@@ -1,0 +1,17 @@
+{
+  "checked_on": "2026-10-27",
+  "timezone": "Asia/Dubai",
+  "mail": {
+    "account": "jafarovfayaz@gmail.com",
+    "query": "after:2026/10/27 (BUS230 OR \"Change Management\")",
+    "result_count": 0,
+    "boundary": "Study Gmail only; Outlook/WhatsApp not checked; no messages sent"
+  },
+  "lms": {
+    "checked_at": "2026-10-27T20:39:23.183615+04:00",
+    "assignment_id": 124983,
+    "group_submission_status": "new",
+    "operation": "Read-only group submission status"
+  },
+  "submission_performed": false
+}

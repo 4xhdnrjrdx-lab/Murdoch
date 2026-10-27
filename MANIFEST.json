@@ -2920,6 +2920,72 @@
       "storage": "git"
     },
     {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/DEPLOYMENT.json",
+      "bytes": 625,
+      "sha256": "da6b26704f075ab747019e598147e22c6971374a8f6f6f4902bdd11d7a41ad25",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/QA/API_Local.json",
+      "bytes": 2357,
+      "sha256": "9736d289a47cf73eb6383194f7bd4d6a167425e8defb4a1399bfe70ea17b3f9b",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/QA/Empty_Session_Local.png",
+      "bytes": 50508,
+      "sha256": "3d0ce8bb990a107de9bcb36c211a61af224bb077be6e21dd34911f988c0cd5c8",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/QA/Others_Label_Mobile.png",
+      "bytes": 57605,
+      "sha256": "af8720bcb97df5466abf775cc082bd8d855474b300748c23464d3608d1760c73",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/QA/Player_New_Session.png",
+      "bytes": 25191,
+      "sha256": "eb259ef97dae76f65d9639d78325b7782336109054e3a23f01245382cf7bc96e",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/QA/Reset_Confirm_Live.png",
+      "bytes": 44504,
+      "sha256": "169c9af29108777b8796025a90403c156e302eedc95f4b08e49d041a472993e1",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/QA/Reset_Confirm_Local.png",
+      "bytes": 38950,
+      "sha256": "86531a6808aefe0d50f668b1e5c4bfa31509f33c717141caaf7893f5711b2a55",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/QA/Verification.json",
+      "bytes": 1293,
+      "sha256": "cd899effe22d2e12329ef74254cabbed6f5f5dde56d4253c11c6e851c1c02b28",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/README.md",
+      "bytes": 6041,
+      "sha256": "522ded48be7061cac446255a239e7694a1a0026f281038948a21e251eb48fefe",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/Source.tar.gz",
+      "bytes": 206237,
+      "sha256": "aa734291f1fd2c7cb8eee01fb4375ca931e08c8acc8788202ed0793e49dc1fd4",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/Source_Manifest.json",
+      "bytes": 21007,
+      "sha256": "c0e494d0ba17d88a0bea8ad3010c80732dd4b96b39af21f29e69c20d0babd0d2",
+      "storage": "git"
+    },
+    {
       "path": "BUS230/2026-TSD/Assignments/A2/Group_Scripts_2026-10-27/BUS230_A2_Team_Speaking_Script_EN_2026-10-27.txt",
       "bytes": 15273,
       "sha256": "104a04398e7b2cba2055d97abf6f6dc3ae5e18e7ea5368e1940088229c375db2",
@@ -3497,8 +3563,8 @@
     },
     {
       "path": "BUS230/2026-TSD/CONTEXT.md",
-      "bytes": 37197,
-      "sha256": "ae9ea748fe8091767f09407f62c093514b5b91f24a503c82ea17c9af5ec1ff8b",
+      "bytes": 38879,
+      "sha256": "4df3a8c6a1b909b6c740d825e460f1fcd7ee33356e687ba3e5c49f7e54cc527a",
       "storage": "git"
     },
     {
@@ -3598,6 +3664,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS230/2026-TSD/Correspondence/2026-10-27_game-reset-labels-check.json",
+      "bytes": 515,
+      "sha256": "6430e4da21b63c1e96a6bea735a58398717b87568d52ad1684d1c26df7c0b638",
+      "storage": "git"
+    },
+    {
       "path": "BUS230/2026-TSD/Correspondence/2026-10-27_local-snapshot-check.json",
       "bytes": 703,
       "sha256": "ecdd5f623a94261045642d51bbaa76e0ed1c0fbe0201c7ca16ab2501453695f9",
@@ -3611,8 +3683,8 @@
     },
     {
       "path": "BUS230/2026-TSD/HISTORY.md",
-      "bytes": 31215,
-      "sha256": "5b27eb1a741e2123348d0df4d414d99f3a278ead2fb5397edcce78667a9735cf",
+      "bytes": 31966,
+      "sha256": "45aff54e3bd14a51b1e7704c2a10eac1739110d5183cd6aacdc97298e25312b6",
       "storage": "git"
     },
     {
@@ -4013,14 +4085,14 @@
     },
     {
       "path": "BUS230/2026-TSD/TASKS.json",
-      "bytes": 33200,
-      "sha256": "1d2542a2c14656a7b57fd24acd769269943c22b700e3c15a396c5350d228420a",
+      "bytes": 34406,
+      "sha256": "ccaf3c143aaaaefe2f4e39ffda3de9ad519cba0adae3c96e78b30ef6e30df734",
       "storage": "git"
     },
     {
       "path": "BUS230/2026-TSD/TASKS.md",
-      "bytes": 26373,
-      "sha256": "5b1e9ddee0145eea1a36e64117f7d316b6d57dfdd0caed46b0e5d06dc26e39c1",
+      "bytes": 27418,
+      "sha256": "021c287cec32093a26e60fd341c11244829cec77ce9d4af9016fdb61d57d9c69",
       "storage": "git"
     },
     {
@@ -6064,6 +6136,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 1010,
-  "total_bytes": 543337146
+  "file_count": 1022,
+  "total_bytes": 543796663
 }

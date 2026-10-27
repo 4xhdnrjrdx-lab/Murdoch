@@ -1,0 +1,13 @@
+{
+  "project_id": "appgprj_6adf7c2cbc3881918722c7f05e6f618d",
+  "version": 3,
+  "version_id": "appgprj_6adf7c2cbc3881918722c7f05e6f618d~appgver_ad41461a41fc8191bc1ecb0f7b82898b",
+  "deployment_id": "appgdep_6ae0d3d4f20c8191a78be8b0c24cccb4",
+  "source_commit": "602eb16bdc716e248fb89677d8713bbe34f9f472",
+  "status": "succeeded",
+  "url": "https://cedar-retail-adkar-demo.spicy-rhino-0802.chatgpt.site",
+  "admin_url": "https://cedar-retail-adkar-demo.spicy-rhino-0802.chatgpt.site/admin",
+  "access_mode": "public",
+  "schema_change": "0001_harsh_unus.sql: nullable display_name only",
+  "runtime_secrets_exported": false
+}

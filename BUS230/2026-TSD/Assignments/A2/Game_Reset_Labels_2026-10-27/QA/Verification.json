@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-10-27",
+  "local_api_checks": 61,
+  "typecheck": "passed",
+  "production_build": "passed",
+  "local_browser": {
+    "guest_label": "Teacher entered at 390x844 and shown in game/host",
+    "completed_attempt": "Teacher completed all five cases",
+    "replay": "Play again as Others returns to a labelled registration; Teacher practice starts a distinct run, original Teacher remains completed at 5/5",
+    "cancel_reset": "Opening then cancelling retains both the session and results; initial focus is Cancel",
+    "confirm_reset": "Fresh empty session; no active guest rows, Team 1–3 free",
+    "player_reset_notice": "Detected automatically within the six-second poll; Join the new session returns to all three available teams"
+  },
+  "hosted_browser": {
+    "Others_field": "Observed on production registration after reload",
+    "host_confirmation": "Observed via signed-in owner page; Cancel selected",
+    "reset_performed": false,
+    "new_attempts_created_by_agent_this_update": 0,
+    "existing_records": "Existing pre-update attempts remained visible after nullable migration and cancelling reset"
+  },
+  "limits": [
+    "No three physical-phone Wi-Fi test",
+    "No reset of production statistics performed during QA"
+  ],
+  "presentation_changed": false
+}
