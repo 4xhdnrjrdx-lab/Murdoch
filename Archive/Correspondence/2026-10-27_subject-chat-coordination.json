@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "recorded_at": "2026-10-27T14:30:04.898912+04:00",
+  "authorization": {
+    "source": "Direct human message in Общий_Murdoch v0.2 on 27 October 2026",
+    "user_text": "ты можешь напрямую спросить у чатов что тебя интерисует и сделать то что нужно",
+    "scope": "General Murdoch chat may contact existing subject chats directly to clarify and coordinate necessary work on the shared private study base.",
+    "supersedes": "Earlier instruction to read subject chats but not message them without a separate request, within this study-coordination scope.",
+    "not_authorized_by_this": "Sending email/messages to lecturers or classmates, submitting work, changing enrolments, payments, or unrelated projects."
+  },
+  "threads": {
+    "BUS219": {
+      "id": "01a158fe-211a-74a3-bbaf-fd2801d9d9b8",
+      "title": "Bus219 Вторник v0.3"
+    },
+    "BUS225": {
+      "id": "01a15d52-937f-7732-9ac3-8fa6b32d45a6",
+      "title": "Bus225 Среда_1 v0.3"
+    },
+    "BUS230": {
+      "id": "01a15dfd-0b4c-7c80-9ca1-4c3cd5e2496b",
+      "title": "Bus230 Среда_2 v0.6"
+    },
+    "BUS334": {
+      "id": "01a1159c-92b8-70f3-8100-fb11e0895857",
+      "title": "Bus334 Четверг v0.2"
+    }
+  },
+  "coordination_actions": [
+    {
+      "subject": "BUS230",
+      "requested_at": "2026-10-27T14:30:04.898968+04:00",
+      "request": "Identify provenance and current presentation version; preserve both locally modified PPTX files as separate byte-identical snapshots in private GitHub, verify cloud restoration, update BUS230 records and close audit exception with evidence. Original local files and published checked versions must remain intact.",
+      "status": "message sent; subject chat working",
+      "result_delivery": "Read subject chat final response and GitHub records; no automatic return messaging required."
+    }
+  ]
+}
