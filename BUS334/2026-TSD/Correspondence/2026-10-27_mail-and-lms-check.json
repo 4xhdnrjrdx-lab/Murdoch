@@ -1,0 +1,161 @@
+{
+  "checked_at": "2026-10-27T14:22:59+04:00",
+  "mail": {
+    "account": "jafarovfayaz@gmail.com",
+    "profile_verified": true,
+    "queries": [
+      "after:2026/10/21 (BUS334 OR \"BUS 334\" OR from:ashok.mitra OR (\"Submission confirmation\" \"Assignment 3\"))",
+      "after:2026/10/22 (\"BUS334\" OR \"BUS 334\" OR \"Business Analytics\" OR from:Ashok.Mitra@murdoch.edu.au)"
+    ],
+    "search_exhausted": true,
+    "matched_counts": [
+      9,
+      5
+    ],
+    "unrelated_study_plan_hit_excluded": true,
+    "relevant_messages": [
+      {
+        "message_id": "1a16d23362ec3ef3",
+        "subject": "BUS 334 : Final Assignment - Important Instructions",
+        "sender": "Ashok Mitra Ashok.Mitra@murdoch.edu.au",
+        "sent_at": "2026-10-24T08:59:39+00:00",
+        "url": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/1a16d23362ec3ef3"
+      },
+      {
+        "message_id": "1a16472e5a978678",
+        "subject": "Student Survey – BUS334 Business Analytics Assessment 3",
+        "sender": "Sunnatkhon Shukurillakhonov 35933301@student.murdoch.edu.au",
+        "sent_at": "2026-10-22T16:30:07+00:00",
+        "url": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/1a16472e5a978678"
+      },
+      {
+        "message_id": "1a163edad4a3ca65",
+        "subject": "This is your Turnitin Digital Receipt",
+        "sender": "\"Do not reply to this email (via myMurdoch Learning)\" no-reply-lms@murdoch.edu.au",
+        "sent_at": "2026-10-22T14:04:35+00:00",
+        "url": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/1a163edad4a3ca65"
+      },
+      {
+        "message_id": "1a163ed7f4547a56",
+        "subject": "This is your Turnitin Digital Receipt",
+        "sender": "\"Do not reply to this email (via myMurdoch Learning)\" no-reply-lms@murdoch.edu.au",
+        "sent_at": "2026-10-22T14:04:24+00:00",
+        "url": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/1a163ed7f4547a56"
+      },
+      {
+        "message_id": "1a15fdf485e6408c",
+        "subject": "This is your Turnitin Digital Receipt",
+        "sender": "\"Do not reply to this email (via myMurdoch Learning)\" no-reply-lms@murdoch.edu.au",
+        "sent_at": "2026-10-21T19:10:24+00:00",
+        "url": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/1a15fdf485e6408c"
+      },
+      {
+        "message_id": "1a15fdf336d470d1",
+        "subject": "This is your Turnitin Digital Receipt",
+        "sender": "\"Do not reply to this email (via myMurdoch Learning)\" no-reply-lms@murdoch.edu.au",
+        "sent_at": "2026-10-21T19:10:18+00:00",
+        "url": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/1a15fdf336d470d1"
+      },
+      {
+        "message_id": "1a15f86f7f0a2804",
+        "subject": "This is your Turnitin Digital Receipt",
+        "sender": "\"Do not reply to this email (via myMurdoch Learning)\" no-reply-lms@murdoch.edu.au",
+        "sent_at": "2026-10-21T17:33:55+00:00",
+        "url": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/1a15f86f7f0a2804"
+      },
+      {
+        "message_id": "1a15f86e4916ed57",
+        "subject": "This is your Turnitin Digital Receipt",
+        "sender": "\"Do not reply to this email (via myMurdoch Learning)\" no-reply-lms@murdoch.edu.au",
+        "sent_at": "2026-10-21T17:33:51+00:00",
+        "url": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/1a15f86e4916ed57"
+      }
+    ],
+    "read_message_ids": [
+      "1a16d23362ec3ef3",
+      "1a163edad4a3ca65",
+      "1a163ed7f4547a56",
+      "1a16472e5a978678"
+    ],
+    "no_more_recent_BUS334_instruction_or_grade_email_found": true,
+    "uncovered": [
+      "Full university Outlook",
+      "WhatsApp",
+      "Messages outside the search terms"
+    ],
+    "read_only": true,
+    "no_messages_sent": true,
+    "labels_not_changed": true,
+    "checked_at": "2026-10-27T14:22:59+04:00"
+  },
+  "lms": {
+    "checked_at": "2026-10-27T14:22:07+04:00",
+    "a3": {
+      "status": "submitted",
+      "grading_status": "notgraded",
+      "timemodified": 1792677430,
+      "files": [
+        {
+          "name": "35553299_Dzhafarov_BUS334_A3_Appendices_Revised.pdf",
+          "size": 475063,
+          "modified": 1792677430
+        },
+        {
+          "name": "35553299_Dzhafarov_BUS334_A3_Original_Responses.pdf",
+          "size": 130841,
+          "modified": 1792609535
+        },
+        {
+          "name": "35553299_Dzhafarov_BUS334_A3_Report_Revised.pdf",
+          "size": 519085,
+          "modified": 1792677430
+        }
+      ]
+    },
+    "assignments": [
+      {
+        "id": 124857,
+        "name": "Assignment 4 Supporting materials submission: Data Analysis &amp; Presentation (40%)",
+        "duedate": 0,
+        "intro_text": "Please submit the supporting material (e.g. PPT slides) 24 hrs before your scheduled presentation here. Supporting documents may include any materials deemed necessary to assist the lecturer or marker in evaluating your presentation."
+      },
+      {
+        "id": 124856,
+        "name": "Assignment 3 Submission: Data Collection &amp; Preliminary Analysis (30%)",
+        "duedate": 1792943940,
+        "intro_text": "The data collection and analysis is to be conducted individually, the assignment should be also submitted and marked individually."
+      }
+    ],
+    "grades": [],
+    "errors": {},
+    "verification_scope": "Read-only status, filenames/sizes, assignment metadata and own available grade fields; files not downloaded."
+  },
+  "important_message": {
+    "source": "Correspondence/2026-10-24_final-assignment-instructions.json",
+    "message_id": "1a16d23362ec3ef3",
+    "sent_at": "2026-10-24T12:59:39+04:00",
+    "subject": "BUS 334 : Final Assignment - Important Instructions",
+    "own_group": "Thursday Class 1, Group 1: Faiaz, Nikita, Khushal, Vishal, Irzakov",
+    "presentation_date": "2026-11-12",
+    "room": "106",
+    "arrive_by": "16:15 Asia/Dubai",
+    "session_starts": "16:30 Asia/Dubai",
+    "own_group_slot": "unknown",
+    "group_duration_minutes": 15,
+    "each_member_minimum_minutes": 3,
+    "each_member_question_after_presentation": 1,
+    "individual_lms_rule": "Every member uploads supporting materials 24 hours before the presentation",
+    "working_safe_upload_target": "2026-11-11 16:30 Asia/Dubai; derived from session start, not an assigned group slot",
+    "one_member_email_rule": "One member emails the final presentation on presentation afternoon before class begins",
+    "late_arrival_penalty": "Assessment 1 participation penalty",
+    "unequal_contribution": "May require peer review and reduce individual marks",
+    "session_may_extend_after": "18:30 Asia/Dubai",
+    "asking_another_group_a_question": "Additional participation credit mentioned"
+  },
+  "turnitin_receipts": {
+    "revised_appendices_received_at": "2026-10-22T18:04:24+04:00",
+    "revised_report_received_at": "2026-10-22T18:04:35+04:00",
+    "scope": "Receipts confirm Turnitin intake, not grade or completed similarity result; Moodle submitted separately rechecked."
+  },
+  "other_relevant_mail": "22 October: student survey invitation; no course instruction or action required from it."
+}
