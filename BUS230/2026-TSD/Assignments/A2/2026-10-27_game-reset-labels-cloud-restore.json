@@ -1,0 +1,65 @@
+{
+  "checked_at": "2026-10-27T20:50:46.064617+04:00",
+  "restored_main": "1d7abca4783a08de28f741cd26a33b435807c79b",
+  "independent_network_clone": true,
+  "local_reference_used": false,
+  "verified_files": [
+    {
+      "path": "DEPLOYMENT.json",
+      "bytes": 625,
+      "sha256": "da6b26704f075ab747019e598147e22c6971374a8f6f6f4902bdd11d7a41ad25"
+    },
+    {
+      "path": "QA/API_Local.json",
+      "bytes": 2357,
+      "sha256": "9736d289a47cf73eb6383194f7bd4d6a167425e8defb4a1399bfe70ea17b3f9b"
+    },
+    {
+      "path": "QA/Empty_Session_Local.png",
+      "bytes": 50508,
+      "sha256": "3d0ce8bb990a107de9bcb36c211a61af224bb077be6e21dd34911f988c0cd5c8"
+    },
+    {
+      "path": "QA/Others_Label_Mobile.png",
+      "bytes": 57605,
+      "sha256": "af8720bcb97df5466abf775cc082bd8d855474b300748c23464d3608d1760c73"
+    },
+    {
+      "path": "QA/Player_New_Session.png",
+      "bytes": 25191,
+      "sha256": "eb259ef97dae76f65d9639d78325b7782336109054e3a23f01245382cf7bc96e"
+    },
+    {
+      "path": "QA/Reset_Confirm_Live.png",
+      "bytes": 44504,
+      "sha256": "169c9af29108777b8796025a90403c156e302eedc95f4b08e49d041a472993e1"
+    },
+    {
+      "path": "QA/Reset_Confirm_Local.png",
+      "bytes": 38950,
+      "sha256": "86531a6808aefe0d50f668b1e5c4bfa31509f33c717141caaf7893f5711b2a55"
+    },
+    {
+      "path": "QA/Verification.json",
+      "bytes": 1293,
+      "sha256": "cd899effe22d2e12329ef74254cabbed6f5f5dde56d4253c11c6e851c1c02b28"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6041,
+      "sha256": "522ded48be7061cac446255a239e7694a1a0026f281038948a21e251eb48fefe"
+    },
+    {
+      "path": "Source.tar.gz",
+      "bytes": 206237,
+      "sha256": "aa734291f1fd2c7cb8eee01fb4375ca931e08c8acc8788202ed0793e49dc1fd4"
+    },
+    {
+      "path": "Source_Manifest.json",
+      "bytes": 21007,
+      "sha256": "c0e494d0ba17d88a0bea8ad3010c80732dd4b96b39af21f29e69c20d0babd0d2"
+    }
+  ],
+  "archive_source_files_verified": 132,
+  "live_result_exported": false
+}

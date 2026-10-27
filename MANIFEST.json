@@ -2650,6 +2650,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS230/2026-TSD/Assignments/A2/2026-10-27_game-reset-labels-cloud-restore.json",
+      "bytes": 2001,
+      "sha256": "02be1b22acb045d19a119b01cc186517ef28951bdb00ec8845659c6bcde10aef",
+      "storage": "git"
+    },
+    {
       "path": "BUS230/2026-TSD/Assignments/A2/A2_ADKAR_TEAM_PLAN_EN.docx",
       "bytes": 56626,
       "sha256": "2440b3c2145f3704269d89c13c586b6f9c49d88accb7a4e76ce2a5832a53adbb",
@@ -3683,8 +3689,8 @@
     },
     {
       "path": "BUS230/2026-TSD/HISTORY.md",
-      "bytes": 31966,
-      "sha256": "45aff54e3bd14a51b1e7704c2a10eac1739110d5183cd6aacdc97298e25312b6",
+      "bytes": 32297,
+      "sha256": "ebe0620f220147f18f74faa07b5905f24147f4d1fe1d1d24523c0341cd5bdede",
       "storage": "git"
     },
     {
@@ -6136,6 +6142,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 1022,
-  "total_bytes": 543796663
+  "file_count": 1023,
+  "total_bytes": 543798995
 }
