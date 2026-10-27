@@ -1,0 +1,21 @@
+{
+  "checked_on": "2026-10-27",
+  "timezone": "Asia/Dubai",
+  "mail": {
+    "account": "jafarovfayaz@gmail.com",
+    "profile_verified": true,
+    "query": "after:2026/10/26 (BUS230 OR \"Change Management\")",
+    "result_count": 1,
+    "new_A2_instructions_found": false,
+    "boundary": "Only study-plan metadata returned. No full Outlook or WhatsApp check; no messages sent."
+  },
+  "lms": {
+    "checked_at": "2026-10-27T14:30:33.340848+04:00",
+    "assignment_id": 124983,
+    "group_submission_status": "new",
+    "due_timestamp": 1793980740,
+    "due_dubai": "2026-11-06T19:59:00+04:00",
+    "operation": "Read-only assignments and group submission status"
+  },
+  "submission_performed": false
+}

@@ -341,5 +341,18 @@
     "BUS225": "Published final group DOCX and records present; A2 and individual peer review own submissions new, November 6 17:00 Dubai unchanged.",
     "BUS230": "Published October 26 presentation revision and game demo exist, but two local presentation files have unpublished changes; own A2 submission new and November 6 19:59 unchanged.",
     "BUS334": "Revised A3 submitted October 22 remains confirmed; November 12 A4 email stored, own A4 supporting submission new and no portal duedate."
-  }
+  },
+  "follow_up_events": [
+    {
+      "checked_at": "2026-10-27T14:37:43.757953+04:00",
+      "course": "BUS230",
+      "result": "Two formerly unpublished local byte streams are preserved as separate snapshots and restored from GitHub. Original paths intentionally remain modified.",
+      "snapshot_commit": "3a818e0d049085875357b6e6312b6321108d7bf2",
+      "resolution_path": "BUS230/2026-TSD/Assignments/A2/Local_Snapshots_2026-10-27/RESOLUTION.json",
+      "recommended_working_file": "BUS230/2026-TSD/Assignments/A2/Local_Snapshots_2026-10-27/BUS230Assessment2Class2Group4_2026-10-26_LOCAL_SNAPSHOT_2026-10-27.pptx",
+      "sha256_matches": true,
+      "original_audit_observations_preserved": true,
+      "all_local_working_paths_claimed_clean": false
+    }
+  ]
 }

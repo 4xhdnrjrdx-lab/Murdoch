@@ -1,0 +1,76 @@
+[
+  {
+    "source_path": "BUS230/2026-TSD/Assignments/A2/Redesign_2026-10-21/BUS230Assessment2Class2Group4_2026-10-21.pptx",
+    "snapshot_file": "BUS230Assessment2Class2Group4_2026-10-21_LOCAL_SNAPSHOT_2026-10-27.pptx",
+    "published_sha256": "824c7466a6f87919994b0fb2b97a4b4bb3505f4f4e3486a5112a4697bb5ef799",
+    "local_sha256": "e2669e02464a06f87e55bad224b81a82dbdbe20bfaec8deaa5845a4ae6f672f6",
+    "published_application": {
+      "Application": "Walnut Exporter",
+      "Slides": "0",
+      "HiddenSlides": "0"
+    },
+    "local_application": {
+      "Application": "Microsoft Macintosh PowerPoint",
+      "Slides": "30",
+      "HiddenSlides": "6",
+      "AppVersion": "16.0000"
+    },
+    "published_slide_count": 30,
+    "local_slide_count": 30,
+    "published_visible_slides": 24,
+    "local_visible_slides": 24,
+    "changes": [
+      {
+        "slide": 1,
+        "changed_fields": [
+          "text"
+        ],
+        "text_diff": [
+          "--- published",
+          "+++ local",
+          "@@ -5,5 +5,5 @@",
+          " Formal management training",
+          " Class 2 Group 4 · Murdoch University Dubai",
+          " Mohammad Mazin Mohammad Al Mili · Beryl Soria",
+          "-Faiaz Dzhafarov (35553299) · Aram Avetisyan",
+          "+Faiaz Dzhafarov · Aram Avetisyan",
+          " Prepared 21 October 2026"
+        ]
+      }
+    ],
+    "published_package_members": 149,
+    "local_package_members": 148
+  },
+  {
+    "source_path": "BUS230/2026-TSD/Assignments/A2/Revision_2026-10-26/BUS230Assessment2Class2Group4_2026-10-26.pptx",
+    "snapshot_file": "BUS230Assessment2Class2Group4_2026-10-26_LOCAL_SNAPSHOT_2026-10-27.pptx",
+    "published_sha256": "a380ea2feff8d2e158180cc70cf906b8335e0ca0645acea62268e65cb01b209f",
+    "local_sha256": "51e8ba5bfb671a9178bef26a06f349123ff8a8fe9379259b8ee29460ddb6a1b4",
+    "published_application": {
+      "Application": "Microsoft Macintosh PowerPoint",
+      "Slides": "30",
+      "HiddenSlides": "0",
+      "AppVersion": "16.0000"
+    },
+    "local_application": {
+      "Application": "Microsoft Macintosh PowerPoint",
+      "Slides": "30",
+      "HiddenSlides": "0",
+      "AppVersion": "16.0000"
+    },
+    "published_slide_count": 30,
+    "local_slide_count": 30,
+    "published_visible_slides": 30,
+    "local_visible_slides": 30,
+    "changes": [
+      {
+        "slide": 25,
+        "changed_fields": [
+          "geometry"
+        ]
+      }
+    ],
+    "published_package_members": 149,
+    "local_package_members": 148
+  }
+]

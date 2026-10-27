@@ -1,0 +1,19 @@
+{
+  "restored_commit": "3a818e0d049085875357b6e6312b6321108d7bf2",
+  "method": "Independent network sparse clone from GitHub with no local references",
+  "files": [
+    {
+      "path": "BUS230Assessment2Class2Group4_2026-10-21_LOCAL_SNAPSHOT_2026-10-27.pptx",
+      "sha256": "e2669e02464a06f87e55bad224b81a82dbdbe20bfaec8deaa5845a4ae6f672f6",
+      "bytes": 1419820,
+      "matches": true
+    },
+    {
+      "path": "BUS230Assessment2Class2Group4_2026-10-26_LOCAL_SNAPSHOT_2026-10-27.pptx",
+      "sha256": "51e8ba5bfb671a9178bef26a06f349123ff8a8fe9379259b8ee29460ddb6a1b4",
+      "bytes": 1442773,
+      "matches": true
+    }
+  ],
+  "all_match": true
+}

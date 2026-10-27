@@ -1,0 +1,23 @@
+{
+  "checked_at": "2026-10-27T14:37:43.757953+04:00",
+  "result": "local_changes_preserved_as_separate_snapshots",
+  "recommended_working_file": "BUS230/2026-TSD/Assignments/A2/Local_Snapshots_2026-10-27/BUS230Assessment2Class2Group4_2026-10-26_LOCAL_SNAPSHOT_2026-10-27.pptx",
+  "recommended_sha256": "51e8ba5bfb671a9178bef26a06f349123ff8a8fe9379259b8ee29460ddb6a1b4",
+  "older_snapshot_role": "Historical October 21 variant; 24 visible and 6 hidden slides. Exact captured bytes were already the October 26 build input.",
+  "provenance": {
+    "oct21_local_change": "Student number removed from the cover; content and notes otherwise unchanged in normalized XML comparison.",
+    "oct21_known_before_oct26": true,
+    "oct21_evidence": "../Revision_2026-10-26/Sources/Revision_Decisions.json source_working_copy_sha256 matches captured SHA.",
+    "oct26_local_change": "GAME ACCESS and Link pending text boxes moved higher and right on slide 25.",
+    "oct26_other_rendered_slides_identical": 29,
+    "oct26_text_and_notes_unchanged_after_whitespace_normalisation": true,
+    "oct26_image_bytes": "Identical unique media SHA; duplicate embedded background removed during package resave.",
+    "editor_and_reason": "Exact editor and reason not established. Metadata identifies Microsoft Macintosh PowerPoint, but this is not proof of personal authorship."
+  },
+  "original_source_files_untouched": true,
+  "published_base_files_untouched": true,
+  "source_working_tree_still_shows_two_expected_modifications": true,
+  "shared_workspace_verify_expected_result": "Hash mismatches at the two original paths remain because they were deliberately not replaced or staged; both current byte streams now also exist in verified GitHub snapshots.",
+  "restored_commit": "3a818e0d049085875357b6e6312b6321108d7bf2",
+  "scope": "Only two named PPTX files and BUS230 metadata. No game work, submissions, messages or owner media changes."
+}
