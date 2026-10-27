@@ -1,0 +1,22 @@
+{
+  "checked_on": "2026-10-27",
+  "timezone": "Asia/Dubai",
+  "mail": {
+    "account": "jafarovfayaz@gmail.com",
+    "query": "after:2026/10/27 (BUS230 OR \"Change Management\")",
+    "result_count": 0,
+    "boundary": "Study Gmail only; Outlook/WhatsApp not checked; no messages sent."
+  },
+  "lms": {
+    "checked_at": "2026-10-27T18:55:42.298853+04:00",
+    "assignment_id": 124983,
+    "group_submission_status": "new",
+    "operation": "Read-only group submission status; no new due-date claim"
+  },
+  "presentation_date": {
+    "value": "2026-10-28 Asia/Dubai",
+    "source": "Faiaz: presentation tomorrow, in BUS230 chat dated 27 October",
+    "timetable_rechecked": false
+  },
+  "submission_performed": false
+}

@@ -2800,6 +2800,60 @@
       "storage": "git"
     },
     {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Classroom_2026-10-27/DEPLOYMENT.json",
+      "bytes": 630,
+      "sha256": "8d0f801cf9ce324e845a1aaa502f348338c425b924abaf4f87b6fa68f5afbae8",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Classroom_2026-10-27/QA/API_Local.json",
+      "bytes": 1531,
+      "sha256": "496ee402942639fa50670d8a95f5261b81cf6782b51ae54a82b6071345d0a78d",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Classroom_2026-10-27/QA/Correct_Mobile.png",
+      "bytes": 45606,
+      "sha256": "fcdf4c68005b6563377d5be795d1d03271872f618f0c0ed2e9932fdf6c134f38",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Classroom_2026-10-27/QA/Host_Local.png",
+      "bytes": 49966,
+      "sha256": "49517ba30be7fb7e189f31d05e30b4b2094e96e0b41aaf8bba3e6aa1715d51d1",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Classroom_2026-10-27/QA/Retry_Mobile.png",
+      "bytes": 49047,
+      "sha256": "abc263c912f2a59bea428548c3a2a58a9c11d9ab7ba049054f360bb6c938180e",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Classroom_2026-10-27/QA/Verification.json",
+      "bytes": 1072,
+      "sha256": "558f3941f923df3566d336daa9a97ba365a80b5949e29ca59b14846dde5dc660",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Classroom_2026-10-27/README.md",
+      "bytes": 6027,
+      "sha256": "b54bea7b6f9829c429e7882d5bb0cd5152fb3c89c14fc118f6e55aecfc118e63",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Classroom_2026-10-27/Source.tar.gz",
+      "bytes": 203638,
+      "sha256": "f6c0b89944dcc3277ae6f019408fdadd660f77566feb51d959dfebafbcfc350a",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Classroom_2026-10-27/Source_Manifest.json",
+      "bytes": 20681,
+      "sha256": "f0a8e9c61c29f03465564fcd57e43e604c57c59f5a2656cb38f299747df88402",
+      "storage": "git"
+    },
+    {
       "path": "BUS230/2026-TSD/Assignments/A2/Game_Demo_2026-10-26/.openai/hosting.json",
       "bytes": 106,
       "sha256": "c56de3dd319c5baa6d9378347bdc19ce7ea7913f9dda8e6592c8fb56ad0a6744",
@@ -3305,8 +3359,8 @@
     },
     {
       "path": "BUS230/2026-TSD/CONTEXT.md",
-      "bytes": 32672,
-      "sha256": "f807bd2e816d2dd373a99147fcf115008b9723ecee3bcfb67ef599825935cc38",
+      "bytes": 34487,
+      "sha256": "3e943d74127132c7b3d6f7ed481b3c574b35cd4564260184abc79cbc0575757e",
       "storage": "git"
     },
     {
@@ -3400,6 +3454,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS230/2026-TSD/Correspondence/2026-10-27_game-finalisation-check.json",
+      "bytes": 719,
+      "sha256": "0708b2de9145b6d17a9214db208af615fbeefec73de4c1bf69f59e23e306cc6d",
+      "storage": "git"
+    },
+    {
       "path": "BUS230/2026-TSD/Correspondence/2026-10-27_local-snapshot-check.json",
       "bytes": 703,
       "sha256": "ecdd5f623a94261045642d51bbaa76e0ed1c0fbe0201c7ca16ab2501453695f9",
@@ -3413,8 +3473,8 @@
     },
     {
       "path": "BUS230/2026-TSD/HISTORY.md",
-      "bytes": 28328,
-      "sha256": "0ab6e2efe03f2f514e5c68437304a8f42643666eec9f79a24656c925691e78fe",
+      "bytes": 29227,
+      "sha256": "ccdd0cdbba9313ab82f805bb7c4edb6e821b4615060dd41a1d887343f73c8cd9",
       "storage": "git"
     },
     {
@@ -3815,14 +3875,14 @@
     },
     {
       "path": "BUS230/2026-TSD/TASKS.json",
-      "bytes": 29892,
-      "sha256": "65c11c867bb4ed10264a20d9679c6524598b71561705cd0943916886bd3d0632",
+      "bytes": 31208,
+      "sha256": "51c75b341917a18b3cf5319137a4aec4eafc131d460767fc25e28d9fbcdcff38",
       "storage": "git"
     },
     {
       "path": "BUS230/2026-TSD/TASKS.md",
-      "bytes": 23526,
-      "sha256": "73cf30a63d521eb689259ceb8c2517d145a21c82b1d48d777de07ee0b2f1738e",
+      "bytes": 24684,
+      "sha256": "7d62fa303c5115797613986d34879dcbd1c9ed94a7eb7dac1e7807e050b4ae2a",
       "storage": "git"
     },
     {
@@ -5789,8 +5849,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5938,
-      "sha256": "8bf7b87aa89a3337e0f7e3fdf7dff021cad9c5a9e677816f5cacbba7b599a3ba",
+      "bytes": 5911,
+      "sha256": "98a9ae90e223eca9d30aabb11303f9fa2335730cc250cdc13415f50e13514519",
       "storage": "git"
     },
     {
@@ -5866,6 +5926,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 977,
-  "total_bytes": 540630482
+  "file_count": 987,
+  "total_bytes": 541014560
 }
