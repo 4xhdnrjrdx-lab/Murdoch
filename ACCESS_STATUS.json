@@ -68,7 +68,16 @@
         "BUS230/2026-TSD/Assignments/A2/Revision_2026-10-26/BUS230Assessment2Class2Group4_2026-10-26.pptx"
       ],
       "evidence": "Archive/Correspondence/2026-10-27_all-course-sync-audit.json",
-      "note": "Foreign local presentations preserved without modification; this audit does not publish them."
+      "note": "Foreign local presentations preserved without modification; this audit does not publish them.",
+      "follow_up": {
+        "checked_at": "2026-10-27T14:42:21.050938+04:00",
+        "status": "Two previously unpublished local versions are now preserved as separate snapshots in GitHub; SHA-256 matches verified by subject chat and general chat.",
+        "all_detected_local_versions_backed_up": true,
+        "original_paths_still_modified": true,
+        "no_source_files_reset_or_replaced": true,
+        "evidence": "Archive/Correspondence/2026-10-27_subject-chat-coordination.json",
+        "resolution_path": "BUS230/2026-TSD/Assignments/A2/Local_Snapshots_2026-10-27/RESOLUTION.json"
+      }
     }
   },
   "mail": {
