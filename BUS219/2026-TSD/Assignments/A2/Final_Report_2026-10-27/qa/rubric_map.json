@@ -1,0 +1,370 @@
+{
+  "basis": "Major Project Report marking guide, reconfirmed against current Moodle file on 2026-10-20; not Project Proposal guide.",
+  "weight_note": "Weight shown once per parent criterion; no invented subcriterion allocation.",
+  "total_weight": 100,
+  "rows": [
+    {
+      "code": "1",
+      "weight_percent": 5,
+      "criterion": "Executive summary",
+      "sections": "1",
+      "pages": [
+        4
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Условную рекомендацию должна согласовать команда."
+    },
+    {
+      "code": "2",
+      "weight_percent": 5,
+      "criterion": "Industry business description",
+      "sections": "2",
+      "pages": [
+        4
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Размер целевого товарного рынка не установлен; доля рынка не выдумана."
+    },
+    {
+      "code": "3.1",
+      "weight_percent": 10,
+      "criterion": "Type of business",
+      "sections": "3.1",
+      "pages": [
+        5
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "В проекте моделируется marketplace; первичная торговля noon исключена явно."
+    },
+    {
+      "code": "3.2",
+      "weight_percent": null,
+      "criterion": "Legal structure",
+      "sections": "3.1; 5.3",
+      "pages": [
+        5,
+        8
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Нужна актуальная классификация Jordan entity и допустимое владение; текущая консолидированная норма не получена."
+    },
+    {
+      "code": "3.3",
+      "weight_percent": null,
+      "criterion": "History / mission / goals / objectives",
+      "sections": "3.2",
+      "pages": [
+        5
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Исторические факты отделены от целей проекта; внутреннего одобрения noon нет."
+    },
+    {
+      "code": "3.4",
+      "weight_percent": null,
+      "criterion": "Principals / ownership",
+      "sections": "3.2",
+      "pages": [
+        5
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "PIF 50% относится к 2016; текущая cap table неизвестна."
+    },
+    {
+      "code": "4.1",
+      "weight_percent": 15,
+      "criterion": "Product / service analysis",
+      "sections": "4.1; 6.4",
+      "pages": [
+        6,
+        10
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Проверить SKU, гарантии и соответствие требованиям до реального запуска."
+    },
+    {
+      "code": "4.2",
+      "weight_percent": null,
+      "criterion": "Customer profile / demand",
+      "sections": "4.1; Exhibit 2",
+      "pages": [
+        6,
+        17
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Нет первичного исследования; 20/40/60 тысяч клиентов являются сценарием."
+    },
+    {
+      "code": "4.3",
+      "weight_percent": null,
+      "criterion": "Competitive situation",
+      "sections": "4.2",
+      "pages": [
+        7
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Нет аудита реального исполнения доставки или сравнительной корзины; обещания продавцов названы обещаниями."
+    },
+    {
+      "code": "5.1",
+      "weight_percent": 15,
+      "criterion": "Host country business climate",
+      "sections": "5.1",
+      "pages": [
+        7
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Макроиндикаторы датированы 2025; они не прогнозируют спрос noon."
+    },
+    {
+      "code": "5.2",
+      "weight_percent": null,
+      "criterion": "SWOT analysis",
+      "sections": "5.2; Exhibit 1",
+      "pages": [
+        8,
+        16
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Команде проверить связь каждого фактора с решением."
+    },
+    {
+      "code": "5.3",
+      "weight_percent": null,
+      "criterion": "Government constraints / incentives",
+      "sections": "5.3",
+      "pages": [
+        8
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Не подтверждены право на льготы и структура владения; в бюджете льгот нет."
+    },
+    {
+      "code": "5.4",
+      "weight_percent": null,
+      "criterion": "Laws / regulations / administration",
+      "sections": "5.4",
+      "pages": [
+        8
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Нужны HS/origin, местный налоговый и юридический анализ. Конфликт personal-parcel источников раскрыт."
+    },
+    {
+      "code": "6.1",
+      "weight_percent": 20,
+      "criterion": "Positioning",
+      "sections": "6.1",
+      "pages": [
+        9
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Команда должна согласовать transnational approach, категорийный фокус и ценность предложения."
+    },
+    {
+      "code": "6.2",
+      "weight_percent": null,
+      "criterion": "Pricing",
+      "sections": "6.2; Exhibit 3",
+      "pages": [
+        9,
+        20
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Комиссия, delivery fee и налоговая база являются допущениями; требуется договорная проверка."
+    },
+    {
+      "code": "6.3",
+      "weight_percent": null,
+      "criterion": "Distribution / logistics",
+      "sections": "6.3",
+      "pages": [
+        10
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Нет выбранного партнёра и коммерческих предложений. JV условный; экспорт дополнен вторым entry mode."
+    },
+    {
+      "code": "6.4",
+      "weight_percent": null,
+      "criterion": "Promotion / advertising",
+      "sections": "6.2",
+      "pages": [
+        9
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "План кампаний и бюджет предложены; результатов кампаний нет."
+    },
+    {
+      "code": "6.5",
+      "weight_percent": null,
+      "criterion": "Estimated sales / sales mix",
+      "sections": "6.4; Exhibit 2",
+      "pages": [
+        10,
+        17
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Сценарий net completed orders и средняя корзина требуют проверки. GMV не выручка."
+    },
+    {
+      "code": "6.6",
+      "weight_percent": null,
+      "criterion": "Production / service strategies",
+      "sections": "6.4",
+      "pages": [
+        10
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Проект услуги, не производства. Проверить обещания доставки и reverse logistics."
+    },
+    {
+      "code": "7.1",
+      "weight_percent": 10,
+      "criterion": "Cost / funding / cash flow",
+      "sections": "7.1; Exhibits 3, 5",
+      "pages": [
+        11,
+        20,
+        22,
+        23
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Бюджетные допущения, нет обязательств инвесторов. Без второй суммы January 2028 cash отрицателен."
+    },
+    {
+      "code": "7.2",
+      "weight_percent": null,
+      "criterion": "Projected profit and loss",
+      "sections": "7.2; Exhibit 4",
+      "pages": [
+        11,
+        21
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "21% налоговый резерв условный; классификация agent/principal требует подтверждения."
+    },
+    {
+      "code": "7.3",
+      "weight_percent": null,
+      "criterion": "Other financial statements / data",
+      "sections": "Exhibits 5b, 6; financial_model.json",
+      "pages": [
+        22,
+        24
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Есть net-asset reconciliation, 36 месяцев cash flow, break-even и 6 сценариев. Это не statutory accounts или valuation."
+    },
+    {
+      "code": "8.1",
+      "weight_percent": 5,
+      "criterion": "Personnel / sales force",
+      "sections": "8.1",
+      "pages": [
+        12
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Роли и loaded staff budget предложены; сотрудники не наняты."
+    },
+    {
+      "code": "8.2",
+      "weight_percent": null,
+      "criterion": "Business advisers",
+      "sections": "8.1",
+      "pages": [
+        12
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Советники названы по функциям; договоров и консультаций не было."
+    },
+    {
+      "code": "8.3",
+      "weight_percent": null,
+      "criterion": "Contingency plans",
+      "sections": "8.2; Exhibit 7",
+      "pages": [
+        12,
+        25
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Триггеры, владельцы и stop rights предложены; требуется согласие управления."
+    },
+    {
+      "code": "9",
+      "weight_percent": 5,
+      "criterion": "Conclusions / recommendations",
+      "sections": "9",
+      "pages": [
+        13
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Рекомендован ограниченный пилот при выполнении условий, а не гарантированный вход."
+    },
+    {
+      "code": "10.1",
+      "weight_percent": 10,
+      "criterion": "Standard / table of contents",
+      "sections": "Cover; disclaimer; contents; all sections",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Имена внесены по LMS; Faiaz ID подтверждён LMS, четыре других ID предоставлены пользователем. Именной загрузчик не установлен."
+    },
+    {
+      "code": "10.2",
+      "weight_percent": null,
+      "criterion": "Expression / mechanics / proof reading",
+      "sections": "All; humanizer audit",
+      "pages": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Финальная человеческая редактура и подтверждение допустимости ИИ остаются за командой."
+    },
+    {
+      "code": "10.3",
+      "weight_percent": null,
+      "criterion": "Illustrations / exhibits / appendices",
+      "sections": "Appendices A to C",
+      "pages": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "Таблицы поддерживают основной текст; без выдуманных meeting logs и подписей."
+    },
+    {
+      "code": "10.4",
+      "weight_percent": null,
+      "criterion": "Referencing / research effort",
+      "sections": "Bibliography; source register",
+      "pages": [
+        14,
+        15
+      ],
+      "coverage": "Раздел включён; содержание и страницы проверены",
+      "remaining_gap": "23 библиографические записи; исследовательские источники и ограничения сохранены в версии от 20 октября. Ссылка на инструмент подготовки исключена по поручению пользователя."
+    }
+  ]
+}

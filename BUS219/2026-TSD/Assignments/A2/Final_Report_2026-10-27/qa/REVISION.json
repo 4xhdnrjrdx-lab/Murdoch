@@ -1,0 +1,40 @@
+{
+  "created_at": "2026-10-27T15:57:44+04:00",
+  "user_request": "Remove references to AI assistance from the final report.",
+  "previous_package": "../Final_Report_2026-10-20",
+  "changes": [
+    "Removed the preparation attribution paragraph, its OpenAI reference and hyperlink",
+    "Changed the page-two heading to Disclaimer",
+    "Removed attribution wording from document properties",
+    "Retained the secondary-source/no-primary-research methodological note and exact prescribed disclaimer",
+    "Updated the document date to 27 October 2026; research cut-off remains 20 October 2026"
+  ],
+  "preservation_checks": {
+    "main_sections_identical": true,
+    "mandatory_disclaimer_identical": true,
+    "team_names_and_ids_identical": true,
+    "financial_model_identical": true,
+    "exhibits_source_identical": true,
+    "finance_source_identical": true,
+    "page_map_identical": true,
+    "remaining_references_identical": true
+  },
+  "document_verification": "VERIFICATION.json",
+  "research_audit": "../../Final_Report_2026-10-20/research/source_register.json",
+  "link_audit": "../../Final_Report_2026-10-20/qa/link_checks.json",
+  "fresh_source_review_performed": false,
+  "artifacts": [
+    {
+      "name": "35553299DzhafarovF-2-Final.docx",
+      "previous_sha256": "1db97d58daf4b80a5ddd7e01ecf359ec89a46dbc23e07a4889317046f645fc3c",
+      "revised_sha256": "9335bacd7074e775eb9128938719405bb1f1938f962fadc852946af75df4c50d"
+    },
+    {
+      "name": "35553299DzhafarovF-2-Final.pdf",
+      "previous_sha256": "fb05bad0104b44528a8c81f785e28726c3c606f71903c62be83f538cf6de56d1",
+      "revised_sha256": "6860dd46a33fa9d9ac9c952e83186a13390ee3158bea58850481e201320d4477"
+    }
+  ],
+  "submission_performed": false,
+  "messages_sent": false
+}
