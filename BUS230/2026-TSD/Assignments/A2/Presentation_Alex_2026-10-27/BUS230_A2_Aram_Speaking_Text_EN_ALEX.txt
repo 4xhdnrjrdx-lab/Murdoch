@@ -1,0 +1,86 @@
+BUS230 ASSESSMENT 2 / CLASS 2 GROUP 4
+UPDATED FOR THE ALEX DEMONSTRATION / 27 OCTOBER 2026
+
+Read the English paragraphs aloud. Square brackets are presenter directions, not spoken words.
+The 36-second demonstration starts automatically on slide 25 in Slide Show mode.
+Slides 1–18 and the other speakers’ words remain unchanged.
+Planned timing only: rehearse with the actual projector. Q&A ends at 29:30, leaving 30 seconds.
+
+
+SLIDE 19 / ARAM / Research behind the decision record / 18:00–18:40
+
+Three research areas inform our design. Baldwin and Ford distinguish learning from its transfer to work. Edmondson links psychological safety with team learning behaviour. Morrison reviews employee voice and silence. These ideas support observing realistic work, discussing mistakes and recording responses to concerns. None of these studies tests our Cedar Retail record. They support our design choices, while the effectiveness of the combined tool remains unverified.
+
+
+SLIDE 20 / ARAM / Benchmark against existing practice / 18:40–19:10
+
+ADKAR already provides individual diagnosis and support. Wider Prosci includes organisational process and sponsorship. Change research supports contextual judgement and participation. Our record makes responsibilities and decision evidence explicit. These comparisons inform the proposal, but they do not establish that it works at Cedar Retail.
+
+
+SLIDE 21 / ARAM / Cedar Retail: conflicting evidence / 19:10–19:40
+
+The colleague explains the procedure, which gives some evidence of Knowledge. The scanner is unreliable, practice time is missing and no realistic demonstration has taken place. Ability remains unverified. We pause the affected task and assign its prerequisites. Repairs and practice remain pending until evidence confirms completion.
+
+
+SLIDE 22 / ARAM / Research insights and a pilot / 19:40–20:00
+
+Research supports considering context and participation. A small pilot should compare decisions, task errors, unresolved conditions and maintenance time with current practice. Classroom answers show scenario understanding. Workplace Ability requires separate observation.
+
+
+SLIDE 23 / ARAM / Communication and manager workflow / 20:00–20:25
+
+Colleagues need a briefing, practice and a chance to raise concerns. IT and management share completion evidence. The sponsor explains policy decisions. Our workflow connects diagnosis to named owners, verified evidence and a decision with a review trigger.
+
+
+SLIDE 24 / ARAM / Your management decision / 20:25–21:25
+
+The colleague knows the steps, but the scanner fails and there is no practice time. Which option would you choose for this task: A, B or C? Please discuss for fifteen seconds.
+
+[Pause for fifteen seconds.]
+
+Could one person give a short reason?
+
+[Listen to one short answer. If nobody answers, continue.]
+
+Our recommendation is C. Pause the affected task while the owners fix the missing conditions, then observe realistic performance. The wider project can continue.
+
+Before the game, watch a separate practice example with Alex.
+
+
+SLIDE 25 / ARAM / Cedar Retail office challenge / 21:25–26:45
+
+[The embedded 36-second demonstration starts automatically in Slide Show mode. Read the following while it plays.]
+
+Choose a colleague and read the problem. Alex understands the change, but does not want to take part. Sending the guide again misses his concern. The game explains the mistake and lets us retry. We investigate what would make participation worthwhile, then discuss benefits and invite him to help shape a trial. This can support Desire. We still need to check his willingness.
+
+[When the demonstration ends, continue.]
+
+Now scan the QR code. Use one phone per team of four. Choose Team 1, 2 or 3. Guests choose Others. Visit all five colleagues, then tap Finish and send review. You have four minutes.
+
+[Allow up to 80 seconds in total for the demonstration, narration and joining. Narrate during playback. Then time four minutes of play. Keep this slide visible and host results private. If the embedded animation fails, open the separate MP4, then return to the QR slide. If the site is unavailable, move to slide 26 without inventing submitted results.]
+
+
+SLIDE 26 / ARAM / Five situations, different responses / 26:45–27:25
+
+The five situations need different responses. Anna needs a clear explanation of why the change matters. Omar’s concern needs investigation and a reasoned sponsor response. Mia needs instruction and guided practice. Leo needs usable conditions and a realistic observation before Ability can be verified. Sara needs renewed feedback and follow-up after earlier successful use. These are decisions for our fictional cases. The game gives us practice with these scenarios. Workplace Ability still needs observation in a real task.
+
+
+SLIDE 27 / ARAM / Conclusion / 27:25–28:05
+
+Our conclusion returns to the three objectives. ADKAR provides a useful language for individual support. Our proposed record makes organisational conditions, owners and dependencies explicit. It also requires a reasoned response to concerns and an evidence-based task decision. Managers can then explain why they continue, revise or pause an affected task. The proposal complements existing provision. We have shown its logic through a fictional case, rather than established its effectiveness in practice.
+
+
+SLIDE 28 / ARAM / Recommendations and design lesson / 28:05–28:45
+
+We recommend trying the record on one task before wider use. Agree the evidence needed and name the people responsible. Then compare the decisions and the time needed to maintain the record with current practice. Our main lesson from the analysis is that identifying an individual need still leaves organisational work to do. Someone must take responsibility for that work. Thank you. The next two slides list our references, and we welcome your questions.
+
+
+SLIDE 29 / ARAM / References A–L / 28:45–28:50
+
+[Show the first reference slide briefly. Do not read the entries aloud.]
+
+
+SLIDE 30 / ARAM / References M–W / 28:50–28:55
+
+[Show the second reference slide briefly. Allow up to 35 seconds for questions. If no one asks a question, thank the audience and finish.]
+

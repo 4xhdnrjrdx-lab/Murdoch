@@ -1,0 +1,2 @@
+import fs from 'node:fs/promises';import {FileBlob,PresentationFile} from '@oai/artifact-tool';
+const r='/private/tmp/bus230-alex-demo-20261027';const p=await PresentationFile.importPptx(await FileBlob.load(r+'/output/BUS230Assessment2Class2Group4_2026-10-27_ALEX.pptx'));await fs.mkdir(r+'/build/rendered',{recursive:true});for(let i=0;i<30;i++){const b=await p.export({slide:p.slides.items[i],format:'png',scale:1});await fs.writeFile(r+`/build/rendered/slide-${String(i+1).padStart(2,'0')}.png`,new Uint8Array(await b.arrayBuffer()));}console.log('Rendered 30 slides');

@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-27",
+  "presentation_source": "BUS230Assessment2Class2Group4_2026-10-27_ALEX.pptx",
+  "source_sha256": "f812879511fd9a221cb62f26722e3ebd6abaf8eda7218584f4bc8c086921276f",
+  "slides": [
+    {
+      "number": 1,
+      "presenter": "Mazin",
+      "title": "Using ADKAR with Context and Evidence",
+      "speech": "Good afternoon. We are Class 2 Group 4. Today we will use ADKAR to examine a management problem at a fictional retailer, Cedar Retail. We keep ADKAR’s five outcomes and propose a decision record that makes working conditions and responsibilities explicit. This is a formal training session for managers. We will explain the model, examine its limits, show our proposed record and practise making a decision. Our proposal has not been tested in a real organisation."
+    },
+    {
+      "number": 2,
+      "presenter": "Mazin",
+      "title": "The management session",
+      "speech": "The session has six sections. We begin with the retail case and our objectives. We then explain ADKAR and four limitations of using its five outcomes as a standalone checklist. Next, we show our proposed decision record. Research provides a basis for the design and also sets limits on our claims. Finally, you will apply the approach in a short discussion and a team office activity. We will close with recommendations and questions."
+    },
+    {
+      "number": 3,
+      "presenter": "Mazin",
+      "title": "Cedar Retail: the change",
+      "speech": "Cedar Retail is a fictional retailer introducing a digital system for receiving stock. The task has three steps. Scan the items, check the quantities against the delivery record, and report any difference. For example, the record may show twenty items, but only eighteen arrive. On the evening shift, the scanner is unreliable and there is no practice time. The employee also worries about penalties for old stock errors. Our manager needs to respond to these problems."
+    },
+    {
+      "number": 4,
+      "presenter": "Mazin",
+      "title": "Three manager objectives",
+      "speech": "By the end, a manager should be able to do three things. First, identify the person’s individual ADKAR need and choose relevant support. Second, connect that need to the task’s working conditions and accountable owners. Third, use task evidence to decide whether to continue, revise the design or pause an affected task. These objectives guide our record and the classroom activity. Completing the activity shows understanding of the scenario, rather than proof of ability in an actual workplace."
+    },
+    {
+      "number": 5,
+      "presenter": "Mazin",
+      "title": "The original ADKAR model",
+      "speech": "ADKAR describes five outcomes of individual change. Awareness means understanding why change is needed. Desire concerns willingness to participate. Knowledge concerns how to change. Ability means applying the relevant skills and behaviours. Reinforcement supports continued use. A manager assesses the person’s needs and provides suitable support, starting with the earliest barrier. Training, coaching and repeated assessment already belong to the baseline approach. We do not present those existing provisions as inventions of our team."
+    },
+    {
+      "number": 6,
+      "presenter": "Mazin",
+      "title": "ADKAR and the wider method",
+      "speech": "ADKAR is part of the wider Prosci Methodology. ADKAR helps managers identify the support an individual needs. The wider methodology also covers organisational processes, sponsorship and project health. Ability can depend on working conditions, including equipment and time. So our criticism concerns using the five outcomes alone as a checklist. We recognise the support that already exists in the wider approach. Beryl will now explain the remaining gaps and our proposed additions."
+    },
+    {
+      "number": 7,
+      "presenter": "Beryl",
+      "title": "01 / Shared working conditions",
+      "speech": "Our first limitation concerns shared working conditions. ADKAR recognises that Ability can depend on external conditions. However, a five-outcome checklist does not itself allocate responsibility across IT, a store manager and a sponsor. At Cedar Retail, the IT lead owns scanner access and the manager owns practice time. Our added conditions record makes those responsibilities explicit for the affected task. Weiner and the multilevel readiness literature support considering collective conditions. They do not validate our particular record."
+    },
+    {
+      "number": 8,
+      "presenter": "Beryl",
+      "title": "02 / A reasonable objection",
+      "speech": "The second limitation concerns a reasonable objection to the design. A colleague may support better stock records and still question a penalty rule. Piderit’s work on ambivalence and research on resistance help explain why a mixed response deserves investigation. Our addition requires the sponsor to record a reasoned decision about the concern. The sponsor may retain, revise or stop the disputed rule. We must investigate whether the rule is unfair. The fictional colleague’s concern alone does not establish that conclusion."
+    },
+    {
+      "number": 9,
+      "presenter": "Beryl",
+      "title": "03 / Dependencies across roles",
+      "speech": "The third limitation concerns dependencies across roles. Individual support and organisational work may need to happen together. A colleague can learn the procedure while IT repairs access and the manager arranges practice. A dependency register links each enabling condition to the task that depends on it, its owner and completion evidence. Systems and contextual change research inform this design. We keep the individual ADKAR assessment and add a route for work that crosses organisational roles."
+    },
+    {
+      "number": 10,
+      "presenter": "Beryl",
+      "title": "Four limitations, four additions",
+      "speech": "The fourth limitation concerns conflicting evidence. A colleague’s readiness rating, a task demonstration and actual working conditions may tell different stories. Our evidence rule requires the manager to investigate that conflict and keep readiness unverified until relevant evidence supports the task decision. This slide matches each gap to one addition: conditions and ownership, a reasoned sponsor response, dependency routing and the evidence rule. These are proposed management rules. They are not new validated measures of readiness."
+    },
+    {
+      "number": 11,
+      "presenter": "Beryl",
+      "title": "Our modified decision tool",
+      "speech": "Our proposed tool keeps the individual ADKAR assessment. It adds conditions, employee concerns, dependencies and task evidence to one decision record. The manager then records a decision, its reason, a named owner and a review trigger. A review may lead to continuing, revising the design or pausing the affected task. We build on existing ideas rather than replacing the complete Prosci Methodology. The record’s usefulness and the time it requires still need to be tested."
+    },
+    {
+      "number": 12,
+      "presenter": "Beryl",
+      "title": "Conditions and concerns",
+      "speech": "Here are example entries for Cedar Retail. Reliable scanner access is missing, so the IT lead owns that condition. Practice time is missing from the roster, so the store manager owns it. The concern about penalties goes to the operations sponsor for a reasoned response. These entries make the required work visible. They do not say that anyone has already repaired the scanner, changed the roster or approved a policy. Faiaz will now show how the entries connect in the complete tool."
+    },
+    {
+      "number": 13,
+      "presenter": "Faiaz",
+      "title": "The dependency register",
+      "speech": "Some actions depend on other actions being completed first. A colleague needs working scanner access before realistic practice can take place. The IT lead must show that the login works on the actual shift. The manager must provide practice time and evidence that the task has been completed. The sponsor must respond to the disputed penalty rule. Our register connects each condition to its owner and completion evidence. Assigning an action does not mean that someone has completed it."
+    },
+    {
+      "number": 14,
+      "presenter": "Faiaz",
+      "title": "One complete decision record",
+      "speech": "The complete record asks five sets of questions. What is the task and whose work is affected? Which individual ADKAR need requires support? What condition or concern needs an owner? What must happen first, and what evidence is available? Finally, what decision follows and when will the manager review it? Keep the record focused on one task so it remains usable. The record supports a reasoned discussion. It does not calculate a validated readiness score."
+    },
+    {
+      "number": 15,
+      "presenter": "Faiaz",
+      "title": "Implementation and owners",
+      "speech": "Implementation starts by agreeing the task and evidence criteria with the colleague. The relevant owners then address conditions and respond to concerns. Some actions can run in parallel. The colleague practises in usable conditions, and the manager observes the representative task. Finally, the manager records a decision and review trigger. These steps prevent an assigned action from being mistaken for completed work. Our classroom example illustrates the process. It does not demonstrate a completed implementation."
+    },
+    {
+      "number": 16,
+      "presenter": "Faiaz",
+      "title": "Continue, revise or pause",
+      "speech": "Our proposed decision rules have three outcomes. Continue when the necessary conditions and task evidence support proceeding with follow-up. Revise when the design needs a reasoned change. Pause the affected task when an essential prerequisite is missing. A task-level pause does not stop the entire change project. Training and repairs may continue while the task remains on hold. The decision record must explain the scope and what evidence would allow the manager to reconsider it."
+    },
+    {
+      "number": 17,
+      "presenter": "Faiaz",
+      "title": "Feasibility and evaluation",
+      "speech": "The proposal uses one shared digital record and existing manager, IT and sponsor roles. This may make responsibilities easier to follow, but it also takes time to maintain. A pilot should examine task accuracy, unresolved dependencies, the quality of responses to concerns and the time spent updating the record. These are proposed evaluation questions, not measured benefits. We should compare the approach with current practice before making claims about better outcomes."
+    },
+    {
+      "number": 18,
+      "presenter": "Faiaz",
+      "title": "Risks and practical safeguards",
+      "speech": "The main risks are extra paperwork, sponsor inaction, weak task criteria and false confidence. Keep the record limited to essential fields, agree an escalation route and define a representative task before assessing Ability. Leave evidence gaps visible. A completed form alone cannot establish that the colleague can perform the work. Aram will now explain the supporting research, compare our proposal with existing provision and lead the management activity."
+    },
+    {
+      "number": 19,
+      "presenter": "Aram",
+      "title": "Research behind the decision record",
+      "speech": "Three research areas inform our design. Baldwin and Ford distinguish learning from its transfer to work. Edmondson links psychological safety with team learning behaviour. Morrison reviews employee voice and silence. These ideas support observing realistic work, discussing mistakes and recording responses to concerns. None of these studies tests our Cedar Retail record. They support our design choices, while the effectiveness of the combined tool remains unverified.",
+      "planned_seconds": 40,
+      "planned_window": "18:00–18:40",
+      "presenter_cues": "Explain the research implication and its boundary. The cited studies did not test our Cedar Retail record."
+    },
+    {
+      "number": 20,
+      "presenter": "Aram",
+      "title": "Benchmark against existing practice",
+      "speech": "ADKAR already provides individual diagnosis and support. Wider Prosci includes organisational process and sponsorship. Change research supports contextual judgement and participation. Our record makes responsibilities and decision evidence explicit. These comparisons inform the proposal, but they do not establish that it works at Cedar Retail.",
+      "planned_seconds": 30,
+      "planned_window": "18:40–19:10",
+      "presenter_cues": "Explain the comparison. No audience vote or extra question."
+    },
+    {
+      "number": 21,
+      "presenter": "Aram",
+      "title": "Cedar Retail: conflicting evidence",
+      "speech": "The colleague explains the procedure, which gives some evidence of Knowledge. The scanner is unreliable, practice time is missing and no realistic demonstration has taken place. Ability remains unverified. We pause the affected task and assign its prerequisites. Repairs and practice remain pending until evidence confirms completion.",
+      "planned_seconds": 30,
+      "planned_window": "19:10–19:40",
+      "presenter_cues": "Explain the conflicting evidence as a worked example. Do not ask the audience to solve it here. Distinguish pending conditions from completed repairs or observed Ability."
+    },
+    {
+      "number": 22,
+      "presenter": "Aram",
+      "title": "Research insights and a pilot",
+      "speech": "Research supports considering context and participation. A small pilot should compare decisions, task errors, unresolved conditions and maintenance time with current practice. Classroom answers show scenario understanding. Workplace Ability requires separate observation.",
+      "planned_seconds": 20,
+      "planned_window": "19:40–20:00",
+      "presenter_cues": "Explain the proposed pilot. These are evaluation questions for future work, not a classroom poll or measured results."
+    },
+    {
+      "number": 23,
+      "presenter": "Aram",
+      "title": "Communication and manager workflow",
+      "speech": "Colleagues need a briefing, practice and a chance to raise concerns. IT and management share completion evidence. The sponsor explains policy decisions. Our workflow connects diagnosis to named owners, verified evidence and a decision with a review trigger.",
+      "planned_seconds": 25,
+      "planned_window": "20:00–20:25",
+      "presenter_cues": "Explain the workflow and move directly to slide 24. No extra audience question."
+    },
+    {
+      "number": 24,
+      "presenter": "Aram",
+      "title": "Your management decision",
+      "speech": "The colleague knows the steps, but the scanner fails and there is no practice time. Which option would you choose for this task: A, B or C? Please discuss for fifteen seconds.\n\n[Pause for fifteen seconds.]\n\nCould one person give a short reason?\n\n[Listen to one short answer. If nobody answers, continue.]\n\nOur recommendation is C. Pause the affected task while the owners fix the missing conditions, then observe realistic performance. The wider project can continue.\n\nBefore the game, watch a separate practice example with Alex.",
+      "planned_seconds": 60,
+      "planned_window": "20:25–21:25",
+      "presenter_cues": "This is the one separate audience interaction outside the office game. Allow 15 seconds to discuss, hear one brief reason, then explain C. Keep the total to about one minute. If nobody answers, explain C and continue."
+    },
+    {
+      "number": 25,
+      "presenter": "Aram",
+      "title": "Cedar Retail office challenge",
+      "speech": "[The embedded 36-second demonstration starts automatically in Slide Show mode. Read the following while it plays.]\n\nChoose a colleague and read the problem. Alex understands the change, but does not want to take part. Sending the guide again misses his concern. The game explains the mistake and lets us retry. We investigate what would make participation worthwhile, then discuss benefits and invite him to help shape a trial. This can support Desire. We still need to check his willingness.\n\n[When the demonstration ends, continue.]\n\nNow scan the QR code. Use one phone per team of four. Choose Team 1, 2 or 3. Guests choose Others. Visit all five colleagues, then tap Finish and send review. You have four minutes.\n\n[Allow up to 80 seconds in total for the demonstration, narration and joining. Narrate during playback. Then time four minutes of play. Keep this slide visible and host results private. If the embedded animation fails, open the separate MP4, then return to the QR slide. If the site is unavailable, move to slide 26 without inventing submitted results.]",
+      "planned_seconds": 320,
+      "planned_window": "21:25–26:45",
+      "presenter_cues": "Before class, test the embedded demonstration in desktop PowerPoint on the teaching computer. It starts automatically on entering slide 25 in Slide Show mode, lasts 36 seconds and has no voice track. It uses a single-play animated GIF of the recorded practice UI for reliable desktop playback. A separate H.264 MP4 is the backup. Narrate while it plays so the classroom recording captures the explanation. Alex uses a separate practice case about a shift-swap app. None of the five game cases appears in the video. This is an instruction demonstration, not another audience exercise. The one separate audience question remains on slide 24. Use up to 80 seconds for the video, narration and joining, followed by four minutes of play. Host signs in at the existing /admin URL on a separate device. Reset the session before teams join if necessary, with confirmation. No prizes or public ranking. If the embedded animation fails, open the separate MP4, then return to the QR slide. If both fail, give the short explanation and continue. If the site fails, explain slide 26. Planned timing requires rehearsal."
+    },
+    {
+      "number": 26,
+      "presenter": "Aram",
+      "title": "Five situations, different responses",
+      "speech": "The five situations need different responses. Anna needs a clear explanation of why the change matters. Omar’s concern needs investigation and a reasoned sponsor response. Mia needs instruction and guided practice. Leo needs usable conditions and a realistic observation before Ability can be verified. Sara needs renewed feedback and follow-up after earlier successful use. These are decisions for our fictional cases. The game gives us practice with these scenarios. Workplace Ability still needs observation in a real task.",
+      "planned_seconds": 40,
+      "planned_window": "26:45–27:25",
+      "presenter_cues": "Explain the five responses as a debrief. Do not ask another audience question, hold a vote, or reveal team errors. This slide adds no third activity."
+    },
+    {
+      "number": 27,
+      "presenter": "Aram",
+      "title": "Conclusion",
+      "speech": "Our conclusion returns to the three objectives. ADKAR provides a useful language for individual support. Our proposed record makes organisational conditions, owners and dependencies explicit. It also requires a reasoned response to concerns and an evidence-based task decision. Managers can then explain why they continue, revise or pause an affected task. The proposal complements existing provision. We have shown its logic through a fictional case, rather than established its effectiveness in practice.",
+      "planned_seconds": 40,
+      "planned_window": "27:25–28:05",
+      "presenter_cues": "Return to the three training objectives. The proposal remains untested in a real organisation."
+    },
+    {
+      "number": 28,
+      "presenter": "Aram",
+      "title": "Recommendations and design lesson",
+      "speech": "We recommend trying the record on one task before wider use. Agree the evidence needed and name the people responsible. Then compare the decisions and the time needed to maintain the record with current practice. Our main lesson from the analysis is that identifying an individual need still leaves organisational work to do. Someone must take responsibility for that work. Thank you. The next two slides list our references, and we welcome your questions.",
+      "planned_seconds": 40,
+      "planned_window": "28:05–28:45",
+      "presenter_cues": "Recommendations and reflection belong to the wrap-up. Thank the audience, then show both reference pages. Allow up to 35 seconds for Q&A, 28:55–29:30, leaving 30 seconds within the maximum. Planned timing requires rehearsal."
+    },
+    {
+      "number": 29,
+      "presenter": "Aram",
+      "title": "References A–L",
+      "speech": "[Show the first reference slide briefly. Do not read the entries aloud.]",
+      "planned_seconds": 5,
+      "planned_window": "28:45–28:50",
+      "presenter_cues": "Show briefly. Do not read reference entries aloud. Both reference pages count within the 30-slide total."
+    },
+    {
+      "number": 30,
+      "presenter": "Aram",
+      "title": "References M–W",
+      "speech": "[Show the second reference slide briefly. Allow up to 35 seconds for questions. If no one asks a question, thank the audience and finish.]",
+      "planned_seconds": 5,
+      "planned_window": "28:50–28:55",
+      "presenter_cues": "Show briefly without reading entries. General Q&A: up to 35 seconds, 28:55–29:30. If no questions, thank the audience and finish. Q&A is the closing discussion."
+    }
+  ],
+  "revision": "Alex 36-second practice demonstration on slide 25, 27 October 2026",
+  "game_url": "https://cedar-retail-adkar-demo.spicy-rhino-0802.chatgpt.site/",
+  "activity_contract": {
+    "separate_interaction": 24,
+    "office_game": 25,
+    "explanation_only": 26,
+    "prizes": false,
+    "questions_at_end": "General Q&A after references, not a third exercise",
+    "instruction_demo": "Slide 25, separate Alex Desire case, no audience exercise",
+    "demonstration_format": "Single-play animated recording embedded in PPTX; separate 36-second H.264 MP4 backup"
+  },
+  "previous_presentation_source": "../Presentation_QR_2026-10-27/BUS230Assessment2Class2Group4_2026-10-27_QR.pptx",
+  "previous_source_sha256": "0890d46b98bbca6b47205e41789edf3a06f44ada8fdfa1e2eb745ba2ae31e0d0"
+}

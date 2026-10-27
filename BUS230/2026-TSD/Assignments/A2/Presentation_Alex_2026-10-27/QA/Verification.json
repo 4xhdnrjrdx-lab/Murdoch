@@ -1,0 +1,84 @@
+{
+  "source_sha256": "0890d46b98bbca6b47205e41789edf3a06f44ada8fdfa1e2eb745ba2ae31e0d0",
+  "final_sha256": "f812879511fd9a221cb62f26722e3ebd6abaf8eda7218584f4bc8c086921276f",
+  "unchanged_visible_slide_xml": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "changed_slide": 25,
+  "changed_notes": [
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "native_table_count": 12,
+  "embedded_animation": {
+    "duration_seconds": 36.01,
+    "frames": 288,
+    "single_play": true,
+    "sha256": "1ae616eb96b359c9ecc6c7cf53f6b132ea89cd00b5a7676c4523fc75b6e07997"
+  },
+  "mp4_backup": {
+    "duration_seconds": 36,
+    "codec": "H.264 / AAC silent track",
+    "sha256": "4459ea1021b00e09bc5e5fd523d49778f8c19c74853afb5297e6ea95de026d10"
+  },
+  "native_powerpoint": {
+    "practice_preview_opened": true,
+    "animation_progress_and_completion_observed": true,
+    "screenshots": [
+      "ppt-gif-later.jpg",
+      "ppt-gif-complete.jpg"
+    ],
+    "boundary": "Exact embedded recording and slide layout tested. The actual teaching computer, projector and classroom recording still need rehearsal.",
+    "final_slide_xml_and_animation_match_tested_preview": true
+  },
+  "activities": {
+    "slide_24": "one A/B/C question",
+    "slide_25": "office game plus an instruction demonstration",
+    "slide_26": "explanation only"
+  },
+  "main_game_changed": false,
+  "production_data_changed": false,
+  "youtube_published": false,
+  "timing": "planned, unmeasured; 4-minute play, Q&A up to 35 sec, finish 29:30",
+  "all_final_slides_rendered": 30,
+  "qr_decoded_from_final_slide": "https://cedar-retail-adkar-demo.spicy-rhino-0802.chatgpt.site/",
+  "final_package_validation": "pass; no layout or font findings"
+}
