@@ -2644,6 +2644,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS230/2026-TSD/Assignments/A2/2026-10-27_alex-presentation-cloud-restore.json",
+      "bytes": 4527,
+      "sha256": "530cfa60dd58be8aad9f58ff2d36ce77de1d508cd4e95b8558a3c24fb1f2ce75",
+      "storage": "git"
+    },
+    {
       "path": "BUS230/2026-TSD/Assignments/A2/2026-10-27_game-cloud-restore.json",
       "bytes": 2008,
       "sha256": "de64583efd7374dd2d3aae37a39969c9dc1f289fc41001e8fcf7304dcc9cb184",
@@ -3839,8 +3845,8 @@
     },
     {
       "path": "BUS230/2026-TSD/HISTORY.md",
-      "bytes": 33188,
-      "sha256": "81eb216f7df3a27cdec29e1986ad80a2d618429f45863f404ca69a9b8d90b4c9",
+      "bytes": 33480,
+      "sha256": "5bf551edf9b7c2ed18ac8c26710a9fdb69b905e40336629fd2745e3f247b3403",
       "storage": "git"
     },
     {
@@ -6292,6 +6298,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 1048,
-  "total_bytes": 549226252
+  "file_count": 1049,
+  "total_bytes": 549231071
 }

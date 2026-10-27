@@ -1,0 +1,136 @@
+{
+  "verified_at": "2026-10-27T23:07:28.340262+04:00",
+  "github_main": "18aec2cf8294019a02bc77a5fd2a5d1716503e40",
+  "method": "Independent network fetch in separate shallow sparse clone, no local reference or copied files",
+  "scope": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27",
+  "files_verified": 25,
+  "all_sha256_match": true,
+  "files": [
+    {
+      "path": "BUS230Assessment2Class2Group4_2026-10-27_ALEX.pptx",
+      "bytes": 1896586,
+      "sha256": "f812879511fd9a221cb62f26722e3ebd6abaf8eda7218584f4bc8c086921276f"
+    },
+    {
+      "path": "BUS230_A2_Aram_Speaking_Text_EN_ALEX.txt",
+      "bytes": 6207,
+      "sha256": "3250cfbab9297e8825b76a3b5474907b208860c60c9d446845bf9e1ce5d1274b"
+    },
+    {
+      "path": "BUS230_A2_Team_Speaking_Script_EN_ALEX.txt",
+      "bytes": 15969,
+      "sha256": "f9684663a8d17c7d7a7a1ba4eab07c6279fd0dbbc7aa9a43eb6d05f9024acbc6"
+    },
+    {
+      "path": "Cedar_Retail_Alex_Demo_36s.mp4",
+      "bytes": 669276,
+      "sha256": "4459ea1021b00e09bc5e5fd523d49778f8c19c74853afb5297e6ea95de026d10"
+    },
+    {
+      "path": "FILES.json",
+      "bytes": 3611,
+      "sha256": "ffd2aeb6f9f24f9bcc12d5b0abeba7763e9d198aa9d6d5ce6ae5be584f35fd75"
+    },
+    {
+      "path": "QA/Contact_Sheet.jpg",
+      "bytes": 232465,
+      "sha256": "727a7992b125932c733030e325fc4c367ff7576572450d5e6ed8afb64c398d31"
+    },
+    {
+      "path": "QA/Final_Validation_ALEX.json",
+      "bytes": 5501,
+      "sha256": "5f09045854c2ae3b491b3e275e6f1a0c4cf4d8f5b1819d7d45238506844ca0cf"
+    },
+    {
+      "path": "QA/Slide25.png",
+      "bytes": 166341,
+      "sha256": "14afb0a9cdaed82e377fa895760e255b79802aba89eb888ddb3b1380bf353670"
+    },
+    {
+      "path": "QA/Verification.json",
+      "bytes": 1934,
+      "sha256": "c4f8eb2b6de4c5cf6314b8615335dbed60d0afbeb9c2c43eb0efb9e5ab5cea19"
+    },
+    {
+      "path": "QA/ppt-gif-complete.jpg",
+      "bytes": 676377,
+      "sha256": "06cae37bc1e1b21354e4fd9957a4b79a54d7a0a211570ced1d34c6e74a7ad0ff"
+    },
+    {
+      "path": "QA/ppt-gif-later.jpg",
+      "bytes": 675589,
+      "sha256": "b3a1191c9ed84f53148f1dff27ae02f7e4c75885655cf17394d65136f50ba4c0"
+    },
+    {
+      "path": "QA/video-storyboard.jpg",
+      "bytes": 167824,
+      "sha256": "fe66232e1f1911bf35bd78978f22a2bb2c45f471dd90ed427c1e8c6bcf6f4023"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3628,
+      "sha256": "c4aadd471d2f8d07807c18c345f81844f33f0186407709fae570d9606b24b5d0"
+    },
+    {
+      "path": "Source/Aram_Notes.json",
+      "bytes": 56902,
+      "sha256": "81213408ef58262a403c06a42de6a7878b473b9594efd4b7708b1c26e5ed552e"
+    },
+    {
+      "path": "Source/Demo/Alex_36s.gif",
+      "bytes": 602507,
+      "sha256": "1ae616eb96b359c9ecc6c7cf53f6b132ea89cd00b5a7676c4523fc75b6e07997"
+    },
+    {
+      "path": "Source/Demo/Poster.png",
+      "bytes": 168000,
+      "sha256": "68697beae8d94b3f1f3036433ddec590d775e3782d4facf3917e8e2a57dc4c0f"
+    },
+    {
+      "path": "Source/Demo/game-base.css",
+      "bytes": 23591,
+      "sha256": "3aa51576a8debe3940c7e9729222131c4df6f1ef93614afa277efb0f5f73ed99"
+    },
+    {
+      "path": "Source/Demo/index.html",
+      "bytes": 12389,
+      "sha256": "bde209fdf85da93e7e923531d325edf0512bae545a2a6e46a22c15ac8fac931a"
+    },
+    {
+      "path": "Source/Script_Content_EN.json",
+      "bytes": 22378,
+      "sha256": "4fe5c4987e53e1659653328d68bbc7110c5b06be731d2d53b0f4cc7b12807573"
+    },
+    {
+      "path": "Source/edit.mjs",
+      "bytes": 2284,
+      "sha256": "737cc4a54cd0164449bdfe45ed4da240fd412f03185a24dae9f9e5a8c788ee8a"
+    },
+    {
+      "path": "Source/finalize.mjs",
+      "bytes": 1507,
+      "sha256": "0c27455540e7d06dd8c95ba154fe27d8c68694cc09bb2affd50120b0c0660ce9"
+    },
+    {
+      "path": "Source/gif_fallback.py",
+      "bytes": 1932,
+      "sha256": "91b5c467486fc80e145cacf8e2113cbbfadad3a04e0d2ebf5e1603cf4264edb7"
+    },
+    {
+      "path": "Source/merge_video.py",
+      "bytes": 5657,
+      "sha256": "88a60fa938fe4a4b34002740ded7aeb12064bfeb026b7314f76e69fa62b3d34c"
+    },
+    {
+      "path": "Source/prepare_final.py",
+      "bytes": 4113,
+      "sha256": "aeb325307748fab1654bb0a25266afb2d61ea4b999332c0c91c923a723c69167"
+    },
+    {
+      "path": "Source/render_all.mjs",
+      "bytes": 573,
+      "sha256": "4008ce4e43b25c3b5a93dd9b951ef547107021e932664dab43f4d0630e5e09f5"
+    }
+  ],
+  "limitations": "Only this new package independently restored. Live Site and D1 not modified/exported. Actual teaching computer/projector and rehearsal pending."
+}
