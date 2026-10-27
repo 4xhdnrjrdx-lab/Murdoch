@@ -23,8 +23,8 @@
     },
     {
       "path": "ACCESS_STATUS.json",
-      "bytes": 9422,
-      "sha256": "d80d06ea4da03e00f20c6bb888fd78fb1931a3309af586b7c6e700acb5ab6a50",
+      "bytes": 10107,
+      "sha256": "60b1010a74e2b1da71474c515bdb60123f000bce9565804fdd600d1f6147ecd5",
       "storage": "git"
     },
     {
@@ -101,8 +101,8 @@
     },
     {
       "path": "Archive/Correspondence/2026-10-19_degree-progress.json",
-      "bytes": 9906,
-      "sha256": "97caaed6440150203368e6b594477b0cc03156a1dfd54678f9b2bc3babf289a1",
+      "bytes": 10570,
+      "sha256": "2ee5c3cd4fec910558bfe3ff8e81ad51bb2fe8405da19b30af88f60598eff286",
       "storage": "git"
     },
     {
@@ -113,8 +113,8 @@
     },
     {
       "path": "Archive/Correspondence/2026-10-20_august-2027-completion-request.json",
-      "bytes": 3845,
-      "sha256": "d4fc56c36f224faf1bd1cbd905d2399901f5f721c1162fe295e6cbb9ee66f0d4",
+      "bytes": 4338,
+      "sha256": "7a93c77a4eb4acb3eda53e48480a4d5c6f48a34963e4c9915dfd832121d661ba",
       "storage": "git"
     },
     {
@@ -127,6 +127,18 @@
       "path": "Archive/Correspondence/2026-10-25_general-deadlines-check.json",
       "bytes": 16483,
       "sha256": "eee49f287305fcce12efd4a257524f143d313b3c521edce6575cafb424352112",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/Correspondence/2026-10-26_student-services-study-plan-reply.json",
+      "bytes": 3595,
+      "sha256": "a4c5dfe7c2f38fda17cb695d02490789ba8ac8d268ce311a3d1c137254ad323f",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/Correspondence/Attachments/2026-10-26_StudentServices_WaiveUnitPrereq_form.pdf",
+      "bytes": 111402,
+      "sha256": "52a4c86782ebf41f85f6a95b86f9427d59033131f86a95deb700d0f37fd8c8f2",
       "storage": "git"
     },
     {
@@ -5471,8 +5483,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5553,
-      "sha256": "cd7aa4cad5edf5f834ca591d284b13c8c452130236f800937453113041df14f3",
+      "bytes": 5776,
+      "sha256": "5cd92ef982c92f9e8652a3a549c5bf0938df2147446ad14685ff30f5fd675fcf",
       "storage": "git"
     },
     {
@@ -5548,6 +5560,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 924,
-  "total_bytes": 536262425
+  "file_count": 926,
+  "total_bytes": 536379487
 }

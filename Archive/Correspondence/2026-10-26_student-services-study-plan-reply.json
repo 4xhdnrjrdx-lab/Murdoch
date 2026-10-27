@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-27T14:18:58.619760+04:00",
+  "mail_account": "jafarovfayaz@gmail.com",
+  "message_id": "1a1777e1c9bd36ae",
+  "subject": "RE: Study plan",
+  "sent_at": "2026-10-26T13:15:03+04:00",
+  "sender": "Dubai.StudentServices@murdoch.edu.au",
+  "signatory": "Pratima Joshi, Manager – Student & Academic Services",
+  "url": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/1a1777e1c9bd36ae",
+  "reply_body_without_signature_contacts_or_quoted_history": "Hi Faraz,\nIf you successfully complete all your units before the commencement of the May trimester, you can apply for a prerequisite waiver by completing the attached form and sending it back to us.\nThe Academic Chair will review your request and provide feedback.\n\nJust make sure that you have checked the unit offerings in the Murdoch University Handbook before submitting the form.\n\nKind Regards,\nPratima\nPratima Joshi\nManager - Student & Academic Services\nMurdoch University Dubai",
+  "confirmed": {
+    "waiver_application_path": true,
+    "condition_exact": "If you successfully complete all your units before the commencement of the May trimester",
+    "required_action": "Complete the attached prerequisite waiver form and return it to Student Services.",
+    "decision_maker": "Academic Chair",
+    "check_before_submission": "Unit offerings in the Murdoch University Handbook",
+    "conditional_application_not_approval": true
+  },
+  "not_confirmed": [
+    "Waiver or concurrent enrolment approval for BUS299/BUS350.",
+    "Approval of the proposed January/May sequence.",
+    "Guaranteed completion of all degree requirements by August 2027.",
+    "Specific eligible Part II general elective.",
+    "BUS278 2027 title mapping to the existing degree.",
+    "Final academic record/remaining-credit audit, seats and timetable."
+  ],
+  "original_request_evidence": {
+    "quoted_in_reply": true,
+    "sender": "Faiaz Dzhafarov, 35553299@student.murdoch.edu.au",
+    "sent_date_as_displayed": "Tuesday, 20 October 2026 8:05 PM",
+    "timezone_of_displayed_time": "not stated in quoted header; do not infer exact timestamp",
+    "subject": "Study plan",
+    "target": "Complete Bachelor of Business in Marketing and Management by August 2027",
+    "proposed_january": [
+      "BUS278",
+      "BUS338",
+      "COM203",
+      "approved Part II General Elective"
+    ],
+    "proposed_may": [
+      "BUS299",
+      "BUS210",
+      "BUS368",
+      "BUS350"
+    ],
+    "requested_exception": "Concurrent BUS299 and BUS350 in May 2027",
+    "sent_by": "User; no message sent by this agent"
+  },
+  "attachment": {
+    "original_filename": "WaiveUnitPrereq form.pdf",
+    "path": "Archive/Correspondence/Attachments/2026-10-26_StudentServices_WaiveUnitPrereq_form.pdf",
+    "bytes": 111402,
+    "sha256": "52a4c86782ebf41f85f6a95b86f9427d59033131f86a95deb700d0f37fd8c8f2",
+    "page_count": 1,
+    "version_on_document": "Version 5 2022",
+    "preserved_original_bytes": true,
+    "read_method": "Original attachment downloaded; complete single-page visual review. Connector inline extraction marked incomplete and was not sole source.",
+    "form_completed": false,
+    "signed": false,
+    "submitted": false
+  },
+  "next_action": "Successfully complete units preceding May; reconfirm relevant Dubai offerings, prepare the formal BUS350 waiver/concurrent-enrolment application, and obtain Academic Chair decision. Do not treat the reply as an approved study plan.",
+  "scope": "Read and record only; no external reply, signature, application, registration or payment."
+}

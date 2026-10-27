@@ -1,8 +1,8 @@
 {
   "mail": {
-    "checked_at": "2026-10-26",
-    "scope": "after:2026/10/21 (BUS230 OR \"Change Management\")",
-    "result": "В заданном поиске новых инструкций A2 нет. Полный Outlook/WhatsApp не охвачены.",
+    "checked_at": "2026-10-27T14:18:58.619760+04:00",
+    "scope": "Study Gmail: Study Plan/course plan/Student Services replies after 19 October; one matching reply found and read, with attached waiver form preserved. No course-wide mail or LMS audit in this task.",
+    "result": "Прочитан ответ Student Services от 26 октября: при успешном завершении предметов до майского триместра можно подать waiver; решение Academic Chair ещё не получено. Письмо и оригинал формы сохранены.",
     "last_check_by_course": {
       "BUS219": {
         "checked_at": "2026-10-25T14:41:58.109857+04:00",
@@ -34,7 +34,7 @@
         "evidence": "Archive/Correspondence/2026-10-25_general-deadlines-check.json"
       }
     },
-    "evidence": "BUS230/2026-TSD/Correspondence/2026-10-26_A2-revision-check.json",
+    "evidence": "Archive/Correspondence/2026-10-26_student-services-study-plan-reply.json",
     "outlook_attempt": {
       "attempted_at": "2026-10-07T13:31:59.360199+04:00",
       "result": "No accessible Outlook tab in connected browser inventory; no Outlook connector available in this chat",
@@ -100,6 +100,13 @@
         "scope": "after:2026/10/18 (from:Dubai.StudentServices@murdoch.edu.au OR from:Dubai.AcademicServices@murdoch.edu.au) (\"plan\" OR \"enrolment\" OR \"2027\" OR \"BUS350\" OR \"BUS299\")",
         "result": "No matching messages; search exhausted.",
         "evidence": "Archive/Correspondence/2026-10-20_august-2027-completion-request.json"
+      },
+      "latest_reply": {
+        "checked_at": "2026-10-27T14:18:58.619760+04:00",
+        "message_date": "2026-10-26",
+        "evidence": "Archive/Correspondence/2026-10-26_student-services-study-plan-reply.json",
+        "waiver_approved": false,
+        "approved_updated_plan_received": false
       }
     },
     "timestamp_precision": "date; exact Gmail tool-call time not retained"

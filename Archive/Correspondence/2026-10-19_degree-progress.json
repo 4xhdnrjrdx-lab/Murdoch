@@ -295,8 +295,16 @@
     "target": "Complete all academic requirements by August 2027",
     "source": "Direct user instruction 20 October 2026",
     "preferred_load_units_per_trimester": 4,
-    "status": "Proposed course sequence ready; university approval and final academic audit pending",
-    "next_action": "Send reviewed Student Services request after explicit user authorization",
-    "request_evidence": "Archive/Correspondence/2026-10-20_august-2027-completion-request.json"
+    "status": "Student Services confirmed conditional waiver application route; Academic Chair decision and approved final study plan pending",
+    "next_action": "Successfully complete units preceding May; reconfirm relevant Dubai offerings, prepare the formal BUS350 waiver/concurrent-enrolment application, and obtain Academic Chair decision. Do not treat the reply as an approved study plan.",
+    "request_evidence": "Archive/Correspondence/2026-10-20_august-2027-completion-request.json",
+    "latest_reply_evidence": "Archive/Correspondence/2026-10-26_student-services-study-plan-reply.json",
+    "last_reviewed_at": "2026-10-27T14:18:58.619760+04:00"
+  },
+  "student_services_reply": {
+    "date": "2026-10-26",
+    "checked_at": "2026-10-27T14:18:58.619760+04:00",
+    "evidence": "Archive/Correspondence/2026-10-26_student-services-study-plan-reply.json",
+    "status": "Conditional invitation to apply; not approval of waiver or completion date"
   }
 }
