@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-27T14:23:48.426391+04:00",
+  "result": "ok",
+  "scope": "Published main integrity verified; current own LMS assignment dates/submissions, quizzes and course announcements; study Gmail since October 24; working tree audit of main local workspace. No submissions/messages or presentation changes.",
+  "github_main_before_audit": "aa483a4a7f8194072f1de23eb196d4f6cc78f584",
+  "assignments": [
+    {
+      "course_id": 31585,
+      "id": 126475,
+      "name": "Business project report due:  at 23.55pm, 6th of Nov",
+      "due": "2026-11-06T19:55:00+04:00",
+      "submission": {
+        "status": "new",
+        "modified": "2026-10-17T03:01:28+04:00",
+        "grading_status": "notgraded",
+        "filenames": []
+      }
+    },
+    {
+      "course_id": 31320,
+      "id": 125038,
+      "name": "Service organisation profile submission (Non assessable item submitted end of Session 4) -One per group",
+      "due": "2026-09-18T09:00:00+04:00",
+      "submission": {
+        "status": "new",
+        "modified": "2026-10-25T14:39:21+04:00",
+        "grading_status": "notgraded",
+        "filenames": []
+      }
+    },
+    {
+      "course_id": 31320,
+      "id": 125039,
+      "name": "Video Presentation Submission",
+      "due": "2026-10-02T17:00:00+04:00",
+      "submission": {
+        "status": "submitted",
+        "modified": "2026-09-26T21:08:52+04:00",
+        "grading_status": "graded",
+        "filenames": []
+      }
+    },
+    {
+      "course_id": 31320,
+      "id": 125041,
+      "name": "Peer review submission - Individual",
+      "due": "2026-11-06T17:00:00+04:00",
+      "submission": {
+        "status": "new",
+        "modified": "2026-10-07T12:22:38+04:00",
+        "grading_status": "notgraded",
+        "filenames": []
+      }
+    },
+    {
+      "course_id": 31320,
+      "id": 125040,
+      "name": "Reflective Journal and Service Blueprint - Group submission (one per group)",
+      "due": "2026-11-06T17:00:00+04:00",
+      "submission": {
+        "status": "new",
+        "modified": "2026-10-21T11:23:15+04:00",
+        "grading_status": "notgraded",
+        "filenames": []
+      }
+    },
+    {
+      "course_id": 31305,
+      "id": 124983,
+      "name": "Assessment 2: Presentation Material (Group) Submission Portal",
+      "due": "2026-11-06T19:59:00+04:00",
+      "submission": {
+        "status": "new",
+        "modified": "2026-10-07T12:22:44+04:00",
+        "grading_status": "notgraded",
+        "filenames": []
+      }
+    },
+    {
+      "course_id": 31305,
+      "id": 124982,
+      "name": "Assessment 1: Essay (Individual) Submission Portal",
+      "due": "2026-09-18T19:59:00+04:00",
+      "submission": {
+        "status": "submitted",
+        "modified": "2026-09-17T18:08:19+04:00",
+        "grading_status": "graded",
+        "filenames": [
+          "BUS230Assign1FaiazDzhafarov35553299.docx"
+        ]
+      }
+    },
+    {
+      "course_id": 31274,
+      "id": 124857,
+      "name": "Assignment 4 Supporting materials submission: Data Analysis & Presentation (40%)",
+      "due": null,
+      "submission": {
+        "status": "new",
+        "modified": "2026-07-22T16:38:00+04:00",
+        "grading_status": "notgraded",
+        "filenames": []
+      }
+    },
+    {
+      "course_id": 31274,
+      "id": 124858,
+      "name": "Peer Evaluation Form Submission (Individual)",
+      "due": "2026-11-28T19:55:00+04:00",
+      "submission": {
+        "status": "new",
+        "modified": "2026-10-07T12:22:54+04:00",
+        "grading_status": "notgraded",
+        "filenames": []
+      }
+    },
+    {
+      "course_id": 31274,
+      "id": 124854,
+      "name": "Assignment 1: Engagement (10%)",
+      "due": "2026-11-19T13:00:00+04:00",
+      "submission": {
+        "status": "new",
+        "modified": "2026-10-07T12:22:55+04:00",
+        "grading_status": "notgraded",
+        "filenames": []
+      }
+    },
+    {
+      "course_id": 31274,
+      "id": 124855,
+      "name": "Assignment 2 Submission: Questionnaire (20%)",
+      "due": "2026-09-20T19:59:00+04:00",
+      "submission": {
+        "status": "submitted",
+        "modified": "2026-09-19T00:26:26+04:00",
+        "grading_status": "graded",
+        "filenames": [
+          "35553299_Dzhafarov_BUS334_Assignment2_Questionnaire.docx"
+        ]
+      }
+    },
+    {
+      "course_id": 31274,
+      "id": 124856,
+      "name": "Assignment 3 Submission: Data Collection & Preliminary Analysis (30%)",
+      "due": "2026-10-25T19:59:00+04:00",
+      "submission": {
+        "status": "submitted",
+        "modified": "2026-10-22T17:57:10+04:00",
+        "grading_status": "notgraded",
+        "filenames": [
+          "35553299_Dzhafarov_BUS334_A3_Appendices_Revised.pdf",
+          "35553299_Dzhafarov_BUS334_A3_Original_Responses.pdf",
+          "35553299_Dzhafarov_BUS334_A3_Report_Revised.pdf"
+        ]
+      }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": 111647,
+      "course_id": 31585,
+      "name": "Quiz 1 due:  by 23:55, 20th of Oct",
+      "closes": "2026-10-20T19:55:00+04:00"
+    },
+    {
+      "id": 111648,
+      "course_id": 31585,
+      "name": "Quiz 2 due: 23:55, 24th of Nov",
+      "closes": "2026-11-24T19:55:00+04:00"
+    },
+    {
+      "id": 110572,
+      "course_id": 31320,
+      "name": "Quiz 1 - Services Marketing",
+      "closes": null
+    },
+    {
+      "id": 110573,
+      "course_id": 31320,
+      "name": "Quiz 2 - Service Consumers",
+      "closes": null
+    },
+    {
+      "id": 110574,
+      "course_id": 31320,
+      "name": "Quiz 3 - Positioning Services",
+      "closes": null
+    },
+    {
+      "id": 110575,
+      "course_id": 31320,
+      "name": "Quiz 4 - Service Products",
+      "closes": null
+    },
+    {
+      "id": 110576,
+      "course_id": 31320,
+      "name": "Quiz 5 - Service Distribution",
+      "closes": null
+    },
+    {
+      "id": 110577,
+      "course_id": 31320,
+      "name": "Setting Prices and Implementing Revenue Management",
+      "closes": null
+    },
+    {
+      "id": 110578,
+      "course_id": 31320,
+      "name": "Quiz 7 - Integrated Marketing Communications",
+      "closes": null
+    },
+    {
+      "id": 110579,
+      "course_id": 31320,
+      "name": "Quiz 8 - Designing service processes",
+      "closes": null
+    },
+    {
+      "id": 110580,
+      "course_id": 31320,
+      "name": "Quiz 9 - Crafting the Service Environment",
+      "closes": null
+    },
+    {
+      "id": 110581,
+      "course_id": 31320,
+      "name": "Quiz 10 - Managing People and Customer Service Function",
+      "closes": null
+    },
+    {
+      "id": 110582,
+      "course_id": 31320,
+      "name": "Quiz 11 - Managing Customer Relationships in Services",
+      "closes": null
+    },
+    {
+      "id": 110583,
+      "course_id": 31320,
+      "name": "Quiz 12 - Customer Satisfaction and Service Quality",
+      "closes": null
+    }
+  ],
+  "announcements": [
+    {
+      "course_id": 31585,
+      "forumid": 151065,
+      "discussions": [
+        {
+          "name": "Assessment Quiz 1 ",
+          "modified": "2026-10-12T09:07:18+04:00",
+          "message": "Older announcement already in previous check"
+        },
+        {
+          "name": "Group Formation &amp; Pre- Workshop Reminder",
+          "modified": "2026-09-09T12:31:08+04:00",
+          "message": "Older announcement already in previous check"
+        }
+      ]
+    },
+    {
+      "course_id": 31320,
+      "forumid": 149822,
+      "discussions": [
+        {
+          "name": "Links for ONLINE students",
+          "modified": "2026-08-20T17:58:57+04:00",
+          "message": "Older announcement already in previous check"
+        }
+      ]
+    },
+    {
+      "course_id": 31305,
+      "forumid": 149752,
+      "discussions": []
+    },
+    {
+      "course_id": 31274,
+      "forumid": 149576,
+      "discussions": []
+    }
+  ],
+  "unpublished_local_files": [
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Redesign_2026-10-21/BUS230Assessment2Class2Group4_2026-10-21.pptx",
+      "local_sha256": "e2669e02464a06f87e55bad224b81a82dbdbe20bfaec8deaa5845a4ae6f672f6",
+      "github_sha256": "824c7466a6f87919994b0fb2b97a4b4bb3505f4f4e3486a5112a4697bb5ef799",
+      "identical": false,
+      "status": "Uncommitted local change; not uploaded or altered by audit"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Revision_2026-10-26/BUS230Assessment2Class2Group4_2026-10-26.pptx",
+      "local_sha256": "51e8ba5bfb671a9178bef26a06f349123ff8a8fe9379259b8ee29460ddb6a1b4",
+      "github_sha256": "a380ea2feff8d2e158180cc70cf906b8335e0ca0645acea62268e65cb01b209f",
+      "identical": false,
+      "status": "Uncommitted local change; not uploaded or altered by audit"
+    }
+  ],
+  "limitations": [
+    "Full university Outlook and WhatsApp not checked.",
+    "Other independent clones and open application unsaved buffers not comprehensively inventoried.",
+    "Current local presentations preserved; no decision on their quality or intended final version."
+  ],
+  "mail": {
+    "checked_at": "2026-10-27T14:23:48.426391+04:00",
+    "account": "jafarovfayaz@gmail.com",
+    "scope": "after:2026/10/24 with all four course codes including spaced variants, Student/Academic Services and known instructor addresses; 3 results, search exhausted.",
+    "messages": [
+      {
+        "id": "1a17825d4a32ce00",
+        "subject": "Unit Feedback Survey- TSD26",
+        "sent_at": "2026-10-26T16:18:12+04:00",
+        "result": "Body read: unit feedback surveys open for all available units; no exact closing date in email.",
+        "url": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/1a17825d4a32ce00"
+      },
+      {
+        "id": "1a1777e1c9bd36ae",
+        "subject": "RE: Study plan",
+        "evidence": "Archive/Correspondence/2026-10-26_student-services-study-plan-reply.json"
+      },
+      {
+        "id": "1a16d23362ec3ef3",
+        "subject": "BUS 334 : Final Assignment - Important Instructions",
+        "evidence": "BUS334/2026-TSD/Correspondence/2026-10-24_final-assignment-instructions.json"
+      }
+    ],
+    "new_assessment_deadline_changes_found": false
+  },
+  "integrity_check": {
+    "result": "PASS",
+    "tracked_manifest_files_before_audit": 927,
+    "bytes_before_audit": 536387679,
+    "checks": "SHA-256, scope, source links, states and secret scan"
+  },
+  "overall_result": "Published course records match current checked Moodle deadlines/submission statuses. Two modified local BUS230 presentations differ from GitHub and have not been uploaded; cannot state that every local change is saved.",
+  "course_results": {
+    "BUS219": "Current published records/October 27 reading instructions present; A2 own submission new, Quiz2 close unchanged.",
+    "BUS225": "Published final group DOCX and records present; A2 and individual peer review own submissions new, November 6 17:00 Dubai unchanged.",
+    "BUS230": "Published October 26 presentation revision and game demo exist, but two local presentation files have unpublished changes; own A2 submission new and November 6 19:59 unchanged.",
+    "BUS334": "Revised A3 submitted October 22 remains confirmed; November 12 A4 email stored, own A4 supporting submission new and no portal duedate."
+  }
+}
