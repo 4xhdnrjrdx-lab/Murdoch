@@ -41,8 +41,8 @@ Faiaz Dzhafarov · student ID 35553299 · время Asia/Dubai (UTC+4).
 
 ## Свежесть и сохранение
 
-- Почта: проверена 2026-10-26. В заданном поиске новых инструкций A2 нет. Полный Outlook/WhatsApp не охвачены.
-- LMS: проверка 2026-10-27T14:16:56.758155+04:00, результат `ok`. Даты и подтверждения по предметам приведены в заданиях.
+- Почта: проверена 2026-10-27T14:22:59+04:00. Latest BUS334 instruction is Ashok 24 October final presentation email, previously recorded 25 October; re-read. Revised A3 receipts 22 October confirmed. No later relevant instruction or grade email in exhausted searches.
+- LMS: проверка 2026-10-27T14:22:07+04:00, результат `ok`. Даты и подтверждения по предметам приведены в заданиях.
 - GitHub: текущая опубликованная версия определяется SHA ветки main, показанным GitHub. Проверка локальной синхронизации: `python3 scripts/sync.py status`. Сверка файлов: `python3 scripts/verify.py`.
 - Проверки выполняются при начале работы по предмету или запросе статуса. Фоновых заданий нет.
 

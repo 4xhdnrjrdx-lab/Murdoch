@@ -1,8 +1,8 @@
 {
   "mail": {
-    "checked_at": "2026-10-26",
-    "scope": "after:2026/10/21 (BUS230 OR \"Change Management\")",
-    "result": "В заданном поиске новых инструкций A2 нет. Полный Outlook/WhatsApp не охвачены.",
+    "checked_at": "2026-10-27T14:22:59+04:00",
+    "scope": "after:2026/10/21 (BUS334 OR \"BUS 334\" OR from:ashok.mitra OR (\"Submission confirmation\" \"Assignment 3\")) ; after:2026/10/22 (\"BUS334\" OR \"BUS 334\" OR \"Business Analytics\" OR from:Ashok.Mitra@murdoch.edu.au)",
+    "result": "Latest BUS334 instruction is Ashok 24 October final presentation email, previously recorded 25 October; re-read. Revised A3 receipts 22 October confirmed. No later relevant instruction or grade email in exhausted searches.",
     "last_check_by_course": {
       "BUS219": {
         "checked_at": "2026-10-27",
@@ -32,14 +32,22 @@
         "evidence": "Archive/Correspondence/2026-10-25_general-deadlines-check.json"
       },
       "BUS334": {
-        "checked_at": "2026-10-25T14:41:58.109857+04:00",
+        "checked_at": "2026-10-27T14:22:59+04:00",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "Since 20 October: course codes BUS219/BUS225/BUS230/BUS334 and Student/Academic Services; additional instructor-address and subject exam/assessment search. Both searches exhausted.",
-        "result": "Новое письмо от 24 октября устанавливает A4 на 12 ноября для Thursday/Class 1.",
-        "evidence": "Archive/Correspondence/2026-10-25_general-deadlines-check.json"
+        "scope": "after:2026/10/21 (BUS334 OR \"BUS 334\" OR from:ashok.mitra OR (\"Submission confirmation\" \"Assignment 3\")) ; after:2026/10/22 (\"BUS334\" OR \"BUS 334\" OR \"Business Analytics\" OR from:Ashok.Mitra@murdoch.edu.au)",
+        "result": "Latest BUS334 instruction is Ashok 24 October final presentation email, previously recorded 25 October; re-read. Revised A3 receipts 22 October confirmed. No later relevant instruction or grade email in exhausted searches.",
+        "matched_messages": 9,
+        "relevant_messages": 8,
+        "next_page_token_present": false,
+        "uncovered": [
+          "Full university Outlook",
+          "WhatsApp",
+          "Messages outside the search terms"
+        ],
+        "evidence": "BUS334/2026-TSD/Correspondence/2026-10-27_mail-and-lms-check.json"
       }
     },
-    "evidence": "BUS230/2026-TSD/Correspondence/2026-10-26_A2-revision-check.json",
+    "evidence": "BUS334/2026-TSD/Correspondence/2026-10-27_mail-and-lms-check.json",
     "outlook_attempt": {
       "attempted_at": "2026-10-07T13:31:59.360199+04:00",
       "result": "No accessible Outlook tab in connected browser inventory; no Outlook connector available in this chat",
@@ -110,14 +118,14 @@
     "timestamp_precision": "date; exact Gmail tool-call time not retained"
   },
   "lms": {
-    "checked_at": "2026-10-27T14:16:56.758155+04:00",
+    "checked_at": "2026-10-27T14:22:07+04:00",
     "result": "ok",
-    "operation": "BUS219 Topic 10 course content, current announcements and main forum; local Session10 slides and retained Unit Outline. No assessment submission or grade status checked in this operation.",
+    "operation": "Read-only BUS334 A3 status/filenames, A4 metadata and available own grade fields",
     "last_success_by_course": {
       "BUS219": "2026-10-27T14:16:56.758155+04:00",
       "BUS225": "2026-10-25T14:39:45.386299+04:00",
       "BUS230": "2026-10-26T19:02:02.570675+04:00",
-      "BUS334": "2026-10-25T14:39:45.386299+04:00"
+      "BUS334": "2026-10-27T14:22:07+04:00"
     },
     "token_expiry": "unknown",
     "successful_account_check": {
@@ -133,7 +141,7 @@
       "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-27_chapter11-instruction-check.json",
       "BUS225": "Archive/Correspondence/2026-10-25_general-deadlines-check.json",
       "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-26_A2-revision-check.json",
-      "BUS334": "Archive/Correspondence/2026-10-25_general-deadlines-check.json"
+      "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-27_mail-and-lms-check.json"
     },
     "enrolment_check": {
       "checked_at": "2026-10-19T13:34:03.858964+04:00",
