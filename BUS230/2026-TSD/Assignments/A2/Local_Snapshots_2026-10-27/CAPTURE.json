@@ -1,0 +1,22 @@
+[
+  {
+    "source_path": "BUS230/2026-TSD/Assignments/A2/Redesign_2026-10-21/BUS230Assessment2Class2Group4_2026-10-21.pptx",
+    "snapshot_file": "BUS230Assessment2Class2Group4_2026-10-21_LOCAL_SNAPSHOT_2026-10-27.pptx",
+    "sha256": "e2669e02464a06f87e55bad224b81a82dbdbe20bfaec8deaa5845a4ae6f672f6",
+    "expected_audit_sha256": "e2669e02464a06f87e55bad224b81a82dbdbe20bfaec8deaa5845a4ae6f672f6",
+    "matches_audit_sha256": true,
+    "bytes": 1419820,
+    "captured_at": "2026-10-27T14:29:50.649333+04:00",
+    "source_mtime_dubai": "2026-10-21T15:00:34.865171+04:00"
+  },
+  {
+    "source_path": "BUS230/2026-TSD/Assignments/A2/Revision_2026-10-26/BUS230Assessment2Class2Group4_2026-10-26.pptx",
+    "snapshot_file": "BUS230Assessment2Class2Group4_2026-10-26_LOCAL_SNAPSHOT_2026-10-27.pptx",
+    "sha256": "51e8ba5bfb671a9178bef26a06f349123ff8a8fe9379259b8ee29460ddb6a1b4",
+    "expected_audit_sha256": "51e8ba5bfb671a9178bef26a06f349123ff8a8fe9379259b8ee29460ddb6a1b4",
+    "matches_audit_sha256": true,
+    "bytes": 1442773,
+    "captured_at": "2026-10-27T14:29:50.651796+04:00",
+    "source_mtime_dubai": "2026-10-26T23:21:26.296069+04:00"
+  }
+]

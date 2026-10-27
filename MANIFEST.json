@@ -2632,6 +2632,30 @@
       "storage": "git"
     },
     {
+      "path": "BUS230/2026-TSD/Assignments/A2/Local_Snapshots_2026-10-27/BUS230Assessment2Class2Group4_2026-10-21_LOCAL_SNAPSHOT_2026-10-27.pptx",
+      "bytes": 1419820,
+      "sha256": "e2669e02464a06f87e55bad224b81a82dbdbe20bfaec8deaa5845a4ae6f672f6",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Local_Snapshots_2026-10-27/BUS230Assessment2Class2Group4_2026-10-26_LOCAL_SNAPSHOT_2026-10-27.pptx",
+      "bytes": 1442773,
+      "sha256": "51e8ba5bfb671a9178bef26a06f349123ff8a8fe9379259b8ee29460ddb6a1b4",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Local_Snapshots_2026-10-27/CAPTURE.json",
+      "bytes": 1153,
+      "sha256": "4b0f9bc35ceda360c9289ca967c06047726fe19494c8c44cc6fcfff675effe09",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Local_Snapshots_2026-10-27/README.md",
+      "bytes": 1193,
+      "sha256": "0216110321ad21f863c4d0a6ca6a33bb9b1f06de27f444aa27216633ab1dd546",
+      "storage": "git"
+    },
+    {
       "path": "BUS230/2026-TSD/Assignments/A2/README.md",
       "bytes": 3866,
       "sha256": "f1d4aad7cd2e639be446f88a8b066c34193e9ced0f6c6de77ac82b79c1813621",
@@ -5584,6 +5608,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 930,
-  "total_bytes": 536415920
+  "file_count": 934,
+  "total_bytes": 539280859
 }
