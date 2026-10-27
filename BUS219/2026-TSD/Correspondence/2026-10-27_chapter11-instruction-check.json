@@ -1,0 +1,98 @@
+{
+  "recorded_at": "2026-10-27T14:18:58+04:00",
+  "lms_checked_at": "2026-10-27T14:16:56.758155+04:00",
+  "scope": "BUS219 Topic 10 course content, current announcements and main forum; local Session10 slides and retained Unit Outline. No assessment submission or grade status checked in this operation.",
+  "user_report": "Teacher asked to read Chapter 11 and do something further; user did not hear the further instruction and recalls Week 10.",
+  "topic": {
+    "id": 504364,
+    "name": "Topic 10: International HRM and International Marketing",
+    "summary": "{%:Introduction} We will learn on the functional aspects of managing global business in the topics hereinafter. We start with two important aspects: international human resource management and international marketing. {%} {%:Guidelines} Read Chapter 11&12 of the text Watch lecture recordings for the topic Read the workshop case and participate in workshop discussions Go through recommended readings {%} {%:Learning Outcomes} By the end of this session you will be able to: Explain the basic cultural and regulatory issues involved in global human resource management including outsourcing and offshoring. Describe the challenges involved in staffing foreign operations, assessing needs for training and development, and designing appropriate strategies to meet those needs. Discuss performance appraisals and employee compensation issues around the world, including cultural differences, cost of living, and how expatriate issues are handled. Distinguish between standardization and adaptation. Describe how new products are developed and how existing products are managed for international markets. Explain the four different methods of promoting international marketing products and provide some advantages and disadvantages of each. Define channels of distribution and physical distribution and indicate the role of each of these for marketing products internationally. Discuss the objectives and decisions involved in international pricing. Discuss aspects of customer service required for goods and services that are globally marketed. {%} {%:Resources} Essential textbook Chapter 11&12, Gaspar 2017 Expatriates in Qatar (Gaspar, pp277) Recommended reading Mini case: Marketing Equine-related Products to International Markets (Gaspar, pp311) {%}",
+    "modules": [
+      {
+        "id": 3111481,
+        "name": "Pre-workshop",
+        "type": "label",
+        "url": null,
+        "description": "Pre-workshop"
+      },
+      {
+        "id": 3111482,
+        "name": "Lecture slides for session 10",
+        "type": "resource",
+        "url": "https://moodleprod.murdoch.edu.au/mod/resource/view.php?id=3111482",
+        "description": ""
+      },
+      {
+        "id": 3111483,
+        "name": "Lecture recordings session 10",
+        "type": "alplinks",
+        "url": "https://moodleprod.murdoch.edu.au/mod/alplinks/view.php?id=3111483",
+        "description": ""
+      },
+      {
+        "id": 3111484,
+        "name": "Workshop",
+        "type": "label",
+        "url": null,
+        "description": "Workshop"
+      },
+      {
+        "id": 3111485,
+        "name": "Case analysis and workshop discussion\nExpatriates...",
+        "type": "label",
+        "url": null,
+        "description": "Case analysis and workshop discussion Expatriates in Qatar (Gaspar, pp277)"
+      },
+      {
+        "id": 3111487,
+        "name": "Post-workshop",
+        "type": "label",
+        "url": null,
+        "description": "Post-workshop"
+      },
+      {
+        "id": 3111488,
+        "name": "Read the recommended reading for this topic\nMarke...",
+        "type": "label",
+        "url": null,
+        "description": "Read the recommended reading for this topic Marketing Equine-related Products to International Markets (Gaspar, pp311) Go through the Chapter Questions at the end of this chapter"
+      }
+    ]
+  },
+  "confirmed": [
+    "Chapter 11 is Global Human Resource Management; Topic 10 also includes Chapter 12 Global Marketing.",
+    "Workshop activity: Case analysis and workshop discussion, Expatriates in Qatar (Gaspar, p.277).",
+    "Post-workshop label says to go through Chapter Questions at the end of the chapter; no specific question numbers are stated.",
+    "Recommended Topic 10 reading also includes Marketing Equine-related Products to International Markets (p.311), associated with Chapter 12.",
+    "Local slides cover Chapter 11 on slides 1–21; Chapter 12 begins on slide 22.",
+    "Unit Outline schedules Topic 10 in Week 12; Topic number is not the same as calendar week. Current oral sequencing may differ."
+  ],
+  "unknown": [
+    "Exact additional spoken instruction on 27 October; no audio or transcript of it provided.",
+    "Whether teacher meant case questions, end-of-chapter questions or another class exercise; no written submission requirement or deadline for this oral instruction found.",
+    "Actual textbook case text and questions are not present as a separate local file or attached Topic 10 resource."
+  ],
+  "announcements": {
+    "latest_topic": "Assessment Quiz 1",
+    "latest_date": "2026-10-12",
+    "new_chapter11_instruction_found": false,
+    "main_discussion_forum_discussions": 0
+  },
+  "mail": {
+    "checked_at": "2026-10-27",
+    "account": "jafarovfayaz@gmail.com",
+    "query": "after:2026/10/19 (BUS219 OR \"International Business\" OR from:Navneet.Walia@murdoch.edu.au)",
+    "search_exhausted": true,
+    "result": "One unrelated Student Services study-plan reply; no Chapter 11 instruction in search results. No unrelated email body or attachment read.",
+    "uncovered": [
+      "Full university Outlook",
+      "WhatsApp",
+      "Oral instructions"
+    ]
+  },
+  "sources": [
+    "Materials/13 Topic 10_ International HRM and International Marketing/Session10 chapter1112.pptx",
+    "Materials/UnitOutline/00_UNIT_OUTLINE_BUS219_TSD2026.md"
+  ],
+  "interpretation": "Preparing Expatriates in Qatar for discussion is the strongest written match to the user recollection, but is not verification of the exact spoken task."
+}

@@ -23,8 +23,8 @@
     },
     {
       "path": "ACCESS_STATUS.json",
-      "bytes": 9422,
-      "sha256": "d80d06ea4da03e00f20c6bb888fd78fb1931a3309af586b7c6e700acb5ab6a50",
+      "bytes": 9647,
+      "sha256": "b8be46a30ce0ce6ab7caf5ea94fb9fac1c0e487f257237d273e45c01db303a4c",
       "storage": "git"
     },
     {
@@ -893,8 +893,8 @@
     },
     {
       "path": "BUS219/2026-TSD/CONTEXT.md",
-      "bytes": 19880,
-      "sha256": "cda9385432d51953c7e32e6b27d1ae6578fadfa5e053cd0f1c36aa973e47592b",
+      "bytes": 21265,
+      "sha256": "2eec6329e45bfae1f47ba8123e1b03fe10325040839a5e0ad0b43af3b1d665b5",
       "storage": "git"
     },
     {
@@ -982,6 +982,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS219/2026-TSD/Correspondence/2026-10-27_chapter11-instruction-check.json",
+      "bytes": 6067,
+      "sha256": "0031d51095c2c8521631d597156af503f60c6cddd34ba59ac5e4e175be27f6e0",
+      "storage": "git"
+    },
+    {
       "path": "BUS219/2026-TSD/Correspondence/README.md",
       "bytes": 1396,
       "sha256": "9cf2a39f76ccb8470f07af1f511fdba2f02d408481d5f2e8c0bed7339661ceb7",
@@ -989,8 +995,8 @@
     },
     {
       "path": "BUS219/2026-TSD/HISTORY.md",
-      "bytes": 11000,
-      "sha256": "b67046a6317c18d049a1d1e4a38e11a932c957bd6a4af1325127bad5d0b1ba37",
+      "bytes": 11515,
+      "sha256": "253264863f1774853c03ae03898153a3048f1af8e4a21d7333b49e734a5e1829",
       "storage": "git"
     },
     {
@@ -5472,7 +5478,7 @@
     {
       "path": "README.md",
       "bytes": 5553,
-      "sha256": "cd7aa4cad5edf5f834ca591d284b13c8c452130236f800937453113041df14f3",
+      "sha256": "a86a3c4fbd196f53e7082d1238bafb80eb48a776e30bebb4942f2a629ebbcc04",
       "storage": "git"
     },
     {
@@ -5548,6 +5554,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 924,
-  "total_bytes": 536262425
+  "file_count": 925,
+  "total_bytes": 536270617
 }
