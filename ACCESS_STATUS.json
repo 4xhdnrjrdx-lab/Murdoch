@@ -1,8 +1,107 @@
 {
+  "secret_storage": {
+    "selected_at": "2026-10-07",
+    "location": "Apple Passwords, iCloud synchronization",
+    "new_token_saved_and_verified": true,
+    "user_action": "completed",
+    "confirmed_on_iphone": true,
+    "confirmed_by": "User message 2026-10-07: saved in Apple Passwords, checked on iPhone, configure performed, check access ok"
+  },
+  "lms": {
+    "checked_at": "2026-10-27T14:22:07+04:00",
+    "result": "ok",
+    "operation": "Read-only BUS334 A3 status/filenames, A4 metadata and available own grade fields",
+    "last_success_by_course": {
+      "BUS219": "2026-10-27T14:16:56.758155+04:00",
+      "BUS225": "2026-10-25T14:39:45.386299+04:00",
+      "BUS230": "2026-10-26T19:02:02.570675+04:00",
+      "BUS334": "2026-10-27T14:22:07+04:00"
+    },
+    "token_expiry": "unknown",
+    "successful_account_check": {
+      "userid": 257560
+    },
+    "course_access": {
+      "BUS219": true,
+      "BUS225": true,
+      "BUS230": true,
+      "BUS334": true
+    },
+    "evidence": {
+      "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-27_chapter11-instruction-check.json",
+      "BUS225": "Archive/Correspondence/2026-10-25_general-deadlines-check.json",
+      "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-26_A2-revision-check.json",
+      "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-27_mail-and-lms-check.json"
+    },
+    "enrolment_check": {
+      "checked_at": "2026-10-19T13:34:03.858964+04:00",
+      "result": "ok",
+      "scope": "Own course list only; four current BUS units match registry. Course assessment check timestamps unchanged.",
+      "evidence": "Archive/Correspondence/2026-10-19_degree-progress.json"
+    },
+    "latest_bus230_a2_check": {
+      "checked_at": "2026-10-26T19:02:02.570675+04:00",
+      "result": "ok",
+      "scope": "A2 group submission status and portal due date only",
+      "evidence": "BUS230/2026-TSD/Correspondence/2026-10-26_A2-revision-check.json"
+    },
+    "timestamp_precision": "seconds"
+  },
   "mail": {
-    "checked_at": "2026-10-27T14:22:59+04:00",
-    "scope": "after:2026/10/21 (BUS334 OR \"BUS 334\" OR from:ashok.mitra OR (\"Submission confirmation\" \"Assignment 3\")) ; after:2026/10/22 (\"BUS334\" OR \"BUS 334\" OR \"Business Analytics\" OR from:Ashok.Mitra@murdoch.edu.au)",
     "result": "Latest BUS334 instruction is Ashok 24 October final presentation email, previously recorded 25 October; re-read. Revised A3 receipts 22 October confirmed. No later relevant instruction or grade email in exhausted searches.",
+    "evidence": "BUS334/2026-TSD/Correspondence/2026-10-27_mail-and-lms-check.json",
+    "connection": {
+      "preferred_account": "jafarovfayaz@gmail.com",
+      "preference_source": "Прямое сообщение пользователя 8 октября 2026: основная почта fayaz201499@gmail.com; для учёбы подключить jafarovfayaz@gmail.com",
+      "last_verified_connected_account": "jafarovfayaz@gmail.com",
+      "profile_verified_at": "2026-10-26",
+      "switch_status": "verified",
+      "personal_account_for_study_checks": "do_not_use",
+      "forwarding_observation": {
+        "observed_at": "2026-10-08",
+        "source": "User screenshot of Outlook forwarding settings, 16:53 Dubai",
+        "displayed_destination": "jafarovfayaz@gmail.com",
+        "displayed_enabled": true,
+        "displayed_keep_copy": true,
+        "actual_delivery_to_preferred_account": "verified_university_messages_present"
+      },
+      "evidence": "Access/Mail/2026-10-08_connection-check.json",
+      "connected_accounts_observation": {
+        "source": "User screenshot 2026-10-08 17:17 Dubai; Gmail profile verified in current chat",
+        "accounts": [
+          {
+            "email": "jafarovfayaz@gmail.com",
+            "label": "Учёба"
+          }
+        ]
+      },
+      "note": "Учебный Gmail подтверждён профильным API и поиском университетских писем. Основная почта отключена пользователем. Для всех предметных чатов использовать только учебный Gmail.",
+      "personal_account_disconnected_by_user": true,
+      "independent_course_verification": "BUS334/2026-TSD/Correspondence/2026-10-08_whatsapp-group-created.md"
+    },
+    "checked_at": "2026-10-27T14:22:59+04:00",
+    "outlook_attempt": {
+      "attempted_at": "2026-10-07T13:31:59.360199+04:00",
+      "result": "No accessible Outlook tab in connected browser inventory; no Outlook connector available in this chat",
+      "last_successful_check": "unknown"
+    },
+    "scope": "after:2026/10/21 (BUS334 OR \"BUS 334\" OR from:ashok.mitra OR (\"Submission confirmation\" \"Assignment 3\")) ; after:2026/10/22 (\"BUS334\" OR \"BUS 334\" OR \"Business Analytics\" OR from:Ashok.Mitra@murdoch.edu.au)",
+    "connection_delivery_check": {
+      "checked_at": "2026-10-08T17:18:38.595375+04:00",
+      "account": "jafarovfayaz@gmail.com",
+      "scope": "after:2026/10/01 (from:murdoch.edu.au OR from:student.murdoch.edu.au); first 8 search results, message metadata only",
+      "result": "Учебный Gmail доступен. Есть университетские письма, включая два ответа BUS334 от 8 октября. Это проверка подключения и доставки; полный обзор всех предметов не выполнялся.",
+      "evidence": "Access/Mail/2026-10-08_connection-check.json"
+    },
+    "finance": {
+      "early_bird_january_2027": {
+        "checked_at": "2026-10-19T12:42:52.154487+04:00",
+        "discount_percent": 5,
+        "bachelor_of_business_last_deadline": "2026-11-18",
+        "deadline_time": "not stated",
+        "evidence": "Archive/Correspondence/2026-10-19_early-bird-january-2027.json"
+      }
+    },
     "last_check_by_course": {
       "BUS219": {
         "checked_at": "2026-10-27",
@@ -47,57 +146,7 @@
         "evidence": "BUS334/2026-TSD/Correspondence/2026-10-27_mail-and-lms-check.json"
       }
     },
-    "evidence": "BUS334/2026-TSD/Correspondence/2026-10-27_mail-and-lms-check.json",
-    "outlook_attempt": {
-      "attempted_at": "2026-10-07T13:31:59.360199+04:00",
-      "result": "No accessible Outlook tab in connected browser inventory; no Outlook connector available in this chat",
-      "last_successful_check": "unknown"
-    },
-    "connection": {
-      "preferred_account": "jafarovfayaz@gmail.com",
-      "preference_source": "Прямое сообщение пользователя 8 октября 2026: основная почта fayaz201499@gmail.com; для учёбы подключить jafarovfayaz@gmail.com",
-      "last_verified_connected_account": "jafarovfayaz@gmail.com",
-      "profile_verified_at": "2026-10-26",
-      "switch_status": "verified",
-      "personal_account_for_study_checks": "do_not_use",
-      "forwarding_observation": {
-        "observed_at": "2026-10-08",
-        "source": "User screenshot of Outlook forwarding settings, 16:53 Dubai",
-        "displayed_destination": "jafarovfayaz@gmail.com",
-        "displayed_enabled": true,
-        "displayed_keep_copy": true,
-        "actual_delivery_to_preferred_account": "verified_university_messages_present"
-      },
-      "evidence": "Access/Mail/2026-10-08_connection-check.json",
-      "connected_accounts_observation": {
-        "source": "User screenshot 2026-10-08 17:17 Dubai; Gmail profile verified in current chat",
-        "accounts": [
-          {
-            "email": "jafarovfayaz@gmail.com",
-            "label": "Учёба"
-          }
-        ]
-      },
-      "note": "Учебный Gmail подтверждён профильным API и поиском университетских писем. Основная почта отключена пользователем. Для всех предметных чатов использовать только учебный Gmail.",
-      "personal_account_disconnected_by_user": true,
-      "independent_course_verification": "BUS334/2026-TSD/Correspondence/2026-10-08_whatsapp-group-created.md"
-    },
-    "connection_delivery_check": {
-      "checked_at": "2026-10-08T17:18:38.595375+04:00",
-      "account": "jafarovfayaz@gmail.com",
-      "scope": "after:2026/10/01 (from:murdoch.edu.au OR from:student.murdoch.edu.au); first 8 search results, message metadata only",
-      "result": "Учебный Gmail доступен. Есть университетские письма, включая два ответа BUS334 от 8 октября. Это проверка подключения и доставки; полный обзор всех предметов не выполнялся.",
-      "evidence": "Access/Mail/2026-10-08_connection-check.json"
-    },
-    "finance": {
-      "early_bird_january_2027": {
-        "checked_at": "2026-10-19T12:42:52.154487+04:00",
-        "discount_percent": 5,
-        "bachelor_of_business_last_deadline": "2026-11-18",
-        "deadline_time": "not stated",
-        "evidence": "Archive/Correspondence/2026-10-19_early-bird-january-2027.json"
-      }
-    },
+    "timestamp_precision": "seconds; check completion recorded after mail tool responses",
     "study_plan_check": {
       "checked_at": "2026-10-19T13:34:35.147373+04:00",
       "account": "jafarovfayaz@gmail.com",
@@ -113,57 +162,15 @@
         "scope": "after:2026/10/18 (from:Dubai.StudentServices@murdoch.edu.au OR from:Dubai.AcademicServices@murdoch.edu.au) (\"plan\" OR \"enrolment\" OR \"2027\" OR \"BUS350\" OR \"BUS299\")",
         "result": "No matching messages; search exhausted.",
         "evidence": "Archive/Correspondence/2026-10-20_august-2027-completion-request.json"
+      },
+      "latest_reply": {
+        "checked_at": "2026-10-27T14:18:58.619760+04:00",
+        "message_date": "2026-10-26",
+        "evidence": "Archive/Correspondence/2026-10-26_student-services-study-plan-reply.json",
+        "waiver_approved": false,
+        "approved_updated_plan_received": false
       }
-    },
-    "timestamp_precision": "date; exact Gmail tool-call time not retained"
-  },
-  "lms": {
-    "checked_at": "2026-10-27T14:22:07+04:00",
-    "result": "ok",
-    "operation": "Read-only BUS334 A3 status/filenames, A4 metadata and available own grade fields",
-    "last_success_by_course": {
-      "BUS219": "2026-10-27T14:16:56.758155+04:00",
-      "BUS225": "2026-10-25T14:39:45.386299+04:00",
-      "BUS230": "2026-10-26T19:02:02.570675+04:00",
-      "BUS334": "2026-10-27T14:22:07+04:00"
-    },
-    "token_expiry": "unknown",
-    "successful_account_check": {
-      "userid": 257560
-    },
-    "course_access": {
-      "BUS219": true,
-      "BUS225": true,
-      "BUS230": true,
-      "BUS334": true
-    },
-    "evidence": {
-      "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-27_chapter11-instruction-check.json",
-      "BUS225": "Archive/Correspondence/2026-10-25_general-deadlines-check.json",
-      "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-26_A2-revision-check.json",
-      "BUS334": "BUS334/2026-TSD/Correspondence/2026-10-27_mail-and-lms-check.json"
-    },
-    "enrolment_check": {
-      "checked_at": "2026-10-19T13:34:03.858964+04:00",
-      "result": "ok",
-      "scope": "Own course list only; four current BUS units match registry. Course assessment check timestamps unchanged.",
-      "evidence": "Archive/Correspondence/2026-10-19_degree-progress.json"
-    },
-    "latest_bus230_a2_check": {
-      "checked_at": "2026-10-26T19:02:02.570675+04:00",
-      "result": "ok",
-      "scope": "A2 group submission status and portal due date only",
-      "evidence": "BUS230/2026-TSD/Correspondence/2026-10-26_A2-revision-check.json"
-    },
-    "timestamp_precision": "seconds"
-  },
-  "secret_storage": {
-    "selected_at": "2026-10-07",
-    "location": "Apple Passwords, iCloud synchronization",
-    "new_token_saved_and_verified": true,
-    "user_action": "completed",
-    "confirmed_on_iphone": true,
-    "confirmed_by": "User message 2026-10-07: saved in Apple Passwords, checked on iPhone, configure performed, check access ok"
+    }
   },
   "github": {
     "repository": "4xhdnrjrdx-lab/Murdoch",

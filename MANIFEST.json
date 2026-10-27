@@ -23,8 +23,8 @@
     },
     {
       "path": "ACCESS_STATUS.json",
-      "bytes": 10185,
-      "sha256": "4ac230e9877755516cd5f819d445ffd90ee7983fba29412ad07f1237b79096af",
+      "bytes": 10507,
+      "sha256": "055dd656a73f809d84072a03c60df70e3ffe5a5c8e45af4cf21aff2306051463",
       "storage": "git"
     },
     {
@@ -101,8 +101,8 @@
     },
     {
       "path": "Archive/Correspondence/2026-10-19_degree-progress.json",
-      "bytes": 9906,
-      "sha256": "97caaed6440150203368e6b594477b0cc03156a1dfd54678f9b2bc3babf289a1",
+      "bytes": 10570,
+      "sha256": "2ee5c3cd4fec910558bfe3ff8e81ad51bb2fe8405da19b30af88f60598eff286",
       "storage": "git"
     },
     {
@@ -113,8 +113,8 @@
     },
     {
       "path": "Archive/Correspondence/2026-10-20_august-2027-completion-request.json",
-      "bytes": 3845,
-      "sha256": "d4fc56c36f224faf1bd1cbd905d2399901f5f721c1162fe295e6cbb9ee66f0d4",
+      "bytes": 4338,
+      "sha256": "7a93c77a4eb4acb3eda53e48480a4d5c6f48a34963e4c9915dfd832121d661ba",
       "storage": "git"
     },
     {
@@ -127,6 +127,18 @@
       "path": "Archive/Correspondence/2026-10-25_general-deadlines-check.json",
       "bytes": 16483,
       "sha256": "eee49f287305fcce12efd4a257524f143d313b3c521edce6575cafb424352112",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/Correspondence/2026-10-26_student-services-study-plan-reply.json",
+      "bytes": 3595,
+      "sha256": "a4c5dfe7c2f38fda17cb695d02490789ba8ac8d268ce311a3d1c137254ad323f",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/Correspondence/Attachments/2026-10-26_StudentServices_WaiveUnitPrereq_form.pdf",
+      "bytes": 111402,
+      "sha256": "52a4c86782ebf41f85f6a95b86f9427d59033131f86a95deb700d0f37fd8c8f2",
       "storage": "git"
     },
     {
@@ -5560,6 +5572,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 926,
-  "total_bytes": 536283827
+  "file_count": 928,
+  "total_bytes": 536400303
 }
