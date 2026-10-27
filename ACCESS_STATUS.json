@@ -5,11 +5,16 @@
     "result": "Прочитан ответ Student Services от 26 октября: при успешном завершении предметов до майского триместра можно подать waiver; решение Academic Chair ещё не получено. Письмо и оригинал формы сохранены.",
     "last_check_by_course": {
       "BUS219": {
-        "checked_at": "2026-10-25T14:41:58.109857+04:00",
+        "checked_at": "2026-10-27",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "Since 20 October: course codes BUS219/BUS225/BUS230/BUS334 and Student/Academic Services; additional instructor-address and subject exam/assessment search. Both searches exhausted.",
-        "result": "Новых сроков в заданном охвате не найдено.",
-        "evidence": "Archive/Correspondence/2026-10-25_general-deadlines-check.json"
+        "scope": "after:2026/10/19 (BUS219 OR \"International Business\" OR from:Navneet.Walia@murdoch.edu.au)",
+        "result": "One unrelated Student Services study-plan reply; no Chapter 11 instruction in search results. No unrelated email body or attachment read.",
+        "uncovered": [
+          "Full university Outlook",
+          "WhatsApp",
+          "Oral instructions"
+        ],
+        "evidence": "BUS219/2026-TSD/Correspondence/2026-10-27_chapter11-instruction-check.json"
       },
       "BUS230": {
         "checked_at": "2026-10-26",
@@ -112,11 +117,11 @@
     "timestamp_precision": "date; exact Gmail tool-call time not retained"
   },
   "lms": {
-    "checked_at": "2026-10-26T19:02:02.570675+04:00",
+    "checked_at": "2026-10-27T14:16:56.758155+04:00",
     "result": "ok",
-    "operation": "Read-only BUS230 A2 assignments and group submission status",
+    "operation": "BUS219 Topic 10 course content, current announcements and main forum; local Session10 slides and retained Unit Outline. No assessment submission or grade status checked in this operation.",
     "last_success_by_course": {
-      "BUS219": "2026-10-25T14:39:45.386299+04:00",
+      "BUS219": "2026-10-27T14:16:56.758155+04:00",
       "BUS225": "2026-10-25T14:39:45.386299+04:00",
       "BUS230": "2026-10-26T19:02:02.570675+04:00",
       "BUS334": "2026-10-25T14:39:45.386299+04:00"
@@ -132,7 +137,7 @@
       "BUS334": true
     },
     "evidence": {
-      "BUS219": "Archive/Correspondence/2026-10-25_general-deadlines-check.json",
+      "BUS219": "BUS219/2026-TSD/Correspondence/2026-10-27_chapter11-instruction-check.json",
       "BUS225": "Archive/Correspondence/2026-10-25_general-deadlines-check.json",
       "BUS230": "BUS230/2026-TSD/Correspondence/2026-10-26_A2-revision-check.json",
       "BUS334": "Archive/Correspondence/2026-10-25_general-deadlines-check.json"
