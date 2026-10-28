@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-28",
+  "input_sha256": "77e9c6b28cf77f80315504f66542f9b99d5c4a5edf394f833553d37c4043b63c",
+  "output_sha256": "ff4e2f86c770cf01f11b1e4f284cd5487420493156a532f40455046288c09872",
+  "main_words": 1537,
+  "blueprint_words": 375,
+  "total_words_excluding_references": 1912,
+  "original_paragraphs_preserved": true,
+  "additions": [
+    {
+      "paragraph": 11,
+      "addition": "Carrefour's examples extend automation to conversational advice. In a bakery study, recommendation effects varied by visit frequency (Song et al., 2024). Its remotely operated robot limits conclusions about autonomous performance."
+    },
+    {
+      "paragraph": 22,
+      "addition": "Managers should audit rankings and workload weekly."
+    }
+  ],
+  "new_reference": "Song, S., Baba, J., Okafuji, Y., Nakanishi, J., Yoshikawa, Y., & Ishiguro, H. (2024). New comer in the bakery store: A long-term exploratory study toward design of useful service robot applications. International Journal of Social Robotics, 16(9–10), 1901–1918. https://doi.org/10.1007/s12369-024-01119-z",
+  "figure_changes": [
+    "Self-scanning added to customer actions at stage 5",
+    "F2 numbered across visible and backstage actions",
+    "F2 sequence and unavailable-stock branch made explicit"
+  ],
+  "layout_adjustment": "Normal paragraph space after reduced from 7 pt to 6 pt; fonts, margins, headings and page numbering preserved",
+  "unchanged_docx_parts": 15,
+  "changed_docx_parts": [
+    "word/document.xml",
+    "word/_rels/document.xml.rels",
+    "word/media/image1.png",
+    "word/styles.xml"
+  ],
+  "original_references_preserved": true,
+  "new_reference_position": "after Majid Al Futtaim, before Wirtz",
+  "render_review": "PASS: all five page images inspected; no clipped text, overlapping elements, blank pages or stranded conclusion. Figure 1 is landscape page 4; references page 5.",
+  "pages": 5,
+  "citation_reference_matching": "PASS: seven references cited; original six entries and hyperlinks preserved; new Song et al. (2024) reference checked against publisher and Crossref.",
+  "authorial_I_my_me": 0,
+  "tracked_changes": false,
+  "comments": false,
+  "submission_docx_count": 1
+}

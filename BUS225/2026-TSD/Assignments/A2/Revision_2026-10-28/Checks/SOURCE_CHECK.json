@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-28",
+  "doi": "10.1007/s12369-024-01119-z",
+  "publisher_url": "https://link.springer.com/article/10.1007/s12369-024-01119-z",
+  "metadata_source": "https://api.crossref.org/works/10.1007/s12369-024-01119-z",
+  "year": 2024,
+  "volume": "16",
+  "issue": "9-10",
+  "pages": "1901-1918",
+  "sections_read": [
+    "Abstract",
+    "1.1 Research objectives",
+    "2.1 Service robot system",
+    "2.2 Bakery store",
+    "6 Conclusion",
+    "6.1 Limitations and future work"
+  ],
+  "supported_claim": "Recommendation effects differed by customer visit frequency in a six-month bakery study.",
+  "scope_limit": "The robot was remotely operated through a Wizard of Oz setup, so the results do not establish autonomous performance or Carrefour UAE outcomes.",
+  "reference_order": "Song follows Majid Al Futtaim and precedes Wirtz; original six references retained."
+}

@@ -1,0 +1,60 @@
+Figure 1 Proposed improved Carrefour UAE service blueprint
+Physical grocery purchase with optional digital assistance
+1 Plan basket
+2 Enter store
+3 Find products
+4 Choose and ask
+5 Pay and leave
+6 Resolve issue
+Physical and digital evidence
+List; budget; dated suggestions
+Signs; trolley; accessible routes
+Shelves; labels; visible Tally
+Packs; comparison screen; colleague
+Checkout display; payment terminal; receipt
+Help desk; case number; resolution notice
+Customer actions
+Set budget; accept or reject advice
+Choose app or staffed route
+Locate item; report shelf gap
+Compare ingredients; select or request help
+Self-scan if used; check total; pay; keep receipt
+If needed, report problem; confirm resolution
+Frontstage actions
+Optional assistant explains suggestions F1
+Employee offers directions without registration
+1 Tally scans; 3 Staff restock; 4 Verify shelf F2 W
+Colleague explains alternatives; accessible help F3 W
+Cashier or self-checkout; supervisor corrects F4 W
+Agent receives case; explains remedy F5 W
+Backstage actions
+Merchandiser validates local product facts
+Supervisor allocates help coverage
+2 Check stock; assign task. 5 Close alert; update stock
+Specialist checks product information
+Supervisor verifies price and authorises correction
+Manager reviews evidence; authorises refund; escalates
+Support processes and IT
+Catalogue; price feed; optional consent record
+Store map; staffing roster; training
+Vision analysis; stock system; task queue
+Ingredient database; ranking rules; staff knowledge
+Price database; payment service; receipt archive
+Case system; refund policy; access controls
+Line of interaction
+Line of visibility
+Line of internal interaction
+Request and response
+Shelf alert and verified closure
+Price and receipt
+Case and decision
+Fail points and proposed controls
+F1 Unsupported advice: dated facts; uncertainty warning.
+F2 False availability: scan > stock check > restock > verify > update.
+F3 Exclusion or poor advice: staffed route; customer choice.
+F4 Wrong charge: preserve basket; verify price.
+F5 Repeated complaint: one case; named human owner.
+F2 No stock: show unavailable; keep task open.
+Arrows show sequence and information handoffs. W marks potential waiting. Red labels mark potential failures. The return arrow reopens unresolved cases.
+Proposed standards: acknowledge in-store help within two minutes; human response to post-purchase cases within one working day. Measure resolution separately.
+Note. Proposed design using the blueprint structure in Wirtz (2023), informed by Majid Al Futtaim (2022). The optional assistant, integrations and controls are recommendations, not a verified internal process.
