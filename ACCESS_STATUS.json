@@ -3,8 +3,8 @@
     "result": "ok",
     "timestamp_precision": "seconds",
     "token_expiry": "unknown",
-    "operation": "Read-only all four course assignment dates and own statuses/filenames, quiz availability and news announcements",
-    "checked_at": "2026-10-27T14:23:48.426391+04:00",
+    "operation": "Read-only BUS225 profile, A2 and peer review statuses",
+    "checked_at": "2026-10-28T11:21:05.729415+04:00",
     "latest_bus230_a2_check": {
       "checked_at": "2026-10-26T19:02:02.570675+04:00",
       "result": "ok",
@@ -15,13 +15,13 @@
       "BUS230": "Archive/Correspondence/2026-10-27_all-course-sync-audit.json",
       "BUS334": "Archive/Correspondence/2026-10-27_all-course-sync-audit.json",
       "BUS219": "Archive/Correspondence/2026-10-27_all-course-sync-audit.json",
-      "BUS225": "Archive/Correspondence/2026-10-27_all-course-sync-audit.json"
+      "BUS225": "BUS225/2026-TSD/Correspondence/2026-10-28_profile-email-vs-lms-check.json"
     },
     "last_success_by_course": {
       "BUS230": "2026-10-27T14:23:48.426391+04:00",
       "BUS334": "2026-10-27T14:23:48.426391+04:00",
       "BUS219": "2026-10-27T14:23:48.426391+04:00",
-      "BUS225": "2026-10-27T14:23:48.426391+04:00"
+      "BUS225": "2026-10-28T11:21:05.729415+04:00"
     },
     "successful_account_check": {
       "userid": 257560
@@ -204,11 +204,11 @@
         "evidence": "Archive/Correspondence/2026-10-27_all-course-sync-audit.json"
       },
       "BUS225": {
-        "checked_at": "2026-10-27T14:23:48.426391+04:00",
+        "checked_at": "2026-10-28T11:22:21.824948+04:00",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "after:2026/10/24 with all four course codes including spaced variants, Student/Academic Services and known instructor addresses; 3 results, search exhausted.",
-        "result": "Новых сроков оценочных работ в заданном охвате не найдено.",
-        "evidence": "Archive/Correspondence/2026-10-27_all-course-sync-audit.json"
+        "scope": "BUS225 profile instruction, sent form and approval re-read; recent matching mail after 25 October",
+        "result": "Email submission and approval confirmed; no new BUS225 instruction in search.",
+        "evidence": "BUS225/2026-TSD/Correspondence/2026-10-28_profile-email-vs-lms-check.json"
       }
     }
   },

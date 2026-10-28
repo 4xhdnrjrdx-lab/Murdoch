@@ -23,8 +23,8 @@
     },
     {
       "path": "ACCESS_STATUS.json",
-      "bytes": 12827,
-      "sha256": "94f9676e64c46d09ef137729abc5607c5d568d95a4ce7ce38528cb7aea5e5415",
+      "bytes": 12705,
+      "sha256": "00c0ee7a25c49eb75bac183c5cba591b9306c085c53609386e5342ee47c56d88",
       "storage": "git"
     },
     {
@@ -2153,8 +2153,8 @@
     },
     {
       "path": "BUS225/2026-TSD/CONTEXT.md",
-      "bytes": 10925,
-      "sha256": "06312b6843725de24c418e724db3c317ce429d73a967b8438f85b34d38a19e8c",
+      "bytes": 11570,
+      "sha256": "fdfa5ba1168d21e223b1fe70cb605d50cc0b52d24fff1fbd7d93b1976cc6b450",
       "storage": "git"
     },
     {
@@ -2230,6 +2230,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS225/2026-TSD/Correspondence/2026-10-28_profile-email-vs-lms-check.json",
+      "bytes": 2729,
+      "sha256": "02dded381a454a856581f98206ae40394a1d930fddfee8d02a66b2aa73ff2578",
+      "storage": "git"
+    },
+    {
       "path": "BUS225/2026-TSD/Correspondence/README.md",
       "bytes": 1248,
       "sha256": "f9b37ceee9ddebdd89fcd4a477744bd57e6923680031054ad500fd5c153261f8",
@@ -2237,8 +2243,8 @@
     },
     {
       "path": "BUS225/2026-TSD/HISTORY.md",
-      "bytes": 7476,
-      "sha256": "87918b01a856373eb187fce1f2e488724b01e46e42fff623eccff536cf3fc31f",
+      "bytes": 7815,
+      "sha256": "49ccf3d91263e55bc3f1a059a7b40a27951bd425e7d03ba84ba182a2bca45ce9",
       "storage": "git"
     },
     {
@@ -2519,14 +2525,14 @@
     },
     {
       "path": "BUS225/2026-TSD/TASKS.json",
-      "bytes": 21427,
-      "sha256": "167d01328e69198963f2d9279b0b34282cc13506a17e57cb8c42419f7a44f89d",
+      "bytes": 23033,
+      "sha256": "a7dbe6390e091021f9b9f2343a50e638d82cc1b3ab701334b7013f95cc42e1e4",
       "storage": "git"
     },
     {
       "path": "BUS225/2026-TSD/TASKS.md",
-      "bytes": 16980,
-      "sha256": "e09c33c261ca20503dd4ddf146d5c8b36af94abdaca8eb0ff04e4abf3d8dd25a",
+      "bytes": 18337,
+      "sha256": "b488872ebd4c708718a7d916fa2577653015d8224f7b73c72add023caaaeb10d",
       "storage": "git"
     },
     {
@@ -6222,7 +6228,7 @@
     {
       "path": "README.md",
       "bytes": 5950,
-      "sha256": "e4b4688413d59842000e4d34a79c4d2fb862c054e5805dac1fad6d6ccfab534f",
+      "sha256": "0712839b885a08b06cb4bf9a4405c3db9376b45b73aaa8823d376f68318fb2f5",
       "storage": "git"
     },
     {
@@ -6298,6 +6304,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 1049,
-  "total_bytes": 549231071
+  "file_count": 1050,
+  "total_bytes": 549237625
 }

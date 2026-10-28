@@ -38,3 +38,5 @@
 - 2026-10-21: проверена пользовательская редакция A2. В отдельной версии BUS225_A2_Group9_Carrefour_Checked.docx исправлены авторские цитирования, терминология и обозначения fail points; устранено превышение лимита (2265 → 1850 слов). Пять страниц проверены, Figure 1 и references сохранены. [Проверка](Assignments/A2/Complete_2026-10-21/Checks/CITATION_CONTENT_REVIEW.json).
 
 - 2026-10-21: по просьбе пользователя выделен [один окончательный DOCX для группы и LMS](Assignments/A2/For_Submission/BUS225_A2_Group9_Carrefour.docx). Содержимое идентично проверенной версии; остальные файлы остаются историей. Отправка и сдача не выполнялись.
+
+- 2026-10-28: проверена просрочка профиля: Moodle пуст, но форма отправлена Muhammad 18 сентября по email по указанию Dana, Carrefour одобрен. A2 и individual peer review пока new. [Проверка](Correspondence/2026-10-28_profile-email-vs-lms-check.json).
