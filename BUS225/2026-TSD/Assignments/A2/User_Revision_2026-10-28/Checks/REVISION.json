@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-28",
+  "input_sha256": "71d7175775b6e7ca45604c7920e5d8076c84e0ec7bff2c2f281dc86d1cae278c",
+  "output_sha256": "08bd815ec40b4a48ea05637d1adb41d00a4a139c4b3888b557f705be382bc945",
+  "original_main_words": 1793,
+  "main_words": 1582,
+  "blueprint_words": 375,
+  "total_words_excluding_references": 1957,
+  "conservative_word_count": 1969,
+  "words_removed": 211,
+  "figure_preserved_byte_for_byte": true,
+  "references_preserved": true,
+  "ethics_paragraphs_preserved": true,
+  "original_user_copy_preserved": "User_Revision_2026-10-28/Original_User_Copy.docx",
+  "changed_docx_parts": [
+    "word/document.xml"
+  ],
+  "heading_formatting_restored": true,
+  "extra_empty_paragraph_removed": true,
+  "font_sizes_and_margins_preserved": true,
+  "render_review": "PASS: five rendered pages inspected; report on pages 1-3, unchanged landscape Figure 1 on page 4, references on page 5; no clipping, overlap or stranded conclusion.",
+  "pages": 5,
+  "citation_reference_matching": "PASS: seven cited references retained; year/page citation punctuation repaired.",
+  "external_link_targets_preserved": true,
+  "authorial_I_my_me": 0
+}
