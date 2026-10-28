@@ -1,0 +1,211 @@
+[
+  {
+    "paragraph": 10,
+    "before": "In other UAE countries, Carrefour has also tried out software tools. In June 2023, it launched Hopla on its French website which provides ideas to customers according to their budget and food preferences (Carrefour, 2023). Based on purchase history, Carrefour introduced the Brazil's Nutri Choice in June 2021, an algorithm that performs nutritional and price comparisons (Carrefour, 2021). Both statements rule out a deployment in the UAE. The examples in stage 1 give the information our optional planning assistant needs, and in stage 4 provide comparison between the products. Use local catalog information for recommendations and explain why; do not rely on nutrition ratings.",
+    "after": "Outside the UAE, Carrefour has also tried out software tools. In June 2023, it launched Hopla on its French website which provides ideas to customers according to their budget and food preferences (Carrefour, 2023). Carrefour introduced Brazil's Nutri Choice in June 2021, an algorithm that performs nutritional and price comparisons using purchase history (Carrefour, 2021). Neither statement confirms a deployment in the UAE. The examples in stage 1 give the information our optional planning assistant needs, and in stage 4 provide comparison between the products. Use local catalog information for recommendations and explain why; do not use nutrition ratings instead of checking ingredients.",
+    "replacements": [
+      [
+        "In other UAE countries",
+        "Outside the UAE"
+      ],
+      [
+        "Based on purchase history, Carrefour introduced the Brazil's Nutri Choice",
+        "Carrefour introduced Brazil's Nutri Choice"
+      ],
+      [
+        "nutritional and price comparisons",
+        "nutritional and price comparisons using purchase history"
+      ],
+      [
+        "Both statements rule out",
+        "Neither statement confirms"
+      ],
+      [
+        "do not rely on nutrition ratings",
+        "do not use nutrition ratings instead of checking ingredients"
+      ]
+    ]
+  },
+  {
+    "paragraph": 11,
+    "before": "Wirtz et al (2018) divide service tasks into two classes, namely, routine services and emotional and social judgment services. Their system will allow automated checks and still keep employees on the job for cases that need them. These predictions don't establish local customer acceptance. Company publications are about initiatives, not autonomous satisfaction tests. To scale up, Carrefour UAE should measure the performance of the tasks and the effort required by customers. Carrefour's examples include conversational advice, which is also being automated. The recommendation effects were found to differ depending on the frequency of visiting the bakery in a bakery study (Song et al., 2024). It has a remotely controlled robot, which restricts drawing conclusions about autonomous performance.",
+    "after": "Wirtz et al. (2018) divide service tasks into two classes: routine services and emotional and social judgment services. Their framework supports automated checks while keeping employees for cases that need them. These predictions don't establish local customer acceptance. Company publications are about initiatives, not independent satisfaction tests. To scale up, Carrefour UAE should measure task performance and customer effort. Carrefour's examples include conversational advice, which is also being automated. The recommendation effects varied with visit frequency in a bakery study (Song et al., 2024). It used a remotely controlled robot, which limits conclusions about autonomous performance.",
+    "replacements": [
+      [
+        "Wirtz et al (2018)",
+        "Wirtz et al. (2018)"
+      ],
+      [
+        "two classes, namely,",
+        "two classes:"
+      ],
+      [
+        "Their system will allow",
+        "Their framework supports"
+      ],
+      [
+        "and still keep employees on the job for cases that need them",
+        "while keeping employees for cases that need them"
+      ],
+      [
+        "autonomous satisfaction tests",
+        "independent satisfaction tests"
+      ],
+      [
+        "measure the performance of the tasks and the effort required by customers",
+        "measure task performance and customer effort"
+      ],
+      [
+        "were found to differ depending on the frequency of visiting the bakery in a bakery study",
+        "varied with visit frequency in a bakery study"
+      ],
+      [
+        "It has a remotely controlled robot, which restricts drawing conclusions",
+        "It used a remotely controlled robot, which limits conclusions"
+      ]
+    ]
+  },
+  {
+    "paragraph": 16,
+    "before": "Who is in control of the choice at stage 4? The customer might not accept an item that is in the target price range but does not fit with their food preferences. At F3, to support that choice, it would be helpful to explain the recommendation and provide staff support. Self checkout is a system where the shopper scans the products and is responsible for checking the total amount. Where no discount is mentioned at F4 staff should check the price and save the basket for the shopper not to have to start the process again.",
+    "after": "Who is in control of the choice at stage 4? The customer might not accept an item that is in the target price range but does not fit with their food preferences. At F3, to support that choice, it would be helpful to explain the recommendation and provide staff support. Self checkout is a system where the shopper scans the products and is responsible for checking the total amount. Where a discount is missing at F4, staff should check the price and save the basket so the shopper need not restart.",
+    "replacements": [
+      [
+        "Where no discount is mentioned at F4 staff",
+        "Where a discount is missing at F4, staff"
+      ],
+      [
+        "for the shopper not to have to start the process again",
+        "so the shopper need not restart"
+      ]
+    ]
+  },
+  {
+    "paragraph": 19,
+    "before": "Personalization introduces a paradox – between the benefit of suggestions and the volume of data collected. Purchase history as an aid to recommendations (Brazil's Nutri Choice, Carrefour 2021). These records could also show the UAE assistant assistant's delicate dietary preferences if they are proposing to move to the UAE. Guest mode should be functioning properly at levels 1 and 4 without saving a purchase profile. Independent consent for saved preferences and marketing would allow consumers to opt-in for convenience without compromising on irrelevant information. Short retention and limited access would limit exposure, but would also limit the amount of historical data which would undermine the personalisation.",
+    "after": "Personalization introduces a trade-off between the benefit of suggestions and the volume of data collected. Purchase history aids recommendations in Brazil's Nutri Choice (Carrefour, 2021). These records could also show customers' sensitive dietary preferences if used by the proposed UAE assistant. Guest mode should work at stages 1 and 4 without saving a purchase profile. Separate consent for saved preferences and marketing would allow customers to choose convenience without accepting unrelated data use. Short retention and limited access would reduce exposure, but less historical data could weaken personalisation.",
+    "replacements": [
+      [
+        "a paradox – between",
+        "a trade-off between"
+      ],
+      [
+        "Purchase history as an aid to recommendations (Brazil's Nutri Choice, Carrefour 2021).",
+        "Purchase history aids recommendations in Brazil's Nutri Choice (Carrefour, 2021)."
+      ],
+      [
+        "the UAE assistant assistant's delicate dietary preferences if they are proposing to move to the UAE",
+        "customers' sensitive dietary preferences if used by the proposed UAE assistant"
+      ],
+      [
+        "should be functioning properly at levels",
+        "should work at stages"
+      ],
+      [
+        "Independent consent",
+        "Separate consent"
+      ],
+      [
+        "consumers to opt-in for convenience without compromising on irrelevant information",
+        "customers to choose convenience without accepting unrelated data use"
+      ],
+      [
+        "Short retention and limited access would limit exposure, but would also limit the amount of historical data which would undermine the personalisation.",
+        "Short retention and limited access would reduce exposure, but less historical data could weaken personalisation."
+      ]
+    ]
+  },
+  {
+    "paragraph": 20,
+    "before": "Commercial interests may also impact recommendations. However, Huang and Rust (2021) caution that optimization might lead to biased answers when no explicit instructions are given to discriminate. If Carrefour chooses the profit margin route then it may prove harder to locate alternatives suitable and cheap products. Retailer should label sponsored offers and enable unit price sorting. The shoppers have the last say. Advertising should not rely on consumers being confused by advertising for the same content as non-advertising sources.",
+    "after": "Commercial interests may also impact recommendations. Huang and Rust (2021) caution that optimization might lead to biased answers even without instructions to discriminate. If Carrefour prioritises profit margins, it may be harder to find suitable, cheaper products. The retailer should label sponsored offers and enable unit price sorting. The shoppers have the last say. Advertising should not rely on consumers mistaking sponsored advice for neutral information.",
+    "replacements": [
+      [
+        "However, Huang",
+        "Huang"
+      ],
+      [
+        "when no explicit instructions are given to discriminate",
+        "even without instructions to discriminate"
+      ],
+      [
+        "If Carrefour chooses the profit margin route then it may prove harder to locate alternatives suitable and cheap products",
+        "If Carrefour prioritises profit margins, it may be harder to find suitable, cheaper products"
+      ],
+      [
+        "Retailer should",
+        "The retailer should"
+      ],
+      [
+        "Advertising should not rely on consumers being confused by advertising for the same content as non-advertising sources",
+        "Advertising should not rely on consumers mistaking sponsored advice for neutral information"
+      ]
+    ]
+  },
+  {
+    "paragraph": 21,
+    "before": "Physical robotics doesn't impact just app users. Some of the issues highlighted by Wirtz et al. (2018) involve privacy and security concerns from robots' sensing abilities. At stage 3, identifiable shoppers should be minimised and incidental images used and kept to a minimum. The robot shall give way to humans and must be easily stopped. Staffed assistance and Readable Instructions provide protection for customers who may lack digital confidence, language barriers or disabilities at F3. Equal access is expensive, self-service is free and it would be unfair to put the burden of such a business on those who can't afford it.",
+    "after": "Wirtz et al. (2018) highlight privacy and security concerns from robots' sensing abilities. At stage 3, recording identifiable shoppers and retaining incidental images should be minimised. The robot should give way to people and be easily stopped. Staffed assistance and readable instructions support customers with limited digital confidence, language barriers or disabilities at F3. Equal access costs money, but self-service savings should not depend on excluding those who cannot use it.",
+    "replacements": [
+      [
+        "Physical robotics doesn't impact just app users. ",
+        ""
+      ],
+      [
+        "Some of the issues highlighted by Wirtz et al. (2018) involve",
+        "Wirtz et al. (2018) highlight"
+      ],
+      [
+        "identifiable shoppers should be minimised and incidental images used and kept to a minimum",
+        "recording identifiable shoppers and retaining incidental images should be minimised"
+      ],
+      [
+        "shall give way to humans and must",
+        "should give way to people and"
+      ],
+      [
+        "Staffed assistance and Readable Instructions provide protection for customers who may lack digital confidence, language barriers or disabilities",
+        "Staffed assistance and readable instructions support customers with limited digital confidence, language barriers or disabilities"
+      ],
+      [
+        "Equal access is expensive, self-service is free and it would be unfair to put the burden of such a business on those who can't afford it",
+        "Equal access costs money, but self-service savings should not depend on excluding those who cannot use it"
+      ]
+    ]
+  },
+  {
+    "paragraph": 22,
+    "before": "Employees can save time with the automated checks, but now get more alerts, monitoring and hard-to-handle customer cases. Carrefour needs to take its shelf staff into consideration when designing alerts, pay for them to be trained, and track workload and response time. If there is no stock then an unresolved alert should not be considered poor employee performance. Managers continue to be responsible for staffing and recovery, and this does not absolve their duty to customers from using third party software. Alerts that are wrong can lead to greater integration and maintenance costs. During this test of this risk, a limited pilot provides for service continuity. The rank and workload should be audited weekly for managers.",
+    "after": "Employees can save time with the automated checks, but now get more alerts, monitoring and hard-to-handle customer cases. Carrefour needs to involve shelf staff when designing alerts, fund their training, and track workload and response time. Without stock, an unresolved alert should not be considered poor employee performance. Managers continue to be responsible for staffing and recovery, and third-party software does not remove their duty to customers. Incorrect alerts can increase integration and maintenance costs. A limited pilot protects service continuity while testing this risk. Rankings and workload should be audited weekly by managers.",
+    "replacements": [
+      [
+        "take its shelf staff into consideration",
+        "involve shelf staff"
+      ],
+      [
+        "pay for them to be trained",
+        "fund their training"
+      ],
+      [
+        "If there is no stock then an unresolved alert",
+        "Without stock, an unresolved alert"
+      ],
+      [
+        "and this does not absolve their duty to customers from using third party software",
+        "and third-party software does not remove their duty to customers"
+      ],
+      [
+        "Alerts that are wrong can lead to greater",
+        "Incorrect alerts can increase"
+      ],
+      [
+        "During this test of this risk, a limited pilot provides for service continuity",
+        "A limited pilot protects service continuity while testing this risk"
+      ],
+      [
+        "The rank and workload should be audited weekly for managers",
+        "Rankings and workload should be audited weekly by managers"
+      ]
+    ]
+  }
+]
