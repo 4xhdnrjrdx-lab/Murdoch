@@ -1,0 +1,66 @@
+{
+  "checked_at": "2026-10-28T11:22:21.824948+04:00",
+  "timezone": "Asia/Dubai",
+  "scope": "BUS225 profile, A2 and individual peer review own LMS status; study Gmail profile instruction/sent/approval and recent matching mail",
+  "lms_checked_at": "2026-10-28T11:21:05.729415+04:00",
+  "assignments": [
+    {
+      "id": 125038,
+      "cmid": 3076824,
+      "name": "Service organisation profile submission (Non assessable item submitted end of Session 4) -One per group",
+      "due_at": "2026-09-18T09:00:00+04:00",
+      "status": "new",
+      "groupid": 328823,
+      "files": []
+    },
+    {
+      "id": 125041,
+      "cmid": 3076827,
+      "name": "Peer review submission - Individual",
+      "due_at": "2026-11-06T17:00:00+04:00",
+      "status": "new",
+      "groupid": 0,
+      "files": []
+    },
+    {
+      "id": 125040,
+      "cmid": 3076826,
+      "name": "Reflective Journal and Service Blueprint - Group submission (one per group)",
+      "due_at": "2026-11-06T17:00:00+04:00",
+      "status": "new",
+      "groupid": 328823,
+      "files": []
+    }
+  ],
+  "mail": {
+    "account": "jafarovfayaz@gmail.com",
+    "instruction": {
+      "id": "1a0b47167fd7eb96",
+      "date": "2026-09-18",
+      "summary": "Dana explicitly requested completed first page by email that day; quoted 15 September instruction also specifies email by 18 September."
+    },
+    "sent": {
+      "id": "1a0b3b09e2a633e8",
+      "date": "2026-09-18",
+      "sender": "Muhammad Aun Abbas",
+      "attachment": "BUS225_Group9_Carrefour_Service_Organisation_Profile.docx",
+      "size_bytes": 31389
+    },
+    "approval": {
+      "id": "1a0b494d02b007af",
+      "date": "2026-09-18",
+      "summary": "Dana confirmed Carrefour approved, recommended global scope."
+    },
+    "recent_query": "after:2026/10/25 (BUS225 OR \"service organisation profile\" OR \"service organization profile\")",
+    "recent_result": "No new BUS225 instruction found; sole match unrelated Student Services Study plan reply. Search exhausted.",
+    "legacy_ids": "Archived message IDs returned 404 for this Gmail connection; messages located with search and re-read using IDs recorded here."
+  },
+  "interpretation": "Profile sent by email as explicitly requested and Carrefour approved. Moodle group portal still new with zero files; automatic overdue does not cancel email evidence. Non assessable item according to portal title. No explicit separate Moodle-upload waiver located.",
+  "group_labels": {
+    "email": "Group 9",
+    "screenshot": "Class 2 Group E",
+    "api_groupid": 328823,
+    "relationship": "Different labels; membership equivalence not verified by this check."
+  },
+  "actions_performed": "Read-only; no submissions or external messages."
+}
