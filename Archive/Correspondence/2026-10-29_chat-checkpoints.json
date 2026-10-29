@@ -27,5 +27,11 @@
       "title": "Bus334 Четверг v0.2",
       "latest_checkpoint": "27 October check confirms A3 submitted/notgraded and 12 November A4 instructions. No later group readiness evidence found."
     }
-  ]
+  ],
+  "subsequent_direct_user_confirmation": {
+    "course": "BUS230",
+    "on": "2026-10-29",
+    "answer": "Выступили и отправили преподавательнице",
+    "evidence": "BUS230/2026-TSD/Correspondence/2026-10-29_presentation-and-email-confirmed.json"
+  }
 }

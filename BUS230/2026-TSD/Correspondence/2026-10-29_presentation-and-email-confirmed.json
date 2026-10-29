@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-29",
+  "source": "Direct user answer in general Murdoch chat",
+  "question": "По BUS230: вы уже выступили 28 октября и отправили презентацию преподавательнице? В Moodle материалы пока не загружены.",
+  "answer": "Выступили и отправили преподавательнице",
+  "confirmed": {
+    "presentation_held_on": "2026-10-28",
+    "email_sent_to_lecturer": true
+  },
+  "not_confirmed": [
+    "Exact email timestamp",
+    "Exact attachment bytes",
+    "Moodle final submission",
+    "Grade or lecturer feedback"
+  ],
+  "lms_evidence": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json"
+}

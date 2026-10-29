@@ -78,6 +78,14 @@
         "evidence": "Archive/Correspondence/2026-10-27_subject-chat-coordination.json",
         "resolution_path": "BUS230/2026-TSD/Assignments/A2/Local_Snapshots_2026-10-27/RESOLUTION.json"
       }
+    },
+    "latest_restore_audit": {
+      "date": "2026-10-29",
+      "source_map": "Migration/LOCAL_AUDIT_2026-10-29.json",
+      "report": "Verification/MAC_AUDIT_2026-10-29.md",
+      "restore_evidence": "Verification/RESTORE_AUDIT_2026-10-29.json",
+      "result": "Independent GitHub clone, hashes and Git object integrity PASS; source documents/media unchanged; canonical records clarified.",
+      "shared_checkout": "Fast-forwarded safely; two backed-up PPTX remain modified, exact hashes preserved."
     }
   },
   "mail": {

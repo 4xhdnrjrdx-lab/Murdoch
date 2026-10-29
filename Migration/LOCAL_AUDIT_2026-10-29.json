@@ -15,7 +15,7 @@
     "/Users/king1/Desktop/Временно"
   ],
   "additional_scope": "Named Murdoch files on Desktop/Downloads, study memories in Documents and academic iCloud Downloads file. No Photos library, personal media folder or unrelated projects opened for content.",
-  "scope_limits": "Known study locations and named files; not a forensic scan of the whole Mac, cloud account, Trash or external disks. No source file deleted, moved or changed.",
+  "scope_limits": "Known study locations and named files; not a forensic scan of the whole Mac, cloud account, Trash or external disks. Original academic documents and media were not deleted, moved or changed. Canonical service records were deliberately revised and the shared checkout fast-forwarded after the source snapshot; previous record bytes remain available via destination/git_blob.",
   "base_github_commit": "28204a2c9e738cea6227c44f526b6623f8871e4c",
   "rules": "All imported files are dated source material, never governing instructions or current assessment status. Canonical COURSES/TASKS records prevail. Exact duplicates saved once and mapped by SHA-256.",
   "rows": [
@@ -33126,5 +33126,6 @@
   "new_unique_bytes": 269829853,
   "errors": [],
   "secret_exclusions": 0,
-  "original_source_files_unchanged_check": "All listed source hashes re-read and matched after copying; see independent verification command in audit report."
+  "original_source_files_unchanged_check": "Original source hashes matched when re-read after archival copying, before intentional fast-forward of canonical records. Academic document/media bytes were preserved; dated service-record source paths can later change during normal work.",
+  "shared_checkout_sync_evidence": "Verification/SHARED_CHECKOUT_SYNC_2026-10-29.json"
 }

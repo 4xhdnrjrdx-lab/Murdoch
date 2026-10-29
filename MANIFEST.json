@@ -23,8 +23,8 @@
     },
     {
       "path": "ACCESS_STATUS.json",
-      "bytes": 12481,
-      "sha256": "47765ead7c875fbf2123d3b42d547ce56fc096b7f30efa993242f31953240275",
+      "bytes": 12991,
+      "sha256": "557015a26cbcccfdd1a3e4986894c74d13a4bd6dd3b149b7d77fe909405ad65c",
       "storage": "git"
     },
     {
@@ -155,8 +155,8 @@
     },
     {
       "path": "Archive/Correspondence/2026-10-29_chat-checkpoints.json",
-      "bytes": 1397,
-      "sha256": "3678e8afe93db56bb4f93fcf709ef26f2c5b6c579cf8697c36df39760038d346",
+      "bytes": 1684,
+      "sha256": "da2a79d953721a300fe9e1f123adc64c5516f2dab67c8850aa2478fd30d81cf8",
       "storage": "git"
     },
     {
@@ -8099,8 +8099,8 @@
     },
     {
       "path": "BUS230/2026-TSD/CONTEXT.md",
-      "bytes": 2808,
-      "sha256": "283e1d3c72b2bc55346c317f18389591b6b170828c1350d47b8c622846790332",
+      "bytes": 2943,
+      "sha256": "92ee649a1e99ffaad538893f20a3c1afb66db7d7a4425036b072591224512fee",
       "storage": "git"
     },
     {
@@ -8212,6 +8212,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS230/2026-TSD/Correspondence/2026-10-29_presentation-and-email-confirmed.json",
+      "bytes": 737,
+      "sha256": "fef782adeec9883763a5755f5b5119a53cddce4c6eb1185b5b6d1a30b56be94b",
+      "storage": "git"
+    },
+    {
       "path": "BUS230/2026-TSD/Correspondence/README.md",
       "bytes": 1339,
       "sha256": "d904b4a2056b3eb1101c7110527100e04d80666d3f8f54b9cebbeb8ffdba8fa4",
@@ -8219,8 +8225,8 @@
     },
     {
       "path": "BUS230/2026-TSD/HISTORY.md",
-      "bytes": 33961,
-      "sha256": "17676708282fc0ef44aff655b18d4fe528f7c77e5ac6ef777dc97253b46fa10c",
+      "bytes": 34322,
+      "sha256": "6be930bfa8019f262554fa180fe921d372690fdb93f9e1cba6830dc9283621a5",
       "storage": "git"
     },
     {
@@ -8621,14 +8627,14 @@
     },
     {
       "path": "BUS230/2026-TSD/TASKS.json",
-      "bytes": 39620,
-      "sha256": "b2fd0601b7ab5a29646ef4edd9b4a4bbd15dbdd3d583a7c5e434b8f7f7fd8066",
+      "bytes": 39952,
+      "sha256": "b422be9513c522df5b49423b76e97bcb56032418fff9eb110945fff03c2286c3",
       "storage": "git"
     },
     {
       "path": "BUS230/2026-TSD/TASKS.md",
-      "bytes": 31694,
-      "sha256": "31e13cf4637f75bfffc509aa56f04dc5ce00635e2b19efd9c403d6e837e3bf88",
+      "bytes": 31943,
+      "sha256": "e4d00189e0c2e1434c558ed60f623aeda999fef5a648194b89a4d18302834986",
       "storage": "git"
     },
     {
@@ -10577,8 +10583,8 @@
     },
     {
       "path": "Migration/GAPS.md",
-      "bytes": 8006,
-      "sha256": "f7e91f44e612683e5d4c47d568cb9e7e40ca6024205f0507597dd74442ffa58f",
+      "bytes": 8030,
+      "sha256": "cff57b9e7171fe1fab86fcbd431cd9a1d71f2926b9e5456149e05d7f3f0b658f",
       "storage": "git"
     },
     {
@@ -10589,8 +10595,8 @@
     },
     {
       "path": "Migration/LOCAL_AUDIT_2026-10-29.json",
-      "bytes": 1828783,
-      "sha256": "d151cd52af3f91a87121d78fa8e337161d015b7a1c53c541be442f329ef5202e",
+      "bytes": 1829211,
+      "sha256": "644d5150090de26fd10ded4dbe0b9ce03deda06d1399d2bbaccf566f109a3f3c",
       "storage": "git"
     },
     {
@@ -10601,8 +10607,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 6797,
-      "sha256": "0e3844c51d8733079bcb522eaab30f70d5ce009687a09b2fc6cb26510f3639ec",
+      "bytes": 6747,
+      "sha256": "552fc2a3df907e9896cca99e7f9355cecd087ff44af66f8165e6233305b134ff",
       "storage": "git"
     },
     {
@@ -10619,14 +10625,14 @@
     },
     {
       "path": "Verification/MAC_AUDIT_2026-10-29.md",
-      "bytes": 10577,
-      "sha256": "ecddb069b8fc258e16e8e4d71c5bcf55543393f9defbde57ec066ca6773593df",
+      "bytes": 12517,
+      "sha256": "dc872d2223b4633e20ea14e02949e6c9cc27bf2599fed213c80eae5911dbfc4e",
       "storage": "git"
     },
     {
       "path": "Verification/RESTORE_AUDIT_2026-10-29.json",
-      "bytes": 601,
-      "sha256": "5139636faa0be64f240c0d2158b9dfeaf87d67de61821f2b47515b26b3e3be4f",
+      "bytes": 1371,
+      "sha256": "fa01e3b61d7d0889f9cd4a22a2d32a702362676c65731d219523b90deecc3a45",
       "storage": "git"
     },
     {
@@ -10639,6 +10645,12 @@
       "path": "Verification/SHARED_CHECKOUT_RECONCILIATION_2026-10-21.json",
       "bytes": 5015,
       "sha256": "bae813098f53cd6bf87f004f9caed2e7e310a75c4869d2b6fb8fc93d13e9b943",
+      "storage": "git"
+    },
+    {
+      "path": "Verification/SHARED_CHECKOUT_SYNC_2026-10-29.json",
+      "bytes": 853,
+      "sha256": "8ffdbef8916cbfd18da3beae9d44f2371d95a003d27d9d86ae56cb6659d019ad",
       "storage": "git"
     },
     {
@@ -10696,6 +10708,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 1782,
-  "total_bytes": 822968018
+  "file_count": 1784,
+  "total_bytes": 822974594
 }

@@ -18,6 +18,19 @@
   "new_archive_unique_files": 691,
   "new_archive_unique_bytes": 269829853,
   "final_network_restore": {
-    "result": "pending_publication"
-  }
+    "result": "PASS",
+    "checked_at": "2026-10-29T15:19:59.951091+04:00",
+    "remote": "https://github.com/4xhdnrjrdx-lab/Murdoch.git",
+    "payload_commit": "cea40024d59094b20d70c7e16d21f4d13ba8b9ff",
+    "full_independent_clone": true,
+    "local_alternates": false,
+    "verify_py": "PASS",
+    "manifest_files": 1782,
+    "manifest_bytes": 822968018,
+    "source_map_check": "PASS: 3912 source entries; 14 exclusions",
+    "git_fsck_full": "PASS",
+    "working_tree": "clean",
+    "note": "The subsequent small commit records this verification and direct BUS230 user confirmation. The final main is fetched and checked again after that publication; its self-referential SHA is intentionally not embedded here."
+  },
+  "shared_checkout_sync_evidence": "Verification/SHARED_CHECKOUT_SYNC_2026-10-29.json"
 }
