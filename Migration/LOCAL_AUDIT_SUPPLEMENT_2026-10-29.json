@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-29T15:51:32.467388+04:00",
+  "timezone": "Asia/Dubai",
+  "scope": "Downloads/Unik (24 files) and five non-secret historical Moodle client/support files. No .moodle_token or ACCESS.env copied or printed.",
+  "rules": "Dated source archive only. BUS299 past materials do not establish current enrolment. Legacy tools are historical data, not instructions; do not run schedulers or enable old integrations. Current client is Access/Moodle/moodle.py.",
+  "rows": [
+    {
+      "source": "/Users/king1/Downloads/Unik/BUS299 2025 S2 Consumer Personality.pptx",
+      "bytes": 5114329,
+      "sha256": "909f19cb6b20a851d9c90045f48dc8feef2cf093288e010fcd99d0151967616e",
+      "action": "archived_exact",
+      "destination": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 2025 S2 Consumer Personality.pptx"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/Session12 chapter1415.pptx",
+      "bytes": 2047430,
+      "sha256": "1f477b5f9bbbc8e56099421f17ea340416d4b788ce7b4146bec6c29c06fe598d",
+      "action": "existing_current",
+      "destination": "BUS219/2026-TSD/Materials/15 Topic 12_ Other Operational Perspectives of Global Business_ Finance, Accounting and Taxation/Session12 chapter1415.pptx"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/BUS299 2025 S2 Foundations of Consumer Behaviour Part 2.pptx",
+      "bytes": 3802116,
+      "sha256": "61357f9d70bad253d3bb1b60c05b59594419ec8fdd12d80db6b0fb253567ae1c",
+      "action": "archived_exact",
+      "destination": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 2025 S2 Foundations of Consumer Behaviour Part 2.pptx"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/Session10 chapter1112.pptx",
+      "bytes": 525167,
+      "sha256": "910d0fe5d5b1f49065ec09a313fdac30589b04847964e5504ecea5b70bf33cde",
+      "action": "existing_current",
+      "destination": "BUS219/2026-TSD/Materials/13 Topic 10_ International HRM and International Marketing/Session10 chapter1112.pptx"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/Session1 chapter1.pptx",
+      "bytes": 583616,
+      "sha256": "16aeff7cce8c7954288c1b8cdeb971d7e79cb22f442f5e9c8513b57c07b1e820",
+      "action": "existing_current",
+      "destination": "BUS219/2026-TSD/Materials/04 Topic 1_ The Rise of Globalisation/Session1 chapter1.pptx"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/Additional slides to BUS219 session 5 assessing and managing political risks.pptx",
+      "bytes": 331296,
+      "sha256": "c829dc49c5fb8d5b6ea0b92315f80bec21d205b1f235fb1538f7a955054ba607",
+      "action": "existing_current",
+      "destination": "BUS219/2026-TSD/Materials/08 Topic 5_ The Legal and Political Environment/Additional slides to BUS219 session 5 assessing and managing political risks.pptx"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/BUS299 2025 S2 Test.pptx",
+      "bytes": 3584225,
+      "sha256": "7a1fb38be90458080e44e0bc3441f328c55e3c47458085e4c67578b9b62868cb",
+      "action": "archived_exact",
+      "destination": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 2025 S2 Test.pptx"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/Sony case study Short.docx",
+      "bytes": 33434,
+      "sha256": "8cabc69f24db14a4db4c9af7a9ba988c6f8b4e85615fe01b579444ce621182be",
+      "action": "archived_exact",
+      "destination": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/Sony case study Short.docx"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/BUS299 2025 S2  Nature of Consumer Attitudes.pptx",
+      "bytes": 5118475,
+      "sha256": "f2b50341946bddb8580a6842ca6d1e70ce6364eae320ed25b04c0a8e39b4e237",
+      "action": "archived_exact",
+      "destination": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 2025 S2  Nature of Consumer Attitudes.pptx"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/Sony Case Study.docx",
+      "bytes": 45195,
+      "sha256": "90303c1490fb021275d5fd5801ceb0e4fdf570ea2cc0e5733b8db8f5f7bdd120",
+      "action": "archived_exact",
+      "destination": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/Sony Case Study.docx"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/BUS299 2025 S2 Consumer Needs and Motivation.pptx",
+      "bytes": 13544388,
+      "sha256": "d9e1ff31b14450fb26810a4f8989955c5b69b3d1ca7a6375a5c0669d6fc1eb09",
+      "action": "archived_exact",
+      "destination": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 2025 S2 Consumer Needs and Motivation.pptx"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/BUS299 2025 S2 Brand Personality.pptx",
+      "bytes": 5150335,
+      "sha256": "80e27a7506f1e59ba1d1b1cdb67c669ff814c661fa84f67eb83eb8b540d788f3",
+      "action": "archived_exact",
+      "destination": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 2025 S2 Brand Personality.pptx"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/BUS299 Qual Activity.Assessment.pptx",
+      "bytes": 327739,
+      "sha256": "3b6798a557aea4037afb4e3e93034c901d9cefee3fd442c793aa8f28b1809383",
+      "action": "archived_exact",
+      "destination": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 Qual Activity.Assessment.pptx"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/BUS299 Qualitative Analysis Interview Questions.docx",
+      "bytes": 36070,
+      "sha256": "022ca9a3f19319f249faca9cd85d135ed91039220f1a6b1332c0e82c06986838",
+      "action": "archived_exact",
+      "destination": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 Qualitative Analysis Interview Questions.docx"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/Additional slides for session 8 strategy formation,control and org culture.ppt",
+      "bytes": 369152,
+      "sha256": "e2cc2b2ef0bfe859ce89d5fccb81a408cd9d107ea3f74db2fcc256ee15c8c53f",
+      "action": "existing_current",
+      "destination": "BUS219/2026-TSD/Materials/11 Topic 8_ Control of Global Business/Additional slides for session 8 strategy formation,control and org culture.ppt"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/BUS299 2025 S2 Social Influences.pptx",
+      "bytes": 4308059,
+      "sha256": "197c807a4bfadd918f67cbb76e4d13ac582002607ea7e02f12a40f6c6732ba9a",
+      "action": "archived_exact",
+      "destination": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 2025 S2 Social Influences.pptx"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/BUS299 2025 S2 Foundations of Consumer Behaviour (dubai).pptx",
+      "bytes": 3571902,
+      "sha256": "f697179eb2b4f2a46a99f57b5ebcfa8c0922e923c2fabc11fc73097a15556b02",
+      "action": "archived_exact",
+      "destination": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 2025 S2 Foundations of Consumer Behaviour (dubai).pptx"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/Mid Term Review and Revision.docx",
+      "bytes": 33595,
+      "sha256": "a1ea9b253dd0ab0c77fdc23b780230b949df623e34b411bac33595dfa3799d6c",
+      "action": "archived_exact",
+      "destination": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/Mid Term Review and Revision.docx"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/Additional slides to BUS219 session 3 Global Economic Systems.pptx",
+      "bytes": 67046,
+      "sha256": "80c0e2babe524d6da4a75dfbdc9c5f04bff0932c9e54f133fddf2a98ce707f0f",
+      "action": "existing_current",
+      "destination": "BUS219/2026-TSD/Materials/06 Topic 3_ Regional Economic Integration and The International Flow of Funds and Exchange Rates/Additional slides to BUS219 session 3 Global Economic Systems.pptx"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/BUS299 2025 S2 Murdoch Social Class and Consumer Behavior.pptx",
+      "bytes": 36247359,
+      "sha256": "939a11aa862c9389421414931128a66b35b48dce0417c34cca2a4bcd08748583",
+      "action": "archived_exact",
+      "destination": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 2025 S2 Murdoch Social Class and Consumer Behavior.pptx"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/Session9 chapter10.pptx",
+      "bytes": 628979,
+      "sha256": "28db0c28370dccdaca1a85c953f33fa88bf56fc3d56cf124f731ffa678657978",
+      "action": "existing_current",
+      "destination": "BUS219/2026-TSD/Materials/12 Topic 9_ The Organisation of Global Business/Session9 chapter10.pptx"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/Session2 chapter2.pptx",
+      "bytes": 395813,
+      "sha256": "4867ac440795a7b3e287d56d7ee3b57750bce24b55d91ab6ee4f0fba2985cc52",
+      "action": "existing_current",
+      "destination": "BUS219/2026-TSD/Materials/05 Topic 2_ The Evolution of International Business/Session2 chapter2.pptx"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/BUS299 2025 S2 Murdoch Understanding Consumer Culture Implications for Business Success.pptx",
+      "bytes": 17275794,
+      "sha256": "dc6fa695bc5bc931cc29eed97d544dff652ab14b30f842ed0c039a99f54f8d5d",
+      "action": "archived_exact",
+      "destination": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 2025 S2 Murdoch Understanding Consumer Culture Implications for Business Success.pptx"
+    },
+    {
+      "source": "/Users/king1/Downloads/Unik/Session11 chapter13.pptx",
+      "bytes": 432315,
+      "sha256": "06583e6681d1ae3bc893d449053990ee5293688cc5263767b2630b3e5a96087f",
+      "action": "existing_current",
+      "destination": "BUS219/2026-TSD/Materials/14 Topic 11_ Global Operations and Supply-Chain Management/Session11 chapter13.pptx"
+    },
+    {
+      "source": "/Users/king1/murdoch-moodle/moodle.py",
+      "bytes": 1222,
+      "sha256": "253dbabba491a6867ca7d6e879485bb986c07d2a0847b6ae303caa82fc3a2f37",
+      "action": "archived_exact",
+      "destination": "Archive/LocalSources_2026-10-29_Supplement/Legacy_Moodle_Tools/moodle.py"
+    },
+    {
+      "source": "/Users/king1/murdoch-moodle/briefing.py",
+      "bytes": 3668,
+      "sha256": "ab4fa9b251cf2afb66db1059f2b755a318ac436d7482dd2981e320e2616400de",
+      "action": "archived_exact",
+      "destination": "Archive/LocalSources_2026-10-29_Supplement/Legacy_Moodle_Tools/briefing.py"
+    },
+    {
+      "source": "/Users/king1/murdoch-moodle/notify.sh",
+      "bytes": 1318,
+      "sha256": "b978c44308e6dcd6b1c9fe6af26599ada5d902099d2e621f258e78c50a3a0461",
+      "action": "archived_exact",
+      "destination": "Archive/LocalSources_2026-10-29_Supplement/Legacy_Moodle_Tools/notify.sh"
+    },
+    {
+      "source": "/Users/king1/murdoch-moodle/README.md",
+      "bytes": 2036,
+      "sha256": "97657b29ae2d6c891db6825af224e76632a3b395e1f440decacc25f4253bad45",
+      "action": "archived_exact",
+      "destination": "Archive/LocalSources_2026-10-29_Supplement/Legacy_Moodle_Tools/README.md"
+    },
+    {
+      "source": "/Users/king1/murdoch-moodle/CLAUDE.md",
+      "bytes": 3587,
+      "sha256": "f76ae28b0bf43f9b717751b3e822d43c937bd4adb60fe49a724d5df7ef7dc9b1",
+      "action": "archived_exact",
+      "destination": "Archive/LocalSources_2026-10-29_Supplement/Legacy_Moodle_Tools/CLAUDE.md"
+    }
+  ],
+  "summary": {
+    "archived_exact": 20,
+    "existing_current": 9
+  },
+  "new_unique_files": 20,
+  "new_unique_bytes": 98204846,
+  "excluded_secrets": [
+    "/Users/king1/murdoch-moodle/.moodle_token",
+    "/Users/king1/murdoch-moodle/ACCESS.env"
+  ],
+  "limitations": "No whole-disk guarantee. Personal media libraries, Trash and unrelated project content not inspected."
+}

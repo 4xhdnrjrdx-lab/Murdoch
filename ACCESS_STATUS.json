@@ -52,7 +52,15 @@
     "new_token_saved_and_verified": true,
     "user_action": "completed",
     "confirmed_on_iphone": true,
-    "confirmed_by": "User message 2026-10-07: saved in Apple Passwords, checked on iPhone, configure performed, check access ok"
+    "confirmed_by": "User message 2026-10-07: saved in Apple Passwords, checked on iPhone, configure performed, check access ok",
+    "portability_check": {
+      "checked_at": "2026-10-29T15:52:44.148326+04:00",
+      "result": "GitHub-restored client successfully used separately stored key; userid 257560. Legacy local client directory not required.",
+      "apple_passwords_entry_last_user_confirmation": "2026-10-07; not independently inspected by assistant",
+      "key_committed": false,
+      "evidence": "Access/Moodle/README.md",
+      "extra_files_evidence": "Migration/LOCAL_AUDIT_SUPPLEMENT_2026-10-29.json"
+    }
   },
   "github": {
     "repository": "4xhdnrjrdx-lab/Murdoch",

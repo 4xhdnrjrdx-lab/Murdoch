@@ -23,8 +23,8 @@
     },
     {
       "path": "ACCESS_STATUS.json",
-      "bytes": 12991,
-      "sha256": "557015a26cbcccfdd1a3e4986894c74d13a4bd6dd3b149b7d77fe909405ad65c",
+      "bytes": 13489,
+      "sha256": "d5cca34f26e625737ddb8fe60bd9163f26ec376a42bec25c791bf02ab854df0f",
       "storage": "git"
     },
     {
@@ -47,8 +47,8 @@
     },
     {
       "path": "Access/Moodle/README.md",
-      "bytes": 9273,
-      "sha256": "eeaf1cfa1a6479f455d83c4563aea2054830f91a7c67aac1b8161d3d5c5b5cff",
+      "bytes": 12349,
+      "sha256": "94de9dafe00d7a1ece9b44fa8bd90d405a645c2a27a1ccaad31995e072730991",
       "storage": "git"
     },
     {
@@ -4471,6 +4471,132 @@
       "path": "Archive/LocalSources_2026-10-29/README.md",
       "bytes": 3371,
       "sha256": "55d280c9c09a3b141ddc0a919cec099d9283cec1532be5cac5fe85e918e09514",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 2025 S2  Nature of Consumer Attitudes.pptx",
+      "bytes": 5118475,
+      "sha256": "f2b50341946bddb8580a6842ca6d1e70ce6364eae320ed25b04c0a8e39b4e237",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 2025 S2 Brand Personality.pptx",
+      "bytes": 5150335,
+      "sha256": "80e27a7506f1e59ba1d1b1cdb67c669ff814c661fa84f67eb83eb8b540d788f3",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 2025 S2 Consumer Needs and Motivation.pptx",
+      "bytes": 13544388,
+      "sha256": "d9e1ff31b14450fb26810a4f8989955c5b69b3d1ca7a6375a5c0669d6fc1eb09",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 2025 S2 Consumer Personality.pptx",
+      "bytes": 5114329,
+      "sha256": "909f19cb6b20a851d9c90045f48dc8feef2cf093288e010fcd99d0151967616e",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 2025 S2 Foundations of Consumer Behaviour (dubai).pptx",
+      "bytes": 3571902,
+      "sha256": "f697179eb2b4f2a46a99f57b5ebcfa8c0922e923c2fabc11fc73097a15556b02",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 2025 S2 Foundations of Consumer Behaviour Part 2.pptx",
+      "bytes": 3802116,
+      "sha256": "61357f9d70bad253d3bb1b60c05b59594419ec8fdd12d80db6b0fb253567ae1c",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 2025 S2 Murdoch Social Class and Consumer Behavior.pptx",
+      "bytes": 36247359,
+      "sha256": "939a11aa862c9389421414931128a66b35b48dce0417c34cca2a4bcd08748583",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 2025 S2 Murdoch Understanding Consumer Culture Implications for Business Success.pptx",
+      "bytes": 17275794,
+      "sha256": "dc6fa695bc5bc931cc29eed97d544dff652ab14b30f842ed0c039a99f54f8d5d",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 2025 S2 Social Influences.pptx",
+      "bytes": 4308059,
+      "sha256": "197c807a4bfadd918f67cbb76e4d13ac582002607ea7e02f12a40f6c6732ba9a",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 2025 S2 Test.pptx",
+      "bytes": 3584225,
+      "sha256": "7a1fb38be90458080e44e0bc3441f328c55e3c47458085e4c67578b9b62868cb",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 Qual Activity.Assessment.pptx",
+      "bytes": 327739,
+      "sha256": "3b6798a557aea4037afb4e3e93034c901d9cefee3fd442c793aa8f28b1809383",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/BUS299 Qualitative Analysis Interview Questions.docx",
+      "bytes": 36070,
+      "sha256": "022ca9a3f19319f249faca9cd85d135ed91039220f1a6b1332c0e82c06986838",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/Mid Term Review and Revision.docx",
+      "bytes": 33595,
+      "sha256": "a1ea9b253dd0ab0c77fdc23b780230b949df623e34b411bac33595dfa3799d6c",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/Sony Case Study.docx",
+      "bytes": 45195,
+      "sha256": "90303c1490fb021275d5fd5801ceb0e4fdf570ea2cc0e5733b8db8f5f7bdd120",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/LocalSources_2026-10-29_Supplement/Downloads/Unik/Sony case study Short.docx",
+      "bytes": 33434,
+      "sha256": "8cabc69f24db14a4db4c9af7a9ba988c6f8b4e85615fe01b579444ce621182be",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/LocalSources_2026-10-29_Supplement/Legacy_Moodle_Tools/CLAUDE.md",
+      "bytes": 3587,
+      "sha256": "f76ae28b0bf43f9b717751b3e822d43c937bd4adb60fe49a724d5df7ef7dc9b1",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/LocalSources_2026-10-29_Supplement/Legacy_Moodle_Tools/README.md",
+      "bytes": 2036,
+      "sha256": "97657b29ae2d6c891db6825af224e76632a3b395e1f440decacc25f4253bad45",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/LocalSources_2026-10-29_Supplement/Legacy_Moodle_Tools/briefing.py",
+      "bytes": 3668,
+      "sha256": "ab4fa9b251cf2afb66db1059f2b755a318ac436d7482dd2981e320e2616400de",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/LocalSources_2026-10-29_Supplement/Legacy_Moodle_Tools/moodle.py",
+      "bytes": 1222,
+      "sha256": "253dbabba491a6867ca7d6e879485bb986c07d2a0847b6ae303caa82fc3a2f37",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/LocalSources_2026-10-29_Supplement/Legacy_Moodle_Tools/notify.sh",
+      "bytes": 1318,
+      "sha256": "b978c44308e6dcd6b1c9fe6af26599ada5d902099d2e621f258e78c50a3a0461",
+      "storage": "git"
+    },
+    {
+      "path": "Archive/LocalSources_2026-10-29_Supplement/README.md",
+      "bytes": 1306,
+      "sha256": "1810a2aac43e6427469b7dcc63298274511a33e471659d5d45e03371f0f192df",
       "storage": "git"
     },
     {
@@ -10583,8 +10709,8 @@
     },
     {
       "path": "Migration/GAPS.md",
-      "bytes": 8030,
-      "sha256": "cff57b9e7171fe1fab86fcbd431cd9a1d71f2926b9e5456149e05d7f3f0b658f",
+      "bytes": 10107,
+      "sha256": "c48612f8e12efd79b90ef2c1835e0399efc81c1fb541193a54316b8cb5dbf322",
       "storage": "git"
     },
     {
@@ -10600,9 +10726,15 @@
       "storage": "git"
     },
     {
+      "path": "Migration/LOCAL_AUDIT_SUPPLEMENT_2026-10-29.json",
+      "bytes": 11604,
+      "sha256": "95406c15fa78f038bc583647c71d69d8255283006a04e6f68d2c9d415eef770e",
+      "storage": "git"
+    },
+    {
       "path": "Migration/README.md",
-      "bytes": 5150,
-      "sha256": "480ad9535e6e32cb8f2ee13e94caad8e9b93884d5c186e3489982e2eea1c8b8b",
+      "bytes": 5487,
+      "sha256": "98173a67df3d72edc9e097c7fdd2d092ceaef4e12db2a7accf643ec87e20275a",
       "storage": "git"
     },
     {
@@ -10625,8 +10757,8 @@
     },
     {
       "path": "Verification/MAC_AUDIT_2026-10-29.md",
-      "bytes": 12517,
-      "sha256": "dc872d2223b4633e20ea14e02949e6c9cc27bf2599fed213c80eae5911dbfc4e",
+      "bytes": 14400,
+      "sha256": "fa27267e1ecea058bd3915170e83e3c2b92c6e2fbf6194d0609fc3c2d3448b1e",
       "storage": "git"
     },
     {
@@ -10679,8 +10811,8 @@
     },
     {
       "path": "scripts/check_local_audit.py",
-      "bytes": 2430,
-      "sha256": "0420e68e4b017c69ff37cda98c16c54b9092d62823ef47ca09800abd0f1387be",
+      "bytes": 2678,
+      "sha256": "f5932ccee3d2e3ea098d5b45299d02e86be45fabcc7d68f84a677635b25eb79c",
       "storage": "git"
     },
     {
@@ -10708,6 +10840,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 1784,
-  "total_bytes": 822974594
+  "file_count": 1806,
+  "total_bytes": 921200469
 }

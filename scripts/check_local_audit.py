@@ -6,8 +6,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 parser = argparse.ArgumentParser(description=__doc__)
 parser.add_argument('--sources', action='store_true', help='Also hash original Mac paths; never modify them')
+parser.add_argument('--audit', default='Migration/LOCAL_AUDIT_2026-10-29.json', help='Repository-relative dated source-map JSON')
 args = parser.parse_args()
-audit = json.loads((ROOT/'Migration/LOCAL_AUDIT_2026-10-29.json').read_text())
+audit_path = Path(args.audit)
+if audit_path.is_absolute() or '..' in audit_path.parts:
+    parser.error('--audit must stay inside the repository')
+audit = json.loads((ROOT/audit_path).read_text())
 errors = []
 cache = {}
 verified = 0
