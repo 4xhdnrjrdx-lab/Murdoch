@@ -1,0 +1,467 @@
+﻿Westpac 
+Banking Corporation
+Group 11 
+ 
+ 
+Student Names
+	Owethu Thabethe
+	Faiaz Dzhafarov
+	Bobur Yorikhanov
+	
+
+	Student Numbers
+	34321625
+	35553299
+	35676172
+	
+
+	 
+ 
+Unit code & Title: :  BUS293 Organisational Theory and Behaviour (TMD 2026)
+Workshop day & time:
+Workshop Tutor: Harshini Esther
+Word count: 2,338 words
+Report topic: Team dynamics
+Table of Contents
+Table of Contents        2
+1.   Executive Summary (Bobur)        3
+2.   Introduction (Bobur)        3
+2.a  Report Topic        3
+2.b  Limitations        3
+2.c Sources of Data        3
+2.d Report Organisation        3
+3.   Identified Challenges        4
+3.a  Communication problems between teams        4
+3.b  Team trust        6
+3.c Remote work challenges at WBC        9
+3.d WBC Collaboration and Team Cohesion across departments        11
+4.   Recommendations        13
+5.  Conclusion        14
+6.   Reference List        15
+7. Appendices (Faiaz)        17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.   Executive Summary (Bobur)
+As one of Australia’s major lenders and an ASX200 stock,Westpac Banking Corporation(WBC) is an expansive, multi-business entity which operates by means of dynamic teams. In modern and complex organizations, teams have to perform effectively in areas of: communication, trust, cooperation and overall team efficacy. Moreover, as an economy that continually moves towards further digitisation and a hybridized working landscape, effective inter-organizational communication becomes indispensable for overall success and long term sustainability. This report is designed to analyze four primary team dynamics issues that impact Westpac Banking Corporation; communication issues between teams; team trust; remote working. 
+Also, collaboration and team cohesiveness across department. Communication issues are regarded as significant barriers among organizations that deal with large numbers of departments that also operate with conflicting interests. Disparities between departments within, Technology, Risk, Compliance, Operations, and Customer Service for instance, create barriers to clear communication. Such barriers results to the creation of misconceptions, the slowing of decision making processes, and an interruption of overall information distribution.
+The report further considers the role of trust in promoting team work. Trust is enabling workers to share knowledge, work constructively and participate in collaborative processes. Especially within hybrid and remote teams, trust is a vital commodity as there is a greater need for trust as a substitute for direct employee contact and trust to build informal relationship. The paper reveals how trust contributes to psychological safety, engagement of employees and organisational resilience.
+Lastly, the paper addresses the effect of the remote and the hybrid work arrangement on employee well-being, quality of communication and employee integration in teams. In addition to the benefit of a work-life balance, employees are faced with new challenge related to connection to the organisation and with other employees. Last of all, the paper evaluates teamwork and team integration across various divisions of WBC, in that regard the communication technology implementation, Integrated Systems and cross-functional teams that were set up to foster good team collaboration, failed because organisation are too complex.
+The research based upon organisational behaviour principles and academic literatures, points out the high relation between communication, trust, hybrid/ remote work and team integration. To increase the work life balance and improve the efficiency of the organisation it is needed to strengthen the psychological safety processes, reinforce good cross divisional communications, provide employees with more occasions to build a sense of togetherness and trust in the organisation. Also the introduction of a system where employees feel secure to provide the needed feedbacks in a non-anonymous manner, coupled with regular surveys on employee' satisfaction as well as organisation processes need to be put in place to insure organisational sustainability.
+
+
+2.   Introduction (Bobur)
+2.a         Report Topic 
+Team dynamics relate to the behavioural and interactive processes of how individuals communicate, cooperate and collaborate with one another in teams. Team dynamics is fundamental to organisational effectiveness by enhancing information exchange, building trust and team members cohesion, developing knowledge sharing, and boosting the level of employee engagement (Collier, LaRocca and Stoeber 2012). Poor team dynamics have a negative effect on an organisation by fostering conflict and decision making problems, reducing productivity levels, and lowering the level of employee satisfaction (Jones and Bartlett Publishers 2010). Westpac Banking Corporation (WBC) is one of Australia's larger financial institutions, and an ASX200 company. 
+WBC functions on a larger scale, hence communication must take place across various departments of WBC such as, technology, risk management, compliance, operations, and customer service to provide financial solutions. These different departments rely upon effective communication, trust and collaboration to fulfill common objectives of the organisation.Therefore, factors that facilitate team dynamics can be analysed further by conducting this report on the issues impacting team dynamics within WBC. This study focuses on four primary challenges influencing team dynamics impacting on WBC’s performance, Firstly, challenges in communication between teams and impacting upon organisational performance will be researched. Second, this report will discuss the significance of team trust for building psychological safety, boosting the level of employee engagement and collaboration (Edmondson 1999; Mayer, Davis and Schoorman 1995). Thirdly, this report will research remote work arrangements and the impact they have on effective communication, employee well-being and loyalty to the organisation (Gilson et al. 2015). Lastly, this research will focus on collaboration and team cohesion across various departments of WBC and the impact on organisational performance (Mathieu et al. 2008; Beal et al. 2003).
+
+
+2.b         Limitations
+It is important to be aware of the limitations: The majority of sources are secondary – published in peer review articles, textbooks for academics, publications by the organization itself and public information sources. I did not have access to any internal financial information about the organisation, any other internal data nor any of the internal viewpoints of members of the organization. The article was not focused upon finance and operational data and had concentrated in particular on organizational behaviour theories and concepts, which it has already been pointed out was an organizational issue that has now probably lessened as companies consider the future regarding employees working.
+
+
+2.c        Sources of Data
+References used in this report The information in this report has been informed by an assortment of authoritative and respected academic articles, journals, research books and articles sourced from industry organizations, and several reports published by external organizations, and official WesPac organizations themselves. In terms of academic references this literature provided relevant research and discussion with regards to the theoretical base of research concerning Communication, trust, cohesion of teams, Psychological safe space and team working in virtual environment. WesPac, through its annual reports and its formal reporting, have been used to give detailed account of the organisation, whereas United Nations Global Compact reports will inform discussion around sustainability, ethics and responsible corporate practice.
+2.d        Report Organisation
+The report has been organised into four separate areas of analysis. Area 1 discusses communication issues between teams in the WBC and impact to organisations performance. Area 2 covers the team trust and psychological safety within teams. Area 3 looks into the issues related to remote working, or a hybrid approach, and how this can be problematic. Area 4 looks into issues associated to teamwork and cohesiveness within teams across departments within an organisation. This report is rounded off with a set of recommendations to solve identified problems and concludes with key outcomes from this study.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.   Identified Challenges 
+3.a         Communication problems between teams
+Communication problems are a considerable problem for WBC, the largest financial company trading as part of the ASX200; in particular due to the close interaction between the departments such as Technology, Risk, Compliance, Operations and Customer Service and the close relationship between the parts of the company. Communication transmits information necessary for trust, cohesion, coordination and decisions and it creates operational risk and reduces organisational performance in case of communication breakdowns (Mathieu et al 2008).
+One of the main issues is with effective communication where each department has a different focus; for example, technology teams concentrate more on innovative or digital transformation objectives whereas risk and compliance teams would more likely focus on governance requirements. This divergence in understanding the main expectations is likely to lead to conflicts or communication issues. As per team mental model theory, performance will increase where everyone involved in a project has the same understanding of the goals, roles and processes (Kozlowski and Ilgen 2006).
+Communication issues further impact on trust and cohesion. Trust establishes what information needs to be shared, and efforts to work with others in collaborative activities, and is actually harmed by the breakdown in communication resulting from inconsistent and delayed information transfers, potentially damaging the positive interdepartmental relationships within the organisation (Edmondson 1999). In a large organisation like WBC, the different departments may inhibit contacts between departments and restrict opportunities to construct cohesion with FOCUSyears of shared experience and achievement.
+Communication becomes even more problematic in hybrid and telecommuting workplaces. Virtual work, for example, may lead to decrease in informal communication and knowledge transfer, making collaboration more complicated (Allen, Golden, and Shockley 2015; Gilson et al. 2015). Even though WBC applies digital communication technologies, virtual communication is unable to substitute face to face communication completely.
+Communication problems have a direct effect on organizational performance. Information sharing time lag may have resulted in slowing down decision-making, service delivery quality and waste of resources. In a competitive banking industry such an impact may cause poor customer satisfaction and organizational image and reputation. Good communication practices are highly correlated to team effectiveness and employee commitment (Salas, Sims and Burke 2005).
+Finally, communication challenges have an impact on sustainability. Trust, adherence to regulation and ethical decision-making among stakeholders are crucial to WBC's sustainability. Poor communication may contribute to increased stress and pressure on employees, higher operating risks, and violation of regulations. Such a conclusion is also related to Principle 10 of United Nations Global Compact that encourages business to be transparent and accountable. In addition, we should also see communication as a matter of performance as well as of sustainability.
+Potential recommendations
+
+Cross-functional cooperation: WBC can enhance cross-functional cooperation via frequent meetings among departments, shared goals and teamwork initiatives. Collaboration improves trust, communication and shared mental models (Mathieu et al., 2008; Kozlowski and Ilgen, 2006). The organization must also place effort on developing leadership on the topics of psychological safety and open communication. People who feel comfortable stating their concerns and new thoughts are most likely to generate more appropriate solutions and decisions (Edmondson 1999). 
+Secondly, WBC should establish new procedures for communication of hybrid and remote teams, i.e. By using communication standards,virtual interaction tools and consistent interaction opportunities (Allen, Golden and Shockley 2015; Gilson et al. 2015).
+ 
+Finally, team-building initiatives should be expanded to strengthen cohesion and collaboration across departments, improving both employee engagement and organisational performance (Beal et al. 2003; Salas, Sims, and Burke 2005).
+
+
+
+
+
+
+
+
+
+
+3.b         Team trust (Faiaz)
+Communication problems and team trust are closely connected, but trust deserves attention on its own. It shapes how teams at Westpac Banking Corporation (WBC) cooperate, share information and perform. This section looks at what team trust consists of, how it develops in dispersed teams, and what that means for WBC.
+Trust usually rests on three things: a person's integrity, their benevolence, and their ability (Mayer, Davis, and Schoorman 1995; Robbins and Judge 2023). Employees are more willing to rely on a colleague or manager they see as honest, as genuinely concerned for their wellbeing, and as competent at their work. A weakness in any one of these can undermine it. WBC staff might doubt whether another department will give them accurate information, or feel that a manager cares more about targets than about the people meeting them. Trust is also slow to build and easy to lose, so one communication failure or a single episode of perceived unfairness can damage a relationship that then takes a long time to repair (Greenberg and Baron 2008).
+Hybrid and remote work make this harder. Distributed employees have fewer of the informal, in-person moments that normally let trust grow, so it is more difficult to sustain than in a co-located team. Trust also matters more for team performance in virtual settings than in face-to-face ones (Breuer, Hüffmeier, and Hertel 2016; Cascio and Shurygailo 2003). To get work done before close relationships have formed, dispersed teams often rely on "swift trust," a provisional trust based on shared roles, professional norms and common goals rather than personal familiarity (Meyerson, Weick, and Kramer 1996; Zakaria, Amelinckx, and Wilemon 2004). For WBC, the practical implication is that clear roles, dependable processes and consistent leadership can do much of the work that face-to-face contact would otherwise do.
+Trust also underpins psychological safety, the belief that an employee can raise a concern, admit a mistake or challenge a decision without fear of punishment (Edmondson 1999). When trust is low, staff in a heavily regulated bank may stay quiet about errors or operational risks, which narrows problem-solving and widens compliance exposure. Leadership is decisive here. Leaders who act consistently, communicate openly and treat people fairly create the conditions for honest discussion and genuine teamwork (Yukl and Gardner 2020). Building trust therefore supports WBC's operational performance, risk management and resilience, since a high-trust culture tends to produce faster decisions, better collaboration and employees who stay engaged.
+These dynamics affect WBC day to day. When employees trust one another, information moves faster and decisions are made without constant second-guessing, which matters in a bank that has to be quick and accurate at the same time. When trust is low, people double-check, withhold information or route it through slower formal channels, and coordination between functions such as compliance, risk and customer service starts to slow (Robbins and Judge 2023). Because communication and the trust beneath it influence motivation, collaboration and performance (Yukl and Gardner 2020), a trust deficit has concrete costs: slower service, a weaker customer experience and higher operating expenses.
+The longer-term picture is similar. Sustainable performance depends on keeping capable people and keeping them engaged, and trust runs through both. In remote, high-pressure conditions, weak trust and the isolation common to virtual work are associated with more stress, lower satisfaction and a stronger intention to leave (Zakaria, Amelinckx, and Wilemon 2004). For WBC, trust that stayed low over time would mean higher turnover, loss of institutional knowledge, and a workforce less willing to raise the risks the bank most needs to hear about. A high-trust culture supports the stable, transparent and accountable environment that sustainable organisations depend on.
+This connects directly to the United Nations Global Compact, and to Principle 10, which calls on businesses to work against corruption in all its forms (United Nations Global Compact 2024). The link runs through psychological safety. Anti-corruption depends on employees being willing to report misconduct, errors and operational risk, and they do that only when they trust that speaking up will not cost them. Westpac's own history shows what is at stake: in 2020 the bank agreed to a record A$1.3 billion penalty for more than 23 million breaches of anti-money-laundering and counter-terrorism-financing law (AUSTRAC 2020), failures of monitoring and escalation that have since shaped its focus on conduct and risk culture (Westpac Banking Corporation 2024). Where trust is weak, staff stay silent, problems go unreported, and unethical behaviour has more room to take hold. Strengthening trust makes transparency and ethical conduct far more likely, and keeps WBC closer to Principle 10.
+Several measures could help WBC strengthen trust and stay aligned with this principle. One is leadership development focused on consistency, fairness and open communication, so that managers model the behaviour trust is built on (Yukl and Gardner 2020). A second is clear, protected speak-up channels that give employees a safe way to raise concerns, reinforcing psychological safety and anti-corruption together. A third is firmer role clarity and reliable processes, which help swift trust hold across hybrid and dispersed teams (Cascio and Shurygailo 2003; Meyerson, Weick, and Kramer 1996). Regular cross-team and in-person contact would also help rebuild the informal interaction through which trust between people usually grows.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.c        Remote work challenges at WBC
+According to Mcshane and Von Glinow (2024), Remote teams are teams in the organization where their members work through time, space and organizational confines and are connected through Information and communication technologies. These platforms provide teams with the environments necessary to help connect and reach organizational objectives. An article written by Peacock-Smith, Du, and Graham (2025), explores the case of  (Karlene Chandler v Westpac Banking Corporation 2025, 3115) where WBC had adopted a 2-days per week in office rule where employees are expected to be present at a corporate level office regardless of travel distance from their homes to these offices. In this case Karlene Chandler could not make the commute to the corporate office due to a 2-hour travel time and family commitments. This case highlights the prominent issue of distance in WBC’s remote work policy making it difficult for employees such as Karlene to maintain a good rapport at work but also have a work-life balance. An article produced by Muddit (2022), explores the negative impact of workplace bullying through virtual environments, virtual bullying can be present in various forms but is not explicit when it occurs as an individual is only able to make the connection through subtle hints. If WBC were to have an environment where bullying occurs even with remote teams this could lead to low individual morale, hinder the victim, cause internal conflict, lead to decreased productivity across teams and weaken organizational goals (Mehmood and Mushtaq 2020). Remote teams at WBC without a concrete foundation face the hurdle of lack of team cohesion and fostering a positive culture, work environment. As lack of cohesion leads to a barrier in helping employees engage and build interpersonal relationships and maintain them with colleagues as they would in normal day-to-day office settings (Asafu-Adjaye 2025). Work-family conflict was an issue at WBC, when it came to their hybrid policy. WFC is a growing concern for employees as it has an impact on their occupational stress and can lead to negative feelings at home. This dilemma of time-based conflict negatively impacted WBC reputation and reliability due to the fact that their policy was not inclusive and adaptable to employee lifestyles ( Junça Silva and Lopes 2025). The company prioritises what they feel as good on paper but does not take into consideration the reality of the situation. As noted above we can determine that the company’s performance has not been negatively impacted but rather there have been obstacles throughout the years which have resulted in legal disputes, changing work dynamics and reinforcement strategies.  WBC’s issues with navigating remote teams and successful integration of hybrid work models can be seen as misaligned with principal 4 of the UN global impact. The principal mentions “the elimination of all forms of forced and compulsory labour.” (United Nations Global Compact 2024). WBC has to be open to feedback and flexibility when it comes to work arrangements if they want to be able to maintain high team cohesion and employee satisfaction. 
+
+
+Potential Recommendations:
+1.     Team building exercises (Mcshane and Von Glinow 2024)
+2.     One-to-one check-ins (Asafu-Adjaye 2025)
+3.     Asynchronous communication aids  (Asafu-Adjaye 2025)
+4.   Consistency with fostering a positive work environment, retention matters and protecting team welfare (Mahesh 2024). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.d        WBC Collaboration and Team Cohesion across departments 
+The Westpac Banking Corporation (WBC) depends on an array of departments to cooperate and communicate to function optimally; these include Retail Banking, Business Banking, Technology, Risk Management, Compliance, Operations and Customer Service. Team dynamics theory posits that cohesion and collaboration are significant determinants of the quality of communication, trust, information sharing and organizational performance (Mathieu et al. 2008).
+WBC utilizes various measures to foster working-togetherness such as: enterprise communication systems, agile way of working, multi-functional teams, and integrated risk management systems, etc. By utilizing these kinds of ways and mechanisms, departments can communicate information with each other smoothly and can collaborate together. "Frequent interaction also serves to build up trust and relationships among individuals." (Beal et al. 2003)
+
+Working toward common organizational objectives also facilitates cooperation. WBC's objectives: (a) customer satisfaction; (b) digital transformation; (c) operational excellence and (d) compliance, require the coordination of different departments. Team cohesiveness is likely to grow when people perceive common goals and feel a shared sense of accomplishment.
+
+These are all advantages of this approach however cohesion across functional boundaries is proving to be more difficult. The large size and scope of the WBC could perhaps create communication problems between specific teams, technology teams could have priorities related to innovation and risk & compliance teams have a focus on control & regulation. This vein theory states that a shared mental model is required to ensure a team works efficiently together (Kozlowski and Ilgen 2006).
+Hybrid and remote work arrangements have an impact on cohesion too. Virtual settings, where there is less communication and relationship building opportunities between colleagues, can lower trust and cohesion (Allen, Golden, and Shockley 2015; Gilson et al. 2015).
+Despite the challenges, WBC is effective at building cohesion via leadership action, cross-departmental teams, team building exercises and common goals related to performance. These actions effectively overcome departmental barriers and develop better relationships between departments. Cohesive teams communicate well and get results (Salas, Sims and Burke 2005).
+On the whole WBC uses effective systems to support collaboration and team cohesion, but organisational complexity and the move towards hybrid working needs focus on the communication, trust and common goals element to support long term performance.
+This challenge also bears on WBC's alignment with the United Nations Global Compact. Principle 10, which calls on business to work against corruption through transparency and accountability, depends on departments collaborating openly rather than withholding information across silos (United Nations Global Compact 2024). Poor cross-departmental cohesion can let risks and misconduct go unescalated, weakening that alignment. To strengthen cohesion and stay consistent with this principle, WBC could expand cross-functional project teams, hold regular inter-departmental forums, and reward collaborative rather than purely siloed performance.
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.   Recommendations (Owethu)
+Recommendation
+	Benefit/s of implementation
+	* Integration of workshops on topics such as psychological safety and open communication. 
+	This would allow employees and teams at WBC to have an environment where positive conversations are encouraged and employees would not feel undervalued at work or feel as if there is a lack of attention towards their welfare beyond work related responsibilities. The appointment of an in-house psychologist would act as a resource for employees to seek help when experiencing difficult situations at work or even personally, having access to this resource help remove the stigma around psychological safety related topics and employees would feel more inclined to reach out when necessary because the company would have taken the first step towards making this resource available. 
+	* Team building exercises/retreats
+	WBC has adopted a hybrid work policy and has multiple locations throughout Australia. Integrating team retreats once a year into their corporate calendar would help employees network with each other, build relationships but also build team trust. It's an opportunity for employees at all levels to feel welcome and appreciated by the company. It will create an environment where people are able to be themselves and not worry about their day-to-day work obligations. 
+	* Confidential communication channels for employees to voice any concerns.
+	Employee confidentiality is paramount for navigating situations dealing with sensitivity and discretion. If the employees know that confidentiality at WBC is valued they will feel safe to voice concerns or speak up in regards to anything without the fear of potential judgement. 
+	* Implement collaboration mechanisms throughout the organisation and encourage cross-team engagement. 
+	This would ensure constant collaboration and communication amongst various departments in the organisation. Employees will feel comfortable working together and with other departments. This would lead to a more cohesive work environment throughout the organisation. 
+	* Ongoing review measures to check employee satisfaction, efficiency of departmental systems and feedback tool integration. 
+	This shows the WBC’s commitment to ensuring consistency throughout the organisation and the employee experience. 
+	
+
+
+
+5.  Conclusion (Faiaz)
+This report examined the organisational behaviour challenges affecting team performance at Westpac, looking closely at how communication, trust, remote working and overall cohesion shape the way the team operates. The analysis made clear that these issues are connected rather than separate. Weak communication made it harder for members to build trust in one another, and the move to remote work added distance that further reduced cohesion and a shared sense of purpose. Each problem fed into the next, which is why the team struggled to function as a unit.
+Taken together, the four challenges point to a single underlying need, which is a workplace where people feel safe to speak openly and confident that their contributions matter. The recommendations respond directly to that need. Workshops on psychological safety, regular team building, confidential channels for raising concerns and clearer ways of collaborating are all aimed at rebuilding trust and improving how information moves across the team.
+If these recommendations are put into practice and reviewed over time, Westpac can expect stronger working relationships, more consistent communication and a team that copes better with remote and hybrid conditions. Acting on these behavioural factors is not only about fixing current problems, it is about building the conditions for the team to perform well in the long term. A team that communicates openly and trusts one another is far better placed to reach its goals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6.   Reference List (Faiaz)
+
+
+Allen, Tammy D., Timothy D. Golden, and Kristina M. Shockley. 2015. "How Effective Is Telecommuting? Assessing the Status of Our Scientific Findings." Psychological Science in the Public Interest 16 (2): 40–68. https://journals.sagepub.com/doi/10.1177/1529100615593273.
+Asafu-Adjaye, Patience. 2025. "Exploring the Impact of Remote Work on Team Communication and Cohesion." Thesis, Bowie State University. https://www.proquest.com/docview/3322863921.
+AUSTRAC. 2020. "AUSTRAC and Westpac Agree to Proposed $1.3bn Penalty." Media release, September 24, 2020. https://www.austrac.gov.au/news-and-media/media-release/austrac-and-westpac-agree-penalty.
+Beal, Daniel J., Robin R. Cohen, Michael J. Burke, and Christy L. McLendon. 2003. "Cohesion and Performance in Groups: A Meta-Analytic Clarification of Construct Relations." Journal of Applied Psychology 88 (6): 989–1004. https://psycnet.apa.org/doi/10.1037/0021-9010.88.6.989.
+Breuer, Christina, Joachim Hüffmeier, and Guido Hertel. 2016. "Does Trust Matter More in Virtual Teams? A Meta-Analysis of Trust and Team Effectiveness Considering Virtuality and Documentation as Moderators." Journal of Applied Psychology 101 (8): 1151–1177. https://doi.org/10.1037/apl0000113.
+Cascio, Wayne F., and Stan Shurygailo. 2003. "E-Leadership and Virtual Teams." Organizational Dynamics 31 (4): 362–376. https://doi.org/10.1016/S0090-2616(02)00130-4.
+Edmondson, Amy C. 1999. "Psychological Safety and Learning Behavior in Work Teams." Administrative Science Quarterly 44 (2): 350–383. https://doi.org/10.2307/2666999.
+Gilson, Lucy L., M. Travis Maynard, Nicole C. Jones Young, Matti Vartiainen, and Marko Hakonen. 2015. "Virtual Teams Research: 10 Years, 10 Themes, and 10 Opportunities." Journal of Management 41 (5): 1313–1337. https://journals.sagepub.com/doi/10.1177/0149206314559946.
+Greenberg, Jerald, and Robert A. Baron. 2008. Behavior in Organizations: Understanding and Managing the Human Side of Work. 9th ed. Upper Saddle River, NJ: Pearson Prentice Hall.
+Junça Silva, Ana, and Mariana Lopes. 2025. "Balanced Life: The Impact of Hybrid Work on Employee Well-Being through the Lens of Work–Family Conflict." Employee Relations 47 (5): 626–641. https://doi.org/10.1108/ER-04-2024-0199.
+Karlene Chandler v Westpac Banking Corporation. 2025. FWC 3115.
+Kozlowski, Steve W. J., and Daniel R. Ilgen. 2006. "Enhancing the Effectiveness of Work Groups and Teams." Psychological Science in the Public Interest 7 (3): 77–124. https://journals.sagepub.com/doi/10.1111/j.1529-1006.2006.00030.x.
+Mahesh, D. 2024. "Remote Work: Challenges and Strategies for Effective Management." Shanlax International Journal of Management 11 (1): 145–149. https://doi.org/10.34293/management.v11iis1-jan.7156.
+Mathieu, John E., M. Travis Maynard, Tammy Rapp, and Lucy Gilson. 2008. "Team Effectiveness 1997–2007: A Review of Recent Advancements and a Glimpse into the Future." Journal of Management 34 (3): 410–476. https://journals.sagepub.com/doi/10.1177/0149206308316061.
+Mayer, Roger C., James H. Davis, and F. David Schoorman. 1995. "An Integrative Model of Organizational Trust." Academy of Management Review 20 (3): 709–734. https://doi.org/10.2307/258792.
+McShane, Steven L., and Mary Ann Von Glinow. 2024. Organizational Behavior: Emerging Knowledge, Global Reality.10th ed. Dubuque, IA: McGraw-Hill Education.
+Mehmood, Shahid, and A. Sajid Mushtaq. 2020. "Impact of Workplace Bullying on Employee Performance: Mediating Role of Psychological Well-Being." International Journal of Disaster Recovery and Business Continuity 11 (1): 2322–2335. https://www.researchgate.net/publication/369107723.
+Meyerson, Debra, Karl E. Weick, and Roderick M. Kramer. 1996. "Swift Trust and Temporary Groups." In Trust in Organizations: Frontiers of Theory and Research, edited by Roderick M. Kramer and Tom R. Tyler, 166–195. Thousand Oaks, CA: Sage.
+Muddit, Jessica. 2022. "The Dark Side of Hybrid Work: Virtual Bullying." Westpac, October 12, 2022. https://www.westpac.com.au/news/in-depth/2022/10/the-dark-side-of-hybrid-work-virtual-bullying/.
+Peacock-Smith, Kristy, Thomas Du, and Morgan Graham. 2025. "Banking on Policy: Westpac’s Refusal of a Flexible Work Arrangement Bounces." Bird & Bird, November 7, 2025. https://www.twobirds.com/en/insights/2025/australia/banking-on-policy-westpacs-refusal-of-a-flexible-work-arrangement-bounces.
+Robbins, Stephen P., and Timothy A. Judge. 2023. Organizational Behavior. 19th ed. Hoboken, NJ: Pearson Education.
+Salas, Eduardo, Dana E. Sims, and C. Shawn Burke. 2005. "Is There a ‘Big Five’ in Teamwork?" Small Group Research36 (5): 555–599. https://journals.sagepub.com/doi/10.1177/1046496405277134.
+United Nations Global Compact. 2024. "The Ten Principles of the UN Global Compact." Accessed May 30, 2026. https://unglobalcompact.org/what-is-gc/mission/principles.
+Westpac Banking Corporation. 2024. Westpac Group 2024 Annual Report. Sydney: Westpac Banking Corporation. https://www.westpac.com.au/about-westpac/investor-centre/.
+Yukl, Gary A., and William L. Gardner. 2020. Leadership in Organizations. 9th ed. Boston: Pearson Education.
+Zakaria, Norhayati, Andrea Amelinckx, and David Wilemon. 2004. "Working Together Apart? Building a Knowledge-Sharing Culture for Global Virtual Teams." Creativity and Innovation Management 13 (1): 15–29. https://doi.org/10.1111/j.1467-8691.2004.00290.x.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Appendices (Faiaz) 
+Appendix A — Summary of the Four Team-Dynamics Challenges
+
+
+Challenge
+	Key OB theory / concept
+	Effect on performance
+	Effect on sustainability
+	UN Global Compact principle
+	Illustrative source
+	Communication problems between teams
+	Team mental models (Kozlowski & Ilgen 2006)
+	Slower decisions, weaker service quality, higher operational risk
+	Employee stress, compliance and regulatory exposure
+	Principle 10 — transparency & anti-corruption
+	Mathieu et al. 2008
+	Team trust
+	Three foundations: integrity, benevolence, ability (Mayer et al. 1995); swift trust (Meyerson et al. 1996)
+	Faster information flow and coordination
+	Retention, willingness to report risk
+	Principle 10 — anti-corruption
+	AUSTRAC 2020
+	Remote / hybrid work
+	Virtual teams; work–family conflict (Junça Silva & Lopes 2025)
+	Reduced cohesion and morale; legal disputes
+	Employee well-being and retention
+	Principle 4 — flexibility & fair work arrangements
+	Karlene Chandler v Westpac 2025 (FWC 3115)
+	Collaboration & cohesion across departments
+	Group cohesion (Beal et al. 2003); cross-functional teams
+	Coordination across functional silos
+	Engagement and knowledge sharing
+	Principle 10 — accountability
+	Salas, Sims & Burke 2005
+	Source: authors' synthesis of the report's analysis and cited literature.
+ 
+Appendix B — The Three Foundations of Trust (Mayer, Davis & Schoorman 1995)
+
+
+Foundation
+	What it means
+	What erodes it at WBC
+	Integrity
+	The person is seen as honest and principled, holding to values the other party accepts.
+	Inconsistent messaging or perceived unfairness between departments.
+	Benevolence
+	The person is seen as genuinely caring about the other's wellbeing, beyond self-interest.
+	A sense that managers prioritise targets over the people meeting them.
+	Ability
+	The person is seen as competent and skilled in the relevant domain.
+	Doubt that another department can supply accurate, timely information.
+	Trust builds slowly but collapses quickly: a weakness in any one foundation, or a single communication failure, can undermine it (Greenberg & Baron 2008). In dispersed teams, clear roles and dependable processes support “swift trust” before personal familiarity has formed (Meyerson, Weick & Kramer 1996).
+ 
+Appendix C — Westpac AUSTRAC 2020 Case Snapshot
+
+
+Item
+	Detail
+	Date
+	September 2020
+	Breach
+	More than 23 million breaches of the Anti-Money-Laundering and Counter-Terrorism-Financing Act
+	Penalty
+	A$1.3 billion — a record civil penalty in Australian corporate history
+	Root causes
+	Failures of transaction monitoring and internal escalation of risk
+	Relevance to this report
+	Illustrates how weak trust and low psychological safety let operational risks go unreported; directly informs WBC's later focus on conduct and risk culture and its alignment with UN Global Compact Principle 10.
+	Sources
+	AUSTRAC 2020; Westpac Banking Corporation 2024

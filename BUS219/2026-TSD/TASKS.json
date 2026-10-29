@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course": "BUS219",
   "period": "2026-TSD",
-  "reviewed_at": "2026-10-27",
+  "reviewed_at": "2026-10-29",
   "allowed_states": [
     "предложено",
     "согласовано",
@@ -18,19 +18,19 @@
       "title": "Два онлайн-квиза, суммарно 20%",
       "status": "в работе",
       "next_action": "Готовиться к Quiz 2 и пройти его до 24 ноября, 19:55 Dubai. Quiz 1 finished; API попытки даёт 15/15 сырых баллов.",
-      "detail": "Quiz 1: сдан 18 октября 2026 в 12:52:35 Asia/Dubai, попытка №1 finished, длительность 19 минут 6 секунд. Подтверждены скриншот Moodle, письмо о сохранении ответов и текущий API. Балл пока недоступен. Проверка 15 рекомендованных ответов сохранена отдельно. A1 остаётся «в работе», поскольку включает ещё Quiz 2; для всего A1 статус «сдано» не установлен.",
+      "detail": "Quiz 1: сдан 18 октября 2026 в 12:52:35 Asia/Dubai, попытка №1 finished, длительность 19 минут 6 секунд. Подтверждены скриншот Moodle, письмо о сохранении ответов и текущий API. 29 октября API попытки подтверждает 15/15 сырых баллов; это не отдельная проверка масштабирования gradebook. Проверка 15 рекомендованных ответов сохранена отдельно. A1 остаётся «в работе», поскольку включает ещё Quiz 2; для всего A1 статус «сдано» не установлен.",
       "deadlines": [
         {
           "value": "Quiz 1: 2026-10-20 19:55 Asia/Dubai (timeclose=1792511700)",
           "source_label": "Moodle API, quiz 111647; письмо Dr Walia от 12 октября подтверждает дату",
-          "checked_at": "2026-10-18",
-          "source_path": "Correspondence/2026-10-18_quiz1-preparation-check.json"
+          "checked_at": "2026-10-29",
+          "source_path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json"
         },
         {
           "value": "Quiz 2: 2026-11-24 19:55 Asia/Dubai (timeclose=1795535700)",
           "source_label": "Moodle API, quiz 111648",
-          "checked_at": "2026-10-25",
-          "source_path": "../../Archive/Correspondence/2026-10-25_general-deadlines-check.json"
+          "checked_at": "2026-10-29",
+          "source_path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json"
         },
         {
           "value": "Quiz 1: к концу занятия Week 10; точный час не указан — прежний ориентир; актуальная дата установлена Moodle 13 октября",
@@ -117,9 +117,15 @@
           "note": "Quiz 1 finished, sumgrades 15/15; Quiz 2 без попыток, лимит 30 минут, одна попытка, закрытие 24 ноября 19:55 Dubai.",
           "path": "../../Archive/Correspondence/2026-10-25_general-deadlines-check.json",
           "source": ""
+        },
+        {
+          "date": "2026-10-29",
+          "note": "Аудит базы: повторно прочитаны собственные статусы/файлы LMS, сроки и последние news. Учебный Gmail по четырём предметам после 27 октября: 0 совпадений. Подробный охват и ограничения в источнике.",
+          "path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json",
+          "source": ""
         }
       ],
-      "unknown": "Gradebook-вклад Quiz 1 отдельно не запрошен в этой проверке. По Quiz 2 API попыток пока нет.",
+      "unknown": "Quiz 2: попыток нет на 29 октября. Масштабирование вклада Quiz 1 отдельно не проверено.",
       "show_on_overview": true,
       "correction": "",
       "components": [
@@ -176,6 +182,12 @@
           "note": "Пользователь предоставил читаемое изображение Taking noon to Jordan и две фотографии Project Proposal marking guide; роли сверены непосредственно.",
           "path": "Assignments/A2/Evidence/2026-10-20/SOURCES.json",
           "source": ""
+        },
+        {
+          "date": "2026-10-29",
+          "note": "Аудит базы: повторно прочитаны собственные статусы/файлы LMS, сроки и последние news. Учебный Gmail по четырём предметам после 27 октября: 0 совпадений. Подробный охват и ограничения в источнике.",
+          "path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json",
+          "source": ""
         }
       ],
       "unknown": "Одобрение темы преподавателем и итог выступления не установлены. Изображение постера получено 20 октября; редактируемый оригинал не предоставлен.",
@@ -192,8 +204,8 @@
         {
           "value": "2026-11-06 19:55 Asia/Dubai (duedate=1793980500)",
           "source_label": "Moodle API, assignment 126475",
-          "checked_at": "2026-10-25",
-          "source_path": "../../Archive/Correspondence/2026-10-25_general-deadlines-check.json"
+          "checked_at": "2026-10-29",
+          "source_path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json"
         },
         {
           "value": "К концу занятия Week 12 — прежняя запись outline; текущий срок установлен Moodle 13 октября",
@@ -304,11 +316,36 @@
           "note": "Пользователь сообщил, что преподавательница сказала не включать disclaimer, и поручил его удалить. Новая редакция v2: 24 страницы, 3786 слов; основной текст, библиография и расчёты не изменены.",
           "path": "Correspondence/2026-10-27_a2-disclaimer-clarification.json",
           "source": ""
+        },
+        {
+          "date": "2026-10-29",
+          "note": "Аудит базы: повторно прочитаны собственные статусы/файлы LMS, сроки и последние news. Учебный Gmail по четырём предметам после 27 октября: 0 совпадений. Подробный охват и ограничения в источнике.",
+          "path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json",
+          "source": ""
         }
       ],
       "unknown": "Не подтверждены одобрение темы преподавательницей, допустимый объём помощи AI, согласие команды, именной лидер-загрузчик и наличие подлинных peer evaluation/charter/meeting minutes. Полные имена установлены; четыре student ID предоставил пользователь, независимо в LMS они скрыты. Модель сценарная: спрос, тарифы, финансирование и правовая структура требуют коммерческой проверки до запуска бизнеса. Собственный Moodle status new; действия другого лидера не установлены. Отчёт никому не отправлен и агентом не сдан.",
       "show_on_overview": true,
-      "correction": ""
+      "correction": "",
+      "working_files": [
+        {
+          "path": "Assignments/A2/Final_Report_2026-10-27_v2/35553299DzhafarovF-2-Final.docx",
+          "role": "Актуальный редактируемый отчёт, v2 без disclaimer",
+          "note": "Не сдан; требуется согласование команды и подлинные групповые приложения."
+        },
+        {
+          "path": "Assignments/A2/Final_Report_2026-10-27_v2/35553299DzhafarovF-2-Final.pdf",
+          "role": "PDF той же редакции"
+        },
+        {
+          "path": "Assignments/A2/Final_Report_2026-10-27_v2/financial_model.json",
+          "role": "Исходная финансовая модель"
+        },
+        {
+          "path": "Assignments/A2/Final_Report_2026-10-27_v2/PACKAGE_README_RU.txt",
+          "role": "Состав комплекта и пределы готовности"
+        }
+      ]
     },
     {
       "id": "A3",
@@ -342,11 +379,27 @@
           "note": "Прямое поручение пользователя начать подготовку сегодня и фиксировать всё; созданы план, журнал и четыре вопроса диагностики. Самостоятельных ответов ещё нет. Расписание 28 ноября 09:00 Dubai подтверждено текущей редакцией.",
           "path": "Correspondence/2026-10-17_exam-preparation-start.md",
           "source": ""
+        },
+        {
+          "date": "2026-10-29",
+          "note": "Аудит базы: повторно прочитаны собственные статусы/файлы LMS, сроки и последние news. Учебный Gmail по четырём предметам после 27 октября: 0 совпадений. Подробный охват и ограничения в источнике.",
+          "path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json",
+          "source": ""
         }
       ],
       "unknown": "Аудитория и возможные поздние изменения; исходный уровень знаний и самостоятельного английского письма пока не проверен.",
       "show_on_overview": false,
-      "correction": ""
+      "correction": "",
+      "working_files": [
+        {
+          "path": "Assignments/A3/Preparation/PLAN_RU.md",
+          "role": "Текущий план подготовки"
+        },
+        {
+          "path": "Assignments/A3/Preparation/PROGRESS.json",
+          "role": "Подтверждённый прогресс и точка следующего занятия"
+        }
+      ]
     }
   ]
 }

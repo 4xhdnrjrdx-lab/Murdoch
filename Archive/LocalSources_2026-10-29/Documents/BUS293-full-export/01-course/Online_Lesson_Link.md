@@ -1,0 +1,3 @@
+Связь: [[BUS293]] · _материал курса BUS293_
+
+[BUS_293](https://teams.microsoft.com/light-meetings/launch?context=%7B%22Tid%22%3A%22c00d4c1b-cf7b-4e93-b7c7-10113a9bc230%22%2C%22Oid%22%3A%22e4cf5741-0518-4fa4-9c74-c79a72939a4c%22%7D&anon=true&launchAgent=join_launcher_web&lightExperience=true&correlationId=c43610f1-849f-48fe-bbff-00e411ad9927&agent=web&coords=eyJjb252ZXJzYXRpb25JZCI6IjE5Om1lZXRpbmdfTldWbE5qRmpOV1F0WVRjeE5DMDBPRE5sTFdFMFkyWXRZekk0WXpJd05UWTRNek5tQHRocmVhZC52MiIsInRlbmFudElkIjoiYzAwZDRjMWItY2Y3Yi00ZTkzLWI3YzctMTAxMTNhOWJjMjMwIiwib3JnYW5pemVySWQiOiJlNGNmNTc0MS0wNTE4LTRmYTQtOWM3NC1jNzlhNzI5MzlhNGMiLCJtZXNzYWdlSWQiOiIwIn0%3D&deeplinkId=fceaa80d-d27e-492a-bbcb-d89b9c4530a9)

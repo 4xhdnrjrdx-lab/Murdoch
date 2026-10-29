@@ -1,32 +1,18 @@
-# BUS225: Assignments
+# BUS225: файлы работ
 
-Основные записи: [контекст](../CONTEXT.md), [задания](../TASKS.md). Старые планы и отметки в исходниках отражают дату создания.
+> Сформировано scripts/render.py из working_files в TASKS.json. Это указатели на актуальные файлы, а не подтверждение сдачи.
 
-- [A1/READ_ALOUD_EN.txt](A1/READ_ALOUD_EN.txt)
-- [A1/SOURCE_CHECK.md](A1/SOURCE_CHECK.md)
-- [A1/START_HERE_RU.md](A1/START_HERE_RU.md)
-- [A1/START_RECORDING.command](A1/START_RECORDING.command)
-- [A1/Submission/Moodle_submitted_2026-09-26.png](A1/Submission/Moodle_submitted_2026-09-26.png)
-- [A1/Submission/STATUS_RU.md](A1/Submission/STATUS_RU.md)
-- [A1/VIDEO_DESCRIPTION.txt](A1/VIDEO_DESCRIPTION.txt)
-- [A1/VIDEO_LINK.txt](A1/VIDEO_LINK.txt)
-- [A1/Video/BUS225_A1_Faiaz_Dzhafarov.webm](A1/Video/BUS225_A1_Faiaz_Dzhafarov.webm)
-- [A1/build.py](A1/build.py)
-- [A1/content.json](A1/content.json)
-- [A1/record.html](A1/record.html)
-- [A1/serve.py](A1/serve.py)
-- [A1/studio.template.html](A1/studio.template.html)
-- [A1/visuals/01.png](A1/visuals/01.png)
-- [A1/visuals/02.png](A1/visuals/02.png)
-- [A1/visuals/03.png](A1/visuals/03.png)
-- [A1/visuals/04.png](A1/visuals/04.png)
-- [A1/visuals/05.png](A1/visuals/05.png)
-- [A1/visuals/06.png](A1/visuals/06.png)
-- [A1/visuals/07.png](A1/visuals/07.png)
-- [A2/PLAN_RU.md](A2/PLAN_RU.md)
-- [A2/ServiceOrganisationProfile/BUS225_Group9_Carrefour_Service_Organisation_Profile.docx](A2/ServiceOrganisationProfile/BUS225_Group9_Carrefour_Service_Organisation_Profile.docx)
-- [A2/ServiceOrganisationProfile/EmailSent_2026-09-18.docx](A2/ServiceOrganisationProfile/EmailSent_2026-09-18.docx)
-- [A2/ServiceOrganisationProfile/Message_and_email_for_Muhammad.md](A2/ServiceOrganisationProfile/Message_and_email_for_Muhammad.md)
-- [A2/ServiceOrganisationProfile/Message_to_Muhammad_work_split_2026-09-19.md](A2/ServiceOrganisationProfile/Message_to_Muhammad_work_split_2026-09-19.md)
+Состояния, сроки и неизвестное: [TASKS.md](../TASKS.md). Прежние версии остаются в папках и Git-истории; не выбирать файл только по слову FINAL или дате.
 
-- [Подготовка к экзамену A3](A3/Preparation/PLAN_RU.md)
+## A2: Reflective Journal + Service Blueprint, 40%
+
+Состояние: готово к сдаче.
+
+- [Единственный актуальный DOCX для группы и последующей сдачи](A2/For_Submission/BUS225_A2_Group9_Carrefour.docx) — Исправленная пользовательская v2 от 28 октября; 1978 слов без references. В LMS пока new.
+
+## A3: Final Exam, 30%
+
+Состояние: в работе.
+
+- [Текущий план подготовки](A3/Preparation/PLAN_RU.md)
+- [Подтверждённый прогресс и точка следующего занятия](A3/Preparation/PROGRESS.json)

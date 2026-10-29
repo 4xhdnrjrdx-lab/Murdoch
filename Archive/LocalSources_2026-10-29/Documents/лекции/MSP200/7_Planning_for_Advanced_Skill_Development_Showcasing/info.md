@@ -1,0 +1,3 @@
+Advancing your employability skills extends beyond this unit, your degree, and further into your career; it is a lifelong commitment. It is intertwined with your ability to be self and skill aware, be able to identify your skills gaps, plan and set goals and then seek out and engage in appropriate advanced skill development opportunities. It also requires that you can provide evidence and showcase your skill set to employers, managers, directors, and other industry stakeholders through a variety of mediums.
+
+Review the world of work concepts, job market impacts, individual worker skills, and learning and applying knowledge for lifelong career and skill development.

@@ -1,0 +1,45 @@
+Связь: [[BUS293 — Team Report]] · _материал темы (курс BUS293)_
+
+# Team Trust at Westpac Banking Corporation (WBC)
+
+Communication problems and team trust are closely connected, but trust deserves attention on its own. It shapes how teams at Westpac Banking Corporation (WBC) cooperate, share information and perform. This section looks at what team trust consists of, how it develops in dispersed teams, and what that means for WBC.
+
+Trust usually rests on three things: a person's integrity, their benevolence, and their ability (Mayer, Davis, and Schoorman 1995; Robbins and Judge 2023). Employees are more willing to rely on a colleague or manager they see as honest, as genuinely concerned for their wellbeing, and as competent at the work. A weakness in any one of these can undermine it. WBC staff might doubt whether another department will give them accurate information, or feel that a manager cares more about targets than about the people meeting them. Trust is also slow to build and easy to lose, so one communication failure or a single episode of perceived unfairness can damage a relationship that then takes a long time to repair (Greenberg and Baron 2008).
+
+Hybrid and remote work make this harder. Distributed employees have fewer of the informal, in-person moments that normally let trust grow, so it is more difficult to sustain than in a co-located team. Trust also matters more for team performance in virtual settings than in face-to-face ones (Breuer, Hüffmeier, and Hertel 2016; Cascio and Shurygailo 2003). To get work done before close relationships have formed, dispersed teams often rely on "swift trust," a provisional trust based on shared roles, professional norms and common goals rather than personal familiarity (Meyerson, Weick, and Kramer 1996; Zakaria, Amelinckx, and Wilemon 2004). For WBC, the practical implication is that clear roles, dependable processes and consistent leadership can do much of the work that face-to-face contact would otherwise do.
+
+Trust also underpins psychological safety, the belief that an employee can raise a concern, admit a mistake or challenge a decision without fear of punishment (Edmondson 1999). When trust is low, staff in a heavily regulated bank may stay quiet about errors or operational risks, which narrows problem-solving and widens compliance exposure. Leadership is decisive here. Leaders who act consistently, communicate openly and treat people fairly create the conditions for honest discussion and genuine teamwork (Yukl and Gardner 2020). Building trust therefore supports WBC's operational performance, risk management and resilience, since a high-trust culture tends to produce faster decisions, better collaboration and employees who stay engaged.
+
+These dynamics affect WBC day to day. When employees trust one another, information moves faster and decisions are made without constant second-guessing, which matters in a bank that has to be quick and accurate at the same time. When trust is low, people double-check, withhold information or route it through slower formal channels, and coordination between functions such as compliance, risk and customer service starts to slow (Robbins and Judge 2023). Because communication and the trust beneath it influence motivation, collaboration and performance (Yukl and Gardner 2020), a trust deficit has concrete costs: slower service, a weaker customer experience and higher operating expenses.
+
+The longer-term picture is similar. Sustainable performance depends on keeping capable people and keeping them engaged, and trust runs through both. In remote, high-pressure conditions, weak trust and the isolation common to virtual work are associated with more stress, lower satisfaction and a stronger intention to leave (Zakaria, Amelinckx, and Wilemon 2004). For WBC, trust that stayed low over time would mean higher turnover, loss of institutional knowledge, and a workforce less willing to raise the risks the bank most needs to hear about. A high-trust culture supports the stable, transparent and accountable environment that sustainable organisations depend on.
+
+This connects directly to the United Nations Global Compact, and to Principle 10, which calls on businesses to work against corruption in all its forms (United Nations Global Compact 2024). The link runs through psychological safety. Anti-corruption depends on employees being willing to report misconduct, errors and operational risk, and they do that only when they trust that speaking up will not cost them. Westpac's own history shows what is at stake: in 2020 the bank agreed to a record A$1.3 billion penalty for more than 23 million breaches of anti-money-laundering and counter-terrorism-financing law (AUSTRAC 2020), failures of monitoring and escalation that have since shaped its focus on conduct and risk culture (Westpac Banking Corporation 2024). Where trust is weak, staff stay silent, problems go unreported, and unethical behaviour has more room to take hold. Strengthening trust makes transparency and ethical conduct far more likely, and keeps WBC closer to Principle 10.
+
+Several measures could help WBC strengthen trust and stay aligned with this principle. One is leadership development focused on consistency, fairness and open communication, so that managers model the behaviour trust is built on (Yukl and Gardner 2020). A second is clear, protected speak-up channels that give employees a safe way to raise concerns, reinforcing psychological safety and anti-corruption together. A third is firmer role clarity and reliable processes, which help swift trust hold across hybrid and dispersed teams (Cascio and Shurygailo 2003; Meyerson, Weick, and Kramer 1996). Regular cross-team and in-person contact would also help rebuild the informal interaction through which trust between people usually grows.
+
+## References
+
+AUSTRAC. 2020. "AUSTRAC and Westpac Agree to Proposed $1.3bn Penalty." Media release, September 24, 2020. https://www.austrac.gov.au/news-and-media/media-release/austrac-and-westpac-agree-penalty.
+
+Breuer, Christina, Joachim Hüffmeier, and Guido Hertel. 2016. "Does Trust Matter More in Virtual Teams? A Meta-Analysis of Trust and Team Effectiveness Considering Virtuality and Documentation as Moderators." Journal of Applied Psychology 101 (8): 1151–1177. https://doi.org/10.1037/apl0000113.
+
+Cascio, Wayne F., and Stan Shurygailo. 2003. "E-Leadership and Virtual Teams." Organizational Dynamics 31 (4): 362–376. https://doi.org/10.1016/S0090-2616(02)00130-4.
+
+Edmondson, Amy C. 1999. "Psychological Safety and Learning Behavior in Work Teams." Administrative Science Quarterly 44 (2): 350–383. https://doi.org/10.2307/2666999.
+
+Greenberg, Jerald, and Robert A. Baron. 2008. Behavior in Organizations: Understanding and Managing the Human Side of Work. 9th ed. Upper Saddle River, NJ: Pearson Prentice Hall.
+
+Mayer, Roger C., James H. Davis, and F. David Schoorman. 1995. "An Integrative Model of Organizational Trust." Academy of Management Review 20 (3): 709–734. https://doi.org/10.2307/258792.
+
+Meyerson, Debra, Karl E. Weick, and Roderick M. Kramer. 1996. "Swift Trust and Temporary Groups." In Trust in Organizations: Frontiers of Theory and Research, edited by Roderick M. Kramer and Tom R. Tyler, 166–195. Thousand Oaks, CA: Sage.
+
+Robbins, Stephen P., and Timothy A. Judge. 2023. Organizational Behavior. 19th ed. Hoboken, NJ: Pearson Education.
+
+United Nations Global Compact. 2024. "The Ten Principles of the UN Global Compact." Accessed May 30, 2026. https://unglobalcompact.org/what-is-gc/mission/principles.
+
+Westpac Banking Corporation. 2024. Westpac Group 2024 Annual Report. Sydney: Westpac Banking Corporation. https://www.westpac.com.au/about-westpac/investor-centre/.
+
+Yukl, Gary A., and William L. Gardner. 2020. Leadership in Organizations. 9th ed. Boston: Pearson Education.
+
+Zakaria, Norhayati, Andrea Amelinckx, and David Wilemon. 2004. "Working Together Apart? Building a Knowledge-Sharing Culture for Global Virtual Teams." Creativity and Innovation Management 13 (1): 15–29. https://doi.org/10.1111/j.1467-8691.2004.00290.x.

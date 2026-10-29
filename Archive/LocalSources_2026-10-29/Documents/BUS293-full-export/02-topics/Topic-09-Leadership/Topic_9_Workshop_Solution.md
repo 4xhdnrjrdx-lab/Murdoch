@@ -1,0 +1,67 @@
+Связь: [[Topic 9 — Leadership]] · _материал темы (курс BUS293)_
+
+**BUS293 Organisational Theory and Behaviour**
+
+Topic 9: Workshop Activities (Leadership)
+
+Murdoch University
+
+Name: Faiaz Dzhafarov  Student No: 35553299
+
+# Activity 1: Critical Thinking Questions (Chapter 12)
+
+## Question 1 - Transformational leadership and how leaders build commitment to a vision
+
+Transformational leadership is the perspective the chapter leans on most. It treats leaders as change agents rather than people who simply keep the current system ticking over. The idea is that the leader develops and champions a picture of a better future for the team or organisation, then gets people to commit to making it real. This runs through a few connected behaviours. First, the leader builds a vision, an image of the projected future state that is attractive enough to motivate people and bond them together. The leader then communicates that vision by framing it around a larger purpose and using symbols, metaphors and stories, so everyone ends up sharing the same mental model of where things are heading. There's also the modelling side, "walking the talk," because employees trust a leader far more when their actions line up with the message. Finally the leader encourages experimentation, questioning current practice and backing a learning orientation so the vision can actually be reached.
+
+Communication on its own doesn't produce commitment, though. People buy in much more strongly when they have had a hand in shaping the vision themselves, so involvement matters as much as the messaging. The perspective has clear payoffs: higher satisfaction, better performance, more organisational citizenship and more creativity. Its limits are worth keeping in mind too. Some versions define a transformational leader by their results rather than their behaviour, which turns into circular logic with little predictive value. And as a universal theory it pays little attention to situational or cultural differences.
+
+## Question 3 - Why transformational leadership is not the same as charismatic leadership
+
+People often treat charismatic and transformational leaders as the same thing, and some older models did exactly that by claiming charisma is essential to transformation. The chapter argues they are distinct, and the distinction matters. Charisma is a personal trait. It gives a leader referent power, the kind of pull that comes from people identifying with and being drawn to them, but having that pull says nothing about whether the leader is trying to move the organisation anywhere. A charismatic leader can be very popular and still leave the direction of the company exactly where it was.
+
+What defines transformational leadership is what the leader does (develop a vision, communicate and model it, encourage experimentation) rather than personal magnetism. The two can overlap. But charisma brings risks that transformation does not. It tends to produce dependent followers who lean on the leader instead of being empowered, and it can push the leader toward their own interests rather than the common good. Charismatic traits also sit close to narcissism, with its overconfidence, low empathy and inability to take criticism. The safer reading is that charisma is one possible tool a leader might have, not the thing that makes leadership transformational.
+
+## Question 4 - The contingency theories of leadership and what they add
+
+The contingency theories all share one assumption: there is no single best way to lead, and the right behaviour depends on the situation. Path-Goal is the most developed of them. It builds on expectancy theory and says the leader's job is to clear the path to the goal by giving people the information, support and resources they need, choosing between directive, supportive, participative and achievement-oriented behaviour according to the employee and the environment. The contingencies are things like the employee's skill and locus of control, plus the task structure and the team dynamics. It has reasonable research support, although a few of its contingencies have barely been tested and the model risks getting too complicated to use as it grows.
+
+Situational leadership covers similar ground with four styles (telling, selling, participating and delegating) matched to follower ability and commitment. Managers like it because it's simple, but only the telling style actually holds up in research, which is a real weakness for something so widely taught. Fiedler's model takes a different angle. It matches a people-oriented or task-oriented style to the leader's level of situational control, set by leader-member relations, task structure and position power. Its useful contribution is the reminder that style is tied to personality and is hard to change, so sometimes you change the situation rather than the leader. Taken together, these theories are more valuable for the way they force you to read the situation than for any single prescription they offer.
+
+## Question 6 - The follower-centric perspective and "leadership in the mind of the followers"
+
+The follower-centric perspective makes a point the other approaches tend to skip: leaders do not operate in a vacuum, and someone only becomes a leader because of what their followers think. Whether a leader is seen as effective has a lot to do with the attributions and perceptions of the people below them. Two ideas carry this. The first is the romance of leadership, the tendency to credit leaders with outcomes that were really driven by markets, teams or plain luck. People do this because they want to believe leaders make the difference, and it draws on the fundamental attribution error and on a Western habit of explaining events through individuals rather than circumstances.
+
+Implicit leadership theory is the second idea. Followers carry a prototype, a preconceived picture of what an effective leader looks like, and they judge real leaders against it. Someone who fits the prototype gets rated as more effective almost regardless of results. So perceptions of leadership are partly a construction in the follower's head, which is why the same behaviour can read as strong leadership in one person and not in another. It's a useful corrective to the assumption that effectiveness is something sitting purely inside the leader.
+
+## Question 7 - How culture and gender shape leadership
+
+Both culture and gender affect leadership, though mostly through perception rather than real differences in ability. On culture, a society's values shape what its leaders do and, just as importantly, shape the prototype that followers use to judge them. Some styles travel well and others do not. The "charismatic visionary" style looks close to universally admired, while participative leadership works better in some cultures than in others. For anyone leading across borders the advice is to use a style that is either culturally compatible or universally endorsed, and to at least meet the local expectations of what a leader should be.
+
+Gender works in a similar way. Despite the stereotype that women are more people-oriented, male and female leaders actually show similar task and people orientations. The complication is the "heroic masculinity" prototype that still sits in many people's heads, which means women can be evaluated more harshly even when they lead just as well. That's an implicit leadership theory effect again. Female leaders tend to use participative and transformational styles more often, and the research suggests they are strong at the emerging styles of leadership, so the negative evaluations say more about the prototype than about actual performance.
+
+# Activity 2: Case Study - IbexTel (Chapter 12)
+
+## Question 1 - What went wrong at IbexTel, using leadership concepts
+
+IbexTel shows the gap between charismatic and transformational leadership about as plainly as a case can. Jason Turner had every charismatic marker the board could want: presence, high energy, self-confidence, decisiveness and a persuasive interpersonal style that won people's quick respect. The board "couldn't believe its good fortune." But charisma is only a personal trait that gives a leader referent power, and it says nothing about whether they actually move the organisation in the right direction. Turner is the chapter's warning made real. Charisma tends to produce overconfidence and dependent followers, and it sits close to narcissism, with low tolerance for criticism. He showed exactly that when he dismissed the board member who pointed out he was running the same playbook as his last two CEO roles, and again when he was certain IbexTel would win the government contract despite submitting a higher bid.
+
+The deeper failure is one of contingency and fit. Turner said "each situation is unique" but did the opposite, transplanting an identical strategy (layoffs, deregulation pressure, a big bet on new wireless and satellite technology) onto a former government monopoly in a European, heavily regulated market. Leadership effectiveness depends on matching behaviour to the situation, and his aggressive, American-style approach did not fit this context. He also failed the core transformational behaviours. There was no genuine shared vision built with people, no modelling of the company's collegial values (his anti-regulation campaign made IbexTel look arrogant), and no building of commitment, since morale fell after the layoffs and the collapse in public image. Decisiveness tipped into recklessness too: he picked a wireless manufacturer without proper due diligence, which led to outages, the country's worst-value mobile plans, and a 20% fall in the share price. And the board itself fell for the romance of leadership and implicit leadership theory. They over-credited Turner because he looked like the prototype of a strong, decisive leader, judging him on presence rather than on behaviour or fit.
+
+## Question 2 - How the board can reduce the risk of repeating these problems
+
+The first thing the board can do is select on behaviour and fit rather than charisma. That means evidence-based selection that assesses actual leadership behaviours and a track record of adapting strategy to context, plus reference checks on how a candidate handles dissent. They also need to consciously guard against the romance of leadership and the heroic prototype that led them to over-rate Turner's "presence." Tied to this is situational and cultural fit. A US-style playbook did not suit a European former monopoly with heavy government relations, so future selection and onboarding should test how a leader reads and adapts to this specific context instead of reusing a one-size strategy.
+
+Beyond hiring, the board needs to change how it works once a CEO is in place:
+
+* Strengthen oversight and challenge. Set strategic milestones and checkpoints, require the CEO to justify big bets (such as the technology-manufacturer choice) with proper due diligence, and have major decisions independently reviewed so the firm is not locked into one person's plan.
+* Value constructive conflict. The board member who flagged the repeated strategy got brushed aside, so the board should actively encourage dissent and a devil's advocate to counter a charismatic CEO's overconfidence.
+* Avoid over-reliance on a single heroic leader. Build leadership depth and shared decision-making so the organisation does not depend on one magnetic figure, and tie incentives to sustainable outcomes such as customer value and stakeholder relations, not just decisive action and short-term margins.
+
+# Activity 3: Team Exercise - Leadership Diagnostic Analysis
+
+This exercise gave the team a set of work situations and asked us to diagnose which leadership behaviour would be most effective in each. It's really an applied test of the contingency theories. We worked mainly from Path-Goal, since it gives the clearest menu of behaviours to choose from (directive, supportive, participative and achievement-oriented) plus a set of contingencies to read the situation against. For each scenario we looked at two sides. On the employee side we considered their skill and experience and their locus of control. On the environment side we looked at how routine or structured the task was and what the team dynamics were like.
+
+The diagnosis changed from one situation to the next, which was the whole point. Where employees were inexperienced and the task was unclear, a directive style made sense, since people needed structure and clarity to know what was expected of them. Where they were skilled, internally driven and facing a non-routine task, a participative or achievement-oriented style fit far better, because directing capable people just gets in their way and lowers motivation. We used the Situational model as a cross-check, matching telling, selling, participating and delegating to follower ability and commitment. We also reminded ourselves that telling is really the only one of those four with solid research behind it, so we treated the rest as a rough guide rather than a firm rule.
+
+Working through the set drove home the central message of the topic: there is no single best leadership style, and the same behaviour can help in one situation and hurt in another. The skill the exercise built was reading the contingencies first (the people, the task and the relationship) and only then choosing the behaviour, instead of defaulting to whatever style we happen to be most comfortable with.

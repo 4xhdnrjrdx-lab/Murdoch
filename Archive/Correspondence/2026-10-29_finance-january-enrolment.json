@@ -1,0 +1,42 @@
+{
+  "checked_on": "2026-10-29",
+  "timezone": "Asia/Dubai",
+  "account": "jafarovfayaz@gmail.com",
+  "messages": [
+    {
+      "id": "1a17c56663e9a7e0",
+      "received_at": "2026-10-27T11:49:49+04:00",
+      "subject": "REMINDER: Murdoch Dubai Finance - January 2027 Early Bird Deadlines",
+      "body": "Dear Students,\r\n\r\nA reminder to carefully review the following important details regarding the 5% Early Bird (EB) discount for January 2027:\r\n\r\nThe Early Bird Payment Deadlines:\r\n\r\n\r\n  *   Foundation Program – Monday, 9 November 2026 & Tuesday, 10 November 2026\r\n  *   Postgraduate Programs – Monday, 9 November 2026 & Tuesday, 10 November 2026\r\n  *   Diploma Programs – Wednesday, 11 November 2026 & Thursday, 12 November 2026\r\n  *   Bachelor of Communication – Friday, 13 November 2026 & Monday, 16 November 2026\r\n  *   Bachelor of Psychology – Friday, 13 November 2026 & Monday, 16 November 2026\r\n  *   Bachelor of Business – Tuesday, 17 November 2026 & Wednesday, 18 November 2026\r\n  *   Bachelor of Information Technology –Thursday, 19 November 2026 & Friday, 20 November 2026\r\n\r\nPayment Methods:\r\n\r\nFor information on available payment methods, please visit our website: How to Pay<https://www.murdochuniversitydubai.com/study/fees-living-costs/how-pay> or refer to the attached document.\r\n\r\nKey Points to Remember:\r\n\r\n\r\n  *   The EB discount is only applicable on/before your last program deadline. For example, a diploma program student can only avail the EB discount if they pay on/before Thursday, 12 November 2026.\r\n  *   The EB discount deadline will not be extended past your program deadline.\r\n  *   The EB discount does not apply to repeated units.\r\n  *   The EB discount is not available for payments made by instalment (cards, cash, bank transfers, or post-dated cheques).\r\n\r\nFor any questions related to tuition fees or payment plans, please contact us at dubai.finance@murdoch.edu.au<mailto:dubai.finance@murdoch.edu.au>."
+    },
+    {
+      "id": "1a186bc74952f3fa",
+      "received_at": "2026-10-29T12:17:20+04:00",
+      "subject": "Murdoch Dubai Finance: Pre-Enrolment Checklist – Payment Options – PDC and PP Dates",
+      "body": "Dear Students,\r\n\r\nAs we approach the online enrolment period for the January 2027 trimester, please note that enrolment can only be finalised once one of the following payment arrangements is completed and all outstanding balances are settled.\r\n\r\n1. Payment Requirements for Enrolment\r\nYou may proceed with enrolment once one of the following options is completed:\r\n•           Full payment of tuition fees is made; or\r\n•           Three post-dated cheques are submitted: or\r\n•           A payment plan is approved, and the first instalment of 60% and the payment plan application fee of AED 200 is paid.\r\n\r\nPlease note that any outstanding balances must be settled before enrolment can be finalised.\r\n\r\nYou will be able to finalise your January 2027 enrolment via the Student Portal once online enrolment opens (dates will be announced by Student and Academic Services).\r\n\r\n2. Payment Options\r\n\r\nFor payment options, please review the attached PDF or visit our How to Pay page:\r\nhttps://www.murdochuniversitydubai.com/study/fees-living-costs/how-pay<https://www.murdochuniversitydubai.com/study/fees-living-costs/how-pay/>.\r\n\r\nPlease ensure that you include your Name and Student ID as a reference on all payments.\r\n\r\n3. Post-Dated Cheques (PDC)\r\n\r\nImportant:\r\n\r\nPost-dated cheques or any instalment payments are not eligible for the 5% Early Bird discount.\r\nIf you wish to avail the 5% Early Bird discount, the full payment must be made in a single payment before the Early Bird deadline.\r\nIf you choose to proceed without the 5% Early Bird discount, all three post-dated cheques must be submitted to the Finance Office before your enrolment as follows:\r\n\r\nPayable to: Navitas Middle East FZ-LLC\r\n•           1st cheque – 8 January 2027\r\n•           2nd cheque – 8 February 2027\r\n•           3rd cheque – 8 March 2027\r\n\r\n4. Payment Plan (Card, Cash or Bank Transfer)\r\n\r\nFees may also be paid in three instalments (application fee: AED 200) as follows:\r\n•           1st instalment: 60% of the total trimester tuition fees - due before enrolment\r\n•           2nd instalment: 20% - due by 7 February 2027\r\n•           3rd instalment: 20% - due by 7 March 2027\r\n\r\n5. Finance Office Working Hours\r\n\r\n•           9:00 AM - 5:00 PM, Monday to Friday*\r\n\r\n* Last day for payment and enrolment without a late enrolment fee: Friday, 8 January 2027. Payments received after 5:00 PM that Friday or over the weekend will be processed on Monday and will incur a late enrolment fee.\r\n\r\nIf you require assistance with payments or have any finance-related queries, please contact the Finance Office at dubai.finance@murdoch.edu.au or visit us during the working hours listed above."
+    }
+  ],
+  "interpretation": {
+    "bachelor_business_early_bird_last_day": "2026-11-18",
+    "discount_percent": 5,
+    "early_bird_requires": "Full single payment by programme deadline, no repeated units or instalments/PDC.",
+    "enrolment_payment_options": "Full tuition OR three PDC submitted OR approved payment plan with 60% first instalment plus AED 200 application fee; all outstanding balances settled.",
+    "payment_plan_dates": [
+      "60% before enrolment",
+      "20% by 2027-02-07",
+      "20% by 2027-03-07"
+    ],
+    "pdc_dates": [
+      "2027-01-08",
+      "2027-02-08",
+      "2027-03-08"
+    ],
+    "last_payment_without_late_fee": "2027-01-08 before 17:00 Asia/Dubai",
+    "student_specific_balance": "Not provided; no individual invoice or final unit registration verified."
+  },
+  "attachment": {
+    "path": "Attachments/2026-10-29_Murdoch_Dubai_Payment_Options.pdf",
+    "expected_bytes": 152731,
+    "sha256": "47568bb36f4311de6b008ea1b8ec5941ec0e555b6397508fa69f0311207b5a4b"
+  }
+}

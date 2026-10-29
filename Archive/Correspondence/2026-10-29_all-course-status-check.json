@@ -1,0 +1,416 @@
+{
+  "checked_at": "2026-10-29T15:03:57.905966+04:00",
+  "mail_checked_at": "2026-10-29T15:08:48.098382+04:00",
+  "timezone": "Asia/Dubai",
+  "mail": {
+    "account": "jafarovfayaz@gmail.com",
+    "profile_verified": true,
+    "query": "after:2026/10/27 (BUS219 OR \"BUS 219\" OR BUS225 OR \"BUS 225\" OR BUS230 OR \"BUS 230\" OR BUS334 OR \"BUS 334\" OR from:Dubai.StudentServices@murdoch.edu.au OR from:Dubai.AcademicServices@murdoch.edu.au OR from:Dana.KhouryEid@murdoch.edu.au OR from:Ashok.Mitra@murdoch.edu.au)",
+    "matches": 0,
+    "next_page_token": null,
+    "limits": [
+      "Full university Outlook",
+      "WhatsApp",
+      "In-person presentation outcome and oral instructions"
+    ]
+  },
+  "courses": {
+    "BUS219": {
+      "checked_at": "2026-10-29T15:03:22.638641+04:00",
+      "assignments": [
+        {
+          "id": 126475,
+          "cmid": 3111392,
+          "name": "Business project report due:  at 23.55pm, 6th of Nov",
+          "duedate": 1793980500,
+          "cutoffdate": 0,
+          "status": "new",
+          "groupid": 0,
+          "modified": 1792191688,
+          "gradingstatus": "notgraded",
+          "files": [],
+          "grade_value": null,
+          "due_dubai": "2026-11-06T19:55:00+04:00"
+        }
+      ],
+      "quizzes": [
+        {
+          "id": 111647,
+          "coursemodule": 3111389,
+          "name": "Quiz 1 due:  by 23:55, 20th of Oct",
+          "timeopen": 0,
+          "timeclose": 1792511700,
+          "timelimit": 1800,
+          "attempts": 1,
+          "grade": 10,
+          "own_attempts": [
+            {
+              "id": 5219322,
+              "attempt": 1,
+              "state": "finished",
+              "timestart": 1792312409,
+              "timefinish": 1792313555,
+              "sumgrades": 15
+            }
+          ]
+        },
+        {
+          "id": 111648,
+          "coursemodule": 3111390,
+          "name": "Quiz 2 due: 23:55, 24th of Nov",
+          "timeopen": 0,
+          "timeclose": 1795535700,
+          "timelimit": 1800,
+          "attempts": 1,
+          "grade": 10,
+          "own_attempts": []
+        }
+      ],
+      "news": [
+        {
+          "id": 992510,
+          "name": "Assessment Quiz 1 ",
+          "modified": 1791781638,
+          "message": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"font-family:'Times New Roman', serif;\">Dear Students,</span></p><p></p>\r\n<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"font-family:'Times New Roman', serif;\">Hope you are well.</span></p><p></p>\r\n<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"font-family:'Times New Roman', serif;\">Assessment Quiz 1 is now open on the LMS and must be completed by Tuesday, 20th October. Please attempt it in good time so that any technical issues can be resolved before the deadline.</span></p><p></p>\r\n<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"font-family:'Times New Roman', serif;\">If you have any questions, please get in touch.</span></p><p></p><span style=\"font-family:'Times New Roman', serif;\"></span><p> </p>\r\n<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"font-family:'Times New Roman', serif;\">Best,</span></p><p></p>\r\n<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"font-family:'Times New Roman', serif;\">Navneet</span></p><p></p>"
+        },
+        {
+          "id": 984496,
+          "name": "Group Formation &amp; Pre- Workshop Reminder",
+          "modified": 1788942668,
+          "message": "<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div> </div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div style=\"font-size:12pt;\">\r\n<p dir=\"ltr\">Dear Students,</p>\r\n<p dir=\"ltr\">I hope you're doing well.</p>\r\n<p dir=\"ltr\">This is a gentle reminder to please form groups of four for the upcoming presentations in Week 6. Kindly email me the names of your group members.</p>\r\n<p dir=\"ltr\">I've also included a link to the McKinsey report we discussed yesterday, \"Geopolitics and the Geometry of Global Trade: 2026 Update\" — <a href=\"https://www.mckinsey.com/mgi/our-research/geopolitics-and-the-geometry-of-global-trade-2026-update\">https://www.mckinsey.com/mgi/our-research/geopolitics-and-the-geometry-of-global-trade-2026-update</a></p>\r\n<p dir=\"ltr\">Lastly, please make sure to go through the slides and recording ahead of next week's lecture, so we can have an engaging discussion in class.</p>\r\n<p dir=\"ltr\">Thank you very much for your cooperation.</p>\r\n<p dir=\"ltr\">Best,<br />Navneet</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>"
+        }
+      ],
+      "material_scope": "Current module/file names and sizes were inspected, not all material bodies. Existing Unit Outlines were not downloaded."
+    },
+    "BUS225": {
+      "checked_at": "2026-10-29T15:03:35.116321+04:00",
+      "assignments": [
+        {
+          "id": 125038,
+          "cmid": 3076824,
+          "name": "Service organisation profile submission (Non assessable item submitted end of Session 4) -One per group",
+          "duedate": 1789707600,
+          "cutoffdate": 1790312400,
+          "status": "new",
+          "groupid": 328823,
+          "modified": 1792924761,
+          "gradingstatus": "notgraded",
+          "files": [],
+          "grade_value": null,
+          "due_dubai": "2026-09-18T09:00:00+04:00"
+        },
+        {
+          "id": 125039,
+          "cmid": 3076825,
+          "name": "Video Presentation Submission",
+          "duedate": 1790946000,
+          "cutoffdate": 1791550800,
+          "status": "submitted",
+          "groupid": 0,
+          "modified": 1790442532,
+          "gradingstatus": "graded",
+          "files": [],
+          "grade_value": "14.00000",
+          "due_dubai": "2026-10-02T17:00:00+04:00"
+        },
+        {
+          "id": 125041,
+          "cmid": 3076827,
+          "name": "Peer review submission - Individual",
+          "duedate": 1793970000,
+          "cutoffdate": 1794747600,
+          "status": "new",
+          "groupid": 0,
+          "modified": 1791361358,
+          "gradingstatus": "notgraded",
+          "files": [],
+          "grade_value": null,
+          "due_dubai": "2026-11-06T17:00:00+04:00"
+        },
+        {
+          "id": 125040,
+          "cmid": 3076826,
+          "name": "Reflective Journal and Service Blueprint - Group submission (one per group)",
+          "duedate": 1793970000,
+          "cutoffdate": 1794574800,
+          "status": "new",
+          "groupid": 328823,
+          "modified": 1792567395,
+          "gradingstatus": "notgraded",
+          "files": [],
+          "grade_value": null,
+          "due_dubai": "2026-11-06T17:00:00+04:00"
+        }
+      ],
+      "quizzes": [
+        {
+          "id": 110572,
+          "coursemodule": 3076842,
+          "name": "Quiz 1 - Services Marketing",
+          "timeopen": 0,
+          "timeclose": 0,
+          "timelimit": 0,
+          "attempts": 3,
+          "grade": 100
+        },
+        {
+          "id": 110573,
+          "coursemodule": 3076849,
+          "name": "Quiz 2 - Service Consumers",
+          "timeopen": 0,
+          "timeclose": 0,
+          "timelimit": 0,
+          "attempts": 3,
+          "grade": 3
+        },
+        {
+          "id": 110574,
+          "coursemodule": 3076858,
+          "name": "Quiz 3 - Positioning Services",
+          "timeopen": 0,
+          "timeclose": 0,
+          "timelimit": 0,
+          "attempts": 3,
+          "grade": 3
+        },
+        {
+          "id": 110575,
+          "coursemodule": 3076865,
+          "name": "Quiz 4 - Service Products",
+          "timeopen": 0,
+          "timeclose": 0,
+          "timelimit": 0,
+          "attempts": 3,
+          "grade": 3
+        },
+        {
+          "id": 110576,
+          "coursemodule": 3076872,
+          "name": "Quiz 5 - Service Distribution",
+          "timeopen": 0,
+          "timeclose": 0,
+          "timelimit": 0,
+          "attempts": 3,
+          "grade": 3
+        },
+        {
+          "id": 110577,
+          "coursemodule": 3076880,
+          "name": "Setting Prices and Implementing Revenue Management",
+          "timeopen": 0,
+          "timeclose": 0,
+          "timelimit": 0,
+          "attempts": 3,
+          "grade": 3
+        },
+        {
+          "id": 110578,
+          "coursemodule": 3076887,
+          "name": "Quiz 7 - Integrated Marketing Communications",
+          "timeopen": 0,
+          "timeclose": 0,
+          "timelimit": 0,
+          "attempts": 3,
+          "grade": 100
+        },
+        {
+          "id": 110579,
+          "coursemodule": 3076896,
+          "name": "Quiz 8 - Designing service processes",
+          "timeopen": 0,
+          "timeclose": 0,
+          "timelimit": 0,
+          "attempts": 3,
+          "grade": 3
+        },
+        {
+          "id": 110580,
+          "coursemodule": 3076903,
+          "name": "Quiz 9 - Crafting the Service Environment",
+          "timeopen": 0,
+          "timeclose": 0,
+          "timelimit": 0,
+          "attempts": 3,
+          "grade": 100
+        },
+        {
+          "id": 110581,
+          "coursemodule": 3076910,
+          "name": "Quiz 10 - Managing People and Customer Service Function",
+          "timeopen": 0,
+          "timeclose": 0,
+          "timelimit": 0,
+          "attempts": 3,
+          "grade": 100
+        },
+        {
+          "id": 110582,
+          "coursemodule": 3076917,
+          "name": "Quiz 11 - Managing Customer Relationships in Services",
+          "timeopen": 0,
+          "timeclose": 0,
+          "timelimit": 0,
+          "attempts": 3,
+          "grade": 100
+        },
+        {
+          "id": 110583,
+          "coursemodule": 3076925,
+          "name": "Quiz 12 - Customer Satisfaction and Service Quality",
+          "timeopen": 0,
+          "timeclose": 0,
+          "timelimit": 0,
+          "attempts": 3,
+          "grade": 100
+        }
+      ],
+      "news": [
+        {
+          "id": 978620,
+          "name": "Links for ONLINE students",
+          "modified": 1787234337,
+          "message": "<p>Dear BUS225 Students,</p>\r\n<p>Welcome to SERVICE MARKETING! A course that promises to be as intellectually engaging as it is demanding. </p>\r\n<p dir=\"ltr\">Please make every effort to attend the first class (26th / 27th August). Beyond covering our first chapter, this session will lay out the assignment requirements and expectations that are essential to your success in the course. Missing it will put you at a real disadvantage from day one.</p>\r\n<p><strong>Online </strong>students, please note the following:</p>\r\n<ul>\r\n<li><strong>Wednesday </strong>class, please join the first link on LMS (<strong>Class 1</strong>)</li>\r\n<li><span style=\"color:#000000;\"><strong>Thursday </strong></span>class, please join the second link on LMS (<strong>Class 2</strong>).</li>\r\n</ul>\r\n<p>I look forward to meeting you all and to the term ahead.</p>\r\n<p>Regards,</p>\r\n<p>Dana Khoury Eid</p>"
+        }
+      ],
+      "material_scope": "Current module/file names and sizes were inspected, not all material bodies. Existing Unit Outlines were not downloaded."
+    },
+    "BUS230": {
+      "checked_at": "2026-10-29T15:03:44.494646+04:00",
+      "assignments": [
+        {
+          "id": 124983,
+          "cmid": 3074736,
+          "name": "Assessment 2: Presentation Material (Group) Submission Portal",
+          "duedate": 1793980740,
+          "cutoffdate": 0,
+          "status": "new",
+          "groupid": 327929,
+          "modified": 1791361364,
+          "gradingstatus": "notgraded",
+          "files": [],
+          "grade_value": null,
+          "due_dubai": "2026-11-06T19:59:00+04:00"
+        },
+        {
+          "id": 124982,
+          "cmid": 3074730,
+          "name": "Assessment 1: Essay (Individual) Submission Portal",
+          "duedate": 1789747140,
+          "cutoffdate": 0,
+          "status": "submitted",
+          "groupid": 0,
+          "modified": 1789654099,
+          "gradingstatus": "graded",
+          "files": [
+            {
+              "filename": "BUS230Assign1FaiazDzhafarov35553299.docx",
+              "filesize": 40716
+            }
+          ],
+          "grade_value": "23.40000",
+          "due_dubai": "2026-09-18T19:59:00+04:00"
+        }
+      ],
+      "quizzes": [],
+      "news": [],
+      "material_scope": "Current module/file names and sizes were inspected, not all material bodies. Existing Unit Outlines were not downloaded."
+    },
+    "BUS334": {
+      "checked_at": "2026-10-29T15:03:57.901701+04:00",
+      "assignments": [
+        {
+          "id": 124857,
+          "cmid": 3070561,
+          "name": "Assignment 4 Supporting materials submission: Data Analysis &amp; Presentation (40%)",
+          "duedate": 0,
+          "cutoffdate": 0,
+          "status": "new",
+          "groupid": 0,
+          "modified": 1784723880,
+          "gradingstatus": "notgraded",
+          "files": [],
+          "grade_value": null
+        },
+        {
+          "id": 124858,
+          "cmid": 3070562,
+          "name": "Peer Evaluation Form Submission (Individual)",
+          "duedate": 1795881300,
+          "cutoffdate": 1795967700,
+          "status": "new",
+          "groupid": 0,
+          "modified": 1791361374,
+          "gradingstatus": "notgraded",
+          "files": [],
+          "grade_value": null,
+          "due_dubai": "2026-11-28T19:55:00+04:00"
+        },
+        {
+          "id": 124854,
+          "cmid": 3070558,
+          "name": "Assignment 1: Engagement (10%)",
+          "duedate": 1795078800,
+          "cutoffdate": 1797843600,
+          "status": "new",
+          "groupid": 0,
+          "modified": 1791361375,
+          "gradingstatus": "notgraded",
+          "files": [],
+          "grade_value": null,
+          "due_dubai": "2026-11-19T13:00:00+04:00"
+        },
+        {
+          "id": 124855,
+          "cmid": 3070559,
+          "name": "Assignment 2 Submission: Questionnaire (20%)",
+          "duedate": 1789919940,
+          "cutoffdate": 1790179140,
+          "status": "submitted",
+          "groupid": 0,
+          "modified": 1789763186,
+          "gradingstatus": "graded",
+          "files": [
+            {
+              "filename": "35553299_Dzhafarov_BUS334_Assignment2_Questionnaire.docx",
+              "filesize": 40749
+            }
+          ],
+          "grade_value": "15.00000",
+          "due_dubai": "2026-09-20T19:59:00+04:00"
+        },
+        {
+          "id": 124856,
+          "cmid": 3070560,
+          "name": "Assignment 3 Submission: Data Collection &amp; Preliminary Analysis (30%)",
+          "duedate": 1792943940,
+          "cutoffdate": 1793203140,
+          "status": "submitted",
+          "groupid": 0,
+          "modified": 1792677430,
+          "gradingstatus": "notgraded",
+          "files": [
+            {
+              "filename": "35553299_Dzhafarov_BUS334_A3_Appendices_Revised.pdf",
+              "filesize": 475063
+            },
+            {
+              "filename": "35553299_Dzhafarov_BUS334_A3_Original_Responses.pdf",
+              "filesize": 130841
+            },
+            {
+              "filename": "35553299_Dzhafarov_BUS334_A3_Report_Revised.pdf",
+              "filesize": 519085
+            }
+          ],
+          "grade_value": null,
+          "due_dubai": "2026-10-25T19:59:00+04:00"
+        }
+      ],
+      "quizzes": [],
+      "news": [],
+      "material_scope": "Current module/file names and sizes were inspected, not all material bodies. Existing Unit Outlines were not downloaded."
+    }
+  },
+  "errors": [],
+  "first_attempt": "An initial broader call stopped with a network_or_response_error. The repeated bounded per-course read completed all four courses successfully; dates below reflect successful reads."
+}

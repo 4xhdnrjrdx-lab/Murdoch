@@ -53,6 +53,10 @@ for c in COURSES['courses']:
   for d in t['deadlines']:
    check(bool(d.get('checked_at')) and bool(d.get('source_label')),'Deadline provenance '+c['code']+t['id'])
    check((base/d['source_path']).is_file(),'Missing deadline source '+c['code']+t['id'])
+  for f in t.get('working_files',[]):
+   p=Path(f['path'])
+   check(not p.is_absolute() and '..' not in p.parts and p.parts[0]=='Assignments','Unsafe working file '+c['code']+t['id'])
+   check((base/p).is_file() and bool(f.get('role')),'Missing working file '+c['code']+t['id']+': '+str(p))
  # Only maintained records, generated navigation and access docs promise current working links.
  maintained=[base/n for n in ['README.md','CONTEXT.md','TASKS.md','TEAM.md','HISTORY.md','Materials/README.md','Assignments/README.md','Correspondence/README.md']]
  maintained+=[ROOT/n for n in ['README.md','AGENTS.md','RESTORE.md','Access/Moodle/README.md','Migration/README.md','Migration/GAPS.md','Verification/RESTORE_REPORT.md']]

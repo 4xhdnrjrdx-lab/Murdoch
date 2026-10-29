@@ -17,10 +17,23 @@ for c in COURSES['courses']:
    g=t['grade'];lines+=['',f'**Оценка:** {g["value"]} / {g["maximum"]}, проверено {g["checked_at"]}. '+link(g['source_path'],'Источник')]
   if t.get('correction'):lines+=['', '**Исправление после сдачи:** '+t['correction']]
   if t.get('unknown'):lines+=['', '**Неизвестно:** '+t['unknown']]
+  if t.get('working_files'):
+   lines+=['', '**Файлы для продолжения:**']
+   for f in t['working_files']:lines+=['', '- '+link(f['path'],f['role'])+(' — '+f['note'] if f.get('note') else '')]
  (ROOT/path/'TASKS.md').write_text('\n'.join(lines)+'\n',encoding='utf-8')
  rows=[]
  for t in state['tasks']:rows.append(f'- {link("TASKS.md#"+t["id"].lower(),t["id"]+": "+t["title"])}')
  (ROOT/path/'README.md').write_text(f'# {c["code"]} {c["name"]} | {c["period"]}\n\n'+ '\n'.join([link(x+'.md',label) for x,label in [('CONTEXT','Контекст и неизвестное'),('TASKS','Задания и следующие шаги'),('TEAM','Команда'),('HISTORY','История')]])+'\n\n'+link('Materials/README.md','Материалы преподавателя и упражнения')+'\n\n'+link('Assignments/README.md','Рабочие файлы, версии и подтверждения')+'\n\n'+link('Correspondence/README.md','Письма и уточнения')+'\n\n'+ '\n'.join(rows)+'\n\n'+link('../../README.md','Общая база')+'\n',encoding='utf-8')
+ if any(t.get('working_files') for t in state['tasks']):
+  index=[f'# {c["code"]}: файлы работ', '', '> Сформировано scripts/render.py из working_files в TASKS.json. Это указатели на актуальные файлы, а не подтверждение сдачи.', '', 'Состояния, сроки и неизвестное: '+link('../TASKS.md','TASKS.md')+'. Прежние версии остаются в папках и Git-истории; не выбирать файл только по слову FINAL или дате.', '']
+  for t in state['tasks']:
+   if not t.get('working_files'):continue
+   index += [f'## {t["id"]}: {t["title"]}', '', 'Состояние: '+t['status']+'.', '']
+   for f in t['working_files']:
+    assert f['path'].startswith('Assignments/'),f['path']
+    index += ['- '+link(f['path'][len('Assignments/'):],f['role'])+(' — '+f['note'] if f.get('note') else '')]
+   index+=['']
+  (ROOT/path/'Assignments/README.md').write_text('\n'.join(index).rstrip()+'\n',encoding='utf-8')
 access=read('ACCESS_STATUS.json')
 lines=['# Murdoch: моя учёба','','Faiaz Dzhafarov · student ID 35553299 · время Asia/Dubai (UTC+4).','','Это приватная база: материалы, задания, решения и история сохраняются в GitHub. Для нового чата начните с [AGENTS.md](AGENTS.md). Для другого устройства: [RESTORE.md](RESTORE.md).','','## Сейчас','',]
 for c in COURSES['courses']:
@@ -34,6 +47,8 @@ lines+=['','Сроки, состояния отдельных работ и их
 for c in COURSES['courses']:
  if c['status']!='учимся':lines.append(f'| {link(c["path"]+"/README.md",c["code"])} | {c["status"]}: {c["result"]["mark"]} / {c["result"]["grade"]}, {c["result"]["credit_points"]} CP | {c["period"]} |')
 lines+=['','Официальные итоги и источник хранятся в [COURSES.yaml](COURSES.yaml).','','## Свежесть и сохранение','',f'- Почта: проверена {access["mail"]["checked_at"]}. {access["mail"]["result"]}',f'- LMS: проверка {access["lms"]["checked_at"]}, результат `{access["lms"]["result"]}`. Даты и подтверждения по предметам приведены в заданиях.', '- GitHub: текущая опубликованная версия определяется SHA ветки main, показанным GitHub. Проверка локальной синхронизации: `python3 scripts/sync.py status`. Сверка файлов: `python3 scripts/verify.py`.', '- Проверки выполняются при начале работы по предмету или запросе статуса. Фоновых заданий нет.','','## Восстановление и открытые вопросы','','- [Результаты проверки восстановления](Verification/RESTORE_REPORT.md)', '- [Инвентаризация и перенос](Migration/README.md)', '- [Файлы и доступ, которые ещё нужно восстановить](Migration/GAPS.md)', '- [Подключение LMS и хранение токена](Access/Moodle/README.md)', '', 'Просмотр с iPhone: откройте репозиторий в Safari или GitHub и перейдите в нужный предмет. Документы скачиваются по ссылкам на файлы; для видео используйте Download raw file. Учётная запись GitHub и её восстановление должны быть доступны независимо от Mac. Полная копия создаётся по RESTORE.md.']
+if (ROOT/'Migration/LOCAL_AUDIT_2026-10-29.json').exists():
+ lines+=['', 'Последняя проверка локальных учебных файлов: [аудит 29 октября](Migration/LOCAL_AUDIT_2026-10-29.json). Дополнительные старые материалы: [датированный архив](Archive/LocalSources_2026-10-29/README.md). [Как продолжать после проверки Mac](Verification/MAC_AUDIT_2026-10-29.md). Архивные инструкции не заменяют AGENTS.md и TASKS.json.']
 (ROOT/'README.md').write_text('\n'.join(lines)+'\n',encoding='utf-8')
 files=[{'path':p.relative_to(ROOT).as_posix(),'bytes':p.stat().st_size,'sha256':digest(p),'storage':'git'} for p in retained()]
 write('MANIFEST.json',{'schema_version':1,'hash':'SHA-256','scope':'All retained repository files except MANIFEST.json itself and .git internals. Self-hash would be recursive; Git commit verifies the manifest.','files':files,'file_count':len(files),'total_bytes':sum(x['bytes'] for x in files)})

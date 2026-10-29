@@ -3,8 +3,8 @@
     "result": "ok",
     "timestamp_precision": "seconds",
     "token_expiry": "unknown",
-    "operation": "Read-only BUS225 profile, A2 and peer review statuses",
-    "checked_at": "2026-10-28T11:21:05.729415+04:00",
+    "operation": "Read-only four current course assignment statuses, own files/grades, quizzes, materials metadata and news; first network failure recovered by complete retry",
+    "checked_at": "2026-10-29T15:03:57.905966+04:00",
     "latest_bus230_a2_check": {
       "checked_at": "2026-10-26T19:02:02.570675+04:00",
       "result": "ok",
@@ -12,16 +12,16 @@
       "evidence": "BUS230/2026-TSD/Correspondence/2026-10-26_A2-revision-check.json"
     },
     "evidence": {
-      "BUS230": "Archive/Correspondence/2026-10-27_all-course-sync-audit.json",
-      "BUS334": "Archive/Correspondence/2026-10-27_all-course-sync-audit.json",
-      "BUS219": "Archive/Correspondence/2026-10-27_all-course-sync-audit.json",
-      "BUS225": "BUS225/2026-TSD/Correspondence/2026-10-28_profile-email-vs-lms-check.json"
+      "BUS230": "Archive/Correspondence/2026-10-29_all-course-status-check.json",
+      "BUS334": "Archive/Correspondence/2026-10-29_all-course-status-check.json",
+      "BUS219": "Archive/Correspondence/2026-10-29_all-course-status-check.json",
+      "BUS225": "Archive/Correspondence/2026-10-29_all-course-status-check.json"
     },
     "last_success_by_course": {
-      "BUS230": "2026-10-27T14:23:48.426391+04:00",
-      "BUS334": "2026-10-27T14:23:48.426391+04:00",
-      "BUS219": "2026-10-27T14:23:48.426391+04:00",
-      "BUS225": "2026-10-28T11:21:05.729415+04:00"
+      "BUS230": "2026-10-29T15:03:44.494646+04:00",
+      "BUS334": "2026-10-29T15:03:57.901701+04:00",
+      "BUS219": "2026-10-29T15:03:22.638641+04:00",
+      "BUS225": "2026-10-29T15:03:35.116321+04:00"
     },
     "successful_account_check": {
       "userid": 257560
@@ -81,7 +81,7 @@
     }
   },
   "mail": {
-    "result": "Новых сроков оценочных работ в проверенном охвате нет. Письмо 26 октября открывает unit feedback surveys; ответ Study Plan и письмо о BUS334 A4 уже сохранены. Полный Outlook/WhatsApp не охвачен.",
+    "result": "Учебный Gmail после 27 октября: 0 совпадений по четырём предметам и учебным службам. Профиль jafarovfayaz@gmail.com подтверждён. Полный Outlook/WhatsApp и факт выступления BUS230 не охвачены. Дополнительный поиск всех университетских отправителей выявил Finance 27 и 29 октября: условия оплаты/регистрации сохранены.",
     "connection_delivery_check": {
       "checked_at": "2026-10-08T17:18:38.595375+04:00",
       "account": "jafarovfayaz@gmail.com",
@@ -126,9 +126,13 @@
         "bachelor_of_business_last_deadline": "2026-11-18",
         "deadline_time": "not stated",
         "evidence": "Archive/Correspondence/2026-10-19_early-bird-january-2027.json"
+      },
+      "latest_january_enrolment": {
+        "checked_on": "2026-10-29",
+        "evidence": "Archive/Correspondence/2026-10-29_finance-january-enrolment.json"
       }
     },
-    "checked_at": "2026-10-27T14:23:48.426391+04:00",
+    "checked_at": "2026-10-29T15:08:48.098382+04:00",
     "study_plan_check": {
       "checked_at": "2026-10-19T13:34:35.147373+04:00",
       "account": "jafarovfayaz@gmail.com",
@@ -153,8 +157,8 @@
         "approved_updated_plan_received": false
       }
     },
-    "evidence": "Archive/Correspondence/2026-10-27_all-course-sync-audit.json",
-    "scope": "after:2026/10/24 with all four course codes including spaced variants, Student/Academic Services and known instructor addresses; 3 results, search exhausted.",
+    "evidence": "Archive/Correspondence/2026-10-29_all-course-status-check.json",
+    "scope": "after:2026/10/27 (BUS219 OR \"BUS 219\" OR BUS225 OR \"BUS 225\" OR BUS230 OR \"BUS 230\" OR BUS334 OR \"BUS 334\" OR from:Dubai.StudentServices@murdoch.edu.au OR from:Dubai.AcademicServices@murdoch.edu.au OR from:Dana.KhouryEid@murdoch.edu.au OR from:Ashok.Mitra@murdoch.edu.au)",
     "outlook_attempt": {
       "attempted_at": "2026-10-07T13:31:59.360199+04:00",
       "result": "No accessible Outlook tab in connected browser inventory; no Outlook connector available in this chat",
@@ -162,53 +166,32 @@
     },
     "last_check_by_course": {
       "BUS230": {
-        "checked_at": "2026-10-27T14:23:48.426391+04:00",
+        "checked_at": "2026-10-29T15:08:48.098382+04:00",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "after:2026/10/24 with all four course codes including spaced variants, Student/Academic Services and known instructor addresses; 3 results, search exhausted.",
-        "result": "Новых сроков оценочных работ в заданном охвате не найдено.",
-        "evidence": "Archive/Correspondence/2026-10-27_all-course-sync-audit.json",
-        "timestamp_precision": "date; exact Gmail tool-call time not retained"
+        "scope": "after:2026/10/27 (BUS219 OR \"BUS 219\" OR BUS225 OR \"BUS 225\" OR BUS230 OR \"BUS 230\" OR BUS334 OR \"BUS 334\" OR from:Dubai.StudentServices@murdoch.edu.au OR from:Dubai.AcademicServices@murdoch.edu.au OR from:Dana.KhouryEid@murdoch.edu.au OR from:Ashok.Mitra@murdoch.edu.au)",
+        "result": "0 совпадений; поиск исчерпан.",
+        "evidence": "Archive/Correspondence/2026-10-29_all-course-status-check.json"
       },
       "BUS334": {
-        "checked_at": "2026-10-27T14:23:48.426391+04:00",
+        "checked_at": "2026-10-29T15:08:48.098382+04:00",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "after:2026/10/24 with all four course codes including spaced variants, Student/Academic Services and known instructor addresses; 3 results, search exhausted.",
-        "result": "Новых сроков оценочных работ в заданном охвате не найдено.",
-        "evidence": "Archive/Correspondence/2026-10-27_all-course-sync-audit.json",
-        "independent_subject_check": {
-          "checked_at": "2026-10-27T14:22:59+04:00",
-          "account": "jafarovfayaz@gmail.com",
-          "scope": "after:2026/10/21 (BUS334 OR \"BUS 334\" OR from:ashok.mitra OR (\"Submission confirmation\" \"Assignment 3\")) ; after:2026/10/22 (\"BUS334\" OR \"BUS 334\" OR \"Business Analytics\" OR from:Ashok.Mitra@murdoch.edu.au)",
-          "result": "Latest BUS334 instruction is Ashok 24 October final presentation email, previously recorded 25 October; re-read. Revised A3 receipts 22 October confirmed. No later relevant instruction or grade email in exhausted searches.",
-          "matched_messages": 9,
-          "relevant_messages": 8,
-          "next_page_token_present": false,
-          "uncovered": [
-            "Full university Outlook",
-            "WhatsApp",
-            "Messages outside the search terms"
-          ],
-          "evidence": "BUS334/2026-TSD/Correspondence/2026-10-27_mail-and-lms-check.json"
-        }
+        "scope": "after:2026/10/27 (BUS219 OR \"BUS 219\" OR BUS225 OR \"BUS 225\" OR BUS230 OR \"BUS 230\" OR BUS334 OR \"BUS 334\" OR from:Dubai.StudentServices@murdoch.edu.au OR from:Dubai.AcademicServices@murdoch.edu.au OR from:Dana.KhouryEid@murdoch.edu.au OR from:Ashok.Mitra@murdoch.edu.au)",
+        "result": "0 совпадений; поиск исчерпан.",
+        "evidence": "Archive/Correspondence/2026-10-29_all-course-status-check.json"
       },
       "BUS219": {
-        "checked_at": "2026-10-27T14:23:48.426391+04:00",
+        "checked_at": "2026-10-29T15:08:48.098382+04:00",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "after:2026/10/24 with all four course codes including spaced variants, Student/Academic Services and known instructor addresses; 3 results, search exhausted.",
-        "result": "Новых сроков оценочных работ в заданном охвате не найдено.",
-        "uncovered": [
-          "Full university Outlook",
-          "WhatsApp",
-          "Oral instructions"
-        ],
-        "evidence": "Archive/Correspondence/2026-10-27_all-course-sync-audit.json"
+        "scope": "after:2026/10/27 (BUS219 OR \"BUS 219\" OR BUS225 OR \"BUS 225\" OR BUS230 OR \"BUS 230\" OR BUS334 OR \"BUS 334\" OR from:Dubai.StudentServices@murdoch.edu.au OR from:Dubai.AcademicServices@murdoch.edu.au OR from:Dana.KhouryEid@murdoch.edu.au OR from:Ashok.Mitra@murdoch.edu.au)",
+        "result": "0 совпадений; поиск исчерпан.",
+        "evidence": "Archive/Correspondence/2026-10-29_all-course-status-check.json"
       },
       "BUS225": {
-        "checked_at": "2026-10-28T11:22:21.824948+04:00",
+        "checked_at": "2026-10-29T15:08:48.098382+04:00",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "BUS225 profile instruction, sent form and approval re-read; recent matching mail after 25 October",
-        "result": "Email submission and approval confirmed; no new BUS225 instruction in search.",
-        "evidence": "BUS225/2026-TSD/Correspondence/2026-10-28_profile-email-vs-lms-check.json"
+        "scope": "after:2026/10/27 (BUS219 OR \"BUS 219\" OR BUS225 OR \"BUS 225\" OR BUS230 OR \"BUS 230\" OR BUS334 OR \"BUS 334\" OR from:Dubai.StudentServices@murdoch.edu.au OR from:Dubai.AcademicServices@murdoch.edu.au OR from:Dana.KhouryEid@murdoch.edu.au OR from:Ashok.Mitra@murdoch.edu.au)",
+        "result": "0 совпадений; поиск исчерпан.",
+        "evidence": "Archive/Correspondence/2026-10-29_all-course-status-check.json"
       }
     }
   },

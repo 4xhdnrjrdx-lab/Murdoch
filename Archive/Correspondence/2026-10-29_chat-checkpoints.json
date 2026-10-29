@@ -1,0 +1,31 @@
+{
+  "checked_on": "2026-10-29",
+  "timezone": "Asia/Dubai",
+  "method": "Read three latest turns of each existing subject chat; no messages sent.",
+  "checkpoints": [
+    {
+      "course": "BUS219",
+      "thread_id": "01a158fe-211a-74a3-bbaf-fd2801d9d9b8",
+      "title": "Bus219 Вторник v0.3",
+      "latest_user_decision": "27 October: remove disclaimer after reported lecturer clarification. Updated v2 published at 78cf292."
+    },
+    {
+      "course": "BUS225",
+      "thread_id": "01a15d52-937f-7732-9ac3-8fa6b32d45a6",
+      "title": "Bus225 Среда_1 v0.3",
+      "latest_user_decision": "28 October: accepted working DOCX; plans to share with group and after agreement ask lecturer for feedback. No completed send or LMS submission claimed."
+    },
+    {
+      "course": "BUS230",
+      "thread_id": "01a15dfd-0b4c-7c80-9ca1-4c3cd5e2496b",
+      "title": "Bus230 Среда_2 v0.6",
+      "latest_user_decision": "27 October: intends to send ALEX presentation using Outlook; subsequently asked if GitHub current. Intent is not evidence of actual send or presentation."
+    },
+    {
+      "course": "BUS334",
+      "thread_id": "01a1159c-92b8-70f3-8100-fb11e0895857",
+      "title": "Bus334 Четверг v0.2",
+      "latest_checkpoint": "27 October check confirms A3 submitted/notgraded and 12 November A4 instructions. No later group readiness evidence found."
+    }
+  ]
+}

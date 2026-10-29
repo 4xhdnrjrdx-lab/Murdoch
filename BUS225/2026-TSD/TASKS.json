@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course": "BUS225",
   "period": "2026-TSD",
-  "reviewed_at": "2026-10-28",
+  "reviewed_at": "2026-10-29",
   "allowed_states": [
     "предложено",
     "согласовано",
@@ -23,8 +23,8 @@
         {
           "value": "2026-09-18 09:00 Asia/Dubai",
           "source_label": "Moodle API timestamp",
-          "checked_at": "2026-10-17",
-          "source_path": "Correspondence/2026-10-17_general-lms-check.json"
+          "checked_at": "2026-10-29",
+          "source_path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json"
         },
         {
           "value": "by 18th September, без точного времени; отправить email",
@@ -69,6 +69,12 @@
           "note": "Профиль отправлен email и Carrefour одобрен; Moodle profile/A2/peer new без файлов. Письма перечитаны в учебном Gmail.",
           "path": "Correspondence/2026-10-28_profile-email-vs-lms-check.json",
           "source": ""
+        },
+        {
+          "date": "2026-10-29",
+          "note": "Аудит базы: повторно прочитаны собственные статусы/файлы LMS, сроки и последние news. Учебный Gmail по четырём предметам после 27 октября: 0 совпадений. Подробный охват и ограничения в источнике.",
+          "path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json",
+          "source": ""
         }
       ],
       "unknown": "Отдельного подтверждения, что загрузка профиля в Moodle не нужна, нет. Соответствие email Group 9 и Moodle Class 2 Group E по составу в этой проверке не установлено.",
@@ -85,8 +91,8 @@
         {
           "value": "2026-10-02 17:00 Asia/Dubai",
           "source_label": "Moodle API timestamp",
-          "checked_at": "2026-10-17",
-          "source_path": "Correspondence/2026-10-17_general-lms-check.json"
+          "checked_at": "2026-10-29",
+          "source_path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json"
         }
       ],
       "evidence": [
@@ -131,6 +137,12 @@
           "note": "Оригинальный Word feedback преподавательницы получен из Moodle; содержит 14/30 и комментарии.",
           "path": "Assignments/A1/Feedback/Feedback_A1_2026-10-17.docx",
           "source": ""
+        },
+        {
+          "date": "2026-10-29",
+          "note": "Аудит базы: повторно прочитаны собственные статусы/файлы LMS, сроки и последние news. Учебный Gmail по четырём предметам после 27 октября: 0 совпадений. Подробный охват и ограничения в источнике.",
+          "path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json",
+          "source": ""
         }
       ],
       "unknown": "Новых требований о пересдаче или замене в полученном feedback нет.",
@@ -139,22 +151,22 @@
       "grade": {
         "value": 14,
         "maximum": 30,
-        "source_path": "Correspondence/2026-10-17_general-lms-check.json",
-        "checked_at": "2026-10-17"
+        "source_path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json",
+        "checked_at": "2026-10-29"
       }
     },
     {
       "id": "A2",
       "title": "Reflective Journal + Service Blueprint, 40%",
       "status": "готово к сдаче",
-      "next_action": "Использовать только For_Submission/BUS225_A2_Group9_Carrefour.docx. Группе прочитать работу; подтвердить фактический вклад участников по брифу, выполнить индивидуальный peer review и определить загрузчика. Загружать только по отдельному поручению.",
+      "next_action": "Использовать только For_Submission/BUS225_A2_Group9_Carrefour.docx. По плану пользователя от 28 октября сначала получить согласие группы, затем самому отправить Dana на предварительное ревью. Это не финальная сдача: отдельно выполнить peer review и загрузить в LMS до 6 ноября 17:00 Dubai. Ассистент без поручения не отправляет.",
       "detail": "Единственный окончательный файл для группы и LMS: Assignments/A2/For_Submission/BUS225_A2_Group9_Carrefour.docx. Отчёт, Figure 1 и references в одном DOCX; 1978 слов без references, пять страниц. 28 октября исправлены смысловые ошибки и цитирование в пользовательской редакции, сокращены повторы; её основа сохранена. Схема и references неизменны; в семи абзацах v2 точечно исправлены ошибки, включая этические аргументы. Исходная v2 сохранена в User_Revision_V2_2026-10-28, предыдущая копия — в User_Revision_2026-10-28. Сдача не подтверждена.",
       "deadlines": [
         {
           "value": "2026-11-06 17:00 Asia/Dubai",
           "source_label": "Moodle API timestamp",
-          "checked_at": "2026-10-25",
-          "source_path": "../../Archive/Correspondence/2026-10-25_general-deadlines-check.json"
+          "checked_at": "2026-10-29",
+          "source_path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json"
         }
       ],
       "evidence": [
@@ -247,11 +259,30 @@
           "note": "Точечно исправлена пользовательская v2: отдельные фрагменты в семи абзацах, цитирование и случайные стили заголовка; 2088 → 1978 слов, пять страниц проверены. Исходник сохранён.",
           "path": "Assignments/A2/User_Revision_V2_2026-10-28/Checks/REVISION.json",
           "source": ""
+        },
+        {
+          "date": "2026-10-29",
+          "note": "Аудит базы: повторно прочитаны собственные статусы/файлы LMS, сроки и последние news. Учебный Gmail по четырём предметам после 27 октября: 0 совпадений. Подробный охват и ограничения в источнике.",
+          "path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json",
+          "source": ""
+        },
+        {
+          "date": "2026-10-28",
+          "note": "Пользователь в предметном чате принял файл; сообщил план отправить группе и после согласия попросить предварительную обратную связь Dana. План не доказывает состоявшуюся отправку.",
+          "path": "../../Archive/Correspondence/2026-10-29_chat-checkpoints.json",
+          "source": ""
         }
       ],
-      "unknown": "Фактические вклады и подтверждающие email участников, конечный загрузчик и финальная сдача не подтверждены. Полный Outlook и WhatsApp не проверены.",
+      "unknown": "Согласие группы, фактические вклады и подтверждающие email, отправка преподавательнице на ревью, её feedback, конечный загрузчик и финальная сдача пока не подтверждены. Полный Outlook и WhatsApp не охвачены.",
       "show_on_overview": true,
-      "correction": ""
+      "correction": "",
+      "working_files": [
+        {
+          "path": "Assignments/A2/For_Submission/BUS225_A2_Group9_Carrefour.docx",
+          "role": "Единственный актуальный DOCX для группы и последующей сдачи",
+          "note": "Исправленная пользовательская v2 от 28 октября; 1978 слов без references. В LMS пока new."
+        }
+      ]
     },
     {
       "id": "PEER",
@@ -263,8 +294,8 @@
         {
           "value": "2026-11-06 17:00 Asia/Dubai",
           "source_label": "Moodle API timestamp",
-          "checked_at": "2026-10-25",
-          "source_path": "../../Archive/Correspondence/2026-10-25_general-deadlines-check.json"
+          "checked_at": "2026-10-29",
+          "source_path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json"
         }
       ],
       "evidence": [
@@ -302,6 +333,12 @@
           "date": "2026-10-28",
           "note": "Профиль отправлен email и Carrefour одобрен; Moodle profile/A2/peer new без файлов. Письма перечитаны в учебном Gmail.",
           "path": "Correspondence/2026-10-28_profile-email-vs-lms-check.json",
+          "source": ""
+        },
+        {
+          "date": "2026-10-29",
+          "note": "Аудит базы: повторно прочитаны собственные статусы/файлы LMS, сроки и последние news. Учебный Gmail по четырём предметам после 27 октября: 0 совпадений. Подробный охват и ограничения в источнике.",
+          "path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json",
           "source": ""
         }
       ],
@@ -347,11 +384,27 @@
           "note": "Пользователь выбрал английский язык подготовки для экзамена и развития письма/речи; задания по одному, первая попытка с опорами.",
           "path": "Correspondence/2026-10-17_english-preparation-preference.md",
           "source": ""
+        },
+        {
+          "date": "2026-10-29",
+          "note": "Аудит базы: повторно прочитаны собственные статусы/файлы LMS, сроки и последние news. Учебный Gmail по четырём предметам после 27 октября: 0 совпадений. Подробный охват и ограничения в источнике.",
+          "path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json",
+          "source": ""
         }
       ],
       "unknown": "Точный состав/число вопросов, номер аудитории и поздние изменения; исходный уровень пользователя ещё не оценён.",
       "show_on_overview": true,
-      "correction": ""
+      "correction": "",
+      "working_files": [
+        {
+          "path": "Assignments/A3/Preparation/PLAN_RU.md",
+          "role": "Текущий план подготовки"
+        },
+        {
+          "path": "Assignments/A3/Preparation/PROGRESS.json",
+          "role": "Подтверждённый прогресс и точка следующего занятия"
+        }
+      ]
     },
     {
       "id": "PRACTICE",
@@ -371,6 +424,12 @@
           "date": "2026-10-17",
           "note": "В таблице оценивания только A1 30%, A2 40%, Final Exam 30%; квизы не выделены отдельным пунктом.",
           "path": "Materials/UnitOutline/00_UNIT_OUTLINE_BUS225_TSD2026.md",
+          "source": ""
+        },
+        {
+          "date": "2026-10-29",
+          "note": "Аудит базы: повторно прочитаны собственные статусы/файлы LMS, сроки и последние news. Учебный Gmail по четырём предметам после 27 октября: 0 совпадений. Подробный охват и ограничения в источнике.",
+          "path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json",
           "source": ""
         }
       ],
