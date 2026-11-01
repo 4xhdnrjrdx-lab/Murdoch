@@ -1,0 +1,17 @@
+{
+  "words_whitespace": 1946,
+  "words_conservative_tokens": 1951,
+  "figure_text_extracted_from_drawing_labels": true,
+  "references": 10,
+  "date": "2026-11-01",
+  "pages": 7,
+  "visual_review": "Pages 1–7 and both landscape panels reviewed.",
+  "source_method": "UAE shopper guide and location-specific director description, operator report p. 44, two overseas Carrefour examples, other grocer, academic literature. No first-hand observation.",
+  "class_reference": "Service blueprinting_slides.pptx, slides 4–10: timeline, standards, actions and evidence, visibility boundary, support and database dependencies, failure and wait points.",
+  "external_targets_in_both_formats": 9,
+  "citation_reference_pairs": 10,
+  "files": {
+    "BUS225_A2_Group9_Carrefour.docx": "58e4e570cf04db45ef56d47f9df7385274db2dfc72c3b99f4bab337171aa8c73",
+    "BUS225_A2_Group9_Carrefour.pdf": "f4ac3adf62053d52047fd8737e3390a895a478c36c55813f672557c215526594"
+  }
+}

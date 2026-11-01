@@ -6,9 +6,10 @@
 
 ## A2: Reflective Journal + Service Blueprint, 40%
 
-Состояние: готово к сдаче.
+Состояние: в работе.
 
-- [Единственный актуальный DOCX для группы и последующей сдачи](A2/For_Submission/BUS225_A2_Group9_Carrefour.docx) — Исправленная пользовательская v2 от 28 октября; 1978 слов без references. В LMS пока new.
+- [Рабочая редакция после преподавательского отзыва, DOCX для группы](A2/Revision_2026-11-01/BUS225_A2_Group9_Carrefour.docx)
+- [Тот же отчёт и blueprint в PDF для просмотра](A2/Revision_2026-11-01/BUS225_A2_Group9_Carrefour.pdf)
 
 ## A3: Final Exam, 30%
 

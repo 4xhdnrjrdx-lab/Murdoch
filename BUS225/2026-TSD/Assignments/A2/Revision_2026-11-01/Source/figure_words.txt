@@ -1,0 +1,100 @@
+Timeline
+Pilot standard
+Customer actions
+Physical evidence
+Frontstage
+Backstage
+Support processes
+Databases
+Visible to shopper
+Out of shopper’s view
+Line of interaction
+Line of visibility
+Line of internal interaction
+Internal IT interaction
+01  Enter
+Identify route before bagging
+Choose handheld or terminal
+Scanner rack, basket, lane signs
+Colleague explains when to scan and offers cashier
+Prepare devices and assign entrance cover
+Charge scanners
+Scanner status
+Roster entrance help
+Staff roster
+F1
+02  Find pasta
+Check shelf before closing alert
+Find 500 g pack or ask for help
+Empty facing, shelf ticket, Tally on patrol where deployed
+Colleague refills and verifies shelf or explains shortage
+Check stockroom, assign refill or report shortage
+Locate stock
+Stock record
+Assign shelf alerts
+Tally alerts where deployed
+F2
+W
+03  Scan and bag
+One unit per pack
+Scan tin once or carry it unscanned to Self Checkout
+Barcode, scanner display, bag
+Display item and quantity. Colleague helps undo duplicate
+Match barcode and record basket change
+Maintain barcodes
+Item catalogue
+Update quantities
+Basket record
+F3
+Basket → stage 05
+Continue to stage 04 on the next page.
+Timeline
+Pilot standard
+Customer actions
+Physical evidence
+Frontstage
+Backstage
+Support processes
+Databases
+Visible to shopper
+Out of shopper’s view
+Line of interaction
+Line of visibility
+Line of internal interaction
+Internal IT interaction
+04  Check promotion
+Verify pack and offer conditions
+Query yoghurt price or return pot
+Yoghurt, offer ticket, displayed price
+Colleague compares exact pack and explains offer
+Supervisor checks rule and authorises correction
+Maintain offers
+Promotion file
+Replace wrong labels
+Label correction task
+F4
+W
+05  Pay
+Confirm one successful charge
+Pay for handheld basket or scan at terminal
+Payment counter, terminal, receipt
+Scan&Go terminal loads basket. Self Checkout displays each scan.
+Reconcile payment state before retry
+Retrieve basket
+Basket total
+Confirm payment
+Transaction log
+W
+06  Resolve charge
+One case per disputed item
+Show receipt and confirm remedy
+Desk, receipt line, case number
+Desk colleague explains adjustment and confirms outcome
+Review price evidence and authorise remedy
+Track dispute
+Case history
+Validate offer
+Offer record
+F5
+W
+For an unresolved price dispute, return from stage 06 to the price check at stage 04.
