@@ -48,8 +48,8 @@ for line in (S/'report.txt').read_text().splitlines():
  else:doc.add_paragraph(line)
 sec=doc.add_section(WD_SECTION.NEW_PAGE);size(sec,True)
 for i,(title,caption) in enumerate([
- ('Choosing a route and filling the basket','F1 marks an unavailable scanner, F2 an empty facing and F3 a duplicate scan. W marks a possible wait. Each support process feeds the task above it. Arrows across the line of visibility carry a request down and a response back.'),
- ('Checking the price, paying and resolving a charge','F4 marks a price mismatch and F5 a repeated complaint. For each stage the bottom row identifies the records each support process uses. Copper arrows carry price and payment evidence. Controls and standards are proposals. The customer routes follow Carrefour UAE (n.d.). Layout follows the class blueprint and Bitner et al. (2008).')]):
+ ('Selecting goods and choosing Self Checkout','F1 marks an unavailable handheld scanner and F2 a possible shelf gap. W marks a possible wait. Each support process feeds the task above it. Arrows across the line of visibility carry a request down and a response back.'),
+ ('Scanning, paying by card and handling a possible dispute','F3 marks the unread barcode Faiaz encountered. F4 is a possible disputed charge. For each stage the bottom row identifies the records each support process uses. Copper arrows carry item and payment evidence. Staff responses, controls and standards are proposals. The customer routes follow Carrefour UAE (n.d.). Layout follows the class blueprint and Bitner et al. (2008).')]):
  if i:doc.add_page_break()
  p=doc.add_paragraph();p.paragraph_format.space_after=Pt(1);p.add_run('Figure 1'+(' (continued)' if i else '')).bold=True
  p=doc.add_paragraph();p.paragraph_format.space_after=Pt(3);p.add_run(title).italic=True

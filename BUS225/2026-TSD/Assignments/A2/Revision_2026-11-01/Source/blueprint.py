@@ -2,16 +2,78 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 import math, re
 D=Path(__file__).resolve().parent
-panels=[
-[
- ('01  Enter','Identify route before bagging','Choose handheld or terminal','Scanner rack, basket, lane signs','Colleague explains when to scan and offers cashier','Prepare devices and assign entrance cover','Charge scanners','Roster entrance help','Scanner status','Staff roster','F1',''),
- ('02  Find pasta','Check shelf before closing alert','Find 500 g pack or ask for help','Empty facing, shelf ticket, Tally on patrol where deployed','Colleague refills and verifies shelf or explains shortage','Check stockroom, assign refill or report shortage','Locate stock','Assign shelf alerts','Stock record','Tally alerts where deployed','F2','W'),
- ('03  Scan and bag','One unit per pack','Scan tin once or carry it unscanned to Self Checkout','Barcode, scanner display, bag','Display item and quantity. Colleague helps undo duplicate','Match barcode and record basket change','Maintain barcodes','Update quantities','Item catalogue','Basket record','F3','')],
-[
- ('04  Check promotion','Verify pack and offer conditions','Query yoghurt price or return pot','Yoghurt, offer ticket, displayed price','Colleague compares exact pack and explains offer','Supervisor checks rule and authorises correction','Maintain offers','Replace wrong labels','Promotion file','Label correction task','F4','W'),
- ('05  Pay','Confirm one successful charge','Pay for handheld basket or scan at terminal','Payment counter, terminal, receipt','Scan&Go terminal loads basket. Self Checkout displays each scan.','Reconcile payment state before retry','Retrieve basket','Confirm payment','Basket total','Transaction log','','W'),
- ('06  Resolve charge','One case per disputed item','Show receipt and confirm remedy','Desk, receipt line, case number','Desk colleague explains adjustment and confirms outcome','Review price evidence and authorise remedy','Track dispute','Validate offer','Case history','Offer record','F5','W')]
-]
+panels=[[('01  Enter',
+   'Explain where scanning starts',
+   'Enter to buy a few items',
+   'Basket, entrance signs, scanner rack where offered',
+   'Colleague explains optional Scan&Go route',
+   'Prepare devices and assign entrance cover',
+   'Charge scanners',
+   'Roster entrance help',
+   'Scanner status',
+   'Staff roster',
+   'F1',
+   ''),
+  ('02  Select items',
+   'Check shelf before closing alert',
+   'Pick snacks, drinks and household items',
+   'Products, shelf tickets, Tally where deployed',
+   'If a shelf is empty, refill it or explain shortage',
+   'Check stockroom and assign refill task',
+   'Locate stock',
+   'Assign shelf alerts',
+   'Stock record',
+   'Shelf alert log',
+   'F2',
+   'W'),
+  ('03  Choose lane',
+   'Give a choice of checkout',
+   'Choose Self Checkout over cashier line',
+   'Cashier line, terminal, lane signs',
+   'Show available terminals and staffed lane',
+   'Allocate attendant cover across terminals',
+   'Monitor terminal status',
+   'Roster attendants',
+   'Terminal status',
+   'Staff roster',
+   '',
+   'W')],
+ [('04  Scan and bag',
+   'One recorded unit per item',
+   'Retry unread barcode, then place item in bagging area',
+   'English prompts, barcode reader, bagging area',
+   'Display accepted item. Offer help if retries fail',
+   'Check barcode match and preserve basket',
+   'Maintain barcodes',
+   'Update basket',
+   'Item catalogue',
+   'Basket record',
+   'F3',
+   'W'),
+  ('05  Pay by card',
+   'Confirm one successful charge',
+   'Pay by bank card',
+   'Payment screen, card terminal',
+   'Terminal shows total and payment result',
+   'Reconcile payment state before retry',
+   'Retrieve basket',
+   'Confirm payment',
+   'Basket total',
+   'Transaction log',
+   '',
+   ''),
+  ('06  Query charge',
+   'One case per disputed item',
+   'If needed, query a charge',
+   'Receipt line, help desk, case number',
+   'Desk colleague explains adjustment and confirms outcome',
+   'Review price evidence and authorise remedy',
+   'Track dispute',
+   'Validate price',
+   'Case history',
+   'Item and price record',
+   'F4',
+   'W')]]
 rowlabels=['Timeline','Pilot standard','Customer actions','Physical evidence','Frontstage','Backstage','Support processes','Databases']
 labels=[]; S=2; W=1450; H=860; rg='/System/Library/Fonts/Supplemental/Arial.ttf'; bd='/System/Library/Fonts/Supplemental/Arial Bold.ttf'
 navy='#183549'; teal='#155965'; line='#71949B'; edge='#B9CBCF'; ink='#1C3440'; muted='#45616A'; rust='#9B4129'
@@ -70,8 +132,8 @@ def drawpanel(index,cols):
   arrow([(207+409+379,756),(207+818,756)],rust)
   arrow([(207+91,791),(207+91,806),(207+818+287,806),(207+818+287,791)],rust)
  else:
-  txt(1220,810,'Basket → stage 05',15,True,rust,anchor='mm')
- txt(8,830,('Continue to stage 04 on the next page.' if not index else 'For an unresolved price dispute, return from stage 06 to the price check at stage 04.'),17,True,teal)
+  txt(1220,810,'Terminal → stage 04',15,True,rust,anchor='mm')
+ txt(8,830,('Continue to stage 04 on the next page.' if not index else 'For an unresolved price dispute, check the item recorded at stage 04 against the receipt.'),17,True,teal)
  out=D/('panel_'+str(index+1)+'.png');im.save(out,optimize=True);labels.extend(local)
 if __name__=='__main__':
  for i,cols in enumerate(panels):drawpanel(i,cols)

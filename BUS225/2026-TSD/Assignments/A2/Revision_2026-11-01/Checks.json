@@ -1,17 +1,17 @@
 {
-  "words_whitespace": 1946,
-  "words_conservative_tokens": 1951,
+  "words_whitespace": 1911,
+  "words_conservative_tokens": 1917,
   "figure_text_extracted_from_drawing_labels": true,
   "references": 10,
   "date": "2026-11-01",
   "pages": 7,
   "visual_review": "Pages 1–7 and both landscape panels reviewed.",
-  "source_method": "UAE shopper guide and location-specific director description, operator report p. 44, two overseas Carrefour examples, other grocer, academic literature. No first-hand observation.",
+  "source_method": "Faiaz supplied a personal account of using Self Checkout at Mall of the Emirates. City Centre Deira, Tally and international robotics are sourced comparisons. No timings or employee intervention claimed for the visit.",
   "class_reference": "Service blueprinting_slides.pptx, slides 4–10: timeline, standards, actions and evidence, visibility boundary, support and database dependencies, failure and wait points.",
   "external_targets_in_both_formats": 9,
   "citation_reference_pairs": 10,
   "files": {
-    "BUS225_A2_Group9_Carrefour.docx": "58e4e570cf04db45ef56d47f9df7385274db2dfc72c3b99f4bab337171aa8c73",
-    "BUS225_A2_Group9_Carrefour.pdf": "f4ac3adf62053d52047fd8737e3390a895a478c36c55813f672557c215526594"
+    "BUS225_A2_Group9_Carrefour.docx": "6ab7f0adb2205a60e79f65bf79d496469ba659e1a0d2e2579ecbab747caea694",
+    "BUS225_A2_Group9_Carrefour.pdf": "84996269247fa0f18e27517122268126cbe72cd5d4c5dad3e25242fcd2dcc044"
   }
 }
