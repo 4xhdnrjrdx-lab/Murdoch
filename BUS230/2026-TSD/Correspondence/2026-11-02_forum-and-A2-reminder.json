@@ -1,0 +1,56 @@
+{
+  "checked_at": "2026-11-02T13:47:27.375526+04:00",
+  "scope": "BUS230 only: teacher message, Team Discussion Forum and own A2 submission status",
+  "mail": {
+    "account": "jafarovfayaz@gmail.com",
+    "message_id": "1a19b0ab1fc238d6",
+    "subject": "New message from Shahinda Baig",
+    "sender": "Shahinda Baig via myMurdoch Learning",
+    "received_at": "2026-11-02T10:55:20+04:00",
+    "query": "after:2026/10/28 (Shahinda OR BUS230 OR \"Change Management\" OR \"forum\")",
+    "matching_messages": 1,
+    "summary": "Check subscription to BUS230 Team Discussion Forum; some students lost it, possibly after LMS update. Important Assessment 2 reminders are in forum.",
+    "limitations": "Focused search in connected study Gmail; Outlook itself and WhatsApp not accessed."
+  },
+  "subscription": {
+    "forum_id": 149753,
+    "cmid": 3074722,
+    "url": "https://moodleprod.murdoch.edu.au/mod/forum/view.php?id=3074722",
+    "before": "Subscribe to forum; off",
+    "action": "Subscribe to forum clicked in authenticated Moodle UI under user instruction",
+    "after": "You will be notified of new posts in the forum 'Team Discussion Forum'.",
+    "control_after": "Unsubscribe from forum",
+    "verified": true,
+    "evidence": "2026-11-02_forum-subscription.png"
+  },
+  "a2": {
+    "id": 124983,
+    "cmid": 3074736,
+    "name": "Assessment 2: Presentation Material (Group) Submission Portal",
+    "due_timestamp": 1793980740,
+    "due_dubai": "2026-11-06T19:59:00+04:00",
+    "own_status": null,
+    "own_files": [],
+    "group_status": "new",
+    "group_files": [],
+    "gradingstatus": "notgraded"
+  },
+  "announcement": {
+    "id": 2554590,
+    "discussion": 997356,
+    "name": "BUS230 Assessment 2 – Final LMS Submission Reminder",
+    "message": "<p>Hi everyone,</p>\r\n<p>As we are now halfway through the live presentations for Assessment 2 being completed, I wanted to share a few important reminders for your final LMS submission.</p>\r\n<h3>Please do not edit the presentation slides</h3>\r\n<p>The presentation delivered in class is recorded, including the slides shown on the day.</p>\r\n<p>Please therefore submit the <strong>same presentation that you deliver live</strong>, without changing, adding, removing or improving any of the slide content after the presentation.</p>\r\n<p>This is important so that the material submitted to the LMS is consistent with the presentation that was actually recorded as a part of the assessment. Making changes to the presentation after it has been delivered could raise academic integrity concerns.</p>\r\n<p>You MUST ensure that the required <strong>academic notes supporting the existing slides</strong> are included with your submission.</p>\r\n<h3>Academic notes</h3>\r\n<p>As discussed in class, the brief points shown on your slides should be supported by fuller academic explanation.</p>\r\n<p>For each relevant slide, your academic notes should be about a paragraph or two in order to:</p>\r\n<ul>\r\n<li>\r\n<p>explain the point or claim made on the slide in more detail;</p>\r\n</li>\r\n<li>\r\n<p>provide the academic evidence supporting it;</p>\r\n</li>\r\n<li>\r\n<p>include the relevant in-text citations;</p>\r\n</li>\r\n<li>\r\n<p>explain the reasoning behind your analysis, limitations and proposed modification where relevant; and</p>\r\n</li>\r\n<li>\r\n<p>clearly correspond to the content already presented on that slide.</p>\r\n</li>\r\n</ul>\r\n<p>The Unit Outline allows this additional academic explanation to be provided either in the presentation Notes section or as a separate supporting document.</p>\r\n<p>If you use a <strong>separate document</strong>, please clearly identify the slide number before the corresponding notes, for example:</p>\r\n<ul>\r\n<li><strong>Slide 7 – Limitation 1</strong><br />Academic explanation and supporting citations...</li>\r\n<li><strong>Slide 8 – Limitation 2</strong><br />Academic explanation and supporting citations...</li>\r\n</ul>\r\n<p>The academic notes should <strong>support the slides you already presented, not introduce new arguments, limitations, modifications, evidence or content that was not part of the presentation.</strong></p>\r\n<h3>Academic notes are not your speaking notes</h3>\r\n<p>Please remember that these are different from the personal speaking notes you may have used during the presentation.</p>\r\n<p>Your academic notes provide the <strong>research, evidence and explanation behind the slide content</strong>. Your speaking notes were simply there to help you deliver the presentation and do not need to be submitted as the academic supporting notes.</p>\r\n<h3>Before submitting</h3>\r\n<p>Please check that:</p>\r\n<ul>\r\n<li>\r\n<p>the presentation itself is the same version that was presented in class;</p>\r\n</li>\r\n<li>\r\n<p>the academic notes clearly correspond to the relevant slides;</p>\r\n</li>\r\n<li>\r\n<p>academic claims are supported with appropriate in-text citations;</p>\r\n</li>\r\n<li>\r\n<p>your reference list matches the sources cited in the presentation and academic notes; and</p>\r\n</li>\r\n<li>\r\n<p>you have not added new substantive content to the presentation after the live assessment.</p>\r\n</li>\r\n</ul>\r\n<p>This will ensure that the LMS submission accurately reflects the work that was presented and assessed on the day.</p>\r\n<p>All the best.</p>\r\n<p>Best,<br />Shahinda</p>",
+    "userfullname": "Shahinda Baig",
+    "created": 1793601836,
+    "modified": 1793601992,
+    "url": "https://moodleprod.murdoch.edu.au/mod/forum/discuss.php?d=997356",
+    "created_dubai": "2026-11-02T10:43:56+04:00"
+  },
+  "boundaries": [
+    "No posts or messages sent",
+    "No slides or files edited",
+    "No assignment submitted",
+    "No personal media changed",
+    "No raw email headers, recipient list, tokens or cookies retained"
+  ]
+}

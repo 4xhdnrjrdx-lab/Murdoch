@@ -17,3 +17,5 @@
 - [14 октября, 15:38–15:39: восстановление готового комплекта и проверка Moodle/Gmail](2026-10-14_1538_continuation-check.json).
 
 - [Общая проверка сроков, квизов, собственных попыток/сдач и оценок 17 октября](2026-10-17_general-lms-check.json)
+
+- [2 ноября: письмо Shahinda, включённая подписка на Team Discussion Forum и обязательные academic notes A2](2026-11-02_forum-and-A2-reminder.json).

@@ -6,10 +6,10 @@
     "operation": "Read-only four current course assignment statuses, own files/grades, quizzes, materials metadata and news; first network failure recovered by complete retry",
     "checked_at": "2026-10-29T15:03:57.905966+04:00",
     "latest_bus230_a2_check": {
-      "checked_at": "2026-10-26T19:02:02.570675+04:00",
+      "checked_at": "2026-11-02T13:47:27.375526+04:00",
       "result": "ok",
-      "scope": "A2 group submission status and portal due date only",
-      "evidence": "BUS230/2026-TSD/Correspondence/2026-10-26_A2-revision-check.json"
+      "scope": "Own A2 group portal new without files, due 6 November 19:59 Dubai; teacher forum reminder read",
+      "evidence": "BUS230/2026-TSD/Correspondence/2026-11-02_forum-and-A2-reminder.json"
     },
     "evidence": {
       "BUS230": "Archive/Correspondence/2026-10-29_all-course-status-check.json",
@@ -18,7 +18,7 @@
       "BUS225": "Archive/Correspondence/2026-10-29_all-course-status-check.json"
     },
     "last_success_by_course": {
-      "BUS230": "2026-10-29T15:03:44.494646+04:00",
+      "BUS230": "2026-11-02T13:47:27.375526+04:00",
       "BUS334": "2026-10-29T15:03:57.901701+04:00",
       "BUS219": "2026-10-29T15:03:22.638641+04:00",
       "BUS225": "2026-10-29T15:03:35.116321+04:00"
@@ -43,6 +43,11 @@
         "checked_at": "2026-10-27T14:22:07+04:00",
         "scope": "Read-only BUS334 A3 status/filenames, A4 metadata and available own grade fields",
         "evidence": "BUS334/2026-TSD/Correspondence/2026-10-27_mail-and-lms-check.json"
+      },
+      "BUS230": {
+        "checked_at": "2026-11-02T13:47:27.375526+04:00",
+        "scope": "BUS230 forum metadata/teacher reminder, own A2 group status/due; user-authorized whole-forum subscription through UI confirmed separately",
+        "evidence": "BUS230/2026-TSD/Correspondence/2026-11-02_forum-and-A2-reminder.json"
       }
     }
   },
@@ -208,6 +213,15 @@
         "scope": "after:2026/10/27 (BUS219 OR \"BUS 219\" OR BUS225 OR \"BUS 225\" OR BUS230 OR \"BUS 230\" OR BUS334 OR \"BUS 334\" OR from:Dubai.StudentServices@murdoch.edu.au OR from:Dubai.AcademicServices@murdoch.edu.au OR from:Dana.KhouryEid@murdoch.edu.au OR from:Ashok.Mitra@murdoch.edu.au)",
         "result": "0 совпадений; поиск исчерпан.",
         "evidence": "Archive/Correspondence/2026-10-29_all-course-status-check.json"
+      }
+    },
+    "course_checks": {
+      "BUS230": {
+        "checked_at": "2026-11-02T13:47:27.375526+04:00",
+        "account": "jafarovfayaz@gmail.com",
+        "scope": "after:2026/10/28 (Shahinda OR BUS230 OR \"Change Management\" OR \"forum\")",
+        "result": "1 matching message from Shahinda 2 November read; Outlook/WhatsApp not checked",
+        "evidence": "BUS230/2026-TSD/Correspondence/2026-11-02_forum-and-A2-reminder.json"
       }
     }
   },
