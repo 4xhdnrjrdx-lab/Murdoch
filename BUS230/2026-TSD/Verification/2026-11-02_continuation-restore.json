@@ -1,0 +1,500 @@
+{
+  "verified_at": "2026-11-02T13:58:35.599298+04:00",
+  "source_main": "acbe58f0c1665f4d2bb8cd15970adbded2722a7d",
+  "method": "Fresh partial Git repository fetched over network from GitHub, then checkout of selected paths into independent work tree; no local reference clone or copied source files used for restoration",
+  "initial_network_failure": "First partial checkout failed to fetch a missing blob; not treated as restored. Same checkout retried successfully, then every restored byte compared with the source commit.",
+  "scope": "Current BUS230 A2 presentation/scripts/media, full game v3 source archive and deployment records, A3 preparation, canonical subject records, forum instructions, core recovery rules and Moodle client",
+  "verified_file_count": 92,
+  "verified_bytes": 6480436,
+  "all_sha256_match": true,
+  "game_source_files_verified": 132,
+  "selected_working_files_verified": [
+    "Assignments/A2/Presentation_Alex_2026-10-27/BUS230Assessment2Class2Group4_2026-10-27_ALEX.pptx",
+    "Assignments/A2/Presentation_Alex_2026-10-27/BUS230_A2_Team_Speaking_Script_EN_ALEX.txt",
+    "Assignments/A2/Presentation_Alex_2026-10-27/BUS230_A2_Aram_Speaking_Text_EN_ALEX.txt",
+    "Assignments/A2/Presentation_Alex_2026-10-27/Cedar_Retail_Alex_Demo_36s.mp4",
+    "Assignments/A2/Presentation_Alex_2026-10-27/README.md",
+    "Assignments/A2/Game_Reset_Labels_2026-10-27/README.md",
+    "Assignments/A3/Preparation/PLAN_RU.md",
+    "Assignments/A3/Preparation/PROGRESS.json"
+  ],
+  "current_a2_pptx_count": 1,
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 13473,
+      "sha256": "37b74db0cda40964498bc193a9f5eea363e6fde4120bddf34dc554817aea7182"
+    },
+    {
+      "path": "Access/Moodle/README.md",
+      "bytes": 12349,
+      "sha256": "94de9dafe00d7a1ece9b44fa8bd90d405a645c2a27a1ccaad31995e072730991"
+    },
+    {
+      "path": "Access/Moodle/config.example.json",
+      "bytes": 333,
+      "sha256": "c69c3d68d7640b9bc324df0bf0e92785caef1ab14a8c6ffc1d2648f755890f29"
+    },
+    {
+      "path": "Access/Moodle/moodle.py",
+      "bytes": 6576,
+      "sha256": "241526a08c8e34a0befd628a69fead6f00e798d4518af47faecbe03d63511a49"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/DEPLOYMENT.json",
+      "bytes": 625,
+      "sha256": "da6b26704f075ab747019e598147e22c6971374a8f6f6f4902bdd11d7a41ad25"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/QA/API_Local.json",
+      "bytes": 2357,
+      "sha256": "9736d289a47cf73eb6383194f7bd4d6a167425e8defb4a1399bfe70ea17b3f9b"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/QA/Empty_Session_Local.png",
+      "bytes": 50508,
+      "sha256": "3d0ce8bb990a107de9bcb36c211a61af224bb077be6e21dd34911f988c0cd5c8"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/QA/Others_Label_Mobile.png",
+      "bytes": 57605,
+      "sha256": "af8720bcb97df5466abf775cc082bd8d855474b300748c23464d3608d1760c73"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/QA/Player_New_Session.png",
+      "bytes": 25191,
+      "sha256": "eb259ef97dae76f65d9639d78325b7782336109054e3a23f01245382cf7bc96e"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/QA/Reset_Confirm_Live.png",
+      "bytes": 44504,
+      "sha256": "169c9af29108777b8796025a90403c156e302eedc95f4b08e49d041a472993e1"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/QA/Reset_Confirm_Local.png",
+      "bytes": 38950,
+      "sha256": "86531a6808aefe0d50f668b1e5c4bfa31509f33c717141caaf7893f5711b2a55"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/QA/Verification.json",
+      "bytes": 1293,
+      "sha256": "cd899effe22d2e12329ef74254cabbed6f5f5dde56d4253c11c6e851c1c02b28"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/README.md",
+      "bytes": 6041,
+      "sha256": "522ded48be7061cac446255a239e7694a1a0026f281038948a21e251eb48fefe"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/Source.tar.gz",
+      "bytes": 206237,
+      "sha256": "aa734291f1fd2c7cb8eee01fb4375ca931e08c8acc8788202ed0793e49dc1fd4"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/Source_Manifest.json",
+      "bytes": 21007,
+      "sha256": "c0e494d0ba17d88a0bea8ad3010c80732dd4b96b39af21f29e69c20d0babd0d2"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/BUS230Assessment2Class2Group4_2026-10-27_ALEX.pptx",
+      "bytes": 1896586,
+      "sha256": "f812879511fd9a221cb62f26722e3ebd6abaf8eda7218584f4bc8c086921276f"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/BUS230_A2_Aram_Speaking_Text_EN_ALEX.txt",
+      "bytes": 6207,
+      "sha256": "3250cfbab9297e8825b76a3b5474907b208860c60c9d446845bf9e1ce5d1274b"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/BUS230_A2_Team_Speaking_Script_EN_ALEX.txt",
+      "bytes": 15969,
+      "sha256": "f9684663a8d17c7d7a7a1ba4eab07c6279fd0dbbc7aa9a43eb6d05f9024acbc6"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/Cedar_Retail_Alex_Demo_36s.mp4",
+      "bytes": 669276,
+      "sha256": "4459ea1021b00e09bc5e5fd523d49778f8c19c74853afb5297e6ea95de026d10"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/FILES.json",
+      "bytes": 3611,
+      "sha256": "ffd2aeb6f9f24f9bcc12d5b0abeba7763e9d198aa9d6d5ce6ae5be584f35fd75"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/QA/Contact_Sheet.jpg",
+      "bytes": 232465,
+      "sha256": "727a7992b125932c733030e325fc4c367ff7576572450d5e6ed8afb64c398d31"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/QA/Final_Validation_ALEX.json",
+      "bytes": 5501,
+      "sha256": "5f09045854c2ae3b491b3e275e6f1a0c4cf4d8f5b1819d7d45238506844ca0cf"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/QA/Slide25.png",
+      "bytes": 166341,
+      "sha256": "14afb0a9cdaed82e377fa895760e255b79802aba89eb888ddb3b1380bf353670"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/QA/Verification.json",
+      "bytes": 1934,
+      "sha256": "c4f8eb2b6de4c5cf6314b8615335dbed60d0afbeb9c2c43eb0efb9e5ab5cea19"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/QA/ppt-gif-complete.jpg",
+      "bytes": 676377,
+      "sha256": "06cae37bc1e1b21354e4fd9957a4b79a54d7a0a211570ced1d34c6e74a7ad0ff"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/QA/ppt-gif-later.jpg",
+      "bytes": 675589,
+      "sha256": "b3a1191c9ed84f53148f1dff27ae02f7e4c75885655cf17394d65136f50ba4c0"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/QA/video-storyboard.jpg",
+      "bytes": 167824,
+      "sha256": "fe66232e1f1911bf35bd78978f22a2bb2c45f471dd90ed427c1e8c6bcf6f4023"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/README.md",
+      "bytes": 3628,
+      "sha256": "c4aadd471d2f8d07807c18c345f81844f33f0186407709fae570d9606b24b5d0"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/Source/Aram_Notes.json",
+      "bytes": 56902,
+      "sha256": "81213408ef58262a403c06a42de6a7878b473b9594efd4b7708b1c26e5ed552e"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/Source/Demo/Alex_36s.gif",
+      "bytes": 602507,
+      "sha256": "1ae616eb96b359c9ecc6c7cf53f6b132ea89cd00b5a7676c4523fc75b6e07997"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/Source/Demo/Poster.png",
+      "bytes": 168000,
+      "sha256": "68697beae8d94b3f1f3036433ddec590d775e3782d4facf3917e8e2a57dc4c0f"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/Source/Demo/game-base.css",
+      "bytes": 23591,
+      "sha256": "3aa51576a8debe3940c7e9729222131c4df6f1ef93614afa277efb0f5f73ed99"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/Source/Demo/index.html",
+      "bytes": 12389,
+      "sha256": "bde209fdf85da93e7e923531d325edf0512bae545a2a6e46a22c15ac8fac931a"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/Source/Script_Content_EN.json",
+      "bytes": 22378,
+      "sha256": "4fe5c4987e53e1659653328d68bbc7110c5b06be731d2d53b0f4cc7b12807573"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/Source/edit.mjs",
+      "bytes": 2284,
+      "sha256": "737cc4a54cd0164449bdfe45ed4da240fd412f03185a24dae9f9e5a8c788ee8a"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/Source/finalize.mjs",
+      "bytes": 1507,
+      "sha256": "0c27455540e7d06dd8c95ba154fe27d8c68694cc09bb2affd50120b0c0660ce9"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/Source/gif_fallback.py",
+      "bytes": 1932,
+      "sha256": "91b5c467486fc80e145cacf8e2113cbbfadad3a04e0d2ebf5e1603cf4264edb7"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/Source/merge_video.py",
+      "bytes": 5657,
+      "sha256": "88a60fa938fe4a4b34002740ded7aeb12064bfeb026b7314f76e69fa62b3d34c"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/Source/prepare_final.py",
+      "bytes": 4113,
+      "sha256": "aeb325307748fab1654bb0a25266afb2d61ea4b999332c0c91c923a723c69167"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/Source/render_all.mjs",
+      "bytes": 573,
+      "sha256": "4008ce4e43b25c3b5a93dd9b951ef547107021e932664dab43f4d0630e5e09f5"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/2026-10-17_game-app-clarification.json",
+      "bytes": 1496,
+      "sha256": "1af53e752f22a737affa29287a56d92e35d0e2b0b272d0fdb2af0c246ec64a5a"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/2026-10-17_game-learning-pilot.json",
+      "bytes": 1648,
+      "sha256": "a4c0a14f3f7265188f95ff8051a1760995ee9d98e90334d1522ae37e394b33f0"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/2026-10-17_game-mission-rebuild.json",
+      "bytes": 4663,
+      "sha256": "b0a3eeaa9c37d332b2c0baa679bacd0556fa92554c80450552bd5f7bfe1a9c4d"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/2026-10-17_interactive-learning-feedback.json",
+      "bytes": 492,
+      "sha256": "57ee2018072a3b8323bc07b9b346c4e231871592d0192f46ed5de5cf97f4a6b0"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/2026-10-17_new-chat-restart.json",
+      "bytes": 563,
+      "sha256": "377264d55439869238a65fdc93c9f31e11b0a74d5e04f14eb195c448f83809ef"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/2026-10-17_subject-focused-plan-request.json",
+      "bytes": 1637,
+      "sha256": "0b421b53ece3ec6271f0cb3ac8545c46ee331d20806913c290e1a0d985959f54"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/2026-10-17_visual-learning-preference.json",
+      "bytes": 1589,
+      "sha256": "be3d6e11fa80aa8277ddc5584de35911b2348ed38dd9e95bdc251bb353e52b8e"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/2026-10-19_colorful-game-design.json",
+      "bytes": 1728,
+      "sha256": "3f4f396df80d02ecfd9343ec5cf7de82a409c2ae4c17071d1d18f851ba802478"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/2026-10-20_gift-transfer-preparation.json",
+      "bytes": 1692,
+      "sha256": "621d7b700f072b94fb1177d96e6ce81d4f7f302a8a1e79785bd8b26a17857c81"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/2026-10-20_stop-game-format.json",
+      "bytes": 1515,
+      "sha256": "fa2bebec8f894f040c1be7e24a1b15e17c80499923f16a6e8806a1d250e24329"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/COVERAGE.md",
+      "bytes": 25517,
+      "sha256": "d03666c20341a656423c3aebbdf726cb5f32e3672342256757be3e9c7d8b541d"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/CURRICULUM.json",
+      "bytes": 38834,
+      "sha256": "7389689e7336cbfe2798a84fab9560a8dddbdaa1c178ab4082bd0a2ff9820572"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/History/NEW_CHAT_PROMPT_before-restart_2026-10-17.md",
+      "bytes": 6475,
+      "sha256": "b0d590a99bb11c7cefcc96d8b5f7c16e16f6b6dda2141cff597622426b2cdd2b"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/History/PLAN_RU_before-subject-focus_2026-10-17.md",
+      "bytes": 14269,
+      "sha256": "2173960c852bc72d35f3e14a229ee6e77b7b6374b3d8e773482091df29b36eca"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/Interactive/cedar-cafe-game.html",
+      "bytes": 40115,
+      "sha256": "5e2c8293ad59912ceca16b80c860ca9d8ca27feedbcd4288e23783de471efb0d"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/Interactive/cedar-gifts-transfer.html",
+      "bytes": 15155,
+      "sha256": "d9a5b1be755ab763c5d4eb74488618d695788e7931d4d60e703a636e66f9b864"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/Interactive/change-manager-game-demo.html",
+      "bytes": 16145,
+      "sha256": "84f5526998c810b348e0bd3d4c237570a025f1d4b507252edab43317951720dc"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/Interactive/change-manager-game.html",
+      "bytes": 10554,
+      "sha256": "c3c7f404f32b2557b3745fba0ed3925292765420f6e395455b847dd578dfbb91"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/Interactive/change-manager-mission.html",
+      "bytes": 19432,
+      "sha256": "5dcd5ee71665d664242fef4a83daf5026dff1deada5c8b36e6c91a14e1caef1d"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/NEW_CHAT_PROMPT_RU.md",
+      "bytes": 12102,
+      "sha256": "02f08ad60594f1edbbe667d9d14471e3f967c62c9b344d66b82de930a58f2bb4"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/PLAN_RU.md",
+      "bytes": 21996,
+      "sha256": "be28de1091c56c8a9f37b7fa4c3e4dd3fe730cb84a88180ff059e65154054436"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/PROGRESS.json",
+      "bytes": 16564,
+      "sha256": "52eaec114cade57e0b2967a226ccd976a46631a75cd7f8c7011a69579a1f000c"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/Sessions/2026-10-17_01_ATTEMPT_01.json",
+      "bytes": 2160,
+      "sha256": "5582ce30af1a07b09247fc62dce55684c67ab5b4fe4b360f00b9df52f7b90438"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/Sessions/2026-10-17_01_DRIVERS.md",
+      "bytes": 6261,
+      "sha256": "3acbd939a93e986de9a5c00c6f480531df4305ed5c484a8fa20fee2aa797a0f1"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/Sessions/2026-10-17_01_DRIVERS_EN.md",
+      "bytes": 4525,
+      "sha256": "2473cf8544ae498bfbfb0b6b3f04e5ae0a3ef23ca88ad62eafe5488e5662603f"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/Sessions/2026-10-17_01_DRIVER_WORD.json",
+      "bytes": 1134,
+      "sha256": "6bc852376a7a8cdfcdb4a742c2a2a4c9e9ae849caea4f5f9d2501378cfbf4f67"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/Sessions/2026-10-17_01_FORMAT_FEEDBACK.json",
+      "bytes": 1236,
+      "sha256": "9026c93c58697bbda0d9658f13da13a6dc2751a033e47a96756be33f5272c5b0"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/Sessions/2026-10-17_02_GAME_ATTEMPT_01.json",
+      "bytes": 2560,
+      "sha256": "d3ae8cdf5345f404a269c6a9c9b0df8bf9aa6dab6d5c6f9daf14f3d7d1f16f1f"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/Sessions/2026-10-17_02_GAME_ATTEMPT_02.json",
+      "bytes": 3499,
+      "sha256": "279ce665d276a3eb9aaf996a2a015f336f91f5c4243ac5823714f37ae315af19"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/Sessions/2026-10-17_02_RESTART.md",
+      "bytes": 9841,
+      "sha256": "031f1b06e51ffea60311a9b9ea46f00a6e9389c61c5aae1803d92ea5bde82596"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/Sessions/2026-10-20_GUIDED_CAFE_PASS.json",
+      "bytes": 2717,
+      "sha256": "3cb2e11daa359732b118b82e53e3c69951113129e35fba982ff43e97c64820be"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/Sessions/2026-10-21_FOUNDATION_EXPLANATION.md",
+      "bytes": 2028,
+      "sha256": "dff19a7dc66c94083d50a58c6e36cc90c33891b548540d80fa3b60209ca43e3c"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A3/Preparation/Visuals/cafe-change.html",
+      "bytes": 3285,
+      "sha256": "6b7bfaf480f8842362a2ff2424834a6acf7849f013a48e9754835ec992f5592b"
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/README.md",
+      "bytes": 1755,
+      "sha256": "e63a8e6dfaa9323bc744e1f86a53f04b5984d2a9a7b9277cb5b4a273afe78f94"
+    },
+    {
+      "path": "BUS230/2026-TSD/CONTEXT.md",
+      "bytes": 4627,
+      "sha256": "85197e9aa66756aa87064ecb26f5a963155baf18d6c389beb916ba8e6b772410"
+    },
+    {
+      "path": "BUS230/2026-TSD/Correspondence/2026-11-02_forum-and-A2-reminder.json",
+      "bytes": 5852,
+      "sha256": "766a7696c7f6c774b9d873386f0a955d8044361cee561ad95ba97d1a53a7c71e"
+    },
+    {
+      "path": "BUS230/2026-TSD/Correspondence/2026-11-02_forum-subscription.png",
+      "bytes": 88619,
+      "sha256": "81e10dca9e1c3f9d9f65994ddf7f456f3777a02ebbd81109f3b8ec2d701bd849"
+    },
+    {
+      "path": "BUS230/2026-TSD/HISTORY.md",
+      "bytes": 35171,
+      "sha256": "d80a6f316c9051c5f885935563045aeca61f8ffd50363c62bdf9add1c1cbaba6"
+    },
+    {
+      "path": "BUS230/2026-TSD/README.md",
+      "bytes": 709,
+      "sha256": "9c734dfc61b4b6da5641d461e0b39b0363df5b8a83ef73e6be04d722fe54ef0e"
+    },
+    {
+      "path": "BUS230/2026-TSD/TASKS.json",
+      "bytes": 42341,
+      "sha256": "b25aa28d0209983f8c3c1e5aee7e4c5b252b196e4a3d4400bc6dfeb16a8faf38"
+    },
+    {
+      "path": "BUS230/2026-TSD/TASKS.md",
+      "bytes": 34129,
+      "sha256": "d1a301dae16c71d679c85278dfd603cb671e7d50a2859de20d97f0abe76bc08e"
+    },
+    {
+      "path": "BUS230/2026-TSD/TEAM.md",
+      "bytes": 11718,
+      "sha256": "2fb3696314813f18277a1e31a64603c446b19f7e4332f52c62118d1ec996c94a"
+    },
+    {
+      "path": "COURSES.yaml",
+      "bytes": 4214,
+      "sha256": "1677beea8c7b292249dd9a7b8e3f24280b2e10b730c91e42e0d4fb1150f1eb92"
+    },
+    {
+      "path": "Migration/GAPS.md",
+      "bytes": 10107,
+      "sha256": "c48612f8e12efd79b90ef2c1835e0399efc81c1fb541193a54316b8cb5dbf322"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6702,
+      "sha256": "4a5ffc3bc709ee7dd96c17a5f68d71a0a102c0dae76c2a0ce39a81ebf63e7c32"
+    },
+    {
+      "path": "RESTORE.md",
+      "bytes": 7318,
+      "sha256": "266d304e81810ad7c7ec5f997f04f9a708c36cb217e222371eaac1d07a650bdd"
+    },
+    {
+      "path": "scripts/base.py",
+      "bytes": 1413,
+      "sha256": "4522d068c7b16a16af88a0973796b55453f8fbe4a8e2a00d67401ff3cfaeb9cb"
+    },
+    {
+      "path": "scripts/check_local_audit.py",
+      "bytes": 2678,
+      "sha256": "f5932ccee3d2e3ea098d5b45299d02e86be45fabcc7d68f84a677635b25eb79c"
+    },
+    {
+      "path": "scripts/render.py",
+      "bytes": 8499,
+      "sha256": "2c198d89bfb68071b95d1d7afa74f7b9090adf59dd341b28670469a0c352c083"
+    },
+    {
+      "path": "scripts/secret_scan.py",
+      "bytes": 1375,
+      "sha256": "cc427cf1cf7927c9b665aab8bd9e854461330bb897a20ef9da27dc4d8bfff70e"
+    },
+    {
+      "path": "scripts/sync.py",
+      "bytes": 4012,
+      "sha256": "9102bc5e2e9de4fead7cab252af12a0cecccf1ff87c7a577504f72a1632807f5"
+    },
+    {
+      "path": "scripts/verify.py",
+      "bytes": 5580,
+      "sha256": "d213a258e90f67cf12b7ab13aa49f65bd86c5fbfc7922d50302b1e1da37d2ce0"
+    }
+  ],
+  "boundaries": [
+    "Scoped BUS230 restore, not a fresh full clone of every course or audit of all Mac files",
+    "Existing missing-source exceptions remain in Migration/GAPS.md",
+    "Passwords, Moodle token, cookies, SSO/MFA and GitHub credentials are outside Git; recovery uses Apple Passwords/iCloud or renewed SSO/MFA",
+    "The independently restored Moodle client was checked with the current separately stored key; no new-device login or fresh Apple Passwords inspection is claimed",
+    "Live game results and runtime configuration remain in hosted Sites/D1 and are not a Git backup; source code and deployment identifiers are retained",
+    "Academic notes completeness and exact presented PPTX bytes remain to be checked; Moodle A2 group status was new without files on 2 November",
+    "Report and navigation edits made after source_main are covered by the subsequent publication commit, not this pre-edit restore"
+  ],
+  "user_request": "Fix continuation state in GitHub, keep clear organization, and avoid dependence on this MacBook",
+  "moodle_restored_client_check": {
+    "result": "ok",
+    "userid": 257560,
+    "operation": "site-info only, using independently restored client and existing separately stored token",
+    "new_device_signin_tested": false
+  }
+}

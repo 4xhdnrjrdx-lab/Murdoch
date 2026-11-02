@@ -99,6 +99,17 @@
       "restore_evidence": "Verification/RESTORE_AUDIT_2026-10-29.json",
       "result": "Independent GitHub clone, hashes and Git object integrity PASS; source documents/media unchanged; canonical records clarified.",
       "shared_checkout": "Fast-forwarded safely; two backed-up PPTX remain modified, exact hashes preserved."
+    },
+    "independent_subject_restores": {
+      "BUS230": {
+        "checked_at": "2026-11-02T13:58:35.599298+04:00",
+        "source_main": "acbe58f0c1665f4d2bb8cd15970adbded2722a7d",
+        "files": 92,
+        "game_source_files": 132,
+        "all_sha256_match": true,
+        "scope": "Current BUS230 A2 presentation/scripts/media, full game v3 source archive and deployment records, A3 preparation, canonical subject records, forum instructions, core recovery rules and Moodle client",
+        "evidence": "BUS230/2026-TSD/Verification/2026-11-02_continuation-restore.json"
+      }
     }
   },
   "mail": {

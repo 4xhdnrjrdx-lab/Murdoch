@@ -23,8 +23,8 @@
     },
     {
       "path": "ACCESS_STATUS.json",
-      "bytes": 14316,
-      "sha256": "2689292061a7ebe5106704610fdda1ac46e96aa2acae9a56da358f9567bce39c",
+      "bytes": 14908,
+      "sha256": "13105615a7b2618742c56d5c555d18792386f45f8cc7f41c2d79cab87d84235c",
       "storage": "git"
     },
     {
@@ -8279,14 +8279,14 @@
     },
     {
       "path": "BUS230/2026-TSD/Assignments/README.md",
-      "bytes": 1755,
-      "sha256": "e63a8e6dfaa9323bc744e1f86a53f04b5984d2a9a7b9277cb5b4a273afe78f94",
+      "bytes": 2142,
+      "sha256": "b2d5ec09bbaef1be54fd91851866fe385252c4b6057d99c5e83edfe9a6171421",
       "storage": "git"
     },
     {
       "path": "BUS230/2026-TSD/CONTEXT.md",
-      "bytes": 4627,
-      "sha256": "85197e9aa66756aa87064ecb26f5a963155baf18d6c389beb916ba8e6b772410",
+      "bytes": 6959,
+      "sha256": "8e9a625d6d4289ceea9516a2b909c0bfffe8c8e5f41f9204506efbde6b2f2868",
       "storage": "git"
     },
     {
@@ -8423,8 +8423,8 @@
     },
     {
       "path": "BUS230/2026-TSD/HISTORY.md",
-      "bytes": 35171,
-      "sha256": "d80a6f316c9051c5f885935563045aeca61f8ffd50363c62bdf9add1c1cbaba6",
+      "bytes": 36180,
+      "sha256": "75c7b3a83bbffd29d93a2831a6acddb6d207c481d029e33161815887f466bf1e",
       "storage": "git"
     },
     {
@@ -8825,20 +8825,26 @@
     },
     {
       "path": "BUS230/2026-TSD/TASKS.json",
-      "bytes": 42341,
-      "sha256": "b25aa28d0209983f8c3c1e5aee7e4c5b252b196e4a3d4400bc6dfeb16a8faf38",
+      "bytes": 40472,
+      "sha256": "f2a38099ed39d5fb328c41fe0d378c4c0d3440686d584fefb51ca0447fa24dbf",
       "storage": "git"
     },
     {
       "path": "BUS230/2026-TSD/TASKS.md",
-      "bytes": 34129,
-      "sha256": "d1a301dae16c71d679c85278dfd603cb671e7d50a2859de20d97f0abe76bc08e",
+      "bytes": 32055,
+      "sha256": "c0dd830fc6478c02f03f6162c0783b8541a38a1bcef0a4f012219b2cbcf5323e",
       "storage": "git"
     },
     {
       "path": "BUS230/2026-TSD/TEAM.md",
-      "bytes": 11718,
-      "sha256": "2fb3696314813f18277a1e31a64603c446b19f7e4332f52c62118d1ec996c94a",
+      "bytes": 12774,
+      "sha256": "3b7ef9fee9ed80e5ba7df0b84640d79c8ee3c43556505e1ccb16841382589ed1",
+      "storage": "git"
+    },
+    {
+      "path": "BUS230/2026-TSD/Verification/2026-11-02_continuation-restore.json",
+      "bytes": 21409,
+      "sha256": "33e4322719834a96d6921d1c0f8d7f6b8f13cbf06adb288fe6a014d6a469234c",
       "storage": "git"
     },
     {
@@ -10912,6 +10918,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 1818,
-  "total_bytes": 922676921
+  "file_count": 1819,
+  "total_bytes": 922699763
 }
