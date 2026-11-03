@@ -8,10 +8,11 @@
 
 Состояние: в работе.
 
-- [Актуальный отчёт с английским disclaimer от 3 ноября](A2/Final_Report_2026-11-03/35553299DzhafarovF-2-Final.docx) — Не сдан; требуется согласование команды и подлинные групповые приложения.
-- [PDF той же редакции](A2/Final_Report_2026-11-03/35553299DzhafarovF-2-Final.pdf)
+- [Актуальный отчёт с английским disclaimer от 3 ноября](A2/Final_Report_2026-11-03_references/35553299DzhafarovF-2-Final.docx) — Не сдан; требуется согласование команды и подлинные групповые приложения.
+- [PDF той же редакции](A2/Final_Report_2026-11-03_references/35553299DzhafarovF-2-Final.pdf)
 - [Исходная финансовая модель](A2/Final_Report_2026-10-27_v2/financial_model.json)
 - [Описание предыдущего комплекта v2](A2/Final_Report_2026-10-27_v2/PACKAGE_README_RU.txt)
+- [Приложение с воспроизводимой финансовой моделью](A2/Final_Report_2026-11-03_references/Financial_model.zip) — Расчёты и исходные допущения.
 
 ## A3: Итоговый экзамен, 50%
 

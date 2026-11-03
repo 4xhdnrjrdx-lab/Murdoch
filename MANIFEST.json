@@ -5284,6 +5284,24 @@
       "storage": "git"
     },
     {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-11-03_references/35553299DzhafarovF-2-Final.docx",
+      "bytes": 60213,
+      "sha256": "d13547f43ee19105f071b7f2f56f85d9b03945880beebcc69a33f5286cc6edc3",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-11-03_references/35553299DzhafarovF-2-Final.pdf",
+      "bytes": 431248,
+      "sha256": "914d2b36db33956a7f812f23387d071f21d28129025f6305e7a2990bbbadea35",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-11-03_references/Financial_model.zip",
+      "bytes": 6238,
+      "sha256": "2d5fa4e1d1dd5b7ef94a4b4c484b1f89c60e74435fd77b44f2e66d998c2ca77f",
+      "storage": "git"
+    },
+    {
       "path": "BUS219/2026-TSD/Assignments/A2/NEW_CHAT_PROMPT_RU.txt",
       "bytes": 11651,
       "sha256": "5c26af4523ecee8bad5ab048c730e0c645a5213433f23c21289188984e16f749",
@@ -5477,8 +5495,8 @@
     },
     {
       "path": "BUS219/2026-TSD/Assignments/README.md",
-      "bytes": 1497,
-      "sha256": "ac70e45e2479353c7505c6b3a33723afe576cfcb3bd0058e2fb9bccc35c7aed4",
+      "bytes": 1732,
+      "sha256": "d35f2922e10453468bfdc9047f7d1216b014cb270036c85b7c524663db4e92d2",
       "storage": "git"
     },
     {
@@ -5999,14 +6017,14 @@
     },
     {
       "path": "BUS219/2026-TSD/TASKS.json",
-      "bytes": 28993,
-      "sha256": "a7566e530fb9977cbe78a9de51517b8463d35b366f6f15cbc79c9da8c3367bc3",
+      "bytes": 29508,
+      "sha256": "2fc05bef1746224c8435fe1aae5e00c060e04e5756bc297f4a5f032db6aeba2a",
       "storage": "git"
     },
     {
       "path": "BUS219/2026-TSD/TASKS.md",
-      "bytes": 22968,
-      "sha256": "0722acb4ccbfd0e5a2f41211689c45a0241af69d97b2cf258c22842b775026e5",
+      "bytes": 23410,
+      "sha256": "fc7e8c173c25235d9b99f1db0f9b1142b6ef997b6e4cd26d9e6bacf05763d539",
       "storage": "git"
     },
     {
@@ -10930,6 +10948,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 1821,
-  "total_bytes": 923192387
+  "file_count": 1824,
+  "total_bytes": 923691278
 }
