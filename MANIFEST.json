@@ -5285,14 +5285,14 @@
     },
     {
       "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-11-03_references/35553299DzhafarovF-2-Final.docx",
-      "bytes": 60213,
-      "sha256": "d13547f43ee19105f071b7f2f56f85d9b03945880beebcc69a33f5286cc6edc3",
+      "bytes": 60199,
+      "sha256": "1f90da02433087668dba4acc2c8ebb53603b4a0211b9176b880d51ec2329b67c",
       "storage": "git"
     },
     {
       "path": "BUS219/2026-TSD/Assignments/A2/Final_Report_2026-11-03_references/35553299DzhafarovF-2-Final.pdf",
-      "bytes": 431248,
-      "sha256": "914d2b36db33956a7f812f23387d071f21d28129025f6305e7a2990bbbadea35",
+      "bytes": 429746,
+      "sha256": "f26e17ebd2ce90174c9488e5306b02b2e0a583079f8a78aba32007c9b57e17bb",
       "storage": "git"
     },
     {
@@ -10949,5 +10949,5 @@
     }
   ],
   "file_count": 1824,
-  "total_bytes": 923691278
+  "total_bytes": 923689762
 }
