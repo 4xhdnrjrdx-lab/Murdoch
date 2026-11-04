@@ -1,0 +1,22 @@
+{
+  "checked_at": "2026-11-05T00:53:37.753998+04:00",
+  "source": "Authenticated Moodle UI, read-only",
+  "url": "https://moodleprod.murdoch.edu.au/mod/peerwork/view.php?id=3074734",
+  "title": "Assignment 2 peer assessment - Class 2 Wednesday Shahinda Baig",
+  "group": "Class 2 Group 4",
+  "own_status": "not submitted",
+  "authoritative_visible_text": "Users who still need to submit: Faiaz Dzhafarov",
+  "available_control": "Add submission",
+  "scale": "0–5, 0 unfavourable and 5 favourable; contribution of team members within group",
+  "due_displayed": "Saturday, 14 November 2026, 11:59 PM",
+  "due_dubai": "2026-11-14T19:59:00+04:00",
+  "timezone_basis": "Retained same-day Moodle API timestamp 1794671940; display uses LMS timezone",
+  "deadline_evidence": "Correspondence/2026-11-05_A2-notes-and-peer-check.json",
+  "penalty_evidence": "Official Kanwal Nasim Nov 4 reminder retained in preceding evidence: 10% deduction of marks for failure to complete peer assessment; no claim of 10 percentage points of final course grade",
+  "actions": [
+    "Read own peerwork status and instructions only"
+  ],
+  "ratings_entered": false,
+  "form_submitted": false,
+  "no_other_course_or_submission_changed": true
+}

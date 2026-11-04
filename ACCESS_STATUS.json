@@ -18,7 +18,7 @@
       "BUS225": "Archive/Correspondence/2026-10-29_all-course-status-check.json"
     },
     "last_success_by_course": {
-      "BUS230": "2026-11-05T00:26:31.803006+04:00",
+      "BUS230": "2026-11-05T00:53:37.753998+04:00",
       "BUS334": "2026-11-05T00:30:54+04:00",
       "BUS219": "2026-10-29T15:03:22.638641+04:00",
       "BUS225": "2026-10-29T15:03:35.116321+04:00"
@@ -54,6 +54,12 @@
         "scope": "Assignment metadata for A2/peer only; due/cutoff confirmed. Submission status and grades not reread.",
         "evidence": "BUS225/2026-TSD/Correspondence/2026-11-04_feedback-and-blueprint-check.json"
       }
+    },
+    "latest_bus230_peer_check": {
+      "checked_at": "2026-11-05T00:53:37.753998+04:00",
+      "result": "ok",
+      "scope": "Authenticated read-only own Class 2 peerwork UI: Faiaz explicitly listed as still needing to submit. No ratings or submission.",
+      "evidence": "BUS230/2026-TSD/Correspondence/2026-11-05_peer-own-status-ui.json"
     }
   },
   "secret_storage": {

@@ -23,8 +23,8 @@
     },
     {
       "path": "ACCESS_STATUS.json",
-      "bytes": 15458,
-      "sha256": "e251d02f947def12f11e65e7db3a36ecc9a60b2c1ebe7d675b53d7ed4b5bffda",
+      "bytes": 15808,
+      "sha256": "b9b79944713cffe3a53173de7f292f8a414b3523be5d4ccd5c09029941078aeb",
       "storage": "git"
     },
     {
@@ -8471,8 +8471,8 @@
     },
     {
       "path": "BUS230/2026-TSD/CONTEXT.md",
-      "bytes": 8881,
-      "sha256": "ca75893f31cfca0b00d3c09a77e5b33d6db1ce4a92de1a4a257660e3c95d0474",
+      "bytes": 9674,
+      "sha256": "cb9a50ec2bca26986f8c319dc5fe521ad1476aeff7055665924b58eba6f3d2a6",
       "storage": "git"
     },
     {
@@ -8620,6 +8620,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS230/2026-TSD/Correspondence/2026-11-05_peer-own-status-ui.json",
+      "bytes": 1218,
+      "sha256": "4d668610e7c6665d4e73983174b97f6fbaaffdab8eced9072680cfb04a6f6438",
+      "storage": "git"
+    },
+    {
       "path": "BUS230/2026-TSD/Correspondence/README.md",
       "bytes": 1534,
       "sha256": "f93e8988b7365ec96b81741a093a7e46c292457207a68ed34c01649741ab4077",
@@ -8627,8 +8633,8 @@
     },
     {
       "path": "BUS230/2026-TSD/HISTORY.md",
-      "bytes": 38004,
-      "sha256": "bc531fe631b68ed1d9558c58ae032e2070183af18e1d3094848f495adff610c1",
+      "bytes": 38525,
+      "sha256": "c6e0d570c47e16d682160ecbf8ec2dfcd19bfac477d5888eb977827ed2c92c19",
       "storage": "git"
     },
     {
@@ -9029,14 +9035,14 @@
     },
     {
       "path": "BUS230/2026-TSD/TASKS.json",
-      "bytes": 43284,
-      "sha256": "daf4b04a65674f413b0a94957d2223c09bec2aa421f2b96fbae05695fada0118",
+      "bytes": 44199,
+      "sha256": "48948eed3abc4d19bd33ca837fea8bf147b62a364dd884450483b05573b181ae",
       "storage": "git"
     },
     {
       "path": "BUS230/2026-TSD/TASKS.md",
-      "bytes": 34465,
-      "sha256": "16f1cd5c03045377d712cf75c053ab1ade92d61ea36d0f51c3c9ca4e9fef00a8",
+      "bytes": 35263,
+      "sha256": "e952e482db8632592b28d76379c01e0d7268e15130700773e51ca42f4a6a99ec",
       "storage": "git"
     },
     {
@@ -11134,6 +11140,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 1855,
-  "total_bytes": 931578683
+  "file_count": 1856,
+  "total_bytes": 931583278
 }

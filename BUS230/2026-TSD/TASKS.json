@@ -340,8 +340,8 @@
       "id": "PEER",
       "title": "Peer assessment",
       "status": "предложено",
-      "next_action": "Faiaz самостоятельно завершить peer assessment Class 2 Wednesday Shahinda Baig до 14 ноября 19:59 Dubai и сохранить подтверждение; собственный статус пока не проверен.",
-      "detail": "Официальное напоминание Kanwal Nasim 4 ноября требует выполнить A2 peer assessment, иначе 10% deduction of marks (без переинтерпретации в процентные пункты итоговой оценки). API 5 ноября: текущий Class 2 Wednesday Shahinda Baig — instance 371, cmid 3074734, due 14 ноября 19:59 Dubai. Старый выбранный instance 372 со сроком 1 декабря теперь относится к Class 3 Harshini Esther; прежние проверки сохранены как история. Ответы и оценки за пользователя не выбирались; самостоятельное прохождение не подтверждено.",
+      "next_action": "Лично заполнить Add submission в peer assessment Class 2 Wednesday Shahinda Baig: оценить вклад участников по всем пунктам шкалы 0–5 и отправить форму до 14 ноября 19:59 Dubai; затем проверить исчезновение имени Faiaz из Users who still need to submit и сохранить подтверждение.",
+      "detail": "Официальное напоминание Kanwal Nasim 4 ноября требует выполнить A2 peer assessment, иначе 10% deduction of marks (без переинтерпретации в процентные пункты итоговой оценки). API 5 ноября: текущий Class 2 Wednesday Shahinda Baig — instance 371, cmid 3074734, due 14 ноября 19:59 Dubai. Старый выбранный instance 372 со сроком 1 декабря теперь относится к Class 3 Harshini Esther; прежние проверки сохранены как история. Позднее 5 ноября собственная Moodle UI прямо показала: Users who still need to submit: Faiaz Dzhafarov; доступна Add submission. Следовательно, личный peer assessment Faiaz ещё не отправлен. Открытие и сдача презентации за группу его не заменяют. Ответы и оценки не вводились, форма не отправлялась.",
       "deadlines": [
         {
           "value": "2026-11-14T19:59:00+04:00",
@@ -386,9 +386,15 @@
           "note": "Официальный peer reminder и current class-specific API deadline; исправлено соответствие Class 2 порталу instance 371. Собственное прохождение не проверено.",
           "path": "Correspondence/2026-11-05_A2-notes-and-peer-check.json",
           "source": "Focused study Gmail and Moodle course contents API"
+        },
+        {
+          "date": "2026-11-05",
+          "note": "В собственной Moodle UI подтверждено: Users who still need to submit: Faiaz Dzhafarov; Add submission. Форма ещё не отправлена; оценки не выбирались.",
+          "path": "Correspondence/2026-11-05_peer-own-status-ui.json",
+          "source": "Authenticated Moodle UI, read-only"
         }
       ],
-      "unknown": "Собственное завершение и подтверждение Faiaz не проверены; самоотчёты участников не подтверждают его прохождение.",
+      "unknown": "Личные оценки участников и подтверждение будущей отправки. На момент UI-проверки 5 ноября собственный статус известен: ещё не отправлено.",
       "show_on_overview": false,
       "correction": ""
     },
