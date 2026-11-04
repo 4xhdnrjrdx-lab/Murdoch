@@ -8,8 +8,8 @@
 
 Состояние: в работе.
 
-- [Рабочий полный отчёт Muhammad с новым blueprint для проверки группой](A2/Blueprint_2026-11-04/BUS225_A2_Group9_Carrefour_Updated.docx)
-- [Тот же полный комплект, проверенные пять страниц](A2/Blueprint_2026-11-04/BUS225_A2_Group9_Carrefour_Updated.pdf)
+- [Рабочий полный отчёт с новым blueprint и тремя согласованными исправлениями references](A2/Blueprint_2026-11-04/BUS225_A2_Group9_Carrefour_ReferencesFixed.docx)
+- [Тот же комплект с исправленными references, пять проверенных страниц](A2/Blueprint_2026-11-04/BUS225_A2_Group9_Carrefour_ReferencesFixed.pdf)
 - [Новая схема отдельно, одна страница A4 landscape](A2/Blueprint_2026-11-04/Carrefour_Service_Blueprint.pdf)
 - [Редактируемый векторный исходник новой схемы](A2/Blueprint_2026-11-04/Carrefour_Service_Blueprint.svg)
 
