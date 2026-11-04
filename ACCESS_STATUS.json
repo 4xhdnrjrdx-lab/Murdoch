@@ -115,6 +115,14 @@
         "scope": "Current BUS230 A2 presentation/scripts/media, full game v3 source archive and deployment records, A3 preparation, canonical subject records, forum instructions, core recovery rules and Moodle client",
         "evidence": "BUS230/2026-TSD/Verification/2026-11-02_continuation-restore.json"
       }
+    },
+    "latest_bus230_academic_notes_restore": {
+      "checked_at": "2026-11-05T00:47:12.193167+04:00",
+      "source_main": "98daf7f5bf3c5def6117fe43797bbedb84f5e246",
+      "selected_file_count": 26,
+      "all_sha256_match": true,
+      "scope": "Selected BUS230 A2 academic notes package, current selected presentation/scripts/demo, canonical subject records, existing sources and requirements. Partial extraction only, not a new full-base verification.",
+      "evidence": "BUS230/2026-TSD/Verification/2026-11-05_academic-notes-restore.json"
     }
   },
   "mail": {

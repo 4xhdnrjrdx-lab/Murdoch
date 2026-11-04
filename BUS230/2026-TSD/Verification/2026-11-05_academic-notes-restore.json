@@ -1,0 +1,143 @@
+{
+  "checked_at": "2026-11-05T00:47:12.193167+04:00",
+  "source": "Independent network GitHub fetch with no local object alternates",
+  "source_main": "98daf7f5bf3c5def6117fe43797bbedb84f5e246",
+  "scope": "Selected BUS230 A2 academic notes package, current selected presentation/scripts/demo, canonical subject records, existing sources and requirements. Partial extraction only, not a new full-base verification.",
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "37b74db0cda40964498bc193a9f5eea363e6fde4120bddf34dc554817aea7182",
+      "match": true
+    },
+    {
+      "path": "Access/Moodle/README.md",
+      "sha256": "94de9dafe00d7a1ece9b44fa8bd90d405a645c2a27a1ccaad31995e072730991",
+      "match": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Academic_Notes_2026-11-05/BUS230Assessment2Class2Group4_AcademicNotes_2026-11-05.docx",
+      "sha256": "ecb2cbd53222408d6fc81c56d0c883a04a44be79bb0fc2dbf0b2853723bbdbcc",
+      "match": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Academic_Notes_2026-11-05/Provenance.json",
+      "sha256": "e59cc243d3d750f2028e3079bf4c0ecbc348697e1300cd1458e748dc7e3d987d",
+      "match": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Academic_Notes_2026-11-05/Quality_Check.json",
+      "sha256": "68c5adc05ad539df6dbdc1a7fd5d36e93d24dd45a6ba027b4c60192b126d0c14",
+      "match": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Academic_Notes_2026-11-05/README.md",
+      "sha256": "bb63baa19f3ac59af7796c0f572c8e13a99c3e77fde582c1db754a4b4d6af212",
+      "match": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Academic_Notes_2026-11-05/Source/Citation_Map.json",
+      "sha256": "6285af2344d4466eccf4b9eb0a2a017ef52da5f9430b2f7c7f94c21775ee1e5f",
+      "match": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Academic_Notes_2026-11-05/Source/Notes_Content_EN.json",
+      "sha256": "f660407c0386bab71a3d4e5b10e572fc12711e63c3db916e24ed2bf7466927fc",
+      "match": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Academic_Notes_2026-11-05/Source/build_docx.py",
+      "sha256": "dd8521206f13cd9db4c9f3130a2205f8dc49a8383f8caf7010fa152117e16193",
+      "match": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Complete_2026-10-14/BUS230A2_Source_Verification_2026-10-14.json",
+      "sha256": "f725488b746f79e5e78a15d4921544bf63f9d60876aa85f5fb8bdbb573e82a53",
+      "match": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Game_Reset_Labels_2026-10-27/README.md",
+      "sha256": "522ded48be7061cac446255a239e7694a1a0026f281038948a21e251eb48fefe",
+      "match": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/BUS230Assessment2Class2Group4_2026-10-27_ALEX.pptx",
+      "sha256": "f812879511fd9a221cb62f26722e3ebd6abaf8eda7218584f4bc8c086921276f",
+      "match": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/BUS230_A2_Aram_Speaking_Text_EN_ALEX.txt",
+      "sha256": "3250cfbab9297e8825b76a3b5474907b208860c60c9d446845bf9e1ce5d1274b",
+      "match": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/BUS230_A2_Team_Speaking_Script_EN_ALEX.txt",
+      "sha256": "f9684663a8d17c7d7a7a1ba4eab07c6279fd0dbbc7aa9a43eb6d05f9024acbc6",
+      "match": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/Cedar_Retail_Alex_Demo_36s.mp4",
+      "sha256": "4459ea1021b00e09bc5e5fd523d49778f8c19c74853afb5297e6ea95de026d10",
+      "match": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/README.md",
+      "sha256": "c4aadd471d2f8d07807c18c345f81844f33f0186407709fae570d9606b24b5d0",
+      "match": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Assignments/A2/Revision_2026-10-26/Research_and_References_EN.txt",
+      "sha256": "be202b6fce933a1d0e859f1b504a1d4d5b09827ee16ee1474bbae372e812cab0",
+      "match": true
+    },
+    {
+      "path": "BUS230/2026-TSD/CONTEXT.md",
+      "sha256": "ca75893f31cfca0b00d3c09a77e5b33d6db1ce4a92de1a4a257660e3c95d0474",
+      "match": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Correspondence/2026-11-02_forum-and-A2-reminder.json",
+      "sha256": "766a7696c7f6c774b9d873386f0a955d8044361cee561ad95ba97d1a53a7c71e",
+      "match": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Correspondence/2026-11-05_A2-notes-and-peer-check.json",
+      "sha256": "b580d85f1ae70d6197f00f58a1224daa1fdfa93007d37dbc98aa133a2ddb599b",
+      "match": true
+    },
+    {
+      "path": "BUS230/2026-TSD/HISTORY.md",
+      "sha256": "e01a2d8903977f58ec60b19925e32c87a880de3538e3361389cf1d67b40e9251",
+      "match": true
+    },
+    {
+      "path": "BUS230/2026-TSD/Materials/UnitOutline/00_UNIT_OUTLINE_BUS230_TSD2026.md",
+      "sha256": "33cbb7413561f3801869e27a921b00b9096877c1fe2f9284c167f96ddbd00419",
+      "match": true
+    },
+    {
+      "path": "BUS230/2026-TSD/TASKS.json",
+      "sha256": "daf4b04a65674f413b0a94957d2223c09bec2aa421f2b96fbae05695fada0118",
+      "match": true
+    },
+    {
+      "path": "BUS230/2026-TSD/TEAM.md",
+      "sha256": "3b7ef9fee9ed80e5ba7df0b84640d79c8ee3c43556505e1ccb16841382589ed1",
+      "match": true
+    },
+    {
+      "path": "COURSES.yaml",
+      "sha256": "1677beea8c7b292249dd9a7b8e3f24280b2e10b730c91e42e0d4fb1150f1eb92",
+      "match": true
+    },
+    {
+      "path": "Migration/GAPS.md",
+      "sha256": "c48612f8e12efd79b90ef2c1835e0399efc81c1fb541193a54316b8cb5dbf322",
+      "match": true
+    }
+  ],
+  "all_sha256_match": true,
+  "selected_file_count": 26,
+  "unchanged_original_media": true,
+  "full_working_copy_verify": "Primary integration working copy passed scripts/verify.py before push; this selected-file extraction does not contain the whole base.",
+  "network_retry": "Initial lazy object fetch failed to connect to GitHub; retry completed all selected files and hashes. No local object alternates used."
+}
