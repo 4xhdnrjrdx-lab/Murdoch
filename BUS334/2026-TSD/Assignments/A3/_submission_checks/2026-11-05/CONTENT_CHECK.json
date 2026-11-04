@@ -1,0 +1,30 @@
+{
+  "checked_at": "2026-11-05T00:30:54+04:00",
+  "status": "submitted",
+  "grading_status": "graded",
+  "submitted_at": "2026-10-22T17:57:10+04:00",
+  "files": [
+    {
+      "name": "35553299_Dzhafarov_BUS334_A3_Appendices_Revised.pdf",
+      "bytes": 475063,
+      "sha256": "e8672ec861835e29e4fed077cf43b0f732a481f1f251b017507a571904f08863",
+      "matches_delivered_file": true
+    },
+    {
+      "name": "35553299_Dzhafarov_BUS334_A3_Original_Responses.pdf",
+      "bytes": 130841,
+      "sha256": "c288ea8d73794e71c6ffd7d493e66fd70b0e16f7c9ef84e1ae11f9dee731f931",
+      "matches_delivered_file": true
+    },
+    {
+      "name": "35553299_Dzhafarov_BUS334_A3_Report_Revised.pdf",
+      "bytes": 519085,
+      "sha256": "b71c90603970f515206f7bc919cb3ab5a07e44cabaada1f2d0b43f575f6da94f",
+      "matches_delivered_file": true
+    }
+  ],
+  "all_match": true,
+  "read_only": true,
+  "verification_scope": "Three submitted PDFs downloaded read-only and compared by SHA-256 against the exact three files delivered in chat; all also match current working_files in main.",
+  "grade_visibility": "Submission API returned graded; feedback object empty and user grade report exposed no Assignment 3 grade item. No numerical score or feedback claimed."
+}

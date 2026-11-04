@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course": "BUS334",
   "period": "2026-TSD",
-  "reviewed_at": "2026-10-29",
+  "reviewed_at": "2026-11-05T00:30:54+04:00",
   "allowed_states": [
     "предложено",
     "согласовано",
@@ -135,7 +135,7 @@
       "id": "A3",
       "title": "Data Collection & Preliminary Analysis, 30%",
       "status": "сдано",
-      "next_action": "Обновлённый A3 submitted, три PDF на месте; ждать оценки и feedback. Следующее активное задание — групповой A4 на 12 ноября.",
+      "next_action": "Отправить команде три подтверждённых PDF A3 для подготовки A4. Опубликованную числовую оценку и feedback пока не считать известными.",
       "detail": "Индивидуальный A3 подготовлен по 22 полным анкетам: основной отчёт 5 страниц (интервал 1,5; три рисунка), отдельное приложение 8 страниц, исходный CSV и проверенные Word/PDF сохранены. Пользователь подтвердил реальные студенческие ответы; распространение — личная Telegram-группа русскоязычных Murdoch и около 10 прямых WhatsApp-приглашений, охват/пересечения неизвестны. Текущая форма по прямой просьбе пользователя повторяет образец друга: одна страница, короткая шапка, 20 вопросов (19 закрытых и 1 открытый), без добавленного согласия; прежние версии сохранены исторически. Сначала пользователь самостоятельно сдал два PDF и CSV 21 октября в 21:29:37 Dubai. По его просьбе подготовлен PDF с полными исходными ответами: 22 страницы, все 440 ответов и timestamp дословно сверены с CSV. Пользователь завершил замену CSV в Moodle 21 октября в 23:05:35 Dubai. API подтвердил submitted/notgraded, ровно три ожидаемых PDF, CSV отсутствует. Все три скачанных PDF совпадают по SHA-256 с подготовленными оригиналами; отчёт и приложение содержательно не менялись. На скриншоте приложения Turnitin 8% совпадений, Report и Original_Responses Queued. Исходная сдача, CSV и отдельные подтверждения обеих версий сохранены. 22 октября по просьбе пользователя подготовлена отдельная улучшенная редакция: отчёт 5 страниц и приложение 13 страниц, без первого лица, с процентами тем Q20, сравнением посещаемости, явными интерпретациями и бизнес-действиями, полным текстом согласованной группой анкеты и подлинным скриншотом 22 ответов. Все исходные ответы и сданные версии сохранены без изменений. Все новые страницы проверены визуально и по исходным данным. Обновлённая редакция уже сдана пользователем 22 октября в 17:57:10 Dubai; повторная проверка 29 октября подтверждает submitted, три PDF и отсутствие оценки. Фраза о незагруженной редакции из ранней подготовки больше не актуальна.",
       "deadlines": [
         {
@@ -319,36 +319,46 @@
           "note": "Аудит базы: повторно прочитаны собственные статусы/файлы LMS, сроки и последние news. Учебный Gmail по четырём предметам после 27 октября: 0 совпадений. Подробный охват и ограничения в источнике.",
           "path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json",
           "source": ""
+        },
+        {
+          "date": "2026-11-05",
+          "note": "По вопросу пользователя все три PDF скачаны из текущей Moodle-сдачи и совпали по SHA-256 с выданными файлами. Submitted с 22 октября 17:57:10 Dubai. gradingstatus graded, но feedback/числовая оценка в доступном API не раскрыты; баллы не выдумывались.",
+          "path": "Assignments/A3/_submission_checks/2026-11-05/CONTENT_CHECK.json",
+          "source": ""
         }
       ],
-      "unknown": "Оценка и feedback не выставлены: notgraded 29 октября. Финальные similarity-результаты не проверены. Три PDF подтверждены по статусу/именам/размерам; исходные архивные SHA-проверки сохраняются.",
+      "unknown": "5 ноября API сдачи показывает graded, но feedback пуст и числовая оценка A3 не раскрыта в доступном grade report; опубликованные баллы/комментарий неизвестны. Финальные similarity-результаты не проверялись. Все три сданных PDF скачаны и полностью совпали по SHA-256 с выданными файлами.",
       "show_on_overview": false,
       "correction": "Закрыто: Moodle submitted с 22 октября 17:57:10 Dubai. 25 октября в сдаче проверены два Revised PDF и прежний Original_Responses. Исходные версии/история сохраняются.",
       "submission": {
         "status": "submitted",
         "submitted_at": "2026-10-22T17:57:10+04:00",
-        "checked_at": "2026-10-29T15:03:57.901701+04:00",
-        "grading_status": "notgraded",
-        "evidence_path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json",
+        "checked_at": "2026-11-05T00:30:54+04:00",
+        "grading_status": "graded",
+        "evidence_path": "Assignments/A3/_submission_checks/2026-11-05/CONTENT_CHECK.json",
         "file_count": 3,
         "files": [
           {
             "name": "35553299_Dzhafarov_BUS334_A3_Appendices_Revised.pdf",
             "size": 475063,
-            "modified": "2026-10-22T17:57:10+04:00"
+            "modified": "2026-10-22T17:57:10+04:00",
+            "sha256": "e8672ec861835e29e4fed077cf43b0f732a481f1f251b017507a571904f08863"
           },
           {
             "name": "35553299_Dzhafarov_BUS334_A3_Original_Responses.pdf",
             "size": 130841,
-            "modified": "2026-10-21T23:05:35+04:00"
+            "modified": "2026-10-21T23:05:35+04:00",
+            "sha256": "c288ea8d73794e71c6ffd7d493e66fd70b0e16f7c9ef84e1ae11f9dee731f931"
           },
           {
             "name": "35553299_Dzhafarov_BUS334_A3_Report_Revised.pdf",
             "size": 519085,
-            "modified": "2026-10-22T17:57:10+04:00"
+            "modified": "2026-10-22T17:57:10+04:00",
+            "sha256": "b71c90603970f515206f7bc919cb3ab5a07e44cabaada1f2d0b43f575f6da94f"
           }
         ],
-        "verification_scope": "Read-only status, filenames/sizes, assignment metadata and own available grade fields; files not downloaded."
+        "verification_scope": "Three submitted PDFs downloaded read-only and compared by SHA-256 against the exact three files delivered in chat; all also match current working_files in main.",
+        "all_submitted_files_match_prepared_sha256": true
       },
       "original_submission": {
         "status": "submitted",
