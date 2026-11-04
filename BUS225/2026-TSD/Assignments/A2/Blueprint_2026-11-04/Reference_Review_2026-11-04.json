@@ -1,0 +1,128 @@
+{
+  "checked_on": "2026-11-04",
+  "timezone": "Asia/Dubai",
+  "scope": "User requested visual reference/link review, not an HTTP-only check. Nine web pages were viewed in the browser and the original MAF PDF was rendered and visually inspected.",
+  "checked_document": "BUS225_A2_Group9_Carrefour_Updated.docx",
+  "document_sha256": "eac823774c096c3f825c105dd6c74f1a533d3ec8d0287849bbeacd139f2f0fa0",
+  "source_documents_modified": false,
+  "all_ten_sources_real_and_targets_correct": true,
+  "full_text_limitations": [
+    "Three SAGE articles have restricted full texts; publisher metadata and available abstract/preview were checked, not all article pages."
+  ],
+  "references": [
+    {
+      "source": "Bitner 1992",
+      "reference_as_supplied": "Bitner, M. J. (1992). Servicescapes: The impact of physical surroundings on customers and employees. Journal of Marketing, 56(2), 57–71. https://doi.org/10.1177/002224299205600205",
+      "requested_url": "https://doi.org/10.1177/002224299205600205",
+      "verified_target": "https://journals.sagepub.com/doi/10.1177/002224299205600205",
+      "visual_check": true,
+      "result": "Correct real source; see metadata findings",
+      "observations": "Publisher article page and abstract viewed. Correct author, title, April 1992, Journal of Marketing 56(2), 57-71. Full text restricted."
+    },
+    {
+      "source": "Bitner et al. 2008",
+      "reference_as_supplied": "Bitner, M. J., Ostrom, A. L., & Morgan, F. N. (2008). Service blueprinting: A practical technique for service innovation. California Management Review, 50(3), 66–94. https://doi.org/10.2307/41166446",
+      "requested_url": "https://doi.org/10.2307/41166446",
+      "verified_target": "https://journals.sagepub.com/doi/10.2307/41166446",
+      "visual_check": true,
+      "result": "Correct real source; see metadata findings",
+      "observations": "Publisher article page and preview image viewed. Correct three authors, title, April 1 2008, California Management Review 50(3), 66-94. Full text restricted."
+    },
+    {
+      "source": "Carrefour Belgium 2023",
+      "reference_as_supplied": "Carrefour Belgium. (2023, January 13). Première en Europe : Carrefour teste la livraison autonome par robot grâce à l’intelligence artificielle de DELIVERS.AI [Press release]. https://newsroom.carrefour.be/premiere-en-europe--carrefour-teste-la-livraison-autonome-par-robot-grace-a-lintelligence-artificielle-de-deliversai",
+      "requested_url": "https://newsroom.carrefour.be/premiere-en-europe--carrefour-teste-la-livraison-autonome-par-robot-grace-a-lintelligence-artificielle-de-deliversai",
+      "verified_target": "https://newsroom.carrefour.be/premiere-en-europe--carrefour-teste-la-livraison-autonome-par-robot-grace-a-lintelligence-artificielle-de-deliversai",
+      "visual_check": true,
+      "result": "Correct real source; see metadata findings",
+      "observations": "Full official page viewed, including date January 13 2023, Corporate Village trial, limited assortment and autonomous delivery. Matches report."
+    },
+    {
+      "source": "Carrefour Group Pepper",
+      "reference_as_supplied": "Carrefour Group. (n.d.). Customers will be able to have fun with Pepper the robot! https://www.carrefour.com/en/news/customers-will-be-able-have-fun-pepper-robot",
+      "requested_url": "https://www.carrefour.com/en/news/customers-will-be-able-have-fun-pepper-robot",
+      "verified_target": "https://www.carrefour.com/en/news/customers-will-be-able-have-fun-pepper-robot",
+      "visual_check": true,
+      "result": "Correct real source; see metadata findings",
+      "observations": "Official page visually viewed, including March 31st 2017 and Pepper Hola/Fun descriptions in Spain. Link correct, n.d. is incorrect."
+    },
+    {
+      "source": "Carrefour UAE help centre",
+      "reference_as_supplied": "Carrefour UAE. (n.d.). How can I shop quickly and avoid queues at Carrefour? [Help centre]. Retrieved November 2, 2026, from https://www.carrefouruae.com/mafuae/en/helpcenter/topics/212-browse-and-order?articleId=4221",
+      "requested_url": "https://www.carrefouruae.com/mafuae/en/helpcenter/topics/212-browse-and-order?articleId=4221",
+      "verified_target": "https://www.carrefouruae.com/mafuae/en/helpcenter/topics/212-browse-and-order?articleId=4221",
+      "visual_check": true,
+      "result": "Correct real source; see metadata findings",
+      "observations": "Target article opened expanded and viewed in browser. Contains handheld Scan&Go, Mobile Scan&Go and Self Checkout. No publication date shown. Correct target."
+    },
+    {
+      "source": "Huang and Rust 2021",
+      "reference_as_supplied": "Huang, M.-H., & Rust, R. T. (2021). A strategic framework for artificial intelligence in marketing. Journal of the Academy of Marketing Science, 49(1), 30–50. https://doi.org/10.1007/s11747-020-00749-9",
+      "requested_url": "https://doi.org/10.1007/s11747-020-00749-9",
+      "verified_target": "https://link.springer.com/article/10.1007/s11747-020-00749-9",
+      "visual_check": true,
+      "result": "Correct real source; see metadata findings",
+      "observations": "Open-access publisher page viewed. Two authors, mechanical/thinking/feeling framework and title match. Online publication November 4 2020; journal volume 49, pages 30-50 (2021), so reference year 2021 is correct."
+    },
+    {
+      "source": "IFR 2025",
+      "reference_as_supplied": "International Federation of Robotics. (2025, October 7). World Robotics 2025 report – Service robots. https://ifr.org/ifr-press-releases/news/service-robots-see-global-growth-boom",
+      "requested_url": "https://ifr.org/ifr-press-releases/news/service-robots-see-global-growth-boom",
+      "verified_target": "https://ifr.org/ifr-press-releases/news/service-robots-see-global-growth-boom",
+      "visual_check": true,
+      "result": "Correct real source; see metadata findings",
+      "observations": "Official page viewed. October 7 2025; transportation/logistics largest application, cleaning robot growth. General multi-industry sample, not Carrefour-specific. Existing title is abbreviated."
+    },
+    {
+      "source": "Majid Al Futtaim ESG 2021",
+      "reference_as_supplied": "Majid Al Futtaim. (2022). Great moments for everyone, everyday: ESG report 2021. https://www.majidalfuttaim.com/docs/default-source/reports/majid-al-futtaim-esg-report-2021-en.pdf?sfvrsn=ccf441f5_7",
+      "requested_url": "https://www.majidalfuttaim.com/docs/default-source/reports/majid-al-futtaim-esg-report-2021-en.pdf?sfvrsn=ccf441f5_7",
+      "verified_target": "https://www.majidalfuttaim.com/docs/default-source/reports/majid-al-futtaim-esg-report-2021-en.pdf?sfvrsn=ccf441f5_7",
+      "visual_check": true,
+      "result": "Correct real source; see metadata findings",
+      "observations": "Original URL downloaded an 11,278,777-byte PDF (57 pages of spreads). Cover and PDF page 23, printed pages 44-45, rendered and visually inspected. Customer experience on printed page 44 explicitly describes Tally rollout to 11 additional UAE stores and stock/price checks. Cover title is ESG REPORT 2021 / DARE TOGETHER. Great moments for everyone, everyday is the corporate slogan, not the report title."
+    },
+    {
+      "source": "Tax et al. 1998",
+      "reference_as_supplied": "Tax, S. S., Brown, S. W., & Chandrashekaran, M. (1998). Customer evaluations of service complaint experiences: Implications for relationship marketing. Journal of Marketing, 62(2), 60–76. https://doi.org/10.1177/002224299806200205",
+      "requested_url": "https://doi.org/10.1177/002224299806200205",
+      "verified_target": "https://journals.sagepub.com/doi/10.1177/002224299806200205",
+      "visual_check": true,
+      "result": "Correct real source; see metadata findings",
+      "observations": "Publisher page and abstract viewed. Three authors, title, April 1998, Journal of Marketing 62(2), 60-76 match. Abstract supports outcome, procedural and interpersonal justice. Full text restricted."
+    },
+    {
+      "source": "Wirtz et al. 2018",
+      "reference_as_supplied": "Wirtz, J., Patterson, P. G., Kunz, W. H., Gruber, T., Lu, V. N., Paluch, S., & Martins, A. (2018). Brave new world: Service robots in the frontline. Journal of Service Management, 29(5), 907–931. https://doi.org/10.1108/JOSM-04-2018-0119",
+      "requested_url": "https://doi.org/10.1108/JOSM-04-2018-0119",
+      "verified_target": "https://www.emerald.com/josm/article/29/5/907/235589/Brave-new-world-service-robots-in-the-frontline",
+      "visual_check": true,
+      "result": "Correct real source; see metadata findings",
+      "observations": "Publisher initially showed an automated security check, then loaded without user interaction. Open-access article, seven authors, title, DOI, volume 29(5), pages 907-931 and conceptual approach verified visually. Correct link."
+    }
+  ],
+  "required_metadata_corrections": [
+    {
+      "source": "Carrefour Group Pepper",
+      "issue": "n.d. used although the page shows March 31st 2017",
+      "reference_date": "(2017, March 31)",
+      "in_text_citation": "(Carrefour Group, 2017)"
+    },
+    {
+      "source": "Majid Al Futtaim",
+      "issue": "Corporate slogan used as report title",
+      "recommended_title": "ESG report 2021: Dare together",
+      "year_2022_confirmed": true,
+      "publication_year_evidence": "https://www.majidalfuttaim.com/en/who-we-are/sustainability-and-esg/reports",
+      "publication_year_evidence_detail": "Official library lists ESG Report 2021, Jun 2022; official July 5 2022 release also confirms publication in 2022."
+    }
+  ],
+  "optional_precision": [
+    {
+      "source": "IFR",
+      "recommendation": "Use the complete visible page title: World Robotics 2025 report – Service robots – released by IFR. Link and date are correct."
+    }
+  ],
+  "maf_pdf_sha256": "dee876d3fb7065a78f7c4dcdef5c85bfbc8519d6b9a445351f44ddffd7b1ebc4",
+  "failed_unneeded_fallback": "NUS author-copy PDF failed local TLS certificate validation. No security controls were bypassed. Fallback unnecessary after official Emerald page loaded."
+}
