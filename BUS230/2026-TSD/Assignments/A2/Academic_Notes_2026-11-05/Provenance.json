@@ -1,0 +1,38 @@
+{
+  "created_at": "2026-11-05T00:42:27.467618+04:00",
+  "user_request": "Подготовить academic notes ко всей презентации",
+  "basis": {
+    "pptx": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/BUS230Assessment2Class2Group4_2026-10-27_ALEX.pptx",
+    "sha256": "f812879511fd9a221cb62f26722e3ebd6abaf8eda7218584f4bc8c086921276f",
+    "slides": 30,
+    "actually_presented_bytes_independently_confirmed": false
+  },
+  "requirements": [
+    "Materials/UnitOutline/00_UNIT_OUTLINE_BUS230_TSD2026.md §5.2.2",
+    "Correspondence/2026-11-02_forum-and-A2-reminder.json"
+  ],
+  "source_review": {
+    "retained_academic_audit": "Assignments/A2/Complete_2026-10-14/BUS230A2_Source_Verification_2026-10-14.json",
+    "retained_references": "Assignments/A2/Revision_2026-10-26/Research_and_References_EN.txt",
+    "new_academic_sources": 0,
+    "scope": "Retained publisher/author abstract and section verification supplemented by Nov 5 primary-source checks; not a fresh full-text review of all 20 papers.",
+    "primary_pages_rechecked": [
+      "https://link.springer.com/article/10.1186/1748-5908-4-67",
+      "https://link.springer.com/article/10.1186/s13012-015-0242-0",
+      "https://journals.sagepub.com/doi/10.1177/21582440231207705",
+      "https://journals.sagepub.com/doi/10.1177/18479790211016273",
+      "https://www.annualreviews.org/content/journals/10.1146/annurev-orgpsych-020924-064623",
+      "https://www.prosci.com/methodology/adkar",
+      "https://www.prosci.com/methodology/pct-model",
+      "https://www.prosci.com/methodology/3-phase-process",
+      "https://www.prosci.com/migration/en/help-center/adkar-assessments",
+      "https://www.prosci.com/blog/why-the-adkar-model-works"
+    ],
+    "access_limitations": [
+      "Morrison 2023 publisher fetch failed on Nov 5; claim scope relies on retained prior publisher abstract verification.",
+      "Prosci 2022 PDF unavailable in current web fetch; retained source citation/access date and existing assessment context used."
+    ]
+  },
+  "deliverable": "Separate numbered English DOCX, as permitted by teacher; PPTX not edited.",
+  "review_status": "Prepared and checked; team approval and LMS submission not claimed."
+}

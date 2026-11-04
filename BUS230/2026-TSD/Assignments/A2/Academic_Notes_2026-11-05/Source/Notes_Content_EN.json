@@ -1,0 +1,373 @@
+{
+  "title": "BUS230 Assessment 2 Academic Supporting Notes",
+  "group": "Class 2 Group 4",
+  "date": "5 November 2026",
+  "source_presentation": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/BUS230Assessment2Class2Group4_2026-10-27_ALEX.pptx",
+  "source_sha256": "f812879511fd9a221cb62f26722e3ebd6abaf8eda7218584f4bc8c086921276f",
+  "slides": [
+    {
+      "slide": 1,
+      "title": "Using ADKAR with Context and Evidence",
+      "paragraphs": [
+        "This management training session examines how ADKAR can support individual adoption while managers address the conditions in which change must occur. Our central argument is that diagnosing an individual barrier should lead to an accountable management response. We retain ADKAR’s five outcomes and propose a decision record connecting individual support with working conditions, concerns, dependencies and evidence. The distinction matters because ADKAR operates within a wider Prosci methodology that also addresses project health and organisational implementation (Prosci n.d.-a, n.d.-b, n.d.-c).",
+        "Cedar Retail is a fictional teaching case. Its scanner problems, policy concerns and employee situations illustrate our reasoning; they are not company research findings. The proposed record is a team design requiring a pilot, rather than an empirically validated replacement for ADKAR."
+      ]
+    },
+    {
+      "slide": 2,
+      "title": "The management session",
+      "paragraphs": [
+        "The session moves from the management problem to the original model, the limitations of using its five outcomes alone, and the proposed response. This structure allows managers to examine the relationship between diagnosis and action before applying the record to a case. Research is then used to explain the existing design choices, followed by an audience decision and the office challenge.",
+        "The sequence also separates a model’s purpose from evidence of its effectiveness. Nilsen (2015) distinguishes approaches that guide implementation, explain influences on implementation, and evaluate implementation. We use this distinction cautiously: identifying a barrier, specifying an action and demonstrating that an intervention works are different tasks. The closing recommendations therefore call for a pilot and review rather than claiming that a well-structured record already produces better workplace outcomes."
+      ]
+    },
+    {
+      "slide": 3,
+      "title": "Cedar Retail: the change",
+      "paragraphs": [
+        "Cedar Retail introduces digital stock receiving. A colleague must receive a delivery, identify a mismatch and report it correctly. The scan, check and report sequence makes the required behaviour concrete. On the evening shift, however, the scanner is unreliable, practice time is unavailable and staff are concerned about penalties for errors inherited from earlier work. These are stipulated case conditions, not observations collected from a retailer.",
+        "The case separates knowing a procedure from being able to perform it under usable conditions. It also gives managers a concern about the design of the change, rather than assuming that every difficulty reflects an employee’s unwillingness. This provides the common context for the later diagnosis, ownership and evidence discussions. The case itself cannot establish how often such problems occur or whether our proposed response would succeed in a real organisation."
+      ]
+    },
+    {
+      "slide": 4,
+      "title": "Three manager objectives",
+      "paragraphs": [
+        "The first objective is to diagnose the individual support need using ADKAR. A manager should establish what the colleague understands, wants to support, knows how to do, can demonstrate and can sustain. The second objective is to connect that need with conditions and prerequisites that may belong to other roles. The third is to make a reasoned decision to continue, revise or pause the affected task (Prosci n.d.-a).",
+        "These objectives explain the purpose of our addition. A useful diagnosis does not itself allocate IT work, protect practice time or settle a disputed policy. Our record is intended to make that follow-through explicit. The decision categories are proposed management rules for this case, not validated ADKAR scores or statistically established thresholds. Consistent with Nilsen’s (2015) distinction between guidance and evaluation, their practical value would need to be assessed rather than assumed."
+      ]
+    },
+    {
+      "slide": 5,
+      "title": "The original ADKAR model",
+      "paragraphs": [
+        "ADKAR identifies five individual change outcomes: Awareness of why change is needed, Desire to participate and support it, Knowledge of how to change, Ability to apply the required skills and behaviours, and Reinforcement to sustain the change. These outcomes direct attention to the individual’s adoption needs instead of treating communication or training delivery as proof of adoption (Prosci n.d.-a; Creasey 2025).",
+        "The management responses on the slide follow that distinction. Explaining the purpose addresses a different need from exploring a concern, teaching a procedure, enabling practice or reviewing sustained use. In Cedar Retail, a colleague who can explain stock receiving may still be unable to perform it on a failing scanner. Training and practice are therefore part of appropriate support; we do not claim to have invented these elements. Our modification concerns how the manager records responsibility and reaches a decision when individual and contextual evidence differ."
+      ]
+    },
+    {
+      "slide": 6,
+      "title": "ADKAR and the wider method",
+      "paragraphs": [
+        "A fair analysis must distinguish ADKAR from the complete Prosci methodology. ADKAR focuses on individual adoption. The Prosci Change Triangle addresses success, leadership and sponsorship, project management and change management, while the 3-Phase Process organises preparation, management and sustainment at the organisational level (Prosci n.d.-b, n.d.-c). ADKAR assessments already support barrier identification and repeated review; reassessment is not a new feature of our proposal (Prosci 2022, n.d.-d).",
+        "Our criticism therefore concerns using the five outcomes as a standalone checklist. It does not establish that the wider methodology ignores organisational conditions. Holt et al. (2007) also show that readiness measurement requires systematic definition and scale development. A conversation organised around five outcomes should not be treated as interchangeable with a validated readiness instrument, and neither should our proposed decision record."
+      ]
+    },
+    {
+      "slide": 7,
+      "title": "01 / Shared working conditions",
+      "paragraphs": [
+        "The first limitation concerns shared working conditions. ADKAR’s Ability outcome can accommodate external constraints, but a list of individual outcomes alone does not specify who must repair shared access or release time for practice. At Cedar Retail, the same scanner problem can affect several colleagues. Repeating individual assessments would leave the underlying dependency unresolved unless someone is accountable for the condition.",
+        "Weiner’s (2009) theory relates collective readiness to commitment and efficacy, with capability judgements influenced by task demands, resources and circumstances. Rafferty, Jimmieson, and Armenakis (2013) similarly examine readiness across levels, while Oreg, Vakola, and Armenakis (2011) review the importance of change context and process. These perspectives support examining more than the individual. Our proposed response is a shared conditions record with IT responsible for access and the manager responsible for practice time. The literature does not establish that this specific record will improve retail performance."
+      ]
+    },
+    {
+      "slide": 8,
+      "title": "02 / A reasonable objection",
+      "paragraphs": [
+        "The second limitation arises when an objection concerns the change itself. A colleague may support accurate digital records while reasonably disputing penalties for inherited errors. Treating that response only as insufficient Desire risks closing the discussion before the policy has been examined. Piderit (2000) conceptualises reactions as potentially multidimensional and ambivalent; Oreg (2006) also considers contextual influences on resistance. These sources support examining the substance of a response rather than assigning a simple negative label.",
+        "Ford, Ford, and D’Amelio (2008) argue that change agents can contribute to resistance and that objections can provide useful information. Oreg and Sverdlik (2026) further review the complexity of responses to change. We therefore propose an accountable sponsor response explaining whether the disputed requirement will be retained, revised or stopped. This is a reasoned review of the concern, not a promise to accept every objection or a claim that dialogue guarantees agreement."
+      ]
+    },
+    {
+      "slide": 9,
+      "title": "03 / Dependencies across roles",
+      "paragraphs": [
+        "The third limitation concerns dependencies across roles. An individual’s earliest ADKAR barrier can identify a support priority, while organisational prerequisites may require action at the same time. In Cedar Retail, a manager can discuss the purpose with a colleague while IT restores access and management allocates practice time. The individual’s progression through outcomes should not be used as a reason to postpone necessary work by other roles.",
+        "Burke and Litwin (1992) propose relationships among organisational factors and performance. Herold, Fedor, and Caldwell (2007) examine contextual and personal influences on commitment, and Pettigrew, Woodman, and Cameron (2001) emphasise context, process, time and multiple levels in change research. These sources inform our attention to interdependence. The proposed dependency routing records the prerequisite, its owner and the evidence needed before the dependent task proceeds. The sources do not validate this particular routing mechanism or imply that all actions can safely occur in parallel."
+      ]
+    },
+    {
+      "slide": 10,
+      "title": "Four limitations, four additions",
+      "paragraphs": [
+        "The four limitations lead to four connected additions. Shared conditions receive an owner; a reasonable objection receives an accountable sponsor response; dependencies receive explicit routing; and conflicting readiness evidence receives a decision rule. The fourth issue arises when a favourable explanation or assessment is taken to outweigh missing prerequisites or absent performance evidence. In our case, the record should preserve that disagreement rather than compress it into a reassuring overall judgement.",
+        "Holt et al. (2007) and Jo and Hong (2023) illustrate the development and validation required for readiness measures. Their work does not validate our classroom rules, but it supports caution about treating an informal record as a measurement scale. Prosci’s existing assessments also guide adaptive action and reassessment (Prosci n.d.-d). Our contribution is the explicit connection between evidence, responsibility and a reasoned decision, rather than the claim that assessment or review is absent from existing practice."
+      ]
+    },
+    {
+      "slide": 11,
+      "title": "Our modified decision tool",
+      "paragraphs": [
+        "The modified tool retains ADKAR as the individual diagnosis and adds a decision record around it. The record identifies the relevant working conditions, disputed requirements, dependencies and task evidence. It then records the decision, the reason for it, the responsible owner and the trigger for review. The intended benefit is that a colleague’s support need can be followed through into specific management action.",
+        "This is a practical team proposal which complements the wider Prosci method. It does not replace the five outcomes, sponsorship or organisational change processes (Prosci n.d.-a, n.d.-b, n.d.-c). It also does not turn the case into a validated readiness test. Repeated assessment already exists in Prosci practice (Prosci n.d.-d); our addition is a visible record of what remains unresolved and who must act before a management judgement is reconsidered. Its effectiveness and maintenance burden remain questions for the pilot."
+      ]
+    },
+    {
+      "slide": 12,
+      "title": "Conditions and concerns",
+      "paragraphs": [
+        "The conditions record separates three issues that would require different owners. Scanner and login reliability belong to IT; protected roster time belongs to the store manager; and the inherited-error penalty requires a sponsor’s policy response. Recording these separately avoids asking the colleague to solve a shared technical or policy problem through personal motivation alone. These are illustrative entries showing the design, not evidence that any owner has completed the work.",
+        "The concern record also preserves the reason for the objection and the sponsor’s decision. Ford, Ford, and D’Amelio (2008) support considering how change agents’ own actions can produce resistance. Applied here, that means examining whether the penalty arrangement is contributing to the problem before trying to persuade the colleague to accept it. The sponsor may retain, revise or stop the requirement, but the response should explain why and identify the next action. A completed field is not, by itself, evidence that the concern has been resolved."
+      ]
+    },
+    {
+      "slide": 13,
+      "title": "The dependency register",
+      "paragraphs": [
+        "The dependency register connects an upstream condition to the task that depends on it. Scanner access must support delivery practice, with IT accountable for a successful login during the relevant shift. Protected time must permit realistic practice, with the manager accountable for the roster and evidence that the task was actually attempted. A sponsor’s written reason clarifies the disputed policy requirement. Different evidence is therefore needed for different dependencies.",
+        "The register applies the attention to organisational relationships, context and process found in Burke and Litwin (1992), Herold, Fedor, and Caldwell (2007), and Pettigrew, Woodman, and Cameron (2001). It translates that perspective into a proposed practical record; it is not an instrument tested in those studies. Naming an owner or scheduling an activity does not show that a prerequisite is usable. The manager must review the evidence beside the dependency before relying on it for the affected task."
+      ]
+    },
+    {
+      "slide": 14,
+      "title": "One complete decision record",
+      "paragraphs": [
+        "A complete decision record begins with a particular task and colleague. It records the individual ADKAR need and proposed support, then the missing or disputed condition and its owner. Prerequisites and verified task evidence are considered before the manager records continue, revise or pause, together with a reason and review trigger. The fields connect diagnosis to a decision that another manager could understand and revisit.",
+        "The rationale is consistent with examining task demands and resources alongside collective capability, and with considering change in its organisational context (Weiner 2009; Pettigrew, Woodman, and Cameron 2001). The record should preserve uncertainty: no demonstration means that Ability remains unverified, rather than automatically proving inability or resistance. The form has no validated total score. Its value would depend on the quality of the evidence, the appropriateness of the judgement and whether the assigned actions are carried out."
+      ]
+    },
+    {
+      "slide": 15,
+      "title": "Implementation and owners",
+      "paragraphs": [
+        "Implementation starts with the manager and colleague defining the task, scope and criteria. The relevant owners then address missing conditions or the disputed requirement. The colleague practises with support from a coach, after which the manager reviews the evidence and records the decision and review trigger. IT, the store manager and the sponsor retain responsibility for the conditions within their roles; the colleague remains involved in explaining needs and demonstrating the task.",
+        "This sequence makes responsibility visible while allowing prerequisite work to proceed alongside individual support where appropriate. Pettigrew, Woodman, and Cameron (2001) support attention to the interaction of context and process over time. Our workflow applies that perspective to the existing Cedar Retail case. It does not prescribe a universally correct order for every change, and a scheduled coaching session or resolved login alone would not demonstrate successful adoption. Review must return to the defined task and the evidence available."
+      ]
+    },
+    {
+      "slide": 16,
+      "title": "Continue, revise or pause",
+      "paragraphs": [
+        "Continue applies when essential prerequisites are verified and task evidence supports proceeding, with ongoing support and review. Revise applies when the change design or requirement needs reconsideration, including a reasoned response to a substantive objection. Pause applies when an essential prerequisite is missing: the affected task is held while its owner resolves the issue. Pausing one task does not automatically mean stopping the entire change programme.",
+        "These are the team’s proposed judgement rules. They do not introduce an empirically validated cutoff or claim that Prosci lacks adaptive action; Prosci assessments already inform such action (Prosci n.d.-d). Nilsen’s (2015) distinction between implementation guidance and evaluation helps explain the boundary. The rules guide a decision, but whether they improve decisions must still be evaluated. Recording the reason and a review trigger allows a temporary pause to be reconsidered when conditions or evidence change."
+      ]
+    },
+    {
+      "slide": 17,
+      "title": "Feasibility and evaluation",
+      "paragraphs": [
+        "The feasibility proposal is to use one shared digital or PDF record within existing roles, with evidence stored beside the relevant action. This avoids assuming that a new department or complex system is necessary. However, maintaining the record still consumes time and depends on owners having the authority and capacity to act. Practicality is therefore a design expectation to be tested, not a demonstrated cost saving.",
+        "The existing evaluation questions concern task accuracy, unresolved dependencies, reasoned responses to concerns and the time needed to maintain the record. Nilsen (2015) supports distinguishing an implementation approach from its evaluation. Errida and Lotfi (2021) review change success factors and examine a construction-company case, illustrating the importance of context rather than proving effectiveness in retail. A Cedar Retail pilot would need to examine the proposed benefits and administrative burden before wider use; the presentation reports no completed pilot or measured improvement."
+      ]
+    },
+    {
+      "slide": 18,
+      "title": "Risks and practical safeguards",
+      "paragraphs": [
+        "The safeguards respond to practical risks in the proposed design. Restricting the form to essential task fields addresses paperwork. An escalation route and review date address sponsor inaction. Representative observed performance addresses the risk that weak criteria or attendance records are accepted as evidence of Ability. Keeping gaps visible and testing the record before wider use addresses false confidence in a completed form.",
+        "These safeguards are reasoned design choices, not findings from a trial of our tool. Nilsen (2015) helps explain why identifying influences, guiding action and evaluating outcomes should be kept distinct. A manager could complete every field while a scanner still fails or a policy concern remains unanswered. The record therefore supports judgement only when its entries refer to usable conditions and relevant evidence. The pilot must examine whether the safeguards are workable rather than treating their inclusion as proof that the risks have been removed."
+      ]
+    },
+    {
+      "slide": 19,
+      "title": "Research behind the decision record",
+      "paragraphs": [
+        "Three research perspectives explain why the record distinguishes support from proof. Baldwin and Ford (1988) review transfer of training, directing attention to the application and maintenance of learning at work. This supports checking performance in usable conditions rather than relying on training attendance. Edmondson (1999) reports an association between psychological safety and team learning behaviour. This informs inviting questions and discussion of mistakes, without treating a supportive conversation as evidence of competence.",
+        "Morrison’s (2023) review examines employee voice and silence. It informs recording a concern and identifying a response owner, while leaving open whether the employee’s input actually influences the decision. Together, these sources explain existing elements of our design: task evidence, space to raise concerns and accountable follow-through. They do not test the combined decision record. Learning transfer, psychological safety and employee voice are related considerations with different meanings, rather than interchangeable measures of successful adoption."
+      ]
+    },
+    {
+      "slide": 20,
+      "title": "Benchmark against existing practice",
+      "paragraphs": [
+        "Benchmarking begins with the existing professional approach. ADKAR already diagnoses individual support needs, while the wider Prosci method addresses sponsorship, project health and organisational implementation; assessments can be repeated as change develops (Prosci n.d.-a, n.d.-b, n.d.-c, n.d.-d). The proposed record must therefore be assessed as a practical way of connecting responsibilities and evidence in this case, rather than presented as the first approach to recognise organisational conditions.",
+        "Stouten, Rousseau, and De Cremer (2018) integrate scholarly and practitioner literatures on successful organisational change. Errida and Lotfi (2021) similarly review change models and examine a context-specific case. These sources provide a research benchmark for examining implementation and review, not comparative performance data for our tool. No trial shows that our record outperforms Prosci or another method. Its suitability for Cedar Retail remains a pilot question."
+      ]
+    },
+    {
+      "slide": 21,
+      "title": "Cedar Retail: conflicting evidence",
+      "paragraphs": [
+        "The conflicting evidence case concerns a colleague who can explain the procedure while the scanner fails and practice time is unavailable. Explanation supplies evidence relevant to Knowledge, but it does not establish performance of the receiving task. Without a representative demonstration, Ability remains unverified. Baldwin and Ford’s (1988) review of training transfer supports keeping learning and its application at work distinct.",
+        "Under our proposed rule, the manager pauses the affected task and routes the missing prerequisites to their owners before reviewing performance. More generic feedback would not repair the scanner or provide practice time. Kluger and DeNisi (1996) show that feedback interventions have variable effects, supporting caution about treating feedback itself as a sufficient remedy. This slide illustrates how our rule deals with contradictory information; it reports neither an actual employee assessment nor evidence that the rule has improved organisational outcomes."
+      ]
+    },
+    {
+      "slide": 22,
+      "title": "Research insights and a pilot",
+      "paragraphs": [
+        "The research synthesis is that individual diagnosis should be interpreted alongside task conditions and relevant evidence, and that a concern requires an accountable response. Multilevel readiness perspectives help explain why individual responses cannot simply stand in for collective implementation capability (Weiner 2009; Rafferty, Jimmieson, and Armenakis 2013). The decision record brings those considerations into the existing fictional task without claiming to measure organisational readiness through one employee’s result.",
+        "The proposed pilot asks whether decisions become clearer, owners follow through and the record is affordable to maintain. Nilsen (2015) and Stouten, Rousseau, and De Cremer (2018) support a considered relationship between implementation and evaluation. Classroom answers can show how participants reason about the scenario; workplace Ability requires observation of the actual task in usable conditions. We therefore retain the proposal to pilot the record, while making no claim that the workshop or game demonstrates effective workplace adoption."
+      ]
+    },
+    {
+      "slide": 23,
+      "title": "Communication and manager workflow",
+      "paragraphs": [
+        "Communication is organised by what each stakeholder needs to do. Colleagues need a briefing, practice and an opportunity to ask questions. IT and management need the shared dependencies and evidence required to verify conditions. The sponsor needs the concern, alternatives and a review date so that a reasoned decision can be returned. The workflow connects defining the task, diagnosing, connecting responsibilities, verifying evidence and deciding with review.",
+        "Lewis (1999) examines both information dissemination and the solicitation of input during planned change. Morrison (2023) explains why employee voice and silence require attention, while Oreg and Sverdlik (2026) review the complexity of change responses. These sources inform communication that allows concerns to enter the decision process. They do not establish that our chosen channels will necessarily be effective. A briefing is an information opportunity; meaningful follow-through requires that the relevant owner responds and that the manager reviews what happens next."
+      ]
+    },
+    {
+      "slide": 24,
+      "title": "Your management decision",
+      "paragraphs": [
+        "The audience question applies the existing decision rules to the case: the colleague can explain the task, but the scanner fails and practice time is missing. Option C, pausing the affected task while the prerequisites are addressed, is the intended answer. The explanation provides Knowledge evidence; it does not resolve the missing conditions or supply evidence of demonstrated Ability. Continuing would therefore be unsupported under the team’s proposed rule.",
+        "This is an exercise in management reasoning, not an independent test of the record’s validity. The short discussion asks participants to explain why a decision follows from the stated facts. It does not establish their ability to receive real stock, nor show that pausing is the correct response to every implementation difficulty. Revising a disputed requirement remains a different response when the problem concerns the design of the change, rather than the missing prerequisites in this particular question."
+      ]
+    },
+    {
+      "slide": 25,
+      "title": "Cedar Retail office challenge",
+      "paragraphs": [
+        "The office challenge applies the presentation’s distinctions through five fictional colleague situations. A team uses one phone, chooses colleagues and discusses the response before submitting the attempt. The QR code opens the activity. The separate 36-second Alex practice demonstration explains the interaction without revealing the answers to the five main situations. These features explain the learning activity already included in the presentation.",
+        "The exercise asks participants to connect a described need with an appropriate management action and consider feedback on that choice. It includes both individual ADKAR support and a concern requiring sponsor review. Performance in a scenario concerns participants’ interpretation of the case; it does not demonstrate workplace Ability or validate the proposed tool. This distinction is consistent with the transfer issue discussed by Baldwin and Ford (1988). No claim is made here about actual classroom completion, engagement, scores or subsequent workplace performance."
+      ]
+    },
+    {
+      "slide": 26,
+      "title": "Five situations, different responses",
+      "paragraphs": [
+        "The five situations require different responses. Anna needs an explanation of the purpose and an opportunity to ask questions, addressing Awareness. Omar’s concern requires a reasoned sponsor response rather than an automatic diagnosis of low Desire. Mia needs instruction and guided practice relevant to Knowledge. Leo needs usable access and time, followed by observation of the task, so that Ability can be assessed. Sara needs feedback and follow-up to support Reinforcement (Prosci n.d.-a, n.d.-d).",
+        "The debrief explains why one generic instruction or motivational message would not address all five cases. Baldwin and Ford (1988) inform the distinction between learning and application; Morrison (2023) informs attention to concerns and response. The labels are interpretations of fictional situations, not diagnoses of real employees. In particular, choosing the intended game response is evidence about scenario reasoning, while sustained workplace performance would require a different form of evidence."
+      ]
+    },
+    {
+      "slide": 27,
+      "title": "Conclusion",
+      "paragraphs": [
+        "The conclusion brings together the existing argument. ADKAR provides a language for identifying individual adoption needs. The proposed record connects those needs to shared conditions, owners and dependencies, while preserving concerns and task evidence for management judgement. The intended result is a decision whose reason and next action are clear, rather than a favourable assessment with unresolved conditions behind it.",
+        "This is the team’s synthesis of the analysis and case application. It preserves the distinction between individual ADKAR support and the wider Prosci methodology, which already addresses organisational change (Prosci n.d.-a, n.d.-b, n.d.-c). The conclusion does not establish that a new record is always necessary or that our design is superior to existing practice. Its proposed benefit remains conditional on a pilot showing that it supports useful decisions and that owners act on the responsibilities recorded."
+      ]
+    },
+    {
+      "slide": 28,
+      "title": "Recommendations and design lesson",
+      "paragraphs": [
+        "The recommendation is to pilot the record on one defined task with explicit criteria and owners. Review should examine decisions, unresolved conditions and maintenance effort before expansion. This keeps the proposed evaluation close to the design’s purpose: making the relationship between diagnosis, responsibility and evidence visible. It avoids assuming that a complete form demonstrates successful implementation.",
+        "The design lesson is that identifying a need must be connected to responsibility for addressing it. This is a reflection on the proposed tool, not an invented account of successful implementation. Nilsen (2015) supports distinguishing guidance from evaluation, while Stouten, Rousseau, and De Cremer (2018) provide a research-informed perspective on organisational change practice. These existing sources explain the recommendation to review the pilot carefully. The presentation supplies no pilot results and no evidence that a wider rollout has occurred."
+      ]
+    },
+    {
+      "slide": 29,
+      "title": "References A–L",
+      "paragraphs": [
+        "This slide lists the first alphabetical group of academic sources, from Baldwin and Ford through Lewis. They support the presentation’s discussion of training transfer, organisational relationships, learning behaviour, change conditions, resistance, readiness measurement, feedback and communication. Their research designs matter: a conceptual model, a literature review and an empirical study provide different kinds of evidence. The notes cite each source beside its supported interpretation. Applications to Cedar Retail remain the team’s reasoning. The complete reference list below preserves the same 20 academic works listed across slides 29 and 30."
+      ]
+    },
+    {
+      "slide": 30,
+      "title": "References M–W",
+      "paragraphs": [
+        "The second reference slide completes the alphabetical list from Morrison through Weiner. These sources underpin the discussion of voice, implementation approaches, responses to change, organisational context, readiness and research-informed change practice. They explain the proposal’s academic basis without validating the combined decision record or the game. Professional Prosci references describe the model and its wider methodology and are identified separately below. Evidence from other organisational settings informs our reasoning; it does not establish effectiveness in this fictional retailer."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "kind": "academic",
+      "text": "Baldwin, Timothy T., and J. Kevin Ford. 1988. “Transfer of Training: A Review and Directions for Future Research.” *Personnel Psychology* 41 (1): 63-105. https://doi.org/10.1111/j.1744-6570.1988.tb00632.x.",
+      "doi": "10.1111/j.1744-6570.1988.tb00632.x"
+    },
+    {
+      "kind": "academic",
+      "text": "Burke, W. Warner, and George H. Litwin. 1992. “A Causal Model of Organizational Performance and Change.” *Journal of Management* 18 (3): 523-45. https://doi.org/10.1177/014920639201800306.",
+      "doi": "10.1177/014920639201800306"
+    },
+    {
+      "kind": "academic",
+      "text": "Edmondson, Amy. 1999. “Psychological Safety and Learning Behavior in Work Teams.” *Administrative Science Quarterly* 44 (2): 350-83. https://doi.org/10.2307/2666999.",
+      "doi": "10.2307/2666999"
+    },
+    {
+      "kind": "academic",
+      "text": "Errida, Abdelouahab, and Bouchra Lotfi. 2021. “The Determinants of Organizational Change Management Success: Literature Review and Case Study.” *International Journal of Engineering Business Management* 13. https://doi.org/10.1177/18479790211016273.",
+      "doi": "10.1177/18479790211016273"
+    },
+    {
+      "kind": "academic",
+      "text": "Ford, Jeffrey D., Laurie W. Ford, and Angelo D'Amelio. 2008. “Resistance to Change: The Rest of the Story.” *Academy of Management Review* 33 (2): 362-77. https://doi.org/10.5465/amr.2008.31193235.",
+      "doi": "10.5465/amr.2008.31193235"
+    },
+    {
+      "kind": "academic",
+      "text": "Herold, David M., Donald B. Fedor, and Steven D. Caldwell. 2007. “Beyond Change Management: A Multilevel Investigation of Contextual and Personal Influences on Employees' Commitment to Change.” *Journal of Applied Psychology* 92 (4): 942-51. https://doi.org/10.1037/0021-9010.92.4.942.",
+      "doi": "10.1037/0021-9010.92.4.942"
+    },
+    {
+      "kind": "academic",
+      "text": "Holt, Daniel T., Achilles A. Armenakis, Hubert S. Feild, and Stanley G. Harris. 2007. “Readiness for Organizational Change: The Systematic Development of a Scale.” *Journal of Applied Behavioral Science* 43 (2): 232-55. https://doi.org/10.1177/0021886306295295.",
+      "doi": "10.1177/0021886306295295"
+    },
+    {
+      "kind": "academic",
+      "text": "Jo, Yunseong, and Ah Jeong Hong. 2023. “Development and Validation of a Readiness for Organizational Change Scale.” *SAGE Open* 13 (4). https://doi.org/10.1177/21582440231207705.",
+      "doi": "10.1177/21582440231207705"
+    },
+    {
+      "kind": "academic",
+      "text": "Kluger, Avraham N., and Angelo DeNisi. 1996. “The Effects of Feedback Interventions on Performance: A Historical Review, a Meta-Analysis, and a Preliminary Feedback Intervention Theory.” *Psychological Bulletin* 119 (2): 254-84. https://doi.org/10.1037/0033-2909.119.2.254.",
+      "doi": "10.1037/0033-2909.119.2.254"
+    },
+    {
+      "kind": "academic",
+      "text": "Lewis, Laurie K. 1999. “Disseminating Information and Soliciting Input during Planned Organizational Change: Implementers' Targets, Sources, and Channels for Communicating.” *Management Communication Quarterly* 13 (1): 43-75. https://doi.org/10.1177/0893318999131002.",
+      "doi": "10.1177/0893318999131002"
+    },
+    {
+      "kind": "academic",
+      "text": "Morrison, Elizabeth Wolfe. 2023. “Employee Voice and Silence: Taking Stock a Decade Later.” *Annual Review of Organizational Psychology and Organizational Behavior* 10: 79-107. https://doi.org/10.1146/annurev-orgpsych-120920-054654.",
+      "doi": "10.1146/annurev-orgpsych-120920-054654"
+    },
+    {
+      "kind": "academic",
+      "text": "Nilsen, Per. 2015. “Making Sense of Implementation Theories, Models and Frameworks.” *Implementation Science* 10: 53. https://doi.org/10.1186/s13012-015-0242-0.",
+      "doi": "10.1186/s13012-015-0242-0"
+    },
+    {
+      "kind": "academic",
+      "text": "Oreg, Shaul. 2006. “Personality, Context, and Resistance to Organizational Change.” *European Journal of Work and Organizational Psychology* 15 (1): 73-101. https://doi.org/10.1080/13594320500451247.",
+      "doi": "10.1080/13594320500451247"
+    },
+    {
+      "kind": "academic",
+      "text": "Oreg, Shaul, and Noga Sverdlik. 2026. “Responses to Organizational Change: Evolution of the Concept, Established Findings, and Future Directions.” *Annual Review of Organizational Psychology and Organizational Behavior* 13: 387-413. https://doi.org/10.1146/annurev-orgpsych-020924-064623.",
+      "doi": "10.1146/annurev-orgpsych-020924-064623"
+    },
+    {
+      "kind": "academic",
+      "text": "Oreg, Shaul, Maria Vakola, and Achilles Armenakis. 2011. “Change Recipients' Reactions to Organizational Change: A 60-Year Review of Quantitative Studies.” *Journal of Applied Behavioral Science* 47 (4): 461-524. https://doi.org/10.1177/0021886310396550.",
+      "doi": "10.1177/0021886310396550"
+    },
+    {
+      "kind": "academic",
+      "text": "Pettigrew, Andrew M., Richard W. Woodman, and Kim S. Cameron. 2001. “Studying Organizational Change and Development: Challenges for Future Research.” *Academy of Management Journal* 44 (4): 697-713. https://doi.org/10.5465/3069411.",
+      "doi": "10.5465/3069411"
+    },
+    {
+      "kind": "academic",
+      "text": "Piderit, Sandy Kristin. 2000. “Rethinking Resistance and Recognizing Ambivalence: A Multidimensional View of Attitudes toward an Organizational Change.” *Academy of Management Review* 25 (4): 783-94. https://doi.org/10.5465/amr.2000.3707722.",
+      "doi": "10.5465/amr.2000.3707722"
+    },
+    {
+      "kind": "academic",
+      "text": "Rafferty, Alannah E., Nerina L. Jimmieson, and Achilles A. Armenakis. 2013. “Change Readiness: A Multilevel Review.” *Journal of Management* 39 (1): 110-35. https://doi.org/10.1177/0149206312457417.",
+      "doi": "10.1177/0149206312457417"
+    },
+    {
+      "kind": "academic",
+      "text": "Stouten, Jeroen, Denise M. Rousseau, and David De Cremer. 2018. “Successful Organizational Change: Integrating the Management Practice and Scholarly Literatures.” *Academy of Management Annals* 12 (2): 752-88. https://doi.org/10.5465/annals.2016.0095.",
+      "doi": "10.5465/annals.2016.0095"
+    },
+    {
+      "kind": "academic",
+      "text": "Weiner, Bryan J. 2009. “A Theory of Organizational Readiness for Change.” *Implementation Science* 4: 67. https://doi.org/10.1186/1748-5908-4-67.",
+      "doi": "10.1186/1748-5908-4-67"
+    },
+    {
+      "kind": "professional",
+      "text": "Creasey, Tim. 2025. “The Prosci ADKAR Model: Why It Works.” Prosci. Updated April 18, 2025. Accessed November 5, 2026. https://www.prosci.com/blog/why-the-adkar-model-works."
+    },
+    {
+      "kind": "professional",
+      "text": "Prosci. 2022. “ADKAR Assessment.” Accessed October 7, 2026. https://www.prosci.com/hubfs/2.downloads/webinars/ADKAR-Assessment-Personal-Fillable-2022.pdf."
+    },
+    {
+      "kind": "professional",
+      "text": "Prosci. n.d.-a. “The Prosci ADKAR Model.” Accessed November 5, 2026. https://www.prosci.com/methodology/adkar."
+    },
+    {
+      "kind": "professional",
+      "text": "Prosci. n.d.-b. “The Prosci Change Triangle (PCT) Model.” Accessed November 5, 2026. https://www.prosci.com/methodology/pct-model."
+    },
+    {
+      "kind": "professional",
+      "text": "Prosci. n.d.-c. “Prosci 3-Phase Process.” Accessed November 5, 2026. https://www.prosci.com/methodology/3-phase-process."
+    },
+    {
+      "kind": "professional",
+      "text": "Prosci. n.d.-d. “ADKAR Assessments.” Accessed November 5, 2026. https://www.prosci.com/migration/en/help-center/adkar-assessments."
+    }
+  ]
+}

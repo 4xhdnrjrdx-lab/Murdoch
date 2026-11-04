@@ -1,0 +1,253 @@
+{
+  "checked_at": "2026-11-05T00:42:27.467618+04:00",
+  "existing_source_audit": "Assignments/A2/Complete_2026-10-14/BUS230A2_Source_Verification_2026-10-14.json",
+  "new_academic_sources_added": 0,
+  "academic_sources": [
+    {
+      "doi": "10.1111/j.1744-6570.1988.tb00632.x",
+      "author_year": "Baldwin 1988",
+      "note_slides": [
+        19,
+        21,
+        25,
+        26
+      ],
+      "support": "Training transfer concerns applying learning to work and maintaining it over time.",
+      "boundary": "A foundational review supports representative practice, not a universal pass threshold.",
+      "prior_content_scope": "Publisher abstract",
+      "new_full_text_review_claim": false
+    },
+    {
+      "doi": "10.1177/014920639201800306",
+      "author_year": "Burke 1992",
+      "note_slides": [
+        9,
+        13
+      ],
+      "support": "The model proposes links between organisational factors, motivation and performance.",
+      "boundary": "A systems model supports inspecting dependencies. It does not empirically verify our routing rule.",
+      "prior_content_scope": "Publisher abstract",
+      "new_full_text_review_claim": false
+    },
+    {
+      "doi": "10.2307/2666999",
+      "author_year": "Edmondson 1999",
+      "note_slides": [
+        19
+      ],
+      "support": "Psychological safety is associated with learning behaviour in the reported field study.",
+      "boundary": "An association in manufacturing teams does not prove the causal effects of our practice rule.",
+      "prior_content_scope": "Publisher abstract and deposited Crossref abstract",
+      "new_full_text_review_claim": false
+    },
+    {
+      "doi": "10.1177/18479790211016273",
+      "author_year": "Errida 2021",
+      "note_slides": [
+        17,
+        20
+      ],
+      "support": "The paper combines a review of change models with a construction-company case. Context limits generalisation.",
+      "boundary": "The construction case does not establish effectiveness in retail or for our adaptation.",
+      "prior_content_scope": "Publisher abstract and case-scope sections",
+      "new_full_text_review_claim": false
+    },
+    {
+      "doi": "10.5465/amr.2008.31193235",
+      "author_year": "Ford 2008",
+      "note_slides": [
+        8,
+        12
+      ],
+      "support": "Change agents can contribute to resistance through their actions and inactions. Resistance can provide useful information.",
+      "boundary": "A theoretical argument supports examining the concern, without guaranteeing agreement.",
+      "prior_content_scope": "Publisher abstract",
+      "new_full_text_review_claim": false
+    },
+    {
+      "doi": "10.1037/0021-9010.92.4.942",
+      "author_year": "Herold 2007",
+      "note_slides": [
+        9,
+        13
+      ],
+      "support": "Contextual and personal factors interact in employees' commitment to specific changes.",
+      "boundary": "The multilevel study is not a test of parallel actions or our decision states.",
+      "prior_content_scope": "PubMed abstract",
+      "new_full_text_review_claim": false
+    },
+    {
+      "doi": "10.1177/0021886306295295",
+      "author_year": "Holt 2007",
+      "note_slides": [
+        6,
+        10
+      ],
+      "support": "Readiness is multidimensional. The authors develop and evaluate a scale through a systematic procedure.",
+      "boundary": "This instrument differs from an ADKAR five-score conversation and from our record.",
+      "prior_content_scope": "Publisher abstract",
+      "new_full_text_review_claim": false
+    },
+    {
+      "doi": "10.1177/21582440231207705",
+      "author_year": "Jo 2023",
+      "note_slides": [
+        10
+      ],
+      "support": "A readiness scale requires definition, item development and reliability/validity testing.",
+      "boundary": "Its reported scale development does not confer validity on our classroom rule.",
+      "prior_content_scope": "Publisher abstract and relevant scale-development sections",
+      "new_full_text_review_claim": false
+    },
+    {
+      "doi": "10.1037/0033-2909.119.2.254",
+      "author_year": "Kluger 1996",
+      "note_slides": [
+        21
+      ],
+      "support": "Feedback effects vary, and attention to the task versus the self matters in the reported theory and analysis.",
+      "boundary": "Use for cautious feedback design. Do not claim every task-focused intervention will work.",
+      "prior_content_scope": "Author university research-record abstract",
+      "new_full_text_review_claim": false
+    },
+    {
+      "doi": "10.1177/0893318999131002",
+      "author_year": "Lewis 1999",
+      "note_slides": [
+        23
+      ],
+      "support": "The study examines information-giving and input-seeking channels in planned change.",
+      "boundary": "It does not prove the causal benefit of our chosen shift briefings.",
+      "prior_content_scope": "Publisher abstract",
+      "new_full_text_review_claim": false
+    },
+    {
+      "doi": "10.1146/annurev-orgpsych-120920-054654",
+      "author_year": "Morrison 2023",
+      "note_slides": [
+        19,
+        23,
+        26
+      ],
+      "support": "The review examines when and why employees speak up or remain silent.",
+      "boundary": "Inviting feedback does not automatically create meaningful voice or eliminate retaliation.",
+      "prior_content_scope": "Publisher abstract",
+      "new_full_text_review_claim": false
+    },
+    {
+      "doi": "10.1186/s13012-015-0242-0",
+      "author_year": "Nilsen 2015",
+      "note_slides": [
+        2,
+        4,
+        16,
+        17,
+        18,
+        22,
+        28
+      ],
+      "support": "Implementation approaches have different purposes, including guiding, explaining and evaluating.",
+      "boundary": "The taxonomy comes from implementation science. Apply the distinction carefully in retail.",
+      "prior_content_scope": "Abstract and taxonomy discussion",
+      "new_full_text_review_claim": false
+    },
+    {
+      "doi": "10.1177/0021886310396550",
+      "author_year": "Oreg 2011",
+      "note_slides": [
+        7
+      ],
+      "support": "The review groups reactions, antecedents and consequences, including change content, process and context.",
+      "boundary": "The reviewed studies differ in setting and design. They do not test our record.",
+      "prior_content_scope": "Publisher abstract",
+      "new_full_text_review_claim": false
+    },
+    {
+      "doi": "10.1146/annurev-orgpsych-020924-064623",
+      "author_year": "Oreg 2026",
+      "note_slides": [
+        8,
+        23
+      ],
+      "support": "The current review highlights ambivalence, levels of analysis, culture and timing in responses to change.",
+      "boundary": "Review findings guide questions about context, not a prediction of this fictional employee.",
+      "prior_content_scope": "Publisher abstract",
+      "new_full_text_review_claim": false
+    },
+    {
+      "doi": "10.1080/13594320500451247",
+      "author_year": "Oreg 2006",
+      "note_slides": [
+        8
+      ],
+      "support": "Reactions to change relate to context as well as personal characteristics.",
+      "boundary": "Do not use the study to label team members or claim personality alone causes resistance.",
+      "prior_content_scope": "Author university-hosted article, abstract and relevant discussion",
+      "new_full_text_review_claim": false
+    },
+    {
+      "doi": "10.5465/3069411",
+      "author_year": "Pettigrew 2001",
+      "note_slides": [
+        9,
+        13,
+        14,
+        15
+      ],
+      "support": "Change research should examine context, time, process and multiple levels of analysis.",
+      "boundary": "A research agenda supports contextual judgement rather than a universal action order.",
+      "prior_content_scope": "Publisher abstract",
+      "new_full_text_review_claim": false
+    },
+    {
+      "doi": "10.5465/amr.2000.3707722",
+      "author_year": "Piderit 2000",
+      "note_slides": [
+        8
+      ],
+      "support": "Responses to change can be multidimensional and ambivalent, and may evolve over time.",
+      "boundary": "A conceptual argument, rather than proof that every objection is valid.",
+      "prior_content_scope": "Publisher abstract",
+      "new_full_text_review_claim": false
+    },
+    {
+      "doi": "10.1177/0149206312457417",
+      "author_year": "Rafferty 2013",
+      "note_slides": [
+        7,
+        22
+      ],
+      "support": "Readiness needs attention to affect and to individual, group and organisational levels.",
+      "boundary": "A multilevel review supplies a perspective, not a retail trial of our tool.",
+      "prior_content_scope": "Publisher abstract",
+      "new_full_text_review_claim": false
+    },
+    {
+      "doi": "10.5465/annals.2016.0095",
+      "author_year": "Stouten 2018",
+      "note_slides": [
+        20,
+        22,
+        28
+      ],
+      "support": "The review integrates practitioner change advice with scholarly evidence and identifies evidence-based steps.",
+      "boundary": "Use as a benchmark for diagnosis and implementation. It does not validate our adaptation.",
+      "prior_content_scope": "Publisher abstract and local Topic 7 transcript pages 4-5",
+      "new_full_text_review_claim": false
+    },
+    {
+      "doi": "10.1186/1748-5908-4-67",
+      "author_year": "Weiner 2009",
+      "note_slides": [
+        7,
+        14,
+        22
+      ],
+      "support": "Organisational readiness involves shared commitment and capability, with task demands and resources informing the judgement.",
+      "boundary": "Conceptual theory, developed with healthcare systems in view. It does not test our worksheet.",
+      "prior_content_scope": "Abstract and organisational-readiness/conditions sections",
+      "new_full_text_review_claim": false
+    }
+  ],
+  "manual_review": "Claims remain within retained content-check scopes; fictional applications and team proposals are identified. No whole-article access is claimed for abstract-only sources."
+}

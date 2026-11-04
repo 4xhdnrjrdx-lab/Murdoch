@@ -1,0 +1,128 @@
+{
+  "checked_at": "2026-11-05T00:42:27.467618+04:00",
+  "scope": "BUS230 A2 academic notes; focused study Gmail and own group A2 status; course peer portal metadata only",
+  "user_request": "Подготовить academic notes ко всей презентации",
+  "incoming": {
+    "screenshots_reviewed": 7,
+    "raw_screenshots_retained_in_git": false,
+    "reason": "Screenshots include unnecessary contact details; retain sanitised summary and hashes, originals untouched.",
+    "summary": [
+      "Aram requests academic explanations with citations rather than only a speaking script.",
+      "Beryl reports peer evaluation completed and plans to send her own academic notes on Nov 5; this is self-report, not LMS confirmation.",
+      "Mazin reports peer evaluation completed; this is self-report.",
+      "One person is to combine members’ notes; team approval of the new full notes is not established."
+    ],
+    "screenshot_sha256": {
+      "1": "1158aeab9f1231571251f32bc081050300ab9362c436d4a411170dfc57fe4344",
+      "2": "9cd817799d10bb3bef0439d51b385bf11864f3ba875b2a9eb1a1fe69e95c3d02",
+      "3": "11d9b513d5c601963e2db4cced21908033022cb9013ef98e1b13fbc26acfc2c1",
+      "4": "cfb2dd31e4644ad3e99ac696073613b805812efec753a2ef2d3fc35c18c14d4c",
+      "5": "ad0ef12306ae6282b9ec1ff30672b2df97ca3f3c024bb53c834603963fcac3fa",
+      "6": "93b5478d4006327d7d2fbf7b8ab23d1072df10355a67d60999a866b8d29d9c52",
+      "7": "a74091941d8baa4c21d8f18a24adab399323923176b789d096956a5c68436a30"
+    },
+    "audio": [
+      {
+        "path": "Correspondence/2026-11-05_Audio/AUDIO-2026-11-04-23-06-24.m4a",
+        "sha256": "40b4c775c07ab7f71129535c3f7f47ac4c28d0c639b1672ab57dcf3c4e52b355",
+        "original_unchanged": true
+      },
+      {
+        "path": "Correspondence/2026-11-05_Audio/AUDIO-2026-11-04-23-07-29.m4a",
+        "sha256": "6914fca751b67d33e7576ededd13ceaff298309d63e85faac96896dabfa816e7",
+        "original_unchanged": true
+      }
+    ],
+    "audio_interpretation": {
+      "first": "Machine-assisted reading supports sending individual slide notes via WhatsApp for one person to combine. Exact wording uncertain.",
+      "second": "Short recording transcription unreliable; not used as a factual basis or instruction for peer grading.",
+      "peer_ratings_chosen_or_submitted": false
+    }
+  },
+  "mail": {
+    "account": "jafarovfayaz@gmail.com",
+    "query": "after:2026/11/01 (BUS230 OR Shahinda OR \"peer assessment\" OR \"Kanwal\")",
+    "matching_messages": 2,
+    "official_peer_reminder": {
+      "message_id": "1a1a44dd269382b5",
+      "sender": "Kanwal Nasim via myMurdoch Learning",
+      "received_utc": "2026-11-04T02:05:19",
+      "subject": "BUS230 Change Management (TSD, 2026): Assessment 2 - Peer assessment",
+      "url": "https://moodleprod.murdoch.edu.au/mod/forum/discuss.php?d=997648",
+      "summary": "Complete A2 peer assessment; failure will result in 10% deduction of marks. No conversion to final course percentage points asserted."
+    },
+    "limitations": "Focused connected study Gmail; full Outlook and WhatsApp not accessed."
+  },
+  "lms": {
+    "checked_at": "2026-11-05T00:26:31.803006+04:00",
+    "a2": {
+      "id": 124983,
+      "due": "2026-11-06T19:59:00+04:00",
+      "group_status": "new",
+      "files": []
+    },
+    "peerwork": [
+      {
+        "id": 3074733,
+        "instance": 370,
+        "name": "Assignment 2 peer assessment - Class 1 Friday Shahinda Baig",
+        "url": "https://moodleprod.murdoch.edu.au/mod/peerwork/view.php?id=3074733",
+        "dates": [
+          {
+            "label": "Due: ",
+            "timestamp": 1794671940
+          }
+        ],
+        "description": null
+      },
+      {
+        "id": 3074734,
+        "instance": 371,
+        "name": "Assignment 2 peer assessment - Class 2 Wednesday Shahinda Baig",
+        "url": "https://moodleprod.murdoch.edu.au/mod/peerwork/view.php?id=3074734",
+        "dates": [
+          {
+            "label": "Opened: ",
+            "timestamp": 1788191940
+          },
+          {
+            "label": "Due: ",
+            "timestamp": 1794671940
+          }
+        ],
+        "description": null
+      },
+      {
+        "id": 3074735,
+        "instance": 372,
+        "name": "Assignment 2 peer assessment - Class 3 Harshini Esther",
+        "url": "https://moodleprod.murdoch.edu.au/mod/peerwork/view.php?id=3074735",
+        "dates": [
+          {
+            "label": "Due: ",
+            "timestamp": 1796140740
+          }
+        ],
+        "description": null
+      }
+    ]
+  },
+  "correct_peer_portal": {
+    "id": 3074734,
+    "instance": 371,
+    "class": "Class 2 Wednesday Shahinda Baig",
+    "due_timestamp": 1794671940,
+    "due_dubai": "2026-11-14T19:59:00+04:00",
+    "url": "https://moodleprod.murdoch.edu.au/mod/peerwork/view.php?id=3074734",
+    "own_completion": "not checked; API metadata only",
+    "correction": "Older selected instance 372/Dec 1 is now labelled Class 3 Harshini Esther; retain old records as history, use current Class 2 instance 371."
+  },
+  "output": "Assignments/A2/Academic_Notes_2026-11-05/BUS230Assessment2Class2Group4_AcademicNotes_2026-11-05.docx",
+  "boundaries": [
+    "No slides edited",
+    "No submission, messages or peer ratings sent",
+    "No game results or site changed",
+    "User source media unchanged",
+    "No tokens, raw email headers or recipient list retained"
+  ]
+}

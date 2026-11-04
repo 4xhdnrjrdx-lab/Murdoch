@@ -14,6 +14,7 @@
 - [Резервное демонстрационное видео](A2/Presentation_Alex_2026-10-27/Cedar_Retail_Alex_Demo_36s.mp4)
 - [Запуск и пределы проверки](A2/Presentation_Alex_2026-10-27/README.md)
 - [Актуальная опубликованная игра и управление сеансом](A2/Game_Reset_Labels_2026-10-27/README.md)
+- [Подготовленные academic supporting notes ко всем 30 слайдам](A2/Academic_Notes_2026-11-05/BUS230Assessment2Class2Group4_AcademicNotes_2026-11-05.docx) — Отдельный DOCX: 17 страниц, citations и те же 20 академических источников. Проверено содержание/рендер; перед сдачей нужна сверка команды с фактически показанным PPTX. Не заменяет PPTX и не означает сдачу.
 
 ## A3: Final Exam, 30%
 

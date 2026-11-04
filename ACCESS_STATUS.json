@@ -6,10 +6,10 @@
     "operation": "BUS334 A3 read-only status and download of three submitted PDFs for SHA-256 comparison; grade visibility checked without claiming hidden score.",
     "checked_at": "2026-11-05T00:30:54+04:00",
     "latest_bus230_a2_check": {
-      "checked_at": "2026-11-02T13:47:27.375526+04:00",
+      "checked_at": "2026-11-05T00:26:31.803006+04:00",
       "result": "ok",
-      "scope": "Own A2 group portal new without files, due 6 November 19:59 Dubai; teacher forum reminder read",
-      "evidence": "BUS230/2026-TSD/Correspondence/2026-11-02_forum-and-A2-reminder.json"
+      "scope": "Own A2 group status new/no files; Class 2 peerwork metadata and deadline, not own peer completion.",
+      "evidence": "BUS230/2026-TSD/Correspondence/2026-11-05_A2-notes-and-peer-check.json"
     },
     "evidence": {
       "BUS230": "Archive/Correspondence/2026-10-29_all-course-status-check.json",
@@ -18,7 +18,7 @@
       "BUS225": "Archive/Correspondence/2026-10-29_all-course-status-check.json"
     },
     "last_success_by_course": {
-      "BUS230": "2026-11-02T13:47:27.375526+04:00",
+      "BUS230": "2026-11-05T00:26:31.803006+04:00",
       "BUS334": "2026-11-05T00:30:54+04:00",
       "BUS219": "2026-10-29T15:03:22.638641+04:00",
       "BUS225": "2026-10-29T15:03:35.116321+04:00"
@@ -45,9 +45,9 @@
         "evidence": "BUS334/2026-TSD/Correspondence/2026-10-27_mail-and-lms-check.json"
       },
       "BUS230": {
-        "checked_at": "2026-11-02T13:47:27.375526+04:00",
-        "scope": "BUS230 forum metadata/teacher reminder, own A2 group status/due; user-authorized whole-forum subscription through UI confirmed separately",
-        "evidence": "BUS230/2026-TSD/Correspondence/2026-11-02_forum-and-A2-reminder.json"
+        "checked_at": "2026-11-05T00:26:31.803006+04:00",
+        "scope": "Own A2 status/due and course peerwork labels/dates; no assignment or peer submission.",
+        "evidence": "BUS230/2026-TSD/Correspondence/2026-11-05_A2-notes-and-peer-check.json"
       },
       "BUS225": {
         "checked_on": "2026-11-04",
@@ -203,11 +203,11 @@
     },
     "last_check_by_course": {
       "BUS230": {
-        "checked_at": "2026-10-29T15:08:48.098382+04:00",
+        "checked_at": "2026-11-05T00:42:27.467618+04:00",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "after:2026/10/27 (BUS219 OR \"BUS 219\" OR BUS225 OR \"BUS 225\" OR BUS230 OR \"BUS 230\" OR BUS334 OR \"BUS 334\" OR from:Dubai.StudentServices@murdoch.edu.au OR from:Dubai.AcademicServices@murdoch.edu.au OR from:Dana.KhouryEid@murdoch.edu.au OR from:Ashok.Mitra@murdoch.edu.au)",
-        "result": "0 совпадений; поиск исчерпан.",
-        "evidence": "Archive/Correspondence/2026-10-29_all-course-status-check.json"
+        "scope": "Focused BUS230/teacher/peer Gmail search after Nov 1; official Nov 4 peer reminder read. Full Outlook/WhatsApp not accessed.",
+        "evidence": "BUS230/2026-TSD/Correspondence/2026-11-05_A2-notes-and-peer-check.json",
+        "result": "2 matching messages; official Nov 4 peer reminder read; no outbound action."
       },
       "BUS334": {
         "checked_at": "2026-10-29T15:08:48.098382+04:00",
@@ -233,11 +233,11 @@
     },
     "course_checks": {
       "BUS230": {
-        "checked_at": "2026-11-02T13:47:27.375526+04:00",
+        "checked_at": "2026-11-05T00:42:27.467618+04:00",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "after:2026/10/28 (Shahinda OR BUS230 OR \"Change Management\" OR \"forum\")",
-        "result": "1 matching message from Shahinda 2 November read; Outlook/WhatsApp not checked",
-        "evidence": "BUS230/2026-TSD/Correspondence/2026-11-02_forum-and-A2-reminder.json"
+        "scope": "Focused BUS230/teacher/peer Gmail search after Nov 1; official Nov 4 peer reminder read. Full Outlook/WhatsApp not accessed.",
+        "evidence": "BUS230/2026-TSD/Correspondence/2026-11-05_A2-notes-and-peer-check.json",
+        "result": "2 matching messages; official Nov 4 peer reminder read; no outbound action."
       }
     }
   },
