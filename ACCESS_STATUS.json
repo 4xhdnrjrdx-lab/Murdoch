@@ -48,6 +48,11 @@
         "checked_at": "2026-11-02T13:47:27.375526+04:00",
         "scope": "BUS230 forum metadata/teacher reminder, own A2 group status/due; user-authorized whole-forum subscription through UI confirmed separately",
         "evidence": "BUS230/2026-TSD/Correspondence/2026-11-02_forum-and-A2-reminder.json"
+      },
+      "BUS225": {
+        "checked_on": "2026-11-04",
+        "scope": "Assignment metadata for A2/peer only; due/cutoff confirmed. Submission status and grades not reread.",
+        "evidence": "BUS225/2026-TSD/Correspondence/2026-11-04_feedback-and-blueprint-check.json"
       }
     }
   },
@@ -219,11 +224,11 @@
         "evidence": "Archive/Correspondence/2026-10-29_all-course-status-check.json"
       },
       "BUS225": {
-        "checked_at": "2026-10-29T15:08:48.098382+04:00",
+        "checked_on": "2026-11-04",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "after:2026/10/27 (BUS219 OR \"BUS 219\" OR BUS225 OR \"BUS 225\" OR BUS230 OR \"BUS 230\" OR BUS334 OR \"BUS 334\" OR from:Dubai.StudentServices@murdoch.edu.au OR from:Dubai.AcademicServices@murdoch.edu.au OR from:Dana.KhouryEid@murdoch.edu.au OR from:Ashok.Mitra@murdoch.edu.au)",
-        "result": "0 совпадений; поиск исчерпан.",
-        "evidence": "Archive/Correspondence/2026-10-29_all-course-status-check.json"
+        "scope": "after:2026/10/29 (BUS225 OR \"Services Marketing\" OR from:Dana.KhouryEid@murdoch.edu.au)",
+        "result": "One result, search exhausted. Lecturer feedback dated November 1 read; applies to earlier draft.",
+        "evidence": "BUS225/2026-TSD/Correspondence/2026-11-04_feedback-and-blueprint-check.json"
       }
     },
     "course_checks": {

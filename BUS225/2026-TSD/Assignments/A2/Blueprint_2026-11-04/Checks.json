@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-04",
+  "status": "prepared for group review; not submitted",
+  "source_report": "Source/Muhammad_Received_2026-11-04.docx",
+  "source_report_preserved": true,
+  "original_attachments_unchanged": true,
+  "scope": "Replace the two supplied blueprint panels; preserve report text and references. New five-stage diagram follows supplied Nike layout and class example with separate linked IT records.",
+  "provenance": "Nike and class images are user-supplied layout references. Teacher approval of Nike and request for the IT section are reported by Faiaz, not independently verified.",
+  "basis": "Carrefour UAE help centre, Majid Al Futtaim ESG 2021, Bitner et al. 2008. Internal activities, record structures and data connections are modelled design; not verified Carrefour architecture.",
+  "counts": {
+    "report_words_whitespace": 1409,
+    "blueprint_words_whitespace": 409,
+    "combined_words_whitespace": 1818,
+    "combined_words_regex": 1823,
+    "references_excluded": true,
+    "report_and_references_preserved": true,
+    "diagram_cell_overflow_assertions": "pass",
+    "expected_pages": 5
+  },
+  "visual_review": "All five rendered Word pages and standalone diagram reviewed; no clipping, overlap or blank pages. Final render v2.",
+  "source_and_deliverable_checks": {
+    "Class_Blueprint_Reference.heic": "exact byte copy; original unchanged",
+    "Nike_Layout_Reference.jpg": "exact byte copy; original unchanged"
+  },
+  "pages": 5,
+  "blueprint_pages": 1,
+  "review_comments_present": false,
+  "tracked_changes_present": false,
+  "sha256": {
+    "BUS225_A2_Group9_Carrefour_Updated.docx": "eac823774c096c3f825c105dd6c74f1a533d3ec8d0287849bbeacd139f2f0fa0",
+    "BUS225_A2_Group9_Carrefour_Updated.pdf": "39359af65d45595db509244f3ab5c0b773ddca5be017b0acf38de91859cd3f20",
+    "Carrefour_Service_Blueprint.pdf": "139570b1d9827266391baf9a0a7e792bf7e1c62ee2ecbf36f0e8d92527348fd2",
+    "Carrefour_Service_Blueprint.png": "16c1e8ecefe26ebd5c8a25557f7bbccfc720ee5237c10f92d80c672d79b9b06d",
+    "Carrefour_Service_Blueprint.svg": "44b5e4797113b76f4eb09e2756834d0956b114e3110b3a06a77b0a11640fb6b8"
+  }
+}

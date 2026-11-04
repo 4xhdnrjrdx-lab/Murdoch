@@ -1,0 +1,115 @@
+BUS225  /  SERVICES MARKETING  /  GROUP 9
+Figure 1 Carrefour UAE service blueprint
+Physical store journey  |  F = potential failure  |  P = proposed improvement
+01 ARRIVE
+Entrance signs; scanners or
+app; checkout lanes.
+Choose cashier, Scan&Go
+or self-checkout.
+Explain options; help
+start Scan&Go.
+Check device readiness;
+assign store assistance.
+Device support;
+staff rota and instructions.
+D1 Devices and staffing
+Device ID; status;
+shift and help cover.
+F1 Cannot start scanning
+P Clear instructions;
+staffed checkout available.
+02 FIND AND SELECT
+Products; shelf labels;
+Tally where deployed.
+Find and choose products;
+ask about missing stock.
+Tally checks shelves where
+used; staff answer stock queries.
+Review alert; check stock;
+assign shelf replenishment.
+Inventory control;
+alert queue and replenishment.
+D2 Products and stock
+SKU/barcode; shelf quantity;
+alert and refill status.
+F2 Empty shelf
+P Named alert owner;
+confirm refill or explain shortage.
+03 SCAN AND REVIEW
+Barcode; basket display;
+scanner or checkout terminal.
+Scan&Go: scan in aisles.
+Self-checkout: scan at till.
+Cashier: hand over basket.
+Terminal shows scanned item;
+cashier scans; attendant helps.
+Verify barcode, price and
+promotions; correct item.
+Product catalogue;
+price updates and basket system.
+D3 Prices and basket
+Item; quantity; price;
+promotion; basket total.
+F3 Scan or price error
+P Check item; recover basket
+where technically possible.
+04 PAY AND LEAVE
+Total; payment screen;
+receipt; exit signs.
+Check total; pay;
+collect receipt and leave.
+Confirm payment; help with
+declines or a stopped terminal.
+Check payment status;
+authorise exceptions.
+Payment gateway;
+terminal and transaction support.
+D4 Sales and payments
+Transaction ID; payment status;
+itemised receipt.
+F4 Delay or payment failure
+P Allocate attendant;
+check status before retry.
+05 AFTERCARE
+Receipt; service desk;
+case reference.
+If needed, query a charge
+or request a return.
+Hear complaint; explain
+correction or return.
+Review receipt and item;
+authorise remedy or escalate.
+Receipt lookup;
+returns policy and case handling.
+D5 Returns and complaints
+Case ID; receipt reference;
+reason; remedy and outcome.
+F5 Repeated explanation
+P Transfer receipt and case;
+assign one case owner.
+PHYSICAL
+EVIDENCE
+CUSTOMER
+ACTIONS
+FRONTSTAGE
+Staff and interfaces
+BACKSTAGE
+Staff and operations
+SUPPORT
+PROCESSES
+IT SYSTEMS
+AND DATABASES
+FAILURE
+POINTS
+PREVENTION
+AND RECOVERY
+Line of external
+interaction
+Line of visibility
+Line of internal
+interaction
+Line of internal
+IT interaction
+Grey arrows: service handovers. Blue arrows: data flows. Scan&Go repeats stages 2-3 while shopping.
+Internal activities and data links show a proposed service design. Tally availability varies by store.
+Sources: Bitner et al. (2008); Carrefour UAE (n.d.); Majid Al Futtaim (2022).

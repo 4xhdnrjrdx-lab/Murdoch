@@ -23,8 +23,8 @@
     },
     {
       "path": "ACCESS_STATUS.json",
-      "bytes": 14908,
-      "sha256": "13105615a7b2618742c56d5c555d18792386f45f8cc7f41c2d79cab87d84235c",
+      "bytes": 15035,
+      "sha256": "1ff6bc1f4b12fa14aebed59f3bdb247d7540f15108b63773aaa9081763f5459f",
       "storage": "git"
     },
     {
@@ -6250,6 +6250,84 @@
       "storage": "git"
     },
     {
+      "path": "BUS225/2026-TSD/Assignments/A2/Blueprint_2026-11-04/BUS225_A2_Group9_Carrefour_Updated.docx",
+      "bytes": 500371,
+      "sha256": "eac823774c096c3f825c105dd6c74f1a533d3ec8d0287849bbeacd139f2f0fa0",
+      "storage": "git"
+    },
+    {
+      "path": "BUS225/2026-TSD/Assignments/A2/Blueprint_2026-11-04/BUS225_A2_Group9_Carrefour_Updated.pdf",
+      "bytes": 793434,
+      "sha256": "39359af65d45595db509244f3ab5c0b773ddca5be017b0acf38de91859cd3f20",
+      "storage": "git"
+    },
+    {
+      "path": "BUS225/2026-TSD/Assignments/A2/Blueprint_2026-11-04/Carrefour_Service_Blueprint.pdf",
+      "bytes": 6846,
+      "sha256": "139570b1d9827266391baf9a0a7e792bf7e1c62ee2ecbf36f0e8d92527348fd2",
+      "storage": "git"
+    },
+    {
+      "path": "BUS225/2026-TSD/Assignments/A2/Blueprint_2026-11-04/Carrefour_Service_Blueprint.png",
+      "bytes": 492387,
+      "sha256": "16c1e8ecefe26ebd5c8a25557f7bbccfc720ee5237c10f92d80c672d79b9b06d",
+      "storage": "git"
+    },
+    {
+      "path": "BUS225/2026-TSD/Assignments/A2/Blueprint_2026-11-04/Carrefour_Service_Blueprint.svg",
+      "bytes": 44839,
+      "sha256": "44b5e4797113b76f4eb09e2756834d0956b114e3110b3a06a77b0a11640fb6b8",
+      "storage": "git"
+    },
+    {
+      "path": "BUS225/2026-TSD/Assignments/A2/Blueprint_2026-11-04/Checks.json",
+      "bytes": 2135,
+      "sha256": "a50d616ad9825b1d589569a65fb648e05d5559c303c8eeb302515bb806efe68f",
+      "storage": "git"
+    },
+    {
+      "path": "BUS225/2026-TSD/Assignments/A2/Blueprint_2026-11-04/Source/Class_Blueprint_Reference.heic",
+      "bytes": 4051367,
+      "sha256": "453aa41c9d1a55ba12f963a25ccc4c9bd3da0e37b69e9640fafa003dd37bc03d",
+      "storage": "git"
+    },
+    {
+      "path": "BUS225/2026-TSD/Assignments/A2/Blueprint_2026-11-04/Source/Muhammad_Received_2026-11-04.docx",
+      "bytes": 45029,
+      "sha256": "04eeb275315b7fb28766673c17f43b2e01e07cd662a21319ec368a5bf12b89f5",
+      "storage": "git"
+    },
+    {
+      "path": "BUS225/2026-TSD/Assignments/A2/Blueprint_2026-11-04/Source/Nike_Layout_Reference.jpg",
+      "bytes": 205245,
+      "sha256": "e363599c712a6fda292cceb3d8d0edab3dad14f524a1c8ab10e3873495dbd9ac",
+      "storage": "git"
+    },
+    {
+      "path": "BUS225/2026-TSD/Assignments/A2/Blueprint_2026-11-04/Source/blueprint_data.json",
+      "bytes": 3007,
+      "sha256": "56d71f7751d0a57bf6ec869af8372150015efb5c18a05a6d403a88188fd85aa9",
+      "storage": "git"
+    },
+    {
+      "path": "BUS225/2026-TSD/Assignments/A2/Blueprint_2026-11-04/Source/blueprint_text.txt",
+      "bytes": 2819,
+      "sha256": "aacc409e4aa20ade47a8d12e62bf333b91948676ea714d60854688016bf8ef3f",
+      "storage": "git"
+    },
+    {
+      "path": "BUS225/2026-TSD/Assignments/A2/Blueprint_2026-11-04/Source/build_blueprint.py",
+      "bytes": 14325,
+      "sha256": "cccf2e52ca920515407c22d19605fb919a281d51f7fc08e28df90004fffc74c9",
+      "storage": "git"
+    },
+    {
+      "path": "BUS225/2026-TSD/Assignments/A2/Blueprint_2026-11-04/Source/counts.json",
+      "bytes": 287,
+      "sha256": "ca493e4a392d2a45fd9b5abcb2c6aa9c558c0492d38e5e50dec9bb368454bee5",
+      "storage": "git"
+    },
+    {
       "path": "BUS225/2026-TSD/Assignments/A2/Complete_2026-10-21/BUS225_A2_Group9_Carrefour.docx",
       "bytes": 528447,
       "sha256": "aaebdc48e562855490caab6a3560051535f5d3cca0277122a86d9704c5c54a3b",
@@ -6731,14 +6809,14 @@
     },
     {
       "path": "BUS225/2026-TSD/Assignments/README.md",
-      "bytes": 1141,
-      "sha256": "834351f1067e112214f99134faf11e6c582b6ac00a272710468aef8e6acb26aa",
+      "bytes": 1458,
+      "sha256": "6961258c5a3093d983be58cca102ba66d9d7d8e73ad102cacd3dc1f756675691",
       "storage": "git"
     },
     {
       "path": "BUS225/2026-TSD/CONTEXT.md",
-      "bytes": 2742,
-      "sha256": "164357eae5cd1d737494586e33106b4ec6b59bd8faf088d97b9fe04d5d83f336",
+      "bytes": 4448,
+      "sha256": "650809edf0c2769236b2f14b519b0573bc98803537efd41770b1fac1e90ca3eb",
       "storage": "git"
     },
     {
@@ -6820,15 +6898,21 @@
       "storage": "git"
     },
     {
+      "path": "BUS225/2026-TSD/Correspondence/2026-11-04_feedback-and-blueprint-check.json",
+      "bytes": 1811,
+      "sha256": "516d04e99423ff10ebea16b6c21d108c872fbc388f7952924609e768b3002e6c",
+      "storage": "git"
+    },
+    {
       "path": "BUS225/2026-TSD/Correspondence/README.md",
-      "bytes": 1248,
-      "sha256": "f9b37ceee9ddebdd89fcd4a477744bd57e6923680031054ad500fd5c153261f8",
+      "bytes": 1368,
+      "sha256": "f3894b44b9402fd22c127e81766d6243e767da98b26e1b2fd3d39b2f395b7323",
       "storage": "git"
     },
     {
       "path": "BUS225/2026-TSD/HISTORY.md",
-      "bytes": 12000,
-      "sha256": "b8a98d9b2c568478a058d8e599ca0bfdd865fd3332a95ec556d94f92a4bb9b09",
+      "bytes": 13123,
+      "sha256": "e589fb131ce9b6b571587b29973c950900a3ef2cfa02fc74bbe5f9cf06affd0e",
       "storage": "git"
     },
     {
@@ -7109,14 +7193,14 @@
     },
     {
       "path": "BUS225/2026-TSD/TASKS.json",
-      "bytes": 30482,
-      "sha256": "48e4b6c5dc0ccb85e65a2f796c53efe4fda2fe7a40b75c2221ce83942163c7dd",
+      "bytes": 32536,
+      "sha256": "6de0cd07ed079b66122d09e76391dd09e156f00f1328c2ab7a9522216ca2f6f9",
       "storage": "git"
     },
     {
       "path": "BUS225/2026-TSD/TASKS.md",
-      "bytes": 24554,
-      "sha256": "72d9027c212d5529bf1d8e4d1bdbd7cd2dfa21ea3d38adb5ef927ae82dd29500",
+      "bytes": 26339,
+      "sha256": "da16b74b7b4055827ab4d352045e44ab98abfb05a2c4acfacfb831a6f2b515b3",
       "storage": "git"
     },
     {
@@ -10847,8 +10931,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 6677,
-      "sha256": "8e72e37ccffad4c1d09f640f6f3ec80495eb77c22969198c3bba493581fce399",
+      "bytes": 6792,
+      "sha256": "7ebcc18de16a1e5332a6f610c6e3c2aba0e6fd099617044cbc84ec007a7acd25",
       "storage": "git"
     },
     {
@@ -10948,6 +11032,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 1824,
-  "total_bytes": 923689762
+  "file_count": 1838,
+  "total_bytes": 929861011
 }

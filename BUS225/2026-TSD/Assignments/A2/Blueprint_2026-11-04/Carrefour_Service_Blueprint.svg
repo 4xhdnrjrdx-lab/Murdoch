@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="1120" height="822" preserveAspectRatio="xMinYMin meet" viewBox="0 0 1120 822" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="1120" height="822"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-822)" style="clip-path: url(#clip)">
+		<g transform=" matrix(1,0,0,1,0,32)">
+			<text x="22" y="766.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1532) scale(1,-1)">BUS225  /  SERVICES MARKETING  /  GROUP 9</text>
+			<text x="22" y="737.2" style="font-family: Helvetica-Bold; font-size: 21px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1474) scale(1,-1)">Figure 1 Carrefour UAE service blueprint</text>
+			<text x="22" y="717.2" style="font-family: Helvetica; font-size: 11px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1434) scale(1,-1)">Physical store journey  |  F = potential failure  |  P = proposed improvement</text>
+			<rect x="148" y="668" width="182" height="34" style="stroke: rgb(16%,18%,19%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(16%,18%,19%); fill-rule: evenodd;"/>
+			<text x="157" y="681.4" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,1362) scale(1,-1)">01 ARRIVE</text>
+			<rect x="148" y="611" width="182" height="47" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="155" y="639.414" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1278) scale(1,-1)">Entrance signs; scanners or</text>
+			<text x="155" y="625.14" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1250) scale(1,-1)">app; checkout lanes.</text>
+			<rect x="148" y="540" width="182" height="58" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="155" y="573.998" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1147) scale(1,-1)">Choose cashier, Scan&amp;Go</text>
+			<text x="155" y="559.48" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1118) scale(1,-1)">or self-checkout.</text>
+			<path d="M 330,569 L 340,569 Z" style="stroke: rgb(54%,58%,60%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="340 569, 334.6237 566.3363, 334.6237 571.6637" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<rect x="148" y="443" width="182" height="68" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="156" y="481.99800000000005" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,963) scale(1,-1)">Explain options; help</text>
+			<text x="156" y="467.48" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,934) scale(1,-1)">start Scan&amp;Go.</text>
+			<rect x="148" y="356" width="182" height="58" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="155" y="389.99800000000005" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,779) scale(1,-1)">Check device readiness;</text>
+			<text x="155" y="375.48" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,750) scale(1,-1)">assign store assistance.</text>
+			<rect x="148" y="268" width="182" height="59" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="155" y="302.414" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,604) scale(1,-1)">Device support;</text>
+			<text x="155" y="288.14" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,576) scale(1,-1)">staff rota and instructions.</text>
+			<path d="M 239,540 L 239,511 Z" style="stroke: rgb(54%,58%,60%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="239 511, 236.3363 516.3763, 241.6637 516.3763" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<polygon points="239 540, 241.6637 534.6237, 236.3363 534.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<path d="M 239,443 L 239,414 Z" style="stroke: rgb(54%,58%,60%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="239 414, 236.3363 419.3763, 241.6637 419.3763" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<polygon points="239 443, 241.6637 437.6237, 236.3363 437.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<path d="M 239,356 L 239,327 Z" style="stroke: rgb(54%,58%,60%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="239 327, 236.3363 332.3763, 241.6637 332.3763" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<polygon points="239 356, 241.6637 350.6237, 236.3363 350.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<rect x="148" y="140" width="182" height="73" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(91%,94%,95%); fill-rule: evenodd;"/>
+			<text x="155" y="196.8" style="font-family: Helvetica-Bold; font-size: 11.5px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,393) scale(1,-1)">D1 Devices and staffing</text>
+			<text x="155" y="171.87200000000004" style="font-family: Helvetica; font-size: 11.6px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,343) scale(1,-1)">Device ID; status;</text>
+			<text x="155" y="157.72" style="font-family: Helvetica; font-size: 11.6px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,315) scale(1,-1)">shift and help cover.</text>
+			<path d="M 204,213 L 204,268 Z" style="stroke: rgb(15%,39%,45%); stroke-linecap: butt; stroke-width: 1.25;"/>
+			<polygon points="204 268, 206.6637 262.6237, 201.3363 262.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,39%,45%); fill-rule: evenodd;"/>
+			<polygon points="204 213, 201.3363 218.3763, 206.6637 218.3763" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,39%,45%); fill-rule: evenodd;"/>
+			<rect x="148" y="86" width="182" height="38" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(98%,93%,90%); fill-rule: evenodd;"/>
+			<text x="155" y="102.77699999999994" style="font-family: Helvetica-Bold; font-size: 11.7px;fill: rgb(52%,28%,18%); stroke:none;" transform="translate(0,205) scale(1,-1)">F1 Cannot start scanning</text>
+			<path d="M 239,86 L 239,76 Z" style="stroke: rgb(63%,41%,32%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="239 76, 236.3363 81.37631, 241.6637 81.37631" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(63%,41%,32%); fill-rule: evenodd;"/>
+			<rect x="148" y="28" width="182" height="48" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(92%,95%,93%); fill-rule: evenodd;"/>
+			<text x="154" y="56.82999999999997" style="font-family: Helvetica; font-size: 11.5px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,113) scale(1,-1)">P Clear instructions;</text>
+			<text x="154" y="42.8" style="font-family: Helvetica; font-size: 11.5px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,85) scale(1,-1)">staffed checkout available.</text>
+			<rect x="340" y="668" width="182" height="34" style="stroke: rgb(16%,18%,19%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(16%,18%,19%); fill-rule: evenodd;"/>
+			<text x="349" y="681.4" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,1362) scale(1,-1)">02 FIND AND SELECT</text>
+			<rect x="340" y="611" width="182" height="47" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="347" y="639.414" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1278) scale(1,-1)">Products; shelf labels;</text>
+			<text x="347" y="625.14" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1250) scale(1,-1)">Tally where deployed.</text>
+			<rect x="340" y="540" width="182" height="58" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="347" y="573.998" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1147) scale(1,-1)">Find and choose products;</text>
+			<text x="347" y="559.48" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1118) scale(1,-1)">ask about missing stock.</text>
+			<path d="M 522,569 L 532,569 Z" style="stroke: rgb(54%,58%,60%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="532 569, 526.6237 566.3363, 526.6237 571.6637" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<rect x="340" y="443" width="182" height="68" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="348" y="489.257" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,978) scale(1,-1)">Tally checks shelves where</text>
+			<text x="348" y="474.73900000000003" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,949) scale(1,-1)">used; staff answer stock</text>
+			<text x="348" y="460.221" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,920) scale(1,-1)">queries.</text>
+			<rect x="340" y="356" width="182" height="58" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="347" y="389.99800000000005" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,779) scale(1,-1)">Review alert; check stock;</text>
+			<text x="347" y="375.48" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,750) scale(1,-1)">assign shelf replenishment.</text>
+			<rect x="340" y="268" width="182" height="59" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="347" y="302.414" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,604) scale(1,-1)">Inventory control;</text>
+			<text x="347" y="288.14" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,576) scale(1,-1)">alert queue and replenishment.</text>
+			<path d="M 431,540 L 431,511 Z" style="stroke: rgb(54%,58%,60%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="431 511, 428.3363 516.3763, 433.6637 516.3763" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<polygon points="431 540, 433.6637 534.6237, 428.3363 534.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<path d="M 431,443 L 431,414 Z" style="stroke: rgb(54%,58%,60%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="431 414, 428.3363 419.3763, 433.6637 419.3763" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<polygon points="431 443, 433.6637 437.6237, 428.3363 437.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<path d="M 431,356 L 431,327 Z" style="stroke: rgb(54%,58%,60%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="431 327, 428.3363 332.3763, 433.6637 332.3763" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<polygon points="431 356, 433.6637 350.6237, 428.3363 350.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<rect x="340" y="140" width="182" height="73" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(91%,94%,95%); fill-rule: evenodd;"/>
+			<text x="347" y="196.8" style="font-family: Helvetica-Bold; font-size: 11.5px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,393) scale(1,-1)">D2 Products and stock</text>
+			<text x="347" y="171.87200000000004" style="font-family: Helvetica; font-size: 11.6px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,343) scale(1,-1)">SKU/barcode; shelf quantity;</text>
+			<text x="347" y="157.72" style="font-family: Helvetica; font-size: 11.6px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,315) scale(1,-1)">alert and refill status.</text>
+			<path d="M 396,213 L 396,268 Z" style="stroke: rgb(15%,39%,45%); stroke-linecap: butt; stroke-width: 1.25;"/>
+			<polygon points="396 268, 398.6637 262.6237, 393.3363 262.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,39%,45%); fill-rule: evenodd;"/>
+			<polygon points="396 213, 393.3363 218.3763, 398.6637 218.3763" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,39%,45%); fill-rule: evenodd;"/>
+			<rect x="340" y="86" width="182" height="38" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(98%,93%,90%); fill-rule: evenodd;"/>
+			<text x="347" y="102.77699999999994" style="font-family: Helvetica-Bold; font-size: 11.7px;fill: rgb(52%,28%,18%); stroke:none;" transform="translate(0,205) scale(1,-1)">F2 Empty shelf</text>
+			<path d="M 431,86 L 431,76 Z" style="stroke: rgb(63%,41%,32%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="431 76, 428.3363 81.37631, 433.6637 81.37631" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(63%,41%,32%); fill-rule: evenodd;"/>
+			<rect x="340" y="28" width="182" height="48" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(92%,95%,93%); fill-rule: evenodd;"/>
+			<text x="346" y="56.82999999999997" style="font-family: Helvetica; font-size: 11.5px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,113) scale(1,-1)">P Named alert owner;</text>
+			<text x="346" y="42.8" style="font-family: Helvetica; font-size: 11.5px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,85) scale(1,-1)">confirm refill or explain shortage.</text>
+			<rect x="532" y="668" width="182" height="34" style="stroke: rgb(16%,18%,19%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(16%,18%,19%); fill-rule: evenodd;"/>
+			<text x="541" y="681.4" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,1362) scale(1,-1)">03 SCAN AND REVIEW</text>
+			<rect x="532" y="611" width="182" height="47" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="539" y="639.414" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1278) scale(1,-1)">Barcode; basket display;</text>
+			<text x="539" y="625.14" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1250) scale(1,-1)">scanner or checkout terminal.</text>
+			<rect x="532" y="540" width="182" height="58" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="539" y="581.2570000000001" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1162) scale(1,-1)">Scan&amp;Go: scan in aisles.</text>
+			<text x="539" y="566.739" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1133) scale(1,-1)">Self-checkout: scan at till.</text>
+			<text x="539" y="552.221" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1104) scale(1,-1)">Cashier: hand over basket.</text>
+			<path d="M 714,569 L 724,569 Z" style="stroke: rgb(54%,58%,60%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="724 569, 718.6237 566.3363, 718.6237 571.6637" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<rect x="532" y="443" width="182" height="68" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="540" y="481.99800000000005" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,963) scale(1,-1)">Terminal shows scanned item;</text>
+			<text x="540" y="467.48" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,934) scale(1,-1)">cashier scans; attendant helps.</text>
+			<rect x="532" y="356" width="182" height="58" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="539" y="389.99800000000005" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,779) scale(1,-1)">Verify barcode, price and</text>
+			<text x="539" y="375.48" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,750) scale(1,-1)">promotions; correct item.</text>
+			<rect x="532" y="268" width="182" height="59" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="539" y="309.551" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,619) scale(1,-1)">Product catalogue;</text>
+			<text x="539" y="295.277" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,590) scale(1,-1)">price updates and basket</text>
+			<text x="539" y="281.003" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,562) scale(1,-1)">system.</text>
+			<path d="M 623,540 L 623,511 Z" style="stroke: rgb(54%,58%,60%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="623 511, 620.3363 516.3763, 625.6637 516.3763" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<polygon points="623 540, 625.6637 534.6237, 620.3363 534.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<path d="M 623,443 L 623,414 Z" style="stroke: rgb(54%,58%,60%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="623 414, 620.3363 419.3763, 625.6637 419.3763" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<polygon points="623 443, 625.6637 437.6237, 620.3363 437.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<path d="M 623,356 L 623,327 Z" style="stroke: rgb(54%,58%,60%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="623 327, 620.3363 332.3763, 625.6637 332.3763" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<polygon points="623 356, 625.6637 350.6237, 620.3363 350.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<rect x="532" y="140" width="182" height="73" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(91%,94%,95%); fill-rule: evenodd;"/>
+			<text x="539" y="196.8" style="font-family: Helvetica-Bold; font-size: 11.5px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,393) scale(1,-1)">D3 Prices and basket</text>
+			<text x="539" y="171.87200000000004" style="font-family: Helvetica; font-size: 11.6px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,343) scale(1,-1)">Item; quantity; price;</text>
+			<text x="539" y="157.72" style="font-family: Helvetica; font-size: 11.6px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,315) scale(1,-1)">promotion; basket total.</text>
+			<path d="M 588,213 L 588,268 Z" style="stroke: rgb(15%,39%,45%); stroke-linecap: butt; stroke-width: 1.25;"/>
+			<polygon points="588 268, 590.6637 262.6237, 585.3363 262.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,39%,45%); fill-rule: evenodd;"/>
+			<polygon points="588 213, 585.3363 218.3763, 590.6637 218.3763" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,39%,45%); fill-rule: evenodd;"/>
+			<rect x="532" y="86" width="182" height="38" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(98%,93%,90%); fill-rule: evenodd;"/>
+			<text x="539" y="102.77699999999994" style="font-family: Helvetica-Bold; font-size: 11.7px;fill: rgb(52%,28%,18%); stroke:none;" transform="translate(0,205) scale(1,-1)">F3 Scan or price error</text>
+			<path d="M 623,86 L 623,76 Z" style="stroke: rgb(63%,41%,32%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="623 76, 620.3363 81.37631, 625.6637 81.37631" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(63%,41%,32%); fill-rule: evenodd;"/>
+			<rect x="532" y="28" width="182" height="48" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(92%,95%,93%); fill-rule: evenodd;"/>
+			<text x="538" y="56.82999999999997" style="font-family: Helvetica; font-size: 11.5px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,113) scale(1,-1)">P Check item; recover basket</text>
+			<text x="538" y="42.8" style="font-family: Helvetica; font-size: 11.5px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,85) scale(1,-1)">where technically possible.</text>
+			<rect x="724" y="668" width="182" height="34" style="stroke: rgb(16%,18%,19%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(16%,18%,19%); fill-rule: evenodd;"/>
+			<text x="733" y="681.4" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,1362) scale(1,-1)">04 PAY AND LEAVE</text>
+			<rect x="724" y="611" width="182" height="47" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="731" y="639.414" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1278) scale(1,-1)">Total; payment screen;</text>
+			<text x="731" y="625.14" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1250) scale(1,-1)">receipt; exit signs.</text>
+			<rect x="724" y="540" width="182" height="58" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="731" y="573.998" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1147) scale(1,-1)">Check total; pay;</text>
+			<text x="731" y="559.48" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1118) scale(1,-1)">collect receipt and leave.</text>
+			<path d="M 906,569 L 916,569 Z" style="stroke: rgb(54%,58%,60%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="916 569, 910.6237 566.3363, 910.6237 571.6637" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<rect x="724" y="443" width="182" height="68" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="732" y="481.99800000000005" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,963) scale(1,-1)">Confirm payment; help with</text>
+			<text x="732" y="467.48" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,934) scale(1,-1)">declines or a stopped terminal.</text>
+			<rect x="724" y="356" width="182" height="58" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="731" y="389.99800000000005" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,779) scale(1,-1)">Check payment status;</text>
+			<text x="731" y="375.48" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,750) scale(1,-1)">authorise exceptions.</text>
+			<rect x="724" y="268" width="182" height="59" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="731" y="309.551" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,619) scale(1,-1)">Payment gateway;</text>
+			<text x="731" y="295.277" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,590) scale(1,-1)">terminal and transaction</text>
+			<text x="731" y="281.003" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,562) scale(1,-1)">support.</text>
+			<path d="M 815,540 L 815,511 Z" style="stroke: rgb(54%,58%,60%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="815 511, 812.3363 516.3763, 817.6637 516.3763" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<polygon points="815 540, 817.6637 534.6237, 812.3363 534.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<path d="M 815,443 L 815,414 Z" style="stroke: rgb(54%,58%,60%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="815 414, 812.3363 419.3763, 817.6637 419.3763" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<polygon points="815 443, 817.6637 437.6237, 812.3363 437.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<path d="M 815,356 L 815,327 Z" style="stroke: rgb(54%,58%,60%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="815 327, 812.3363 332.3763, 817.6637 332.3763" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<polygon points="815 356, 817.6637 350.6237, 812.3363 350.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<rect x="724" y="140" width="182" height="73" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(91%,94%,95%); fill-rule: evenodd;"/>
+			<text x="731" y="196.8" style="font-family: Helvetica-Bold; font-size: 11.5px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,393) scale(1,-1)">D4 Sales and payments</text>
+			<text x="731" y="171.87200000000004" style="font-family: Helvetica; font-size: 11.6px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,343) scale(1,-1)">Transaction ID; payment status;</text>
+			<text x="731" y="157.72" style="font-family: Helvetica; font-size: 11.6px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,315) scale(1,-1)">itemised receipt.</text>
+			<path d="M 780,213 L 780,268 Z" style="stroke: rgb(15%,39%,45%); stroke-linecap: butt; stroke-width: 1.25;"/>
+			<polygon points="780 268, 782.6637 262.6237, 777.3363 262.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,39%,45%); fill-rule: evenodd;"/>
+			<polygon points="780 213, 777.3363 218.3763, 782.6637 218.3763" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,39%,45%); fill-rule: evenodd;"/>
+			<rect x="724" y="86" width="182" height="38" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(98%,93%,90%); fill-rule: evenodd;"/>
+			<text x="731" y="102.77699999999994" style="font-family: Helvetica-Bold; font-size: 11.7px;fill: rgb(52%,28%,18%); stroke:none;" transform="translate(0,205) scale(1,-1)">F4 Delay or payment failure</text>
+			<path d="M 815,86 L 815,76 Z" style="stroke: rgb(63%,41%,32%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="815 76, 812.3363 81.37631, 817.6637 81.37631" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(63%,41%,32%); fill-rule: evenodd;"/>
+			<rect x="724" y="28" width="182" height="48" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(92%,95%,93%); fill-rule: evenodd;"/>
+			<text x="730" y="56.82999999999997" style="font-family: Helvetica; font-size: 11.5px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,113) scale(1,-1)">P Allocate attendant;</text>
+			<text x="730" y="42.8" style="font-family: Helvetica; font-size: 11.5px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,85) scale(1,-1)">check status before retry.</text>
+			<rect x="916" y="668" width="182" height="34" style="stroke: rgb(16%,18%,19%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(16%,18%,19%); fill-rule: evenodd;"/>
+			<text x="925" y="681.4" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,1362) scale(1,-1)">05 AFTERCARE</text>
+			<rect x="916" y="611" width="182" height="47" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="923" y="639.414" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1278) scale(1,-1)">Receipt; service desk;</text>
+			<text x="923" y="625.14" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1250) scale(1,-1)">case reference.</text>
+			<rect x="916" y="540" width="182" height="58" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="923" y="573.998" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1147) scale(1,-1)">If needed, query a charge</text>
+			<text x="923" y="559.48" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,1118) scale(1,-1)">or request a return.</text>
+			<rect x="916" y="443" width="182" height="68" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="924" y="481.99800000000005" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,963) scale(1,-1)">Hear complaint; explain</text>
+			<text x="924" y="467.48" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,934) scale(1,-1)">correction or return.</text>
+			<rect x="916" y="356" width="182" height="58" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="923" y="389.99800000000005" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,779) scale(1,-1)">Review receipt and item;</text>
+			<text x="923" y="375.48" style="font-family: Helvetica; font-size: 11.9px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,750) scale(1,-1)">authorise remedy or escalate.</text>
+			<rect x="916" y="268" width="182" height="59" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(96%,96%,96%); fill-rule: evenodd;"/>
+			<text x="923" y="309.551" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,619) scale(1,-1)">Receipt lookup;</text>
+			<text x="923" y="295.277" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,590) scale(1,-1)">returns policy and case</text>
+			<text x="923" y="281.003" style="font-family: Helvetica; font-size: 11.7px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,562) scale(1,-1)">handling.</text>
+			<path d="M 1007,540 L 1007,511 Z" style="stroke: rgb(54%,58%,60%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="1007 511, 1004.336 516.3763, 1009.664 516.3763" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<polygon points="1007 540, 1009.664 534.6237, 1004.336 534.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<path d="M 1007,443 L 1007,414 Z" style="stroke: rgb(54%,58%,60%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="1007 414, 1004.336 419.3763, 1009.664 419.3763" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<polygon points="1007 443, 1009.664 437.6237, 1004.336 437.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<path d="M 1007,356 L 1007,327 Z" style="stroke: rgb(54%,58%,60%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="1007 327, 1004.336 332.3763, 1009.664 332.3763" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<polygon points="1007 356, 1009.664 350.6237, 1004.336 350.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,58%,60%); fill-rule: evenodd;"/>
+			<rect x="916" y="140" width="182" height="73" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(91%,94%,95%); fill-rule: evenodd;"/>
+			<text x="923" y="196.8" style="font-family: Helvetica-Bold; font-size: 11.5px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,393) scale(1,-1)">D5 Returns and complaints</text>
+			<text x="923" y="171.87200000000004" style="font-family: Helvetica; font-size: 11.6px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,343) scale(1,-1)">Case ID; receipt reference;</text>
+			<text x="923" y="157.72" style="font-family: Helvetica; font-size: 11.6px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,315) scale(1,-1)">reason; remedy and outcome.</text>
+			<path d="M 972,213 L 972,268 Z" style="stroke: rgb(15%,39%,45%); stroke-linecap: butt; stroke-width: 1.25;"/>
+			<polygon points="972 268, 974.6637 262.6237, 969.3363 262.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,39%,45%); fill-rule: evenodd;"/>
+			<polygon points="972 213, 969.3363 218.3763, 974.6637 218.3763" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,39%,45%); fill-rule: evenodd;"/>
+			<rect x="916" y="86" width="182" height="38" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(98%,93%,90%); fill-rule: evenodd;"/>
+			<text x="923" y="102.77699999999994" style="font-family: Helvetica-Bold; font-size: 11.7px;fill: rgb(52%,28%,18%); stroke:none;" transform="translate(0,205) scale(1,-1)">F5 Repeated explanation</text>
+			<path d="M 1007,86 L 1007,76 Z" style="stroke: rgb(63%,41%,32%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<polygon points="1007 76, 1004.336 81.37631, 1009.664 81.37631" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(63%,41%,32%); fill-rule: evenodd;"/>
+			<rect x="916" y="28" width="182" height="48" style="stroke: rgb(85%,85%,85%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(92%,95%,93%); fill-rule: evenodd;"/>
+			<text x="922" y="56.82999999999997" style="font-family: Helvetica; font-size: 11.5px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,113) scale(1,-1)">P Transfer receipt and case;</text>
+			<text x="922" y="42.8" style="font-family: Helvetica; font-size: 11.5px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,85) scale(1,-1)">assign one case owner.</text>
+			<path d="M 465,213 L 465,248 Z" style="stroke: rgb(15%,39%,45%); stroke-linecap: butt; stroke-width: 1.25;"/>
+			<path d="M 465,248 L 657,248 Z" style="stroke: rgb(15%,39%,45%); stroke-linecap: butt; stroke-width: 1.25;"/>
+			<path d="M 657,248 L 657,268 Z" style="stroke: rgb(15%,39%,45%); stroke-linecap: butt; stroke-width: 1.25;"/>
+			<polygon points="657 268, 659.6637 262.6237, 654.3363 262.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,39%,45%); fill-rule: evenodd;"/>
+			<path d="M 657,213 L 657,238 Z" style="stroke: rgb(15%,39%,45%); stroke-linecap: butt; stroke-width: 1.25;"/>
+			<path d="M 657,238 L 849,238 Z" style="stroke: rgb(15%,39%,45%); stroke-linecap: butt; stroke-width: 1.25;"/>
+			<path d="M 849,238 L 849,268 Z" style="stroke: rgb(15%,39%,45%); stroke-linecap: butt; stroke-width: 1.25;"/>
+			<polygon points="849 268, 851.6637 262.6237, 846.3363 262.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,39%,45%); fill-rule: evenodd;"/>
+			<path d="M 849,213 L 849,228 Z" style="stroke: rgb(15%,39%,45%); stroke-linecap: butt; stroke-width: 1.25;"/>
+			<path d="M 849,228 L 1041,228 Z" style="stroke: rgb(15%,39%,45%); stroke-linecap: butt; stroke-width: 1.25;"/>
+			<path d="M 1041,228 L 1041,268 Z" style="stroke: rgb(15%,39%,45%); stroke-linecap: butt; stroke-width: 1.25;"/>
+			<polygon points="1041 268, 1043.664 262.6237, 1038.336 262.6237" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,39%,45%); fill-rule: evenodd;"/>
+			<text x="22" y="635.88" style="font-family: Helvetica-Bold; font-size: 11.4px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,1271) scale(1,-1)">PHYSICAL</text>
+			<text x="22" y="621.88" style="font-family: Helvetica-Bold; font-size: 11.4px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,1243) scale(1,-1)">EVIDENCE</text>
+			<text x="22" y="576.88" style="font-family: Helvetica-Bold; font-size: 11.4px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,1153) scale(1,-1)">CUSTOMER</text>
+			<text x="22" y="562.88" style="font-family: Helvetica-Bold; font-size: 11.4px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,1125) scale(1,-1)">ACTIONS</text>
+			<text x="22" y="485.88" style="font-family: Helvetica-Bold; font-size: 11.4px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,971) scale(1,-1)">FRONTSTAGE</text>
+			<text x="22" y="471.88" style="font-family: Helvetica-Bold; font-size: 11.4px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,943) scale(1,-1)">Staff and interfaces</text>
+			<text x="22" y="390.88" style="font-family: Helvetica-Bold; font-size: 11.4px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,781) scale(1,-1)">BACKSTAGE</text>
+			<text x="22" y="376.88" style="font-family: Helvetica-Bold; font-size: 11.4px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,753) scale(1,-1)">Staff and operations</text>
+			<text x="22" y="302.88" style="font-family: Helvetica-Bold; font-size: 11.4px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,605) scale(1,-1)">SUPPORT</text>
+			<text x="22" y="288.88" style="font-family: Helvetica-Bold; font-size: 11.4px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,577) scale(1,-1)">PROCESSES</text>
+			<text x="22" y="186.88" style="font-family: Helvetica-Bold; font-size: 11.4px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,373) scale(1,-1)">IT SYSTEMS</text>
+			<text x="22" y="172.88" style="font-family: Helvetica-Bold; font-size: 11.4px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,345) scale(1,-1)">AND DATABASES</text>
+			<text x="22" y="104.88" style="font-family: Helvetica-Bold; font-size: 11.4px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,209) scale(1,-1)">FAILURE</text>
+			<text x="22" y="90.88" style="font-family: Helvetica-Bold; font-size: 11.4px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,181) scale(1,-1)">POINTS</text>
+			<text x="22" y="55.879999999999995" style="font-family: Helvetica-Bold; font-size: 11.4px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,111) scale(1,-1)">PREVENTION</text>
+			<text x="22" y="41.879999999999995" style="font-family: Helvetica-Bold; font-size: 11.4px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,83) scale(1,-1)">AND RECOVERY</text>
+			<path d="M 148,525 L 1098,525 Z" style="stroke: rgb(61%,65%,66%); stroke-linecap: butt; stroke-width: 0.9; stroke-dasharray: 4, 3;"/>
+			<text x="22" y="524.56" style="font-family: Helvetica; font-size: 9.3px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,1049) scale(1,-1)">Line of external</text>
+			<text x="22" y="513.56" style="font-family: Helvetica; font-size: 9.3px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,1027) scale(1,-1)">interaction</text>
+			<path d="M 148,428 L 1098,428 Z" style="stroke: rgb(61%,65%,66%); stroke-linecap: butt; stroke-width: 0.9; stroke-dasharray: 4, 3;"/>
+			<text x="22" y="427.56" style="font-family: Helvetica; font-size: 9.3px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,855) scale(1,-1)">Line of visibility</text>
+			<path d="M 148,342 L 1098,342 Z" style="stroke: rgb(61%,65%,66%); stroke-linecap: butt; stroke-width: 0.9; stroke-dasharray: 4, 3;"/>
+			<text x="22" y="341.56" style="font-family: Helvetica; font-size: 9.3px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,683) scale(1,-1)">Line of internal</text>
+			<text x="22" y="330.56" style="font-family: Helvetica; font-size: 9.3px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,661) scale(1,-1)">interaction</text>
+			<path d="M 148,254 L 1098,254 Z" style="stroke: rgb(61%,65%,66%); stroke-linecap: butt; stroke-width: 0.9; stroke-dasharray: 4, 3;"/>
+			<text x="22" y="253.56" style="font-family: Helvetica; font-size: 9.3px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,507) scale(1,-1)">Line of internal</text>
+			<text x="22" y="242.56" style="font-family: Helvetica; font-size: 9.3px;fill: rgb(30%,34%,37%); stroke:none;" transform="translate(0,485) scale(1,-1)">IT interaction</text>
+			<text x="22" y="7.68" style="font-family: Helvetica; font-size: 10.4px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,15) scale(1,-1)">Grey arrows: service handovers. Blue arrows: data flows. Scan&amp;Go repeats stages 2-3 while shopping.</text>
+			<text x="22" y="-7.32" style="font-family: Helvetica; font-size: 10.4px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,-14) scale(1,-1)">Internal activities and data links show a proposed service design. Tally availability varies by store.</text>
+			<text x="22" y="-22.32" style="font-family: Helvetica; font-size: 10.4px;fill: rgb(13%,15%,16%); stroke:none;" transform="translate(0,-44) scale(1,-1)">Sources: Bitner et al. (2008); Carrefour UAE (n.d.); Majid Al Futtaim (2022).</text>
+		</g>
+	</g>
+</svg>

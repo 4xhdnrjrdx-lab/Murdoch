@@ -1,0 +1,35 @@
+{
+  "checked_on": "2026-11-04",
+  "timezone": "Asia/Dubai",
+  "mail": {
+    "account": "jafarovfayaz@gmail.com",
+    "query": "after:2026/10/29 (BUS225 OR \"Services Marketing\" OR from:Dana.KhouryEid@murdoch.edu.au)",
+    "results": 1,
+    "search_exhausted": true,
+    "message_id": "1a19607536d45a86",
+    "subject": "RE: BUS225 Assessment 2 – Group 9 – Draft for Feedback",
+    "message_date": "2026-11-01",
+    "source": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/1a19607536d45a86",
+    "summary": [
+      "Earlier draft needed substantial revision: physical journey, actual store observations, current Self Checkout/Scan&Go/Tally, broader robotics trends and global Carrefour examples.",
+      "Recommendations must explain customer journey effects. Blueprint should follow class format and clearly separate visible/hidden actions and connect support to customer steps.",
+      "Lecturer recommended less reliance on generated content, original research and first-hand observation. This feedback concerns the earlier draft, not the new November 4 blueprint."
+    ],
+    "draft_sent_date_confirmed_in_reply": "2026-10-30"
+  },
+  "lms": {
+    "course_id": 31320,
+    "assignment_id": 125040,
+    "name": "Reflective Journal and Service Blueprint - Group submission (one per group)",
+    "due": "2026-11-06T17:00:00+04:00",
+    "cutoff": "2026-11-13T17:00:00+04:00",
+    "cutoff_is_not_confirmed_extension": true,
+    "intro": "",
+    "scope": "Read assignment metadata only; submission state and grades not rechecked. Unit Outline not downloaded."
+  },
+  "limits": [
+    "No full Outlook or WhatsApp check.",
+    "No email, message or assignment was sent.",
+    "Teacher approval of Nike and the requested IT section are reported by Faiaz; not independently verified."
+  ]
+}

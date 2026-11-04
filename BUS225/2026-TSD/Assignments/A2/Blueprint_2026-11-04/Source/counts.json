@@ -1,0 +1,10 @@
+{
+  "report_words_whitespace": 1409,
+  "blueprint_words_whitespace": 409,
+  "combined_words_whitespace": 1818,
+  "combined_words_regex": 1823,
+  "references_excluded": true,
+  "report_and_references_preserved": true,
+  "diagram_cell_overflow_assertions": "pass",
+  "expected_pages": 5
+}

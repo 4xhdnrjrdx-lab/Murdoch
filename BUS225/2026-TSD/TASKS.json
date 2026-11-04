@@ -159,14 +159,14 @@
       "id": "A2",
       "title": "Reflective Journal + Service Blueprint, 40%",
       "status": "в работе",
-      "next_action": "Проверить обновлённую версию группой перед сдачей в LMS.",
-      "detail": "Faiaz в чате описал своё использование Self Checkout в Carrefour Mall of the Emirates. Отчёт и Figure 1 обновлены по его рассказу: английские подсказки, повторное считывание штрихкода, зона упаковки и оплата банковской картой. Сравнение скорости — субъективное. Встреча остальных участников в магазине не заявлена. 1911 слов вместе со схемой, 7 страниц, 10 источников.",
+      "next_action": "Проверить с группой новую схему и весь комплект на основе файла Muhammad; согласовать финального загрузчика перед сдачей.",
+      "detail": "4 ноября по прямому запросу Faiaz переработан blueprint в присланной версии Muhammad: одна страница, пять этапов, явные стрелки между уровнями, отдельные IT-системы и базы данных с полями и связями между этапами. F1–F5 согласованы с исходным отчётом. Текст Muhammad и references сохранены; прежняя версия с личным наблюдением Faiaz хранится отдельно без замены. Новый полный комплект: 5 страниц, 1818 слов со схемой без references (1823 по альтернативному подсчёту). Не сдано; проверка группой ещё нужна.",
       "deadlines": [
         {
           "value": "2026-11-06 17:00 Asia/Dubai",
           "source_label": "Moodle API timestamp",
-          "checked_at": "2026-10-29",
-          "source_path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json"
+          "checked_at": "2026-11-04",
+          "source_path": "Correspondence/2026-11-04_feedback-and-blueprint-check.json"
         }
       ],
       "evidence": [
@@ -283,19 +283,39 @@
           "note": "Faiaz в чате описал своё использование Self Checkout в Carrefour Mall of the Emirates. Отчёт и Figure 1 обновлены по его рассказу: английские подсказки, повторное считывание штрихкода, зона упаковки и оплата банковской картой. Сравнение скорости — субъективное. Встреча остальных участников в магазине не заявлена.",
           "path": "Assignments/A2/Revision_2026-11-01/Checks.json",
           "source": ""
+        },
+        {
+          "date": "2026-11-04",
+          "note": "По просьбе Faiaz новая схема Carrefour использует оформление Nike друга и нижний блок IT из примера занятия. Сохранены присланный файл Muhammad и точные копии двух шаблонов. Все пять страниц проверены; исходные вложения не изменялись. Отправки и сдачи не выполнялись.",
+          "path": "Assignments/A2/Blueprint_2026-11-04/Checks.json",
+          "source": ""
+        },
+        {
+          "date": "2026-11-04",
+          "note": "В Gmail прочитан оригинальный feedback от 1 ноября и подтверждение отправки прежнего черновика 30 октября. Moodle: срок A2 6 ноября 17:00 Dubai; текущий статус сдачи не перечитывался.",
+          "path": "Correspondence/2026-11-04_feedback-and-blueprint-check.json",
+          "source": ""
         }
       ],
-      "unknown": "Согласие группы, фактические вклады и подтверждающие email, отправка преподавательнице на ревью, её feedback, конечный загрузчик и финальная сдача пока не подтверждены. Полный Outlook и WhatsApp не охвачены.",
+      "unknown": "Согласие группы с новой редакцией, фактические вклады и подтверждающие email, конечный загрузчик и финальная сдача пока не подтверждены. Feedback от 1 ноября на предыдущий черновик прочитан в Gmail 4 ноября; одобрения нового blueprint преподавательницей нет. Полный Outlook и WhatsApp не охвачены.",
       "show_on_overview": true,
       "correction": "",
       "working_files": [
         {
-          "path": "Assignments/A2/Revision_2026-11-01/BUS225_A2_Group9_Carrefour.docx",
-          "role": "Рабочая редакция после преподавательского отзыва, DOCX для группы"
+          "path": "Assignments/A2/Blueprint_2026-11-04/BUS225_A2_Group9_Carrefour_Updated.docx",
+          "role": "Рабочий полный отчёт Muhammad с новым blueprint для проверки группой"
         },
         {
-          "path": "Assignments/A2/Revision_2026-11-01/BUS225_A2_Group9_Carrefour.pdf",
-          "role": "Тот же отчёт и blueprint в PDF для просмотра"
+          "path": "Assignments/A2/Blueprint_2026-11-04/BUS225_A2_Group9_Carrefour_Updated.pdf",
+          "role": "Тот же полный комплект, проверенные пять страниц"
+        },
+        {
+          "path": "Assignments/A2/Blueprint_2026-11-04/Carrefour_Service_Blueprint.pdf",
+          "role": "Новая схема отдельно, одна страница A4 landscape"
+        },
+        {
+          "path": "Assignments/A2/Blueprint_2026-11-04/Carrefour_Service_Blueprint.svg",
+          "role": "Редактируемый векторный исходник новой схемы"
         }
       ]
     },

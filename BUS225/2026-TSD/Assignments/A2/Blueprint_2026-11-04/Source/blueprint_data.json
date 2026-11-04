@@ -1,0 +1,62 @@
+[
+  {
+    "title": "01 ARRIVE",
+    "evidence": "Entrance signs; scanners or\napp; checkout lanes.",
+    "customer": "Choose cashier, Scan&Go\nor self-checkout.",
+    "front": "Explain options; help\nstart Scan&Go.",
+    "back": "Check device readiness;\nassign store assistance.",
+    "support": "Device support;\nstaff rota and instructions.",
+    "dbtitle": "D1 Devices and staffing",
+    "db": "Device ID; status;\nshift and help cover.",
+    "fail": "F1 Cannot start scanning",
+    "recovery": "P Clear instructions;\nstaffed checkout available."
+  },
+  {
+    "title": "02 FIND AND SELECT",
+    "evidence": "Products; shelf labels;\nTally where deployed.",
+    "customer": "Find and choose products;\nask about missing stock.",
+    "front": "Tally checks shelves where\nused; staff answer stock queries.",
+    "back": "Review alert; check stock;\nassign shelf replenishment.",
+    "support": "Inventory control;\nalert queue and replenishment.",
+    "dbtitle": "D2 Products and stock",
+    "db": "SKU/barcode; shelf quantity;\nalert and refill status.",
+    "fail": "F2 Empty shelf",
+    "recovery": "P Named alert owner;\nconfirm refill or explain shortage."
+  },
+  {
+    "title": "03 SCAN AND REVIEW",
+    "evidence": "Barcode; basket display;\nscanner or checkout terminal.",
+    "customer": "Scan&Go: scan in aisles.\nSelf-checkout: scan at till.\nCashier: hand over basket.",
+    "front": "Terminal shows scanned item;\ncashier scans; attendant helps.",
+    "back": "Verify barcode, price and\npromotions; correct item.",
+    "support": "Product catalogue;\nprice updates and basket system.",
+    "dbtitle": "D3 Prices and basket",
+    "db": "Item; quantity; price;\npromotion; basket total.",
+    "fail": "F3 Scan or price error",
+    "recovery": "P Check item; recover basket\nwhere technically possible."
+  },
+  {
+    "title": "04 PAY AND LEAVE",
+    "evidence": "Total; payment screen;\nreceipt; exit signs.",
+    "customer": "Check total; pay;\ncollect receipt and leave.",
+    "front": "Confirm payment; help with\ndeclines or a stopped terminal.",
+    "back": "Check payment status;\nauthorise exceptions.",
+    "support": "Payment gateway;\nterminal and transaction support.",
+    "dbtitle": "D4 Sales and payments",
+    "db": "Transaction ID; payment status;\nitemised receipt.",
+    "fail": "F4 Delay or payment failure",
+    "recovery": "P Allocate attendant;\ncheck status before retry."
+  },
+  {
+    "title": "05 AFTERCARE",
+    "evidence": "Receipt; service desk;\ncase reference.",
+    "customer": "If needed, query a charge\nor request a return.",
+    "front": "Hear complaint; explain\ncorrection or return.",
+    "back": "Review receipt and item;\nauthorise remedy or escalate.",
+    "support": "Receipt lookup;\nreturns policy and case handling.",
+    "dbtitle": "D5 Returns and complaints",
+    "db": "Case ID; receipt reference;\nreason; remedy and outcome.",
+    "fail": "F5 Repeated explanation",
+    "recovery": "P Transfer receipt and case;\nassign one case owner."
+  }
+]
