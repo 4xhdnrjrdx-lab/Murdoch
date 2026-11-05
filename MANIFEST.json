@@ -5464,6 +5464,18 @@
       "storage": "git"
     },
     {
+      "path": "BUS219/2026-TSD/Assignments/A2/Team_Revision_Review_2026-11-06/REVIEW_RU.txt",
+      "bytes": 13923,
+      "sha256": "6a37513120e45faf502c5e1770952332e3103556f5385dc2f854d136f3c7852d",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Assignments/A2/Team_Revision_Review_2026-11-06/Team_edited_original.docx",
+      "bytes": 765411,
+      "sha256": "096d15ec3f39007c38f58864cd10e61001c652bd0dafd3efb048daccdbc8b3c9",
+      "storage": "git"
+    },
+    {
       "path": "BUS219/2026-TSD/Assignments/A3/Preparation/PLAN_RU.md",
       "bytes": 8032,
       "sha256": "be1d9cd8d34f309d7fe2ed80ea9838936bde491987172c73b20a0b87a62f741c",
@@ -11140,6 +11152,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 1856,
-  "total_bytes": 931583278
+  "file_count": 1858,
+  "total_bytes": 932362612
 }
