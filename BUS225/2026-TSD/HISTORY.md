@@ -69,3 +69,5 @@ Faiaz в чате описал своё использование Self Checkout
 - 6 ноября Moodle подтвердил групповую сдачу A2 от 5 ноября 15:54:44 Dubai. Сданный ReferencesFixed DOCX совпал с актуальным файлом базы по SHA-256. Личный peer review ещё пуст, срок 6 ноября 17:00 Dubai. [Проверка](../../Archive/Correspondence/2026-11-06_submission-status-check.json).
 
 - 6 ноября заполнена и визуально проверена индивидуальная форма Peer Evaluation для проекта Group 9, Class 2. В Moodle при проверке личный портал ещё имел статус new. [Проверка и файл](Correspondence/2026-11-06_peer-review-prepared.json).
+
+- 6 ноября по уточнению Faiaz обновлены оценки и комментарии в форме peer review. Проверена одна страница Word. [Актуальный файл и проверка](Correspondence/2026-11-06_peer-review-prepared.json).
