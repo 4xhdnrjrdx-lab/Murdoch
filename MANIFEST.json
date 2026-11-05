@@ -6592,6 +6592,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS225/2026-TSD/Assignments/A2/Peer_Review_2026-11-06/BUS225_Peer_Evaluation_Faiaz_Dzhafarov.docx",
+      "bytes": 39784,
+      "sha256": "26b7d9c9c005fda9a9a130f355a368837cb68ac388dc2d83449822f743372383",
+      "storage": "git"
+    },
+    {
       "path": "BUS225/2026-TSD/Assignments/A2/README.md",
       "bytes": 1006,
       "sha256": "c6b9fb2fa4fe6dd0f7922ddbd1602e83709fbe7389720e400586802872d4d841",
@@ -6857,8 +6863,8 @@
     },
     {
       "path": "BUS225/2026-TSD/Assignments/README.md",
-      "bytes": 1528,
-      "sha256": "25c4b8f48b79741ba0ae293dd76702c04001af829d4d856baad380a21c14e3b0",
+      "bytes": 1773,
+      "sha256": "096d28d67659e8b64fca82b1e11d04ef02b54b6aa414cd2bd69cc7892502bcad",
       "storage": "git"
     },
     {
@@ -6952,6 +6958,12 @@
       "storage": "git"
     },
     {
+      "path": "BUS225/2026-TSD/Correspondence/2026-11-06_peer-review-prepared.json",
+      "bytes": 1005,
+      "sha256": "a43bf4640a9850948957080a2498d732d60df8b6bffdbafcc35c729d68c6aa91",
+      "storage": "git"
+    },
+    {
       "path": "BUS225/2026-TSD/Correspondence/README.md",
       "bytes": 1368,
       "sha256": "f3894b44b9402fd22c127e81766d6243e767da98b26e1b2fd3d39b2f395b7323",
@@ -6959,8 +6971,8 @@
     },
     {
       "path": "BUS225/2026-TSD/HISTORY.md",
-      "bytes": 14594,
-      "sha256": "998691ef14363cc116afeec323bf417998fbc1bf2db9457391a081037a412ae9",
+      "bytes": 14947,
+      "sha256": "8d503b1ca37e2cc8dbd5e1d9a1264ee6b904416d6e3f4446a83f1fe6a61ba99f",
       "storage": "git"
     },
     {
@@ -7241,14 +7253,14 @@
     },
     {
       "path": "BUS225/2026-TSD/TASKS.json",
-      "bytes": 35598,
-      "sha256": "32aa69378ceab5e7ac19bb71cb3aa5ff23a0b809342b64a4d606b1cf41aa3864",
+      "bytes": 36546,
+      "sha256": "b2ca10c9b67e0b68d8f7c35431832c543d08613271afb1ee7a01f4430f7e6291",
       "storage": "git"
     },
     {
       "path": "BUS225/2026-TSD/TASKS.md",
-      "bytes": 28335,
-      "sha256": "08e831feafafa81383561d7b0f5873088243a1c7bd0535fa91d8a0e7d0c352e2",
+      "bytes": 29111,
+      "sha256": "c0eb3cf8970693f842db0aca3b15e1b2097ddd60c008338b6397e0745d48d8e2",
       "storage": "git"
     },
     {
@@ -11057,8 +11069,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 6022,
-      "sha256": "84177439f5beeffaaa9801c9726080b304de6fa58c11faa834312436bd89ab74",
+      "bytes": 6114,
+      "sha256": "7a9b015e53895ab5b032ef89520199e0b5a88ec9068a750669c3af606d7e6c66",
       "storage": "git"
     },
     {
@@ -11158,6 +11170,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 1859,
-  "total_bytes": 932377398
+  "file_count": 1861,
+  "total_bytes": 932420601
 }

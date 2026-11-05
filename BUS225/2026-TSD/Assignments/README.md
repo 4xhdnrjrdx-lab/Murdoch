@@ -13,6 +13,12 @@
 - [Новая схема отдельно, одна страница A4 landscape](A2/Blueprint_2026-11-04/Carrefour_Service_Blueprint.pdf)
 - [Редактируемый векторный исходник новой схемы](A2/Blueprint_2026-11-04/Carrefour_Service_Blueprint.svg)
 
+## PEER: Individual peer review
+
+Состояние: готово к сдаче.
+
+- [Заполненная индивидуальная форма для загрузки](A2/Peer_Review_2026-11-06/BUS225_Peer_Evaluation_Faiaz_Dzhafarov.docx)
+
 ## A3: Final Exam, 30%
 
 Состояние: в работе.

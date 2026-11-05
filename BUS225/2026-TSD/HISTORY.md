@@ -67,3 +67,5 @@ Faiaz в чате описал своё использование Self Checkout
 - 2026-11-04: по прямой просьбе Faiaz в отдельной версии ReferencesFixed исправлены только дата Pepper, citation Pepper в тексте и название отчёта MAF. Схема и другой текст сохранены, 5 страниц. [Проверка](Assignments/A2/Blueprint_2026-11-04/Checks_ReferencesFixed.json).
 
 - 6 ноября Moodle подтвердил групповую сдачу A2 от 5 ноября 15:54:44 Dubai. Сданный ReferencesFixed DOCX совпал с актуальным файлом базы по SHA-256. Личный peer review ещё пуст, срок 6 ноября 17:00 Dubai. [Проверка](../../Archive/Correspondence/2026-11-06_submission-status-check.json).
+
+- 6 ноября заполнена и визуально проверена индивидуальная форма Peer Evaluation для проекта Group 9, Class 2. В Moodle при проверке личный портал ещё имел статус new. [Проверка и файл](Correspondence/2026-11-06_peer-review-prepared.json).

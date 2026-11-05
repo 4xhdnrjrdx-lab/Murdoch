@@ -356,15 +356,15 @@
     {
       "id": "PEER",
       "title": "Individual peer review",
-      "status": "предложено",
-      "next_action": "Лично заполнить и загрузить peer review до 6 ноября 17:00 Dubai.",
-      "detail": "Индивидуальное действие, не заменяется общей загрузкой.",
+      "status": "готово к сдаче",
+      "next_action": "Сверить предложенные оценки и лично загрузить заполненный DOCX в отдельный портал Moodle до 6 ноября 17:00 Dubai.",
+      "detail": "Заполнена официальная индивидуальная форма для проекта Group 9, Class 2. Включены самооценка и оценки двух участников.",
       "deadlines": [
         {
           "value": "2026-11-06 17:00 Asia/Dubai",
           "source_label": "Moodle API timestamp",
-          "checked_at": "2026-10-29",
-          "source_path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json"
+          "checked_at": "2026-11-06",
+          "source_path": "Correspondence/2026-11-06_peer-review-prepared.json"
         }
       ],
       "evidence": [
@@ -415,11 +415,23 @@
           "note": "Личный Moodle status new, файлов нет. Дедлайн 6 ноября 17:00 Dubai.",
           "path": "../../Archive/Correspondence/2026-11-06_submission-status-check.json",
           "source": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3076827"
+        },
+        {
+          "date": "2026-11-06",
+          "note": "Проверен отдельный портал Moodle и подготовлена одностраничная форма Word. Пользователь выбрал средние оценки для Beky.",
+          "path": "Correspondence/2026-11-06_peer-review-prepared.json",
+          "source": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3076827"
         }
       ],
-      "unknown": "На 6 ноября 00:47 Dubai Moodle status new, файлов нет.",
+      "unknown": "При проверке 6 ноября Moodle status new. Загрузка заполненной формы ожидается.",
       "show_on_overview": true,
-      "correction": ""
+      "correction": "",
+      "working_files": [
+        {
+          "path": "Assignments/A2/Peer_Review_2026-11-06/BUS225_Peer_Evaluation_Faiaz_Dzhafarov.docx",
+          "role": "Заполненная индивидуальная форма для загрузки"
+        }
+      ]
     },
     {
       "id": "A3",

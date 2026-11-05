@@ -1,0 +1,25 @@
+{
+  "checked_at": "2026-11-06",
+  "timezone": "Asia/Dubai",
+  "mail": {
+    "account": "учебный Gmail",
+    "result": "Поиск по BUS225, peer review и участникам после 27 октября: новых указаний по peer review нет в выдаче."
+  },
+  "moodle": {
+    "assignment_id": 125041,
+    "cmid": 3076827,
+    "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3076827",
+    "status": "new",
+    "due": "2026-11-06 17:00 Asia/Dubai",
+    "file_upload_enabled": true,
+    "class": "BUS225 Class 2",
+    "lms_group": "Class 2 Group E"
+  },
+  "form": {
+    "path": "Assignments/A2/Peer_Review_2026-11-06/BUS225_Peer_Evaluation_Faiaz_Dzhafarov.docx",
+    "sha256": "26b7d9c9c005fda9a9a130f355a368837cb68ac388dc2d83449822f743372383",
+    "pages_checked": 1,
+    "group_number": "9, номер группового проекта в переписке",
+    "submission": "Форма подготовлена для личной сдачи."
+  }
+}
