@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course": "BUS225",
   "period": "2026-TSD",
-  "reviewed_at": "2026-10-29",
+  "reviewed_at": "2026-11-06",
   "allowed_states": [
     "предложено",
     "согласовано",
@@ -158,9 +158,9 @@
     {
       "id": "A2",
       "title": "Reflective Journal + Service Blueprint, 40%",
-      "status": "в работе",
-      "next_action": "Проверить с группой новую схему и весь комплект с исправленными references; согласовать финального загрузчика перед сдачей.",
-      "detail": "4 ноября по прямому запросу Faiaz переработан blueprint в присланной версии Muhammad: одна страница, пять этапов, явные стрелки между уровнями, отдельные IT-системы и базы данных с полями и связями между этапами. F1–F5 согласованы с исходным отчётом. Текст Muhammad и references сохранены; прежняя версия с личным наблюдением Faiaz хранится отдельно без замены. Новый полный комплект: 5 страниц, 1818 слов со схемой без references (1823 по альтернативному подсчёту). Не сдано; проверка группой ещё нужна. По отдельному поручению 4 ноября исправлены только дата Pepper, соответствующая in-text citation и название отчёта MAF; актуальный полный комплект ReferencesFixed, остальные текст и blueprint сохранены.",
+      "status": "сдано",
+      "next_action": "Ждать оценку группового A2. Отдельно сдать личный peer review до 6 ноября 17:00 Dubai.",
+      "detail": "4 ноября по прямому запросу Faiaz переработан blueprint в присланной версии Muhammad: одна страница, пять этапов, явные стрелки между уровнями, отдельные IT-системы и базы данных с полями и связями между этапами. F1–F5 согласованы с исходным отчётом. Текст Muhammad и references сохранены; прежняя версия с личным наблюдением Faiaz хранится отдельно без замены. Новый полный комплект: 5 страниц, 1818 слов со схемой без references (1823 по альтернативному подсчёту). Не сдано; проверка группой ещё нужна. По отдельному поручению 4 ноября исправлены только дата Pepper, соответствующая in-text citation и название отчёта MAF; актуальный полный комплект ReferencesFixed, остальные текст и blueprint сохранены. 5 ноября 15:54:44 Dubai Moodle зафиксировал групповую сдачу ReferencesFixed DOCX. 6 ноября скачанный файл совпал по SHA-256 с актуальной версией в GitHub. Индивидуальный draft в API относится к другой записи. Оценка A2 пока не опубликована.",
       "deadlines": [
         {
           "value": "2026-11-06 17:00 Asia/Dubai",
@@ -307,15 +307,22 @@
           "note": "По прямой просьбе Faiaz исправлены только дата Pepper (2017, March 31), citation (Carrefour Group, 2017) и название ESG report 2021: Dare together. Остальные XML-части DOCX, изображения, ссылки и форматирование побайтово сохранены; страницы 2–4 пиксельно идентичны прежней версии. Предыдущие файлы не заменены.",
           "path": "Assignments/A2/Blueprint_2026-11-04/Checks_ReferencesFixed.json",
           "source": ""
+        },
+        {
+          "date": "2026-11-06",
+          "note": "Групповая запись submitted от 5 ноября 15:54:44 Dubai; сданный ReferencesFixed DOCX совпадает по SHA-256.",
+          "path": "../../Archive/Correspondence/2026-11-06_submission-status-check.json",
+          "source": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3076826"
         }
       ],
-      "unknown": "Согласие группы с новой редакцией, фактические вклады и подтверждающие email, конечный загрузчик и финальная сдача пока не подтверждены. Feedback от 1 ноября на предыдущий черновик прочитан в Gmail 4 ноября; одобрения нового blueprint преподавательницей нет. Полный Outlook и WhatsApp не охвачены.",
-      "show_on_overview": true,
+      "unknown": "Личность загрузчика по этой проверке не установлена. На 6 ноября A2 notgraded. Учебный Gmail не охватывает весь Outlook или WhatsApp.",
+      "show_on_overview": false,
       "correction": "",
       "working_files": [
         {
           "path": "Assignments/A2/Blueprint_2026-11-04/BUS225_A2_Group9_Carrefour_ReferencesFixed.docx",
-          "role": "Рабочий полный отчёт с новым blueprint и тремя согласованными исправлениями references"
+          "role": "Подтверждённый сданный группой DOCX",
+          "note": "Совпадение SHA-256 с Moodle проверено 6 ноября."
         },
         {
           "path": "Assignments/A2/Blueprint_2026-11-04/BUS225_A2_Group9_Carrefour_ReferencesFixed.pdf",
@@ -329,13 +336,28 @@
           "path": "Assignments/A2/Blueprint_2026-11-04/Carrefour_Service_Blueprint.svg",
           "role": "Редактируемый векторный исходник новой схемы"
         }
-      ]
+      ],
+      "submission": {
+        "status": "submitted",
+        "scope": "team",
+        "submitted_at": "2026-11-05T15:54:44+04:00",
+        "checked_at": "2026-11-06T00:47:03.986715+04:00",
+        "evidence_path": "../../Archive/Correspondence/2026-11-06_submission-status-check.json",
+        "files": [
+          {
+            "name": "BUS225_A2_Group9_Carrefour_ReferencesFixed.docx",
+            "size": 500372,
+            "sha256": "04f3d28e4d8d38c09cb00d623da62fcb781e4d0baa715bc78628b53f5915f73b"
+          }
+        ],
+        "submitted_file_matches_working_copy": true
+      }
     },
     {
       "id": "PEER",
       "title": "Individual peer review",
       "status": "предложено",
-      "next_action": "Выполнить отдельный peer review при финализации групповой работы.",
+      "next_action": "Лично заполнить и загрузить peer review до 6 ноября 17:00 Dubai.",
       "detail": "Индивидуальное действие, не заменяется общей загрузкой.",
       "deadlines": [
         {
@@ -387,10 +409,16 @@
           "note": "Аудит базы: повторно прочитаны собственные статусы/файлы LMS, сроки и последние news. Учебный Gmail по четырём предметам после 27 октября: 0 совпадений. Подробный охват и ограничения в источнике.",
           "path": "../../Archive/Correspondence/2026-10-29_all-course-status-check.json",
           "source": ""
+        },
+        {
+          "date": "2026-11-06",
+          "note": "Личный Moodle status new, файлов нет. Дедлайн 6 ноября 17:00 Dubai.",
+          "path": "../../Archive/Correspondence/2026-11-06_submission-status-check.json",
+          "source": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3076827"
         }
       ],
-      "unknown": "Повторная проверка 7 октября: status new, notgraded; сдача не подтверждена.",
-      "show_on_overview": false,
+      "unknown": "На 6 ноября 00:47 Dubai Moodle status new, файлов нет.",
+      "show_on_overview": true,
       "correction": ""
     },
     {

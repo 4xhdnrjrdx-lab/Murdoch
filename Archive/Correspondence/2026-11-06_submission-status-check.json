@@ -1,0 +1,431 @@
+{
+  "checked_at": "2026-11-06T00:47:03.986715+04:00",
+  "assignments": {
+    "BUS219": [
+      {
+        "id": 126475,
+        "cmid": 3111392,
+        "name": "Business project report due:  at 23.55pm, 6th of Nov",
+        "due": "2026-11-06T19:55:00+04:00",
+        "cutoff": null,
+        "team": false,
+        "gradingstatus": "notgraded",
+        "canedit": true,
+        "cansubmit": false,
+        "submissiongroup": null,
+        "submission": {
+          "status": "new",
+          "modified": "2026-10-17T03:01:28+04:00",
+          "files": []
+        }
+      }
+    ],
+    "BUS225": [
+      {
+        "id": 125038,
+        "cmid": 3076824,
+        "name": "Service organisation profile submission (Non assessable item submitted end of Session 4) -One per group",
+        "due": "2026-09-18T09:00:00+04:00",
+        "cutoff": "2026-09-25T09:00:00+04:00",
+        "team": true,
+        "gradingstatus": "notgraded",
+        "canedit": false,
+        "cansubmit": false,
+        "submissiongroup": 328823,
+        "teamsubmission": {
+          "status": "new",
+          "modified": "2026-10-25T14:39:21+04:00",
+          "files": []
+        }
+      },
+      {
+        "id": 125039,
+        "cmid": 3076825,
+        "name": "Video Presentation Submission",
+        "due": "2026-10-02T17:00:00+04:00",
+        "cutoff": "2026-10-09T17:00:00+04:00",
+        "team": false,
+        "gradingstatus": "graded",
+        "canedit": false,
+        "cansubmit": false,
+        "submissiongroup": null,
+        "submission": {
+          "status": "submitted",
+          "modified": "2026-09-26T21:08:52+04:00",
+          "files": []
+        }
+      },
+      {
+        "id": 125041,
+        "cmid": 3076827,
+        "name": "Peer review submission - Individual",
+        "due": "2026-11-06T17:00:00+04:00",
+        "cutoff": "2026-11-15T17:00:00+04:00",
+        "team": false,
+        "gradingstatus": "notgraded",
+        "canedit": true,
+        "cansubmit": false,
+        "submissiongroup": null,
+        "submission": {
+          "status": "new",
+          "modified": "2026-10-07T12:22:38+04:00",
+          "files": []
+        }
+      },
+      {
+        "id": 125040,
+        "cmid": 3076826,
+        "name": "Reflective Journal and Service Blueprint - Group submission (one per group)",
+        "due": "2026-11-06T17:00:00+04:00",
+        "cutoff": "2026-11-13T17:00:00+04:00",
+        "team": true,
+        "gradingstatus": "notgraded",
+        "canedit": false,
+        "cansubmit": false,
+        "submissiongroup": 328823,
+        "submission": {
+          "status": "draft",
+          "modified": "2026-11-05T15:54:08+04:00",
+          "files": []
+        },
+        "teamsubmission": {
+          "status": "submitted",
+          "modified": "2026-11-05T15:54:44+04:00",
+          "files": [
+            {
+              "filename": "BUS225_A2_Group9_Carrefour_ReferencesFixed.docx",
+              "filesize": 500372
+            }
+          ]
+        }
+      }
+    ],
+    "BUS230": [
+      {
+        "id": 124983,
+        "cmid": 3074736,
+        "name": "Assessment 2: Presentation Material (Group) Submission Portal",
+        "due": "2026-11-06T19:59:00+04:00",
+        "cutoff": null,
+        "team": true,
+        "gradingstatus": "notgraded",
+        "canedit": true,
+        "cansubmit": false,
+        "submissiongroup": 327929,
+        "teamsubmission": {
+          "status": "new",
+          "modified": "2026-10-07T12:22:44+04:00",
+          "files": []
+        }
+      },
+      {
+        "id": 124982,
+        "cmid": 3074730,
+        "name": "Assessment 1: Essay (Individual) Submission Portal",
+        "due": "2026-09-18T19:59:00+04:00",
+        "cutoff": null,
+        "team": false,
+        "gradingstatus": "graded",
+        "canedit": true,
+        "cansubmit": false,
+        "submissiongroup": null,
+        "submission": {
+          "status": "submitted",
+          "modified": "2026-09-17T18:08:19+04:00",
+          "files": [
+            {
+              "filename": "BUS230Assign1FaiazDzhafarov35553299.docx",
+              "filesize": 40716
+            }
+          ]
+        }
+      }
+    ],
+    "BUS334": [
+      {
+        "id": 124857,
+        "cmid": 3070561,
+        "name": "Assignment 4 Supporting materials submission: Data Analysis &amp; Presentation (40%)",
+        "due": null,
+        "cutoff": null,
+        "team": false,
+        "gradingstatus": "notgraded",
+        "canedit": true,
+        "cansubmit": false,
+        "submissiongroup": null
+      },
+      {
+        "id": 124858,
+        "cmid": 3070562,
+        "name": "Peer Evaluation Form Submission (Individual)",
+        "due": "2026-11-28T19:55:00+04:00",
+        "cutoff": "2026-11-29T19:55:00+04:00",
+        "team": false,
+        "gradingstatus": "notgraded",
+        "canedit": false,
+        "cansubmit": false,
+        "submissiongroup": null,
+        "submission": {
+          "status": "new",
+          "modified": "2026-10-07T12:22:54+04:00",
+          "files": []
+        }
+      },
+      {
+        "id": 124854,
+        "cmid": 3070558,
+        "name": "Assignment 1: Engagement (10%)",
+        "due": "2026-11-19T13:00:00+04:00",
+        "cutoff": "2026-12-21T13:00:00+04:00",
+        "team": false,
+        "gradingstatus": "notgraded",
+        "canedit": true,
+        "cansubmit": false,
+        "submissiongroup": null,
+        "submission": {
+          "status": "new",
+          "modified": "2026-10-07T12:22:55+04:00",
+          "files": []
+        }
+      },
+      {
+        "id": 124855,
+        "cmid": 3070559,
+        "name": "Assignment 2 Submission: Questionnaire (20%)",
+        "due": "2026-09-20T19:59:00+04:00",
+        "cutoff": "2026-09-23T19:59:00+04:00",
+        "team": false,
+        "gradingstatus": "graded",
+        "canedit": false,
+        "cansubmit": false,
+        "submissiongroup": null,
+        "submission": {
+          "status": "submitted",
+          "modified": "2026-09-19T00:26:26+04:00",
+          "files": [
+            {
+              "filename": "35553299_Dzhafarov_BUS334_Assignment2_Questionnaire.docx",
+              "filesize": 40749
+            }
+          ]
+        }
+      },
+      {
+        "id": 124856,
+        "cmid": 3070560,
+        "name": "Assignment 3 Submission: Data Collection &amp; Preliminary Analysis (30%)",
+        "due": "2026-10-25T19:59:00+04:00",
+        "cutoff": "2026-10-28T19:59:00+04:00",
+        "team": false,
+        "gradingstatus": "graded",
+        "canedit": false,
+        "cansubmit": false,
+        "submissiongroup": null,
+        "submission": {
+          "status": "submitted",
+          "modified": "2026-10-22T17:57:10+04:00",
+          "files": [
+            {
+              "filename": "35553299_Dzhafarov_BUS334_A3_Appendices_Revised.pdf",
+              "filesize": 475063
+            },
+            {
+              "filename": "35553299_Dzhafarov_BUS334_A3_Original_Responses.pdf",
+              "filesize": 130841
+            },
+            {
+              "filename": "35553299_Dzhafarov_BUS334_A3_Report_Revised.pdf",
+              "filesize": 519085
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "peer_modules": {
+    "BUS219": [],
+    "BUS225": [
+      {
+        "id": 3076823,
+        "name": "Peer Evaluation Form",
+        "modname": "resource",
+        "instance": 1311917,
+        "url": "https://moodleprod.murdoch.edu.au/mod/resource/view.php?id=3076823",
+        "availabilityinfo": null,
+        "dates": [],
+        "completiondata": null
+      },
+      {
+        "id": 3076827,
+        "name": "Peer review submission - Individual",
+        "modname": "assign",
+        "instance": 125041,
+        "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3076827",
+        "availabilityinfo": null,
+        "dates": [
+          {
+            "label": "Opened:",
+            "timestamp": 1792454400,
+            "dataid": "allowsubmissionsfromdate"
+          },
+          {
+            "label": "Due:",
+            "timestamp": 1793970000,
+            "dataid": "duedate"
+          }
+        ],
+        "completiondata": null
+      }
+    ],
+    "BUS230": [
+      {
+        "id": 3074733,
+        "name": "Assignment 2 peer assessment - Class 1 Friday Shahinda Baig",
+        "modname": "peerwork",
+        "instance": 370,
+        "url": "https://moodleprod.murdoch.edu.au/mod/peerwork/view.php?id=3074733",
+        "availabilityinfo": null,
+        "dates": [
+          {
+            "label": "Due: ",
+            "timestamp": 1794671940
+          }
+        ],
+        "completiondata": null
+      },
+      {
+        "id": 3074734,
+        "name": "Assignment 2 peer assessment - Class 2 Wednesday Shahinda Baig",
+        "modname": "peerwork",
+        "instance": 371,
+        "url": "https://moodleprod.murdoch.edu.au/mod/peerwork/view.php?id=3074734",
+        "availabilityinfo": null,
+        "dates": [
+          {
+            "label": "Opened: ",
+            "timestamp": 1788191940
+          },
+          {
+            "label": "Due: ",
+            "timestamp": 1794671940
+          }
+        ],
+        "completiondata": null
+      },
+      {
+        "id": 3074735,
+        "name": "Assignment 2 peer assessment - Class 3 Harshini Esther",
+        "modname": "peerwork",
+        "instance": 372,
+        "url": "https://moodleprod.murdoch.edu.au/mod/peerwork/view.php?id=3074735",
+        "availabilityinfo": null,
+        "dates": [
+          {
+            "label": "Due: ",
+            "timestamp": 1796140740
+          }
+        ],
+        "completiondata": null
+      }
+    ],
+    "BUS334": [
+      {
+        "id": 3070562,
+        "name": "Peer Evaluation Form Submission (Individual)",
+        "modname": "assign",
+        "instance": 124858,
+        "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3070562",
+        "availabilityinfo": null,
+        "dates": [
+          {
+            "label": "Opens:",
+            "timestamp": 1794384120,
+            "dataid": "allowsubmissionsfromdate"
+          },
+          {
+            "label": "Due:",
+            "timestamp": 1795881300,
+            "dataid": "duedate"
+          }
+        ],
+        "completiondata": null
+      },
+      {
+        "id": 3070570,
+        "name": "BUS334 Assignment 4 Peer Evaluation Form",
+        "modname": "resource",
+        "instance": 1309631,
+        "url": "https://moodleprod.murdoch.edu.au/mod/resource/view.php?id=3070570",
+        "availabilityinfo": null,
+        "dates": [],
+        "completiondata": null
+      }
+    ]
+  },
+  "timed_quizzes": [
+    {
+      "id": 111647,
+      "name": "Quiz 1 due:  by 23:55, 20th of Oct",
+      "opens": null,
+      "closes": "2026-10-20T19:55:00+04:00"
+    },
+    {
+      "id": 111648,
+      "name": "Quiz 2 due: 23:55, 24th of Nov",
+      "opens": null,
+      "closes": "2026-11-24T19:55:00+04:00"
+    }
+  ],
+  "calendar_6_to_8_nov": [
+    {
+      "name": "Reflective Journal and Service Blueprint - Group submission (one per group) is due",
+      "start": "2026-11-06T17:00:00+04:00",
+      "courseid": 31320,
+      "eventtype": "due"
+    },
+    {
+      "name": "Peer review submission - Individual is due",
+      "start": "2026-11-06T17:00:00+04:00",
+      "courseid": 31320,
+      "eventtype": "due"
+    },
+    {
+      "name": "Business project report due:  at 23.55pm, 6th of Nov is due",
+      "start": "2026-11-06T19:55:00+04:00",
+      "courseid": 31585,
+      "eventtype": "due"
+    },
+    {
+      "name": "Assessment 2: Presentation Material (Group) Submission Portal is due",
+      "start": "2026-11-06T19:59:00+04:00",
+      "courseid": 31305,
+      "eventtype": "due"
+    }
+  ],
+  "BUS225_A2_submitted_file": {
+    "filename": "BUS225_A2_Group9_Carrefour_ReferencesFixed.docx",
+    "bytes": 500372,
+    "sha256": "04f3d28e4d8d38c09cb00d623da62fcb781e4d0baa715bc78628b53f5915f73b",
+    "repository_path": "BUS225/2026-TSD/Assignments/A2/Blueprint_2026-11-04/BUS225_A2_Group9_Carrefour_ReferencesFixed.docx",
+    "matches_sha256": true
+  },
+  "mail": {
+    "checked_on": "2026-11-06",
+    "scope": "Учебный Gmail после 3 ноября. Четыре кода предметов и известные университетские отправители. Два совпадения, поиск исчерпан.",
+    "findings": [
+      {
+        "message_id": "1a1a588192979c83",
+        "course": "BUS225",
+        "summary": "4 ноября опубликованы материалы подготовки к экзамену",
+        "forum_url": "https://moodleprod.murdoch.edu.au/mod/forum/discuss.php?d=997704"
+      },
+      {
+        "message_id": "1a1a44dd269382b5",
+        "course": "BUS230",
+        "summary": "4 ноября преподаватель напомнил об обязательной peer assessment и удержании 10% marks при пропуске",
+        "forum_url": "https://moodleprod.murdoch.edu.au/mod/forum/discuss.php?d=997648"
+      }
+    ],
+    "limitations": "Полный Outlook и WhatsApp не проверены. Последнее подтверждение личного BUS230 peerwork по интерфейсу датировано 5 ноября. BUS219 API показывает запись Faiaz, учебный план назначает загрузку лидеру."
+  }
+}

@@ -6,9 +6,9 @@
 
 ## A2: Reflective Journal + Service Blueprint, 40%
 
-Состояние: в работе.
+Состояние: сдано.
 
-- [Рабочий полный отчёт с новым blueprint и тремя согласованными исправлениями references](A2/Blueprint_2026-11-04/BUS225_A2_Group9_Carrefour_ReferencesFixed.docx)
+- [Подтверждённый сданный группой DOCX](A2/Blueprint_2026-11-04/BUS225_A2_Group9_Carrefour_ReferencesFixed.docx) — Совпадение SHA-256 с Moodle проверено 6 ноября.
 - [Тот же комплект с исправленными references, пять проверенных страниц](A2/Blueprint_2026-11-04/BUS225_A2_Group9_Carrefour_ReferencesFixed.pdf)
 - [Новая схема отдельно, одна страница A4 landscape](A2/Blueprint_2026-11-04/Carrefour_Service_Blueprint.pdf)
 - [Редактируемый векторный исходник новой схемы](A2/Blueprint_2026-11-04/Carrefour_Service_Blueprint.svg)

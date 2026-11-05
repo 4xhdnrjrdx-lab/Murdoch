@@ -65,3 +65,5 @@ Faiaz в чате описал своё использование Self Checkout
 - 2026-11-04: выполнена отдельная визуальная проверка всех 10 references: девять страниц в браузере и PDF MAF (обложка и печатная страница 44 с Tally). Все URL ведут к нужным источникам; выявлены дата Pepper и название отчёта MAF для исправления. У трёх SAGE-статей полный текст ограничен; проверены карточки и доступные abstract/preview. Сдаваемые DOCX/PDF не изменялись. [Аудит](Assignments/A2/Blueprint_2026-11-04/Reference_Review_2026-11-04.json).
 
 - 2026-11-04: по прямой просьбе Faiaz в отдельной версии ReferencesFixed исправлены только дата Pepper, citation Pepper в тексте и название отчёта MAF. Схема и другой текст сохранены, 5 страниц. [Проверка](Assignments/A2/Blueprint_2026-11-04/Checks_ReferencesFixed.json).
+
+- 6 ноября Moodle подтвердил групповую сдачу A2 от 5 ноября 15:54:44 Dubai. Сданный ReferencesFixed DOCX совпал с актуальным файлом базы по SHA-256. Личный peer review ещё пуст, срок 6 ноября 17:00 Dubai. [Проверка](../../Archive/Correspondence/2026-11-06_submission-status-check.json).
