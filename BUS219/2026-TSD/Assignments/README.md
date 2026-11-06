@@ -26,4 +26,4 @@
 
 Состояние: сдано.
 
-- [Отправленная индивидуальная форма Faiaz](A2/Peer_Evaluation_2026-11-06/BUS219_Project_Peer_Evaluation_Faiaz_Dzhafarov.docx)
+- [Предыдущая версия индивидуальной формы, отправленная через Gmail](A2/Peer_Evaluation_2026-11-06/BUS219_Project_Peer_Evaluation_Faiaz_Dzhafarov.docx)

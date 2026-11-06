@@ -59,3 +59,5 @@
 - 6 ноября Faiaz загрузил групповой A2 в 17:43:41 Dubai. Moodle подтвердил submitted до дедлайна. Файл из портала сохранён по SHA-256. [Проверка](Correspondence/2026-11-06_a2-submission-verified.json).
 
 - 6 ноября в 17:50 Dubai личная форма BUS219 отправлена Navneet Walia по поручению Faiaz. Адрес и вложение подтверждены в Gmail Sent. [Подтверждение](Correspondence/2026-11-06_peer-evaluation-email-sent.json).
+
+- 6 ноября Faiaz подтвердил в общем чате, что сам отправил исправленную индивидуальную форму Navneet Walia через университетский Outlook. Запись в Outlook Sent и вложение независимо не проверялись.

@@ -442,7 +442,7 @@
       "id": "PEER",
       "title": "Individual Project Peer Evaluation Form",
       "status": "сдано",
-      "detail": "6 ноября Navneet Walia попросила каждого студента заполнить индивидуальную Project Peer Evaluation Form и отправить её ей по email. В сохранённой форме оцениваются участники и собственный вклад по шкале 0–100. Канал отправки определяется свежим объявлением преподавательницы. Индивидуальная форма Faiaz отправлена 6 ноября по email Navneet. В Gmail SENT проверены адрес и вложение.",
+      "detail": "6 ноября Navneet Walia попросила каждого студента отправить ей по email индивидуальную Project Peer Evaluation Form со шкалой 0–100. Faiaz подтвердил, что сам отправил исправленную форму через университетский Outlook. Ранее отправленная версия из Gmail сохранена как история.",
       "next_action": "Дождаться обратной связи преподавательницы.",
       "deadlines": [],
       "evidence": [
@@ -469,18 +469,29 @@
           "note": "По поручению Faiaz форма с высокими оценками отправлена Navneet. Отправленное письмо и вложение проверены.",
           "path": "Correspondence/2026-11-06_peer-evaluation-email-sent.json",
           "source": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#sent/1a1b11fd5942eba5"
+        },
+        {
+          "date": "2026-11-06",
+          "note": "Faiaz сообщил, что сам отправил исправленную форму через университетский Outlook.",
+          "source": "Подтверждение Faiaz в общем чате Murdoch"
         }
       ],
-      "unknown": "Подтверждение получения преподавательницей пока не поступило. Индивидуальные формы остальных участников не проверялись.",
+      "unknown": "Запись в Outlook Sent, точное время и вложение не проверялись независимо. Подтверждение получения преподавательницей и сдача форм остальных участников неизвестны.",
       "show_on_overview": false,
       "correction": "",
       "working_files": [
         {
           "path": "Assignments/A2/Peer_Evaluation_2026-11-06/BUS219_Project_Peer_Evaluation_Faiaz_Dzhafarov.docx",
-          "role": "Отправленная индивидуальная форма Faiaz"
+          "role": "Предыдущая версия индивидуальной формы, отправленная через Gmail"
         }
       ],
       "submission": {
+        "status": "submitted",
+        "channel": "university Outlook",
+        "sent_on": "2026-11-06",
+        "confirmation": "Faiaz сообщил в общем чате Murdoch, что сам отправил исправленную форму"
+      },
+      "previous_submission": {
         "status": "submitted",
         "channel": "email",
         "sent_at": "2026-11-06T17:50:15+04:00",
