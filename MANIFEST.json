@@ -6594,7 +6594,7 @@
     {
       "path": "BUS225/2026-TSD/Assignments/A2/Peer_Review_2026-11-06/BUS225_Peer_Evaluation_Faiaz_Dzhafarov.docx",
       "bytes": 39839,
-      "sha256": "648929f8311cfd80e6633a9cfe5ae98856080af923ff61f238f50b7f0a5d196a",
+      "sha256": "260cd16420c17e0f566030733a30f82b8ac67e10b0bcba498ae37af7377fb442",
       "storage": "git"
     },
     {
@@ -6959,8 +6959,8 @@
     },
     {
       "path": "BUS225/2026-TSD/Correspondence/2026-11-06_peer-review-prepared.json",
-      "bytes": 1352,
-      "sha256": "f10180a1e799d3230af34348c7f2c625a91df4bdc2f20b66edf5dc7257178d3d",
+      "bytes": 1348,
+      "sha256": "b0e72f305f64203b4971773df923bd790991019ca0745c7fcba8c4b07312f3c3",
       "storage": "git"
     },
     {
@@ -11171,5 +11171,5 @@
     }
   ],
   "file_count": 1861,
-  "total_bytes": 932421293
+  "total_bytes": 932421289
 }
