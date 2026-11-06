@@ -137,3 +137,5 @@
 - **5 ноября 2026, собственный peer status:** по вопросу Faiaz о 10% открыта текущая Class 2 peerwork. UI подтверждает Users who still need to submit: Faiaz Dzhafarov, Add submission — его личная форма ещё не отправлена. Дедлайн 14 ноября 19:59 Dubai не вышел. Оценки не вводились, отправка не выполнялась. [Источник](Correspondence/2026-11-05_peer-own-status-ui.json).
 
 - **6 ноября 2026:** По поручению Faiaz собран его отдельный блок academic notes 13–18 для общего отчёта, по одному абзацу с citations на слайд и семь источников. Все три страницы визуально проверены. В 16:45 Dubai групповой портал A2 new без файлов. [Проверка и файлы](Correspondence/2026-11-06_faiaz-a2-notes-and-status.json).
+
+- 6 ноября Faiaz подтвердил сдачу личной формы. На [снимке Moodle](Correspondence/2026-11-06_peer-submitted-user.png) для Class 2 Group 4 отображается All group members submitted. В 18:21 Dubai отдельный групповой портал презентации A2 оставался пустым. [Проверка](Correspondence/2026-11-06_peer-and-group-a2-recheck.json).

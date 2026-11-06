@@ -1,0 +1,28 @@
+{
+  "peer": {
+    "source": "Faiaz подтвердил сдачу и предоставил снимок своего Moodle",
+    "observed_on": "2026-11-06",
+    "url": "https://moodleprod.murdoch.edu.au/mod/peerwork/view.php?id=3074734",
+    "group": "Class 2 Group 4",
+    "displayed_status": "All group members submitted.",
+    "displayed_action": "Edit submission",
+    "student_status": "submitted",
+    "personal_submission_time": null,
+    "screenshot": "2026-11-06_peer-submitted-user.png",
+    "screenshot_sha256": "5044f2d46819c988ef830da6ee876303d93576d93513227ecf8ba8618755cbae"
+  },
+  "group_a2": {
+    "source": "Read-only Moodle assignment status API",
+    "checked_at": "2026-11-06T18:21:04.077193+04:00",
+    "url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3074736",
+    "status": "new",
+    "files": [],
+    "due_at": "2026-11-06T19:59:00+04:00"
+  },
+  "study_gmail": {
+    "checked_at": "2026-11-06T18:22:16+04:00",
+    "scope": "Учебный Gmail с 6 ноября, BUS230, Presentation Material и Shahinda Baig.",
+    "result": "Одно совпадение: напоминание Shahinda о занятии. Подтверждения групповой сдачи A2 в поиске нет.",
+    "message_id": "1a1afa1903347cc9"
+  }
+}

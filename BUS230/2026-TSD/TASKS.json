@@ -79,7 +79,7 @@
       "id": "A2",
       "title": "Group multimedia manager training presentation, 40%",
       "status": "в работе",
-      "next_action": "Включить блок Faiaz 13–18 в общий supporting document, сверить командный комплект с показанным PPTX и согласовать загрузчика. Проверка 6 ноября в 16:45 Dubai: group portal new без файлов. Срок 6 ноября 19:59 Dubai.",
+      "next_action": "Включить блок Faiaz 13–18 в общий supporting document, сверить командный комплект с показанным PPTX и согласовать загрузчика. Проверка 6 ноября в 18:21 Dubai: group portal new без файлов. Срок 6 ноября 19:59 Dubai.",
       "detail": "Faiaz 29 октября подтвердил: команда выступила 28 октября и отправила презентацию преподавательнице. Это отдельные факты от финальной сдачи в LMS. Проверка 2 ноября: групповой портал A2 имеет статус new без файлов; срок 6 ноября 2026, 19:59 Asia/Dubai. Загрузчик и точный побайтный состав показанного/отправленного файла ещё не подтверждены.\n\nВыбранный сохранённый комплект — Presentation_Alex_2026-10-27. В нём один полный PPTX на 30 видимых слайдов с источниками 29–30, общий текст, речь Aram и резервный MP4. На 25 — QR основной игры и отдельная 36-секундная practice-запись Alex про Desire, встроенная как однократная анимация. Один отдельный вопрос Aram — на 24, игра — на 25, разбор — на 26. Старые Redesign, Revision, QR и локальные снимки являются историей; актуальные пути берутся только из working_files. Наличие комплекта не доказывает загрузку в LMS или полноту academic notes.\n\nОбъявление Shahinda от 2 ноября требует сдать те же слайды, что показаны на записанном выступлении, без изменения, добавления или удаления содержимого после него. Academic notes должны объяснять существующие тезисы, содержать академическое обоснование и in-text citations: ориентир 1–2 абзаца на релевантный слайд, в Notes либо отдельном документе с номерами слайдов. Они не должны вводить новые аргументы, ограничения, модификации или содержательные свидетельства. Речь не заменяет academic notes. 5 ноября по прямому поручению Faiaz подготовлен отдельный Academic_Notes_2026-11-05: все 30 слайдов, 4156 слов, 17 страниц, существующие 20 академических источников и профессиональные Prosci references. Все страницы после рендера проверены; выбранный PPTX не изменён. Пояснения поддерживают существующее содержание без новых аргументов. Согласие команды и побайтное соответствие фактически показанному файлу пока не подтверждены; финальная сверка перед сдачей требуется.\n\nТекущая сохранённая игра — Game_Reset_Labels_2026-10-27, Sites v3: Team 1–3/Others с подписью, заметная обратная связь, закрытый ведущий, подтверждённый reset и отдельный повтор. Исходники и данные deployment сохранены в Git, результаты и runtime-конфигурация находятся в Sites/D1. Подарки исключены решением команды. Сброс production-результатов без нового поручения не разрешён. Подписка на Team Discussion Forum была выключена; по прямой просьбе Faiaz включена 2 ноября и подтверждена UI. Академические файлы и сдача при этом не менялись.\n\nРасчёт подготовки: Mazin/Beryl/Faiaz по 6 минут, затем Aram, демо/вход до 80 секунд, игра 4 минуты, вопросы до 35 секунд, плановый конец 29:30. Это прежний план, не измеренный хронометраж фактического выступления.",
       "deadlines": [
         {
@@ -302,6 +302,12 @@
           "note": "Подготовлен и проверен отдельный блок Faiaz 13–18. Групповая сдача в 16:45 Dubai: new, файлов нет.",
           "path": "Correspondence/2026-11-06_faiaz-a2-notes-and-status.json",
           "source": "Direct user request, selected ALEX, read-only Moodle API and focused study Gmail"
+        },
+        {
+          "date": "2026-11-06",
+          "note": "18:21 Dubai: group submission new, файлов нет, срок 19:59 Dubai. Отдельная личная peer assessment подтверждена.",
+          "path": "Correspondence/2026-11-06_peer-and-group-a2-recheck.json",
+          "source": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3074736"
         }
       ],
       "unknown": "Побайтный состав фактически показанного и отправленного PPTX, согласие команды с подготовленными academic notes, загрузчик, финальная Moodle-сдача, оценка и feedback не подтверждены. Конфликты Chicago/APA и максимум 20 против rubric 20+ отдельно не разрешены. Выступление 28 октября и email подтверждены Faiaz; они не равны LMS-сдаче.",
@@ -350,9 +356,9 @@
     {
       "id": "PEER",
       "title": "Peer assessment",
-      "status": "предложено",
-      "next_action": "Лично заполнить Add submission в peer assessment Class 2 Wednesday Shahinda Baig: оценить вклад участников по всем пунктам шкалы 0–5 и отправить форму до 14 ноября 19:59 Dubai; затем проверить исчезновение имени Faiaz из Users who still need to submit и сохранить подтверждение.",
-      "detail": "Официальное напоминание Kanwal Nasim 4 ноября требует выполнить A2 peer assessment, иначе 10% deduction of marks (без переинтерпретации в процентные пункты итоговой оценки). API 5 ноября: текущий Class 2 Wednesday Shahinda Baig — instance 371, cmid 3074734, due 14 ноября 19:59 Dubai. Старый выбранный instance 372 со сроком 1 декабря теперь относится к Class 3 Harshini Esther; прежние проверки сохранены как история. Позднее 5 ноября собственная Moodle UI прямо показала: Users who still need to submit: Faiaz Dzhafarov; доступна Add submission. Следовательно, личный peer assessment Faiaz ещё не отправлен. Открытие и сдача презентации за группу его не заменяют. Ответы и оценки не вводились, форма не отправлялась.",
+      "status": "сдано",
+      "next_action": "Дождаться результата peer assessment.",
+      "detail": "Личная оценка вклада участников Class 2 Wednesday Shahinda Baig, Moodle instance 371 / cmid 3074734. 6 ноября Faiaz подтвердил сдачу и предоставил снимок Class 2 Group 4: All group members submitted, доступна Edit submission. Срок 14 ноября 19:59 Dubai подтверждён API 5 ноября. Первое время отправки в интерфейсе относится к записи группы.",
       "deadlines": [
         {
           "value": "2026-11-14T19:59:00+04:00",
@@ -403,11 +409,23 @@
           "note": "В собственной Moodle UI подтверждено: Users who still need to submit: Faiaz Dzhafarov; Add submission. Форма ещё не отправлена; оценки не выбирались.",
           "path": "Correspondence/2026-11-05_peer-own-status-ui.json",
           "source": "Authenticated Moodle UI, read-only"
+        },
+        {
+          "date": "2026-11-06",
+          "note": "Faiaz подтвердил сдачу. На его снимке Moodle Class 2 Group 4: All group members submitted и Edit submission.",
+          "path": "Correspondence/2026-11-06_peer-submitted-user.png",
+          "source": "https://moodleprod.murdoch.edu.au/mod/peerwork/view.php?id=3074734"
         }
       ],
-      "unknown": "Личные оценки участников и подтверждение будущей отправки. На момент UI-проверки 5 ноября собственный статус известен: ещё не отправлено.",
+      "unknown": "Точное время личной отправки Faiaz и итог оценки не установлены.",
       "show_on_overview": false,
-      "correction": ""
+      "correction": "",
+      "submission": {
+        "status": "submitted",
+        "confirmed_on": "2026-11-06",
+        "channel": "Moodle peerwork",
+        "evidence_path": "Correspondence/2026-11-06_peer-and-group-a2-recheck.json"
+      }
     },
     {
       "id": "A3",

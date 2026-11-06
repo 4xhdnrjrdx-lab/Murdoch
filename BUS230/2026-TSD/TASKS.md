@@ -7,8 +7,8 @@
 | Работа | Состояние | Срок / проверка | Следующее действие |
 |---|---|---|---|
 | [A1: Individual reflective essay, 30%](#a1) | оценено | 2026-09-18 19:59 Asia/Dubai (источник: Moodle API timestamp; проверено 2026-10-29) | Учесть оценку A1 и продолжать подготовку A2; число баллов теперь подтверждено. |
-| [A2: Group multimedia manager training presentation, 40%](#a2) | в работе | 2026-11-06 19:59 Asia/Dubai (источник: Moodle API timestamp; проверено 2026-11-05); Вечером накануне назначенного выступления, sessions 10/11 (источник: Unit Outline §5.2.2; проверено 2026-10-07) | Включить блок Faiaz 13–18 в общий supporting document, сверить командный комплект с показанным PPTX и согласовать загрузчика. Проверка 6 ноября в 16:45 Dubai: group portal new без файлов. Срок 6 ноября 19:59 Dubai. |
-| [PEER: Peer assessment](#peer) | предложено | 2026-11-14T19:59:00+04:00 (источник: Moodle API, current Class 2 Wednesday Shahinda Baig peerwork (instance 371); проверено 2026-11-05) | Лично заполнить Add submission в peer assessment Class 2 Wednesday Shahinda Baig: оценить вклад участников по всем пунктам шкалы 0–5 и отправить форму до 14 ноября 19:59 Dubai; затем проверить исчезновение имени Faiaz из Users who still need to submit и сохранить подтверждение. |
+| [A2: Group multimedia manager training presentation, 40%](#a2) | в работе | 2026-11-06 19:59 Asia/Dubai (источник: Moodle API timestamp; проверено 2026-11-05); Вечером накануне назначенного выступления, sessions 10/11 (источник: Unit Outline §5.2.2; проверено 2026-10-07) | Включить блок Faiaz 13–18 в общий supporting document, сверить командный комплект с показанным PPTX и согласовать загрузчика. Проверка 6 ноября в 18:21 Dubai: group portal new без файлов. Срок 6 ноября 19:59 Dubai. |
+| [PEER: Peer assessment](#peer) | сдано | 2026-11-14T19:59:00+04:00 (источник: Moodle API, current Class 2 Wednesday Shahinda Baig peerwork (instance 371); проверено 2026-11-05) | Дождаться результата peer assessment. |
 | [A3: Final Exam, 30%](#a3) | в работе | 2026-11-21 13:30 Asia/Dubai, Dubai ISC (источник: Официальное расписание Trimester S 2026, редакция 21 октября; проверено 25 октября; проверено 2026-10-25) | Блок 1.1: объяснить смысл Change Management по лекции, самому разобрать пример и обсудить вопросы. Игровой формат остановлен по просьбе Faiaz 20 октября; к самостоятельной практике перейти после понимания. Stage 1/14, завершено 0/14. |
 
 ## A1
@@ -117,6 +117,8 @@ Faiaz 29 октября подтвердил: команда выступила 
 
 - 2026-11-06: Подготовлен и проверен отдельный блок Faiaz 13–18. Групповая сдача в 16:45 Dubai: new, файлов нет. [Источник](Correspondence/2026-11-06_faiaz-a2-notes-and-status.json)
 
+- 2026-11-06: 18:21 Dubai: group submission new, файлов нет, срок 19:59 Dubai. Отдельная личная peer assessment подтверждена. [Источник](Correspondence/2026-11-06_peer-and-group-a2-recheck.json)
+
 **Неизвестно:** Побайтный состав фактически показанного и отправленного PPTX, согласие команды с подготовленными academic notes, загрузчик, финальная Moodle-сдача, оценка и feedback не подтверждены. Конфликты Chicago/APA и максимум 20 против rubric 20+ отдельно не разрешены. Выступление 28 октября и email подтверждены Faiaz; они не равны LMS-сдаче.
 
 **Файлы для продолжения:**
@@ -139,7 +141,7 @@ Faiaz 29 октября подтвердил: команда выступила 
 
 ## PEER
 
-Официальное напоминание Kanwal Nasim 4 ноября требует выполнить A2 peer assessment, иначе 10% deduction of marks (без переинтерпретации в процентные пункты итоговой оценки). API 5 ноября: текущий Class 2 Wednesday Shahinda Baig — instance 371, cmid 3074734, due 14 ноября 19:59 Dubai. Старый выбранный instance 372 со сроком 1 декабря теперь относится к Class 3 Harshini Esther; прежние проверки сохранены как история. Позднее 5 ноября собственная Moodle UI прямо показала: Users who still need to submit: Faiaz Dzhafarov; доступна Add submission. Следовательно, личный peer assessment Faiaz ещё не отправлен. Открытие и сдача презентации за группу его не заменяют. Ответы и оценки не вводились, форма не отправлялась.
+Личная оценка вклада участников Class 2 Wednesday Shahinda Baig, Moodle instance 371 / cmid 3074734. 6 ноября Faiaz подтвердил сдачу и предоставил снимок Class 2 Group 4: All group members submitted, доступна Edit submission. Срок 14 ноября 19:59 Dubai подтверждён API 5 ноября. Первое время отправки в интерфейсе относится к записи группы.
 
 **Основания:**
 
@@ -157,7 +159,9 @@ Faiaz 29 октября подтвердил: команда выступила 
 
 - 2026-11-05: В собственной Moodle UI подтверждено: Users who still need to submit: Faiaz Dzhafarov; Add submission. Форма ещё не отправлена; оценки не выбирались. [Источник](Correspondence/2026-11-05_peer-own-status-ui.json)
 
-**Неизвестно:** Личные оценки участников и подтверждение будущей отправки. На момент UI-проверки 5 ноября собственный статус известен: ещё не отправлено.
+- 2026-11-06: Faiaz подтвердил сдачу. На его снимке Moodle Class 2 Group 4: All group members submitted и Edit submission. [Источник](Correspondence/2026-11-06_peer-submitted-user.png)
+
+**Неизвестно:** Точное время личной отправки Faiaz и итог оценки не установлены.
 
 ## A3
 

@@ -3,22 +3,22 @@
     "result": "ok",
     "timestamp_precision": "seconds",
     "token_expiry": "unknown",
-    "operation": "Read-only verification and download of actual BUS219 A2 leader submission.",
-    "checked_at": "2026-11-06T17:45:46.933966+04:00",
+    "operation": "Read-only BUS230 A2 group portal recheck; peerwork submission confirmed separately by user screenshot.",
+    "checked_at": "2026-11-06T18:21:04.077193+04:00",
     "latest_bus230_a2_check": {
-      "checked_at": "2026-11-06T16:45:46.897086+04:00",
+      "checked_at": "2026-11-06T18:21:04.077193+04:00",
       "result": "ok",
       "scope": "Read-only A2 group portal new, no files",
-      "evidence": "BUS230/2026-TSD/Correspondence/2026-11-06_faiaz-a2-notes-and-status.json"
+      "evidence": "BUS230/2026-TSD/Correspondence/2026-11-06_peer-and-group-a2-recheck.json"
     },
     "evidence": {
-      "BUS230": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json",
+      "BUS230": "BUS230/2026-TSD/Correspondence/2026-11-06_peer-and-group-a2-recheck.json",
       "BUS334": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json",
       "BUS219": "BUS219/2026-TSD/Correspondence/2026-11-06_a2-submission-verified.json",
       "BUS225": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json"
     },
     "last_success_by_course": {
-      "BUS230": "2026-11-06T17:33:05.226689+04:00",
+      "BUS230": "2026-11-06T18:21:04.077193+04:00",
       "BUS334": "2026-11-06T17:33:05.226689+04:00",
       "BUS219": "2026-11-06T17:45:46.933966+04:00",
       "BUS225": "2026-11-06T17:33:05.226689+04:00"
@@ -56,10 +56,10 @@
       }
     },
     "latest_bus230_peer_check": {
-      "checked_at": "2026-11-05T00:53:37.753998+04:00",
+      "checked_on": "2026-11-06",
       "result": "ok",
-      "scope": "Authenticated read-only own Class 2 peerwork UI: Faiaz explicitly listed as still needing to submit. No ratings or submission.",
-      "evidence": "BUS230/2026-TSD/Correspondence/2026-11-05_peer-own-status-ui.json"
+      "scope": "User-provided screenshot of Class 2 peerwork showing all group members submitted, including Faiaz.",
+      "evidence": "BUS230/2026-TSD/Correspondence/2026-11-06_peer-and-group-a2-recheck.json"
     }
   },
   "secret_storage": {
@@ -247,11 +247,11 @@
     },
     "course_checks": {
       "BUS230": {
-        "checked_at": "2026-11-06T16:51:53.926699+04:00",
+        "checked_at": "2026-11-06T18:22:16+04:00",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "after:2026/11/05 (BUS230 OR Shahinda OR \"peer assessment\")",
-        "result": "Shahinda congratulated the class and gave a final-class reminder. No new A2 submission instructions in this focused study Gmail check.",
-        "evidence": "BUS230/2026-TSD/Correspondence/2026-11-06_faiaz-a2-notes-and-status.json"
+        "scope": "Учебный Gmail с 6 ноября, BUS230, Presentation Material и Shahinda Baig.",
+        "result": "Одно совпадение: напоминание Shahinda о занятии. Подтверждения групповой сдачи A2 в поиске нет.",
+        "evidence": "BUS230/2026-TSD/Correspondence/2026-11-06_peer-and-group-a2-recheck.json"
       }
     }
   },
