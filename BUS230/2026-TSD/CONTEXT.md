@@ -35,3 +35,6 @@
 
 
 5 ноября после вопроса Faiaz о риске потери 10% [проверена собственная peerwork UI](Correspondence/2026-11-05_peer-own-status-ui.json): Users who still need to submit: Faiaz Dzhafarov; доступна Add submission. Теперь подтверждено, что его личная форма ещё не отправлена. Нужно лично оценить вклад участников по всем пунктам 0–5 и отправить до 14 ноября 19:59 Dubai; затем сохранить подтверждение. Оценки не выбирались и форма не отправлялась. Academic notes и групповая сдача презентации peer assessment не заменяют.
+
+
+6 ноября подготовлен отдельный [блок Faiaz 13–18](Assignments/A2/Faiaz_Academic_Notes_2026-11-06/BUS230_A2_Faiaz_Academic_Notes_Slides_13-18.docx) для объединения командных academic notes. В нём один абзац на слайд с citations и семь записей References. [Проверка 6 ноября](Correspondence/2026-11-06_faiaz-a2-notes-and-status.json) показывает групповой A2 new без файлов в 16:45 Dubai. Срок 6 ноября 19:59 Dubai.

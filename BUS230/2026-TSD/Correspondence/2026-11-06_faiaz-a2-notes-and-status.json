@@ -1,0 +1,40 @@
+{
+  "recorded_at": "2026-11-06T16:51:53.926699+04:00",
+  "request": "Prepare only the slides Faiaz presented, one academic paragraph per slide",
+  "scope_basis": "TEAM.md and current ALEX presentation, slides 13–18",
+  "file": "Assignments/A2/Faiaz_Academic_Notes_2026-11-06/BUS230_A2_Faiaz_Academic_Notes_Slides_13-18.docx",
+  "sha256": "dcfcf992a040c3e70270960d63ca54fcc943b90b3f24e448c23119454fb93162",
+  "slides": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "review": {
+    "pages": 3,
+    "paragraphs_per_slide": 1,
+    "bibliography_entries": 7,
+    "all_pages_visually_reviewed": true,
+    "reference_basis": "Existing ALEX citations and team academic notes source bibliography",
+    "source_deck": "BUS230/2026-TSD/Assignments/A2/Presentation_Alex_2026-10-27/BUS230Assessment2Class2Group4_2026-10-27_ALEX.pptx",
+    "source_deck_sha256": "f812879511fd9a221cb62f26722e3ebd6abaf8eda7218584f4bc8c086921276f"
+  },
+  "lms": {
+    "checked_at": "2026-11-06T16:45:46.897086+04:00",
+    "status": "new",
+    "files": [],
+    "portal": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3074736",
+    "due_dubai": "2026-11-06T19:59:00+04:00",
+    "scope": "Read-only group A2 portal. Peer completion not rechecked."
+  },
+  "mail": {
+    "checked_at": "2026-11-06T16:51:53.926699+04:00",
+    "query": "after:2026/11/05 (BUS230 OR Shahinda OR \"peer assessment\")",
+    "matching_messages": 1,
+    "message_id": "1a1afa1903347cc9",
+    "result": "Shahinda congratulated the class and gave a final-class reminder. No new A2 submission instructions in this focused study Gmail check."
+  },
+  "submitted_by_assistant": false
+}

@@ -6,10 +6,10 @@
     "operation": "Read-only assignment statuses, peer metadata, due dates, calendar through 8 November, timed quiz deadlines and submitted BUS225 A2 SHA-256.",
     "checked_at": "2026-11-06T00:47:03.986715+04:00",
     "latest_bus230_a2_check": {
-      "checked_at": "2026-11-05T00:26:31.803006+04:00",
+      "checked_at": "2026-11-06T16:45:46.897086+04:00",
       "result": "ok",
-      "scope": "Own A2 group status new/no files; Class 2 peerwork metadata and deadline, not own peer completion.",
-      "evidence": "BUS230/2026-TSD/Correspondence/2026-11-05_A2-notes-and-peer-check.json"
+      "scope": "Read-only A2 group portal new, no files",
+      "evidence": "BUS230/2026-TSD/Correspondence/2026-11-06_faiaz-a2-notes-and-status.json"
     },
     "evidence": {
       "BUS230": "Archive/Correspondence/2026-11-06_submission-status-check.json",
@@ -18,7 +18,7 @@
       "BUS225": "Archive/Correspondence/2026-11-06_submission-status-check.json"
     },
     "last_success_by_course": {
-      "BUS230": "2026-11-06T00:47:03.986715+04:00",
+      "BUS230": "2026-11-06T16:45:46.897086+04:00",
       "BUS334": "2026-11-06T00:47:03.986715+04:00",
       "BUS219": "2026-11-06T00:47:03.986715+04:00",
       "BUS225": "2026-11-06T00:47:03.986715+04:00"
@@ -217,11 +217,11 @@
     },
     "last_check_by_course": {
       "BUS230": {
-        "checked_on": "2026-11-06",
+        "checked_at": "2026-11-06T16:51:53.926699+04:00",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "Учебный Gmail после 3 ноября. Четыре кода предметов и известные университетские отправители. Два совпадения, поиск исчерпан.",
-        "result": "Одно сообщение прочитано.",
-        "evidence": "Archive/Correspondence/2026-11-06_submission-status-check.json"
+        "scope": "after:2026/11/05 (BUS230 OR Shahinda OR \"peer assessment\")",
+        "result": "Shahinda congratulated the class and gave a final-class reminder. No new A2 submission instructions in this focused study Gmail check.",
+        "evidence": "BUS230/2026-TSD/Correspondence/2026-11-06_faiaz-a2-notes-and-status.json"
       },
       "BUS334": {
         "checked_on": "2026-11-06",
@@ -247,11 +247,11 @@
     },
     "course_checks": {
       "BUS230": {
-        "checked_at": "2026-11-05T00:42:27.467618+04:00",
+        "checked_at": "2026-11-06T16:51:53.926699+04:00",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "Focused BUS230/teacher/peer Gmail search after Nov 1; official Nov 4 peer reminder read. Full Outlook/WhatsApp not accessed.",
-        "evidence": "BUS230/2026-TSD/Correspondence/2026-11-05_A2-notes-and-peer-check.json",
-        "result": "2 matching messages; official Nov 4 peer reminder read; no outbound action."
+        "scope": "after:2026/11/05 (BUS230 OR Shahinda OR \"peer assessment\")",
+        "result": "Shahinda congratulated the class and gave a final-class reminder. No new A2 submission instructions in this focused study Gmail check.",
+        "evidence": "BUS230/2026-TSD/Correspondence/2026-11-06_faiaz-a2-notes-and-status.json"
       }
     }
   },
