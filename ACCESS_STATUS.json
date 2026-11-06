@@ -3,8 +3,8 @@
     "result": "ok",
     "timestamp_precision": "seconds",
     "token_expiry": "unknown",
-    "operation": "Read-only assignment status check for four courses and SHA-256 of submitted BUS225 individual peer form.",
-    "checked_at": "2026-11-06T17:33:05.226689+04:00",
+    "operation": "Read-only verification and download of actual BUS219 A2 leader submission.",
+    "checked_at": "2026-11-06T17:45:46.933966+04:00",
     "latest_bus230_a2_check": {
       "checked_at": "2026-11-06T16:45:46.897086+04:00",
       "result": "ok",
@@ -14,13 +14,13 @@
     "evidence": {
       "BUS230": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json",
       "BUS334": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json",
-      "BUS219": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json",
+      "BUS219": "BUS219/2026-TSD/Correspondence/2026-11-06_a2-submission-verified.json",
       "BUS225": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json"
     },
     "last_success_by_course": {
       "BUS230": "2026-11-06T17:33:05.226689+04:00",
       "BUS334": "2026-11-06T17:33:05.226689+04:00",
-      "BUS219": "2026-11-06T17:33:05.226689+04:00",
+      "BUS219": "2026-11-06T17:45:46.933966+04:00",
       "BUS225": "2026-11-06T17:33:05.226689+04:00"
     },
     "successful_account_check": {
@@ -233,9 +233,9 @@
       "BUS219": {
         "checked_on": "2026-11-06",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "Учебный Gmail после 5 ноября. Коды четырёх предметов, квитанции и известные отправители. Четыре совпадения, поиск исчерпан.",
-        "result": "Найденное сообщение зафиксировано в отчёте.",
-        "evidence": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json"
+        "scope": "Учебный Gmail по BUS219 и peer evaluation. Найдены объявление Navneet и её письмо с прямым адресом от 18 сентября.",
+        "result": "Объявление об индивидуальной форме и прямой адрес преподавательницы подтверждены.",
+        "evidence": "BUS219/2026-TSD/Correspondence/2026-11-06_a2-submission-verified.json"
       },
       "BUS225": {
         "checked_on": "2026-11-06",

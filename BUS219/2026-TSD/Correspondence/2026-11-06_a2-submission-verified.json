@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-11-06T17:45:46.933966+04:00",
+  "status": "submitted",
+  "modified": "2026-11-06T17:43:41+04:00",
+  "files": [
+    {
+      "name": "BUS219 FINAL GROUP REPORT.docx",
+      "size": 762733,
+      "sha256": "f0c3c91dcfdc014c2c53f4b7528b933d7c2818280d0b45261fb96edd2ca6ff5f",
+      "path": "Assignments/A2/Submitted_2026-11-06/BUS219 FINAL GROUP REPORT.docx"
+    }
+  ],
+  "course": "BUS219",
+  "assignment": "A2",
+  "assignment_url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3111392",
+  "uploader_source": "Faiaz identified himself as leader and reported uploading the report. Moodle confirmed his own submission and file.",
+  "mail_check": {
+    "checked_on": "2026-11-06",
+    "scope": "Учебный Gmail по BUS219 и peer evaluation. Найдены объявление Navneet и её письмо с прямым адресом от 18 сентября.",
+    "announcement_message_id": "1a1af411d352c283",
+    "address_source_message_id": "1a0b3c702fc8c08f",
+    "announcement_url": "https://moodleprod.murdoch.edu.au/mod/forum/discuss.php?d=998029",
+    "lecturer_email": "Navneet.Walia@murdoch.edu.au",
+    "peer_form_sent": false
+  }
+}
