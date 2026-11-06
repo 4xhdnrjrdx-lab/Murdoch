@@ -21,3 +21,9 @@
 
 - [Текущий план подготовки](A3/Preparation/PLAN_RU.md)
 - [Подтверждённый прогресс и точка следующего занятия](A3/Preparation/PROGRESS.json)
+
+## PEER: Individual Project Peer Evaluation Form
+
+Состояние: сдано.
+
+- [Отправленная индивидуальная форма Faiaz](A2/Peer_Evaluation_2026-11-06/BUS219_Project_Peer_Evaluation_Faiaz_Dzhafarov.docx)

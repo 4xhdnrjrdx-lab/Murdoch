@@ -1,0 +1,29 @@
+{
+  "course": "BUS219",
+  "task": "PEER",
+  "sent_at": "2026-11-06T17:50:15+04:00",
+  "readback_checked_at": "2026-11-06T17:51:21.162384+04:00",
+  "sender": "jafarovfayaz@gmail.com",
+  "recipient": "Navneet.Walia@murdoch.edu.au",
+  "subject": "BUS219 Project Peer Evaluation Form – Faiaz Dzhafarov",
+  "gmail_message_id": "1a1b11fd5942eba5",
+  "gmail_label": "SENT",
+  "sent_url": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#sent/1a1b11fd5942eba5",
+  "recipient_source_message_id": "1a0b3c702fc8c08f",
+  "instruction_url": "https://moodleprod.murdoch.edu.au/mod/forum/discuss.php?d=998029",
+  "attachment": {
+    "filename": "BUS219_Project_Peer_Evaluation_Faiaz_Dzhafarov.docx",
+    "bytes": 7609,
+    "sha256": "c63c3e28e1eee0dff2a58f2ceff4fd0d4d31527ed2011d1b228b2cc78e715dd4",
+    "path": "Assignments/A2/Peer_Evaluation_2026-11-06/BUS219_Project_Peer_Evaluation_Faiaz_Dzhafarov.docx",
+    "filename_and_bytes_confirmed_in_sent_gmail": true
+  },
+  "rating_basis": "Faiaz instructed that everyone should receive a high mark. The assistant selected 95/100 for each of four teammates and Faiaz.",
+  "template_choices": {
+    "personal_signature": "typed name",
+    "tutorial_day": "Tuesday",
+    "tutorial_time": "left blank because exact time was not confirmed",
+    "meeting_minutes": "blank optional support page retained"
+  },
+  "scope": "Only the individual form for Faiaz was sent. Recipient delivery or acknowledgement has not been checked."
+}

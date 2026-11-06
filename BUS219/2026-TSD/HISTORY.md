@@ -57,3 +57,5 @@
 - 6 ноября Navneet Walia попросила отправить индивидуальную Project Peer Evaluation Form ей по email. В объявлении точный дедлайн не указан. В 17:33 Dubai собственная запись отчёта A2 оставалась пустой, сдача другим лидером не проверялась. [Проверка](../../Archive/Correspondence/2026-11-06_evening-submission-recheck.json).
 
 - 6 ноября Faiaz загрузил групповой A2 в 17:43:41 Dubai. Moodle подтвердил submitted до дедлайна. Файл из портала сохранён по SHA-256. [Проверка](Correspondence/2026-11-06_a2-submission-verified.json).
+
+- 6 ноября в 17:50 Dubai личная форма BUS219 отправлена Navneet Walia по поручению Faiaz. Адрес и вложение подтверждены в Gmail Sent. [Подтверждение](Correspondence/2026-11-06_peer-evaluation-email-sent.json).

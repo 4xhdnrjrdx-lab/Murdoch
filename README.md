@@ -9,7 +9,6 @@ Faiaz Dzhafarov · student ID 35553299 · время Asia/Dubai (UTC+4).
 ### [BUS219](BUS219/2026-TSD/README.md) · учимся
 
 - A1: Готовиться к Quiz 2 и пройти его до 24 ноября, 19:55 Dubai. Quiz 1 finished; API попытки даёт 15/15 сырых баллов.
-- PEER: Заполнить собственную оценку 0–100 для всех участников и себя, затем отправить форму Navneet Walia по email.
 
 ### [BUS225](BUS225/2026-TSD/README.md) · учимся
 

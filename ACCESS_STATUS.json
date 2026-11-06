@@ -233,9 +233,9 @@
       "BUS219": {
         "checked_on": "2026-11-06",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "Учебный Gmail по BUS219 и peer evaluation. Найдены объявление Navneet и её письмо с прямым адресом от 18 сентября.",
-        "result": "Объявление об индивидуальной форме и прямой адрес преподавательницы подтверждены.",
-        "evidence": "BUS219/2026-TSD/Correspondence/2026-11-06_a2-submission-verified.json"
+        "scope": "Поиск объявления, подтверждение адреса и проверка отправленного письма с индивидуальной формой BUS219.",
+        "result": "Адрес преподавательницы и вложение подтверждены в Gmail Sent.",
+        "evidence": "BUS219/2026-TSD/Correspondence/2026-11-06_peer-evaluation-email-sent.json"
       },
       "BUS225": {
         "checked_on": "2026-11-06",
