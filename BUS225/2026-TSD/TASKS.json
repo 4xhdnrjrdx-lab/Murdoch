@@ -159,7 +159,7 @@
       "id": "A2",
       "title": "Reflective Journal + Service Blueprint, 40%",
       "status": "сдано",
-      "next_action": "Ждать оценку группового A2. Отдельно сдать личный peer review до 6 ноября 17:00 Dubai.",
+      "next_action": "Ждать оценку группового A2. Отдельный личный peer review сдан.",
       "detail": "4 ноября по прямому запросу Faiaz переработан blueprint в присланной версии Muhammad: одна страница, пять этапов, явные стрелки между уровнями, отдельные IT-системы и базы данных с полями и связями между этапами. F1–F5 согласованы с исходным отчётом. Текст Muhammad и references сохранены; прежняя версия с личным наблюдением Faiaz хранится отдельно без замены. Новый полный комплект: 5 страниц, 1818 слов со схемой без references (1823 по альтернативному подсчёту). Не сдано; проверка группой ещё нужна. По отдельному поручению 4 ноября исправлены только дата Pepper, соответствующая in-text citation и название отчёта MAF; актуальный полный комплект ReferencesFixed, остальные текст и blueprint сохранены. 5 ноября 15:54:44 Dubai Moodle зафиксировал групповую сдачу ReferencesFixed DOCX. 6 ноября скачанный файл совпал по SHA-256 с актуальной версией в GitHub. Индивидуальный draft в API относится к другой записи. Оценка A2 пока не опубликована.",
       "deadlines": [
         {
@@ -356,9 +356,9 @@
     {
       "id": "PEER",
       "title": "Individual peer review",
-      "status": "готово к сдаче",
-      "next_action": "Сверить предложенные оценки и лично загрузить заполненный DOCX в отдельный портал Moodle до 6 ноября 17:00 Dubai.",
-      "detail": "Заполнена официальная индивидуальная форма для проекта Group 9, Class 2. Включены самооценка и оценки двух участников.",
+      "status": "сдано",
+      "next_action": "Дождаться оценки или обратной связи по A2 и peer review.",
+      "detail": "Заполнена официальная индивидуальная форма для проекта Group 9, Class 2. Включены самооценка и оценки двух участников. Moodle подтвердил личную сдачу 6 ноября в 16:17:08 Dubai. Скачанный DOCX совпал с файлом базы по SHA-256.",
       "deadlines": [
         {
           "value": "2026-11-06 17:00 Asia/Dubai",
@@ -421,17 +421,39 @@
           "note": "Проверен отдельный портал Moodle и подготовлена одностраничная форма Word. Пользователь выбрал средние оценки для Beky.",
           "path": "Correspondence/2026-11-06_peer-review-prepared.json",
           "source": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3076827"
+        },
+        {
+          "date": "2026-11-06",
+          "note": "Moodle submitted в 16:17:08 Dubai, до 17:00. Получены уведомление Moodle и квитанция Turnitin. DOCX совпал с актуальной формой по SHA-256.",
+          "path": "../../Archive/Correspondence/2026-11-06_evening-submission-recheck.json",
+          "source": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3076827"
         }
       ],
-      "unknown": "При проверке 6 ноября Moodle status new. Загрузка заполненной формы ожидается.",
-      "show_on_overview": true,
+      "unknown": "Оценка или feedback ещё не опубликованы.",
+      "show_on_overview": false,
       "correction": "",
       "working_files": [
         {
           "path": "Assignments/A2/Peer_Review_2026-11-06/BUS225_Peer_Evaluation_Faiaz_Dzhafarov.docx",
-          "role": "Заполненная индивидуальная форма для загрузки"
+          "role": "Подтверждённая сданная индивидуальная форма",
+          "note": "Точные байты сверены с Moodle 6 ноября."
         }
-      ]
+      ],
+      "submission": {
+        "status": "submitted",
+        "scope": "individual",
+        "submitted_at": "2026-11-06T16:17:08+04:00",
+        "checked_at": "2026-11-06T17:33:05.226689+04:00",
+        "evidence_path": "../../Archive/Correspondence/2026-11-06_evening-submission-recheck.json",
+        "files": [
+          {
+            "name": "BUS225_Peer_Evaluation_Faiaz_Dzhafarov.docx",
+            "size": 39839,
+            "sha256": "260cd16420c17e0f566030733a30f82b8ac67e10b0bcba498ae37af7377fb442"
+          }
+        ],
+        "submitted_file_matches_working_copy": true
+      }
     },
     {
       "id": "A3",

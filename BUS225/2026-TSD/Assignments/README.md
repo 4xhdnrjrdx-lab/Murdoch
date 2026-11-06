@@ -15,9 +15,9 @@
 
 ## PEER: Individual peer review
 
-Состояние: готово к сдаче.
+Состояние: сдано.
 
-- [Заполненная индивидуальная форма для загрузки](A2/Peer_Review_2026-11-06/BUS225_Peer_Evaluation_Faiaz_Dzhafarov.docx)
+- [Подтверждённая сданная индивидуальная форма](A2/Peer_Review_2026-11-06/BUS225_Peer_Evaluation_Faiaz_Dzhafarov.docx) — Точные байты сверены с Moodle 6 ноября.
 
 ## A3: Final Exam, 30%
 

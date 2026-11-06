@@ -1,0 +1,279 @@
+{
+  "checked_at": "2026-11-06T17:33:05.226689+04:00",
+  "courses": {
+    "BUS219": [
+      {
+        "id": 126475,
+        "cmid": 3111392,
+        "name": "Business project report due:  at 23.55pm, 6th of Nov",
+        "due": "2026-11-06T19:55:00+04:00",
+        "cutoff": null,
+        "team": false,
+        "canedit": true,
+        "cansubmit": false,
+        "gradingstatus": "notgraded",
+        "submission": {
+          "status": "new",
+          "modified": "2026-10-17T03:01:28+04:00",
+          "files": []
+        }
+      }
+    ],
+    "BUS225": [
+      {
+        "id": 125038,
+        "cmid": 3076824,
+        "name": "Service organisation profile submission (Non assessable item submitted end of Session 4) -One per group",
+        "due": "2026-09-18T09:00:00+04:00",
+        "cutoff": "2026-09-25T09:00:00+04:00",
+        "team": true,
+        "canedit": false,
+        "cansubmit": false,
+        "gradingstatus": "notgraded",
+        "teamsubmission": {
+          "status": "new",
+          "modified": "2026-10-25T14:39:21+04:00",
+          "files": []
+        }
+      },
+      {
+        "id": 125039,
+        "cmid": 3076825,
+        "name": "Video Presentation Submission",
+        "due": "2026-10-02T17:00:00+04:00",
+        "cutoff": "2026-10-09T17:00:00+04:00",
+        "team": false,
+        "canedit": false,
+        "cansubmit": false,
+        "gradingstatus": "graded",
+        "submission": {
+          "status": "submitted",
+          "modified": "2026-09-26T21:08:52+04:00",
+          "files": []
+        }
+      },
+      {
+        "id": 125041,
+        "cmid": 3076827,
+        "name": "Peer review submission - Individual",
+        "due": "2026-11-06T17:00:00+04:00",
+        "cutoff": "2026-11-15T17:00:00+04:00",
+        "team": false,
+        "canedit": true,
+        "cansubmit": false,
+        "gradingstatus": "notgraded",
+        "submission": {
+          "status": "submitted",
+          "modified": "2026-11-06T16:17:08+04:00",
+          "files": [
+            {
+              "filename": "BUS225_Peer_Evaluation_Faiaz_Dzhafarov.docx",
+              "bytes": 39839
+            }
+          ]
+        }
+      },
+      {
+        "id": 125040,
+        "cmid": 3076826,
+        "name": "Reflective Journal and Service Blueprint - Group submission (one per group)",
+        "due": "2026-11-06T17:00:00+04:00",
+        "cutoff": "2026-11-13T17:00:00+04:00",
+        "team": true,
+        "canedit": false,
+        "cansubmit": false,
+        "gradingstatus": "notgraded",
+        "submission": {
+          "status": "draft",
+          "modified": "2026-11-05T15:54:08+04:00",
+          "files": []
+        },
+        "teamsubmission": {
+          "status": "submitted",
+          "modified": "2026-11-05T15:54:44+04:00",
+          "files": [
+            {
+              "filename": "BUS225_A2_Group9_Carrefour_ReferencesFixed.docx",
+              "bytes": 500372
+            }
+          ]
+        }
+      }
+    ],
+    "BUS230": [
+      {
+        "id": 124983,
+        "cmid": 3074736,
+        "name": "Assessment 2: Presentation Material (Group) Submission Portal",
+        "due": "2026-11-06T19:59:00+04:00",
+        "cutoff": null,
+        "team": true,
+        "canedit": true,
+        "cansubmit": false,
+        "gradingstatus": "notgraded",
+        "teamsubmission": {
+          "status": "new",
+          "modified": "2026-10-07T12:22:44+04:00",
+          "files": []
+        }
+      },
+      {
+        "id": 124982,
+        "cmid": 3074730,
+        "name": "Assessment 1: Essay (Individual) Submission Portal",
+        "due": "2026-09-18T19:59:00+04:00",
+        "cutoff": null,
+        "team": false,
+        "canedit": true,
+        "cansubmit": false,
+        "gradingstatus": "graded",
+        "submission": {
+          "status": "submitted",
+          "modified": "2026-09-17T18:08:19+04:00",
+          "files": [
+            {
+              "filename": "BUS230Assign1FaiazDzhafarov35553299.docx",
+              "bytes": 40716
+            }
+          ]
+        }
+      }
+    ],
+    "BUS334": [
+      {
+        "id": 124857,
+        "cmid": 3070561,
+        "name": "Assignment 4 Supporting materials submission: Data Analysis &amp; Presentation (40%)",
+        "due": null,
+        "cutoff": null,
+        "team": false,
+        "canedit": true,
+        "cansubmit": false,
+        "gradingstatus": "notgraded",
+        "submission": {
+          "status": "new",
+          "modified": "2026-11-06T00:46:58+04:00",
+          "files": []
+        }
+      },
+      {
+        "id": 124858,
+        "cmid": 3070562,
+        "name": "Peer Evaluation Form Submission (Individual)",
+        "due": "2026-11-28T19:55:00+04:00",
+        "cutoff": "2026-11-29T19:55:00+04:00",
+        "team": false,
+        "canedit": false,
+        "cansubmit": false,
+        "gradingstatus": "notgraded",
+        "submission": {
+          "status": "new",
+          "modified": "2026-10-07T12:22:54+04:00",
+          "files": []
+        }
+      },
+      {
+        "id": 124854,
+        "cmid": 3070558,
+        "name": "Assignment 1: Engagement (10%)",
+        "due": "2026-11-19T13:00:00+04:00",
+        "cutoff": "2026-12-21T13:00:00+04:00",
+        "team": false,
+        "canedit": true,
+        "cansubmit": false,
+        "gradingstatus": "notgraded",
+        "submission": {
+          "status": "new",
+          "modified": "2026-10-07T12:22:55+04:00",
+          "files": []
+        }
+      },
+      {
+        "id": 124855,
+        "cmid": 3070559,
+        "name": "Assignment 2 Submission: Questionnaire (20%)",
+        "due": "2026-09-20T19:59:00+04:00",
+        "cutoff": "2026-09-23T19:59:00+04:00",
+        "team": false,
+        "canedit": false,
+        "cansubmit": false,
+        "gradingstatus": "graded",
+        "submission": {
+          "status": "submitted",
+          "modified": "2026-09-19T00:26:26+04:00",
+          "files": [
+            {
+              "filename": "35553299_Dzhafarov_BUS334_Assignment2_Questionnaire.docx",
+              "bytes": 40749
+            }
+          ]
+        }
+      },
+      {
+        "id": 124856,
+        "cmid": 3070560,
+        "name": "Assignment 3 Submission: Data Collection &amp; Preliminary Analysis (30%)",
+        "due": "2026-10-25T19:59:00+04:00",
+        "cutoff": "2026-10-28T19:59:00+04:00",
+        "team": false,
+        "canedit": false,
+        "cansubmit": false,
+        "gradingstatus": "graded",
+        "submission": {
+          "status": "submitted",
+          "modified": "2026-10-22T17:57:10+04:00",
+          "files": [
+            {
+              "filename": "35553299_Dzhafarov_BUS334_A3_Appendices_Revised.pdf",
+              "bytes": 475063
+            },
+            {
+              "filename": "35553299_Dzhafarov_BUS334_A3_Original_Responses.pdf",
+              "bytes": 130841
+            },
+            {
+              "filename": "35553299_Dzhafarov_BUS334_A3_Report_Revised.pdf",
+              "bytes": 519085
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "verified_bus225_peer_file": {
+    "filename": "BUS225_Peer_Evaluation_Faiaz_Dzhafarov.docx",
+    "bytes": 39839,
+    "sha256": "260cd16420c17e0f566030733a30f82b8ac67e10b0bcba498ae37af7377fb442",
+    "repository_path": "BUS225/2026-TSD/Assignments/A2/Peer_Review_2026-11-06/BUS225_Peer_Evaluation_Faiaz_Dzhafarov.docx",
+    "matches_sha256": true
+  },
+  "mail": {
+    "checked_on": "2026-11-06",
+    "scope": "Учебный Gmail после 5 ноября. Коды четырёх предметов, квитанции и известные отправители. Четыре совпадения, поиск исчерпан.",
+    "results": [
+      {
+        "message_id": "1a1af411d352c283",
+        "course": "BUS219",
+        "summary": "Navneet Walia просит каждого заполнить индивидуальную Project Peer Evaluation Form и отправить ей по email. Точный дедлайн в объявлении отсутствует.",
+        "announcement": "https://moodleprod.murdoch.edu.au/mod/forum/discuss.php?d=998029",
+        "form_folder": "https://moodleprod.murdoch.edu.au/mod/folder/view.php?id=3111393"
+      },
+      {
+        "message_id": "1a1afa1903347cc9",
+        "course": "BUS230",
+        "summary": "Shahinda Baig сообщила, что финальное занятие с повторением к экзамену будет в Room 108. Письмо не изменяет сроков сдач."
+      },
+      {
+        "message_id": "1a1b0cab5a02f73d",
+        "course": "BUS225",
+        "summary": "Moodle прислал подтверждение отправки индивидуального Peer review."
+      },
+      {
+        "message_id": "1a1b0cbf2b38e541",
+        "course": "BUS225",
+        "summary": "Turnitin принял BUS225_Peer_Evaluation_Faiaz_Dzhafarov.docx."
+      }
+    ],
+    "limitations": "Собственная запись BUS219 не охватывает сдачу другого лидера. Полный Outlook и WhatsApp не проверялись. Собственный BUS230 peerwork проверялся через UI 5 ноября, при вечерней сверке не перечитывался."
+  }
+}

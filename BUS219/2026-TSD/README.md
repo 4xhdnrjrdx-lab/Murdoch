@@ -15,5 +15,6 @@
 - [POSTER: Постер предложения noon → Jordan, 0%](TASKS.md#poster)
 - [A2: Групповой бизнес-план, отчёт 4000 слов, 30%](TASKS.md#a2)
 - [A3: Итоговый экзамен, 50%](TASKS.md#a3)
+- [PEER: Individual Project Peer Evaluation Form](TASKS.md#peer)
 
 [Общая база](../../README.md)

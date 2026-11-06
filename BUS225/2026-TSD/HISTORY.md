@@ -71,3 +71,5 @@ Faiaz в чате описал своё использование Self Checkout
 - 6 ноября заполнена и визуально проверена индивидуальная форма Peer Evaluation для проекта Group 9, Class 2. В Moodle при проверке личный портал ещё имел статус new. [Проверка и файл](Correspondence/2026-11-06_peer-review-prepared.json).
 
 - 6 ноября по уточнению Faiaz обновлены оценки и комментарии в форме peer review. Проверена одна страница Word. [Актуальный файл и проверка](Correspondence/2026-11-06_peer-review-prepared.json).
+
+- 6 ноября в 17:33 Dubai проверена личная сдача peer review от 16:17:08, до срока 17:00. Файл из Moodle побайтово совпал с актуальной формой. Групповой A2 остаётся сданным. [Проверка](../../Archive/Correspondence/2026-11-06_evening-submission-recheck.json).

@@ -3,8 +3,8 @@
     "result": "ok",
     "timestamp_precision": "seconds",
     "token_expiry": "unknown",
-    "operation": "Read-only assignment statuses, peer metadata, due dates, calendar through 8 November, timed quiz deadlines and submitted BUS225 A2 SHA-256.",
-    "checked_at": "2026-11-06T00:47:03.986715+04:00",
+    "operation": "Read-only assignment status check for four courses and SHA-256 of submitted BUS225 individual peer form.",
+    "checked_at": "2026-11-06T17:33:05.226689+04:00",
     "latest_bus230_a2_check": {
       "checked_at": "2026-11-06T16:45:46.897086+04:00",
       "result": "ok",
@@ -12,16 +12,16 @@
       "evidence": "BUS230/2026-TSD/Correspondence/2026-11-06_faiaz-a2-notes-and-status.json"
     },
     "evidence": {
-      "BUS230": "Archive/Correspondence/2026-11-06_submission-status-check.json",
-      "BUS334": "Archive/Correspondence/2026-11-06_submission-status-check.json",
-      "BUS219": "Archive/Correspondence/2026-11-06_submission-status-check.json",
-      "BUS225": "Archive/Correspondence/2026-11-06_submission-status-check.json"
+      "BUS230": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json",
+      "BUS334": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json",
+      "BUS219": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json",
+      "BUS225": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json"
     },
     "last_success_by_course": {
-      "BUS230": "2026-11-06T16:45:46.897086+04:00",
-      "BUS334": "2026-11-06T00:47:03.986715+04:00",
-      "BUS219": "2026-11-06T00:47:03.986715+04:00",
-      "BUS225": "2026-11-06T00:47:03.986715+04:00"
+      "BUS230": "2026-11-06T17:33:05.226689+04:00",
+      "BUS334": "2026-11-06T17:33:05.226689+04:00",
+      "BUS219": "2026-11-06T17:33:05.226689+04:00",
+      "BUS225": "2026-11-06T17:33:05.226689+04:00"
     },
     "successful_account_check": {
       "userid": 257560
@@ -132,7 +132,7 @@
     }
   },
   "mail": {
-    "result": "Учебный Gmail: два совпадения, прочитаны сообщения BUS225 о финальном экзамене и BUS230 о peer assessment.",
+    "result": "Учебный Gmail: новое объявление BUS219 об индивидуальной peer form, уведомление BUS230 о занятии и два подтверждения BUS225.",
     "connection_delivery_check": {
       "checked_at": "2026-10-08T17:18:38.595375+04:00",
       "account": "jafarovfayaz@gmail.com",
@@ -183,7 +183,7 @@
         "evidence": "Archive/Correspondence/2026-10-29_finance-january-enrolment.json"
       }
     },
-    "checked_at": "2026-11-06T00:49:22.431801+04:00",
+    "checked_at": "2026-11-06T17:35:31.634032+04:00",
     "study_plan_check": {
       "checked_at": "2026-10-19T13:34:35.147373+04:00",
       "account": "jafarovfayaz@gmail.com",
@@ -208,8 +208,8 @@
         "approved_updated_plan_received": false
       }
     },
-    "evidence": "Archive/Correspondence/2026-11-06_submission-status-check.json",
-    "scope": "Учебный Gmail после 3 ноября. Четыре кода предметов и известные университетские отправители. Два совпадения, поиск исчерпан.",
+    "evidence": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json",
+    "scope": "Учебный Gmail после 5 ноября. Коды четырёх предметов, квитанции и известные отправители. Четыре совпадения, поиск исчерпан.",
     "outlook_attempt": {
       "attempted_at": "2026-10-07T13:31:59.360199+04:00",
       "result": "No accessible Outlook tab in connected browser inventory; no Outlook connector available in this chat",
@@ -217,32 +217,32 @@
     },
     "last_check_by_course": {
       "BUS230": {
-        "checked_at": "2026-11-06T16:51:53.926699+04:00",
+        "checked_on": "2026-11-06",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "after:2026/11/05 (BUS230 OR Shahinda OR \"peer assessment\")",
-        "result": "Shahinda congratulated the class and gave a final-class reminder. No new A2 submission instructions in this focused study Gmail check.",
-        "evidence": "BUS230/2026-TSD/Correspondence/2026-11-06_faiaz-a2-notes-and-status.json"
+        "scope": "Учебный Gmail после 5 ноября. Коды четырёх предметов, квитанции и известные отправители. Четыре совпадения, поиск исчерпан.",
+        "result": "Найденное сообщение зафиксировано в отчёте.",
+        "evidence": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json"
       },
       "BUS334": {
         "checked_on": "2026-11-06",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "Учебный Gmail после 3 ноября. Четыре кода предметов и известные университетские отправители. Два совпадения, поиск исчерпан.",
+        "scope": "Учебный Gmail после 5 ноября. Коды четырёх предметов, квитанции и известные отправители. Четыре совпадения, поиск исчерпан.",
         "result": "Новых совпадений в поиске нет.",
-        "evidence": "Archive/Correspondence/2026-11-06_submission-status-check.json"
+        "evidence": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json"
       },
       "BUS219": {
         "checked_on": "2026-11-06",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "Учебный Gmail после 3 ноября. Четыре кода предметов и известные университетские отправители. Два совпадения, поиск исчерпан.",
-        "result": "Новых совпадений в поиске нет.",
-        "evidence": "Archive/Correspondence/2026-11-06_submission-status-check.json"
+        "scope": "Учебный Gmail после 5 ноября. Коды четырёх предметов, квитанции и известные отправители. Четыре совпадения, поиск исчерпан.",
+        "result": "Найденное сообщение зафиксировано в отчёте.",
+        "evidence": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json"
       },
       "BUS225": {
         "checked_on": "2026-11-06",
         "account": "jafarovfayaz@gmail.com",
-        "scope": "Учебный Gmail после 3 ноября. Четыре кода предметов и известные университетские отправители. Два совпадения, поиск исчерпан.",
-        "result": "Одно сообщение прочитано.",
-        "evidence": "Archive/Correspondence/2026-11-06_submission-status-check.json"
+        "scope": "Учебный Gmail после 5 ноября. Коды четырёх предметов, квитанции и известные отправители. Четыре совпадения, поиск исчерпан.",
+        "result": "Найденное сообщение зафиксировано в отчёте.",
+        "evidence": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json"
       }
     },
     "course_checks": {
