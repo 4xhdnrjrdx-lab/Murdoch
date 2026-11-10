@@ -1,0 +1,58 @@
+{
+  "checked_on": "2026-11-10",
+  "timezone": "Asia/Dubai",
+  "request": "Найти полный Gaspar 2017 и сохранить в учебную базу для подготовки.",
+  "status": "full_text_not_obtained",
+  "full_text_saved": false,
+  "book": {
+    "title": "Introduction to Global Business: Understanding the International Environment & Global Business Functions",
+    "edition": 2,
+    "copyright_year": 2017,
+    "publisher": "Cengage Learning",
+    "print_isbn": "9781305501188",
+    "authors": [
+      "Julian E. Gaspar",
+      "James W. Kolari",
+      "Richard T. Hise",
+      "Leonard Bierman",
+      "L. Murphy Smith",
+      "Antonio Arreola-Risa"
+    ],
+    "library_extent": "xx, 407 pages"
+  },
+  "sources": [
+    {
+      "url": "https://murdoch.rl.talis.com/lists/62355D97-8A70-B740-F623-1E94940C70BE",
+      "type": "official_reading_list",
+      "observed": "2026 BUS219 list identifies 2017 second edition as Essential textbook. Availability panel shows 3 of 3 print copies available at Geoffrey Bolton Library; School Locker and Perlego unavailable. No electronic full text link shown."
+    },
+    {
+      "url": "https://librarysearch.murdoch.edu.au/nde/fulldisplay?vid=61MUN_INST%3A61MUNDE&docid=alma991004900739707891&context=L",
+      "type": "official_library_catalogue",
+      "observed": "Second edition, 2017, ISBN 9781305501188. Three print copies, Geoffrey Bolton Library North Wing Level 3 High Demand, call number 382.091 GAS 2017. No Available Online section shown in public record; authenticated availability not checked."
+    },
+    {
+      "url": "https://www.cengage.com/c/introduction-to-global-business-understanding-the-international-environment-global-business-functions-2e-gaspar-kolari-hise-bierman-smith-arreola-risa/9781305501188/",
+      "type": "official_publisher",
+      "observed": "Correct second edition, copyright 2017. Paid eText access offered. No purchase made and no downloadable full PDF obtained."
+    },
+    {
+      "url": "https://www.vitalsource.com/en-uk/products/introduction-to-global-business-gaspar-kolari-hise-bierman-smi-v9781473745124",
+      "type": "ebook_retailer",
+      "observed": "Matching second edition available as paid eText. Purchase and permanent PDF export not established."
+    },
+    {
+      "url": "https://openlibrary.org/books/OL28141195M/Introduction_to_Global_Business",
+      "type": "catalogue",
+      "observed": "Preview Only, not an obtained full textbook."
+    }
+  ],
+  "limitations": [
+    "Catalogue research used public library pages without signing in; student-specific electronic entitlement remains unknown.",
+    "Newer 2022/2023 third-edition electronic records were not substituted for the required 2017 edition.",
+    "LMS course contents were checked in this session; no full-text textbook download was found.",
+    "No full textbook was downloaded, bought or added to GitHub.",
+    "A collection of slides and workshop instructions is not a complete substitute for the textbook and end-of-chapter cases."
+  ],
+  "next_action": "Получить доступ к полному второму изданию через университетскую библиотеку или имеющуюся у пользователя электронную копию. Сохранять доступный файл без обхода защиты; возможность постоянного экспорта из eText пока не подтверждена."
+}

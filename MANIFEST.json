@@ -5687,8 +5687,8 @@
     },
     {
       "path": "BUS219/2026-TSD/HISTORY.md",
-      "bytes": 15155,
-      "sha256": "0dcc6a4181ff95d7429d63568cd8e953513b8b65df5b6ebf723e3cf3f9261c6c",
+      "bytes": 15760,
+      "sha256": "aa6793c1ec8c82d875c0d31193501c5d6bb4510cd62a0624c164db7ef6263a35",
       "storage": "git"
     },
     {
@@ -6079,6 +6079,12 @@
       "path": "BUS219/2026-TSD/Materials/README.md",
       "bytes": 9632,
       "sha256": "5d2ff3bd5fdf76712b3df56351e36c31ec6df10d7aea44658c0fc17ca837f94f",
+      "storage": "git"
+    },
+    {
+      "path": "BUS219/2026-TSD/Materials/Textbook/Gaspar_2017_access_check_2026-11-10.json",
+      "bytes": 3484,
+      "sha256": "245ffdb743ad5940c0e87d0f37bf12a6d10883109c558191dff573b2e1510814",
       "storage": "git"
     },
     {
@@ -11266,6 +11272,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 1877,
-  "total_bytes": 936498978
+  "file_count": 1878,
+  "total_bytes": 936503067
 }
