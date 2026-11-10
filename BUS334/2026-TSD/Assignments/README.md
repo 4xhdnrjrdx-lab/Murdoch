@@ -13,3 +13,9 @@
 - [Третий сданный PDF с исходными ответами](A3/CSV_Replacement_2026-10-21/35553299_Dzhafarov_BUS334_A3_Original_Responses.pdf)
 - [Редактируемый исходник текущего отчёта](A3/Revision_2026-10-22/35553299_Dzhafarov_BUS334_A3_Report_Revised.docx)
 - [Редактируемый исходник приложения](A3/Revision_2026-10-22/35553299_Dzhafarov_BUS334_A3_Appendices_Revised.docx)
+
+## A4: Data Analysis & Presentation, 40%
+
+Состояние: в работе.
+
+- [Командная презентация A4, PDF от Faiaz](A4/Group_Presentation_2026-11-10/BUS334.pdf) — 17 слайдов. Согласование версии для показа и загрузка в Moodle пока не подтверждены.
