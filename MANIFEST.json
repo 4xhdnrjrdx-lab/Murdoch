@@ -17,8 +17,8 @@
     },
     {
       "path": ".gitignore",
-      "bytes": 764,
-      "sha256": "ff4504b1a2c6eab9961e517c2f574b502fd7bb81ea512ef82a69f4438cdb64f8",
+      "bytes": 776,
+      "sha256": "9767f235a308eb83eb16369676d1b7acb50a86976d7aecc7f710d8d8b887ffef",
       "storage": "git"
     },
     {
@@ -29,8 +29,8 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 13473,
-      "sha256": "37b74db0cda40964498bc193a9f5eea363e6fde4120bddf34dc554817aea7182",
+      "bytes": 16958,
+      "sha256": "e5464f43ecb0b5a9e2a1d8ac46f045c1ed9dccdc9882c81257b14ebdabf21a3d",
       "storage": "git"
     },
     {
@@ -10972,6 +10972,12 @@
       "storage": "git"
     },
     {
+      "path": "CLAUDE.md",
+      "bytes": 11,
+      "sha256": "336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49",
+      "storage": "git"
+    },
+    {
       "path": "COURSES.yaml",
       "bytes": 4214,
       "sha256": "1677beea8c7b292249dd9a7b8e3f24280b2e10b730c91e42e0d4fb1150f1eb92",
@@ -11243,8 +11249,8 @@
     },
     {
       "path": "scripts/base.py",
-      "bytes": 1413,
-      "sha256": "4522d068c7b16a16af88a0973796b55453f8fbe4a8e2a00d67401ff3cfaeb9cb",
+      "bytes": 1425,
+      "sha256": "7605e56b242086e1d6d8094f0f6803f2c8dd0b48a03275d442cce3e579465e87",
       "storage": "git"
     },
     {
@@ -11278,6 +11284,6 @@
       "storage": "git"
     }
   ],
-  "file_count": 1879,
-  "total_bytes": 936631160
+  "file_count": 1880,
+  "total_bytes": 936634680
 }

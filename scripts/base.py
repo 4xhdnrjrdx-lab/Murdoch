@@ -18,6 +18,6 @@ def retained():
   paths.extend(p for p in (ROOT/c['path']).rglob('*') if p.is_file())
  for folder in ['Archive','Migration','Access','scripts','Verification','.githooks']:
   paths.extend(p for p in (ROOT/folder).rglob('*') if p.is_file())
- paths.extend(ROOT/p for p in ['README.md','AGENTS.md','COURSES.yaml','RESTORE.md','ACCESS_STATUS.json','.gitignore','.gitattributes'] if (ROOT/p).is_file())
+ paths.extend(ROOT/p for p in ['README.md','AGENTS.md','CLAUDE.md','COURSES.yaml','RESTORE.md','ACCESS_STATUS.json','.gitignore','.gitattributes'] if (ROOT/p).is_file())
  return sorted(set(p for p in paths if '__pycache__' not in p.parts and p.name!='.DS_Store' and p.suffix!='.pyc' and '.secrets' not in p.parts and p != ROOT/'Access/Moodle/config.json'),key=lambda p:p.relative_to(ROOT).as_posix())
 def git(*args):return subprocess.check_output(['git','-C',str(ROOT),*args],text=True).strip()
