@@ -14,6 +14,6 @@ Ashok Mitra утвердил Class 1, Thursday, Group 1; состав и пре�
 
 5 ноября по просьбе подтвердить именно сданные версии A3 три файла заново скачаны из Moodle только для чтения: Report_Revised (519085 байт), Appendices_Revised (475063 байт), Original_Responses (130841 байт). SHA-256 каждого полностью совпал с файлом, выданным пользователю, и актуальным working_files. Подтверждён submitted от 22 октября 17:57:10 Dubai. API gradingstatus теперь graded, но feedback пуст и grade report не раскрывает оценку A3; числовые баллы не заявляются, статус пользовательской готовности сохраняется до публикации оценки. Письма/сдача не менялись. [Проверка содержимого](Assignments/A3/_submission_checks/2026-11-05/CONTENT_CHECK.json).
 
-10 ноября в журнале Moodle опубликовано 19/30 за A3. Ближайшее действие — личная загрузка материалов A4 за 24 часа до выступления 12 ноября. [Проверка](../../Archive/Correspondence/2026-11-10_study-status.json).
+10 ноября в журнале Moodle опубликовано 19/30 за A3. [Проверка](../../Archive/Correspondence/2026-11-10_study-status.json).
 
-10 ноября Faiaz предоставил [PDF групповой презентации A4](Assignments/A4/Group_Presentation_2026-11-10/BUS334.pdf). Слайды можно приложить как supporting material в личную сдачу после сверки командной версии.
+10 ноября Faiaz предоставил [PDF групповой презентации A4](Assignments/A4/Group_Presentation_2026-11-10/BUS334.pdf). Moodle подтвердил сдачу этого PDF 10 ноября в 18:12:02 Dubai. Следующее действие — групповое выступление 12 ноября. [Подтверждение](Correspondence/2026-11-10_A4-submission-verified.json).

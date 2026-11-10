@@ -1,0 +1,24 @@
+{
+  "checked_at": "2026-11-10T18:14:46.288337+04:00",
+  "assignment_id": 124857,
+  "cmid": 3070561,
+  "due": null,
+  "status": "submitted",
+  "submitted_at": "2026-11-10T18:12:02+04:00",
+  "grading_status": "notgraded",
+  "files": [
+    {
+      "filename": "Assignment_4_Presentation.pdf",
+      "bytes": 123983,
+      "sha256": "858bc6195be0f5dca8dceec61556327d1cf3bd1371793ab759b8280971c8933d",
+      "path": "Assignments/A4/Group_Presentation_2026-11-10/BUS334.pdf"
+    }
+  ],
+  "file_matches_saved_presentation": true,
+  "moodle_url": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3070561",
+  "gmail_confirmation": {
+    "received_at": "2026-11-10T18:12:03+04:00",
+    "url": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/1a1c5cd556f2bcd3",
+    "checked_at": "2026-11-10T18:15:26+04:00"
+  }
+}
