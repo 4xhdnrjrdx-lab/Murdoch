@@ -3,25 +3,25 @@
     "result": "ok",
     "timestamp_precision": "seconds",
     "token_expiry": "unknown",
-    "operation": "Read-only BUS230 A2 group portal recheck; peerwork submission confirmed separately by user screenshot.",
-    "checked_at": "2026-11-06T18:21:04.077193+04:00",
+    "operation": "Read-only assignment submissions, own visible grades, timed quizzes and course announcements for all four units.",
+    "checked_at": "2026-11-10T14:57:23.812091+04:00",
     "latest_bus230_a2_check": {
-      "checked_at": "2026-11-06T18:21:04.077193+04:00",
+      "checked_at": "2026-11-10T14:57:23.812091+04:00",
       "result": "ok",
-      "scope": "Read-only A2 group portal new, no files",
-      "evidence": "BUS230/2026-TSD/Correspondence/2026-11-06_peer-and-group-a2-recheck.json"
+      "scope": "Group A2 submitted, exact PDF downloaded and verified",
+      "evidence": "Archive/Correspondence/2026-11-10_study-status.json"
     },
     "evidence": {
-      "BUS230": "BUS230/2026-TSD/Correspondence/2026-11-06_peer-and-group-a2-recheck.json",
-      "BUS334": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json",
-      "BUS219": "BUS219/2026-TSD/Correspondence/2026-11-06_a2-submission-verified.json",
-      "BUS225": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json"
+      "BUS230": "Archive/Correspondence/2026-11-10_study-status.json",
+      "BUS334": "Archive/Correspondence/2026-11-10_study-status.json",
+      "BUS219": "Archive/Correspondence/2026-11-10_study-status.json",
+      "BUS225": "Archive/Correspondence/2026-11-10_study-status.json"
     },
     "last_success_by_course": {
-      "BUS230": "2026-11-06T18:21:04.077193+04:00",
-      "BUS334": "2026-11-06T17:33:05.226689+04:00",
-      "BUS219": "2026-11-06T17:45:46.933966+04:00",
-      "BUS225": "2026-11-06T17:33:05.226689+04:00"
+      "BUS230": "2026-11-10T14:57:23.812091+04:00",
+      "BUS334": "2026-11-10T14:57:23.812091+04:00",
+      "BUS219": "2026-11-10T14:57:23.812091+04:00",
+      "BUS225": "2026-11-10T14:57:23.812091+04:00"
     },
     "successful_account_check": {
       "userid": 257560
@@ -132,7 +132,7 @@
     }
   },
   "mail": {
-    "result": "Учебный Gmail: новое объявление BUS219 об индивидуальной peer form, уведомление BUS230 о занятии и два подтверждения BUS225.",
+    "result": "Учебный Gmail: инструкции BUS334, напоминания об экзаменах и опросе, квитанции за январь с подтверждением Early Bird 5%. Нового согласованного Study Plan в поиске нет.",
     "connection_delivery_check": {
       "checked_at": "2026-10-08T17:18:38.595375+04:00",
       "account": "jafarovfayaz@gmail.com",
@@ -181,9 +181,15 @@
       "latest_january_enrolment": {
         "checked_on": "2026-10-29",
         "evidence": "Archive/Correspondence/2026-10-29_finance-january-enrolment.json"
+      },
+      "january_2027_receipts": {
+        "checked_at": "2026-11-10T15:01:17+04:00",
+        "total_aed": 29100,
+        "discount_percent_on_balance_receipt": 5,
+        "evidence": "Archive/Correspondence/2026-11-10_study-status.json"
       }
     },
-    "checked_at": "2026-11-06T17:35:31.634032+04:00",
+    "checked_at": "2026-11-10T15:01:17+04:00",
     "study_plan_check": {
       "checked_at": "2026-10-19T13:34:35.147373+04:00",
       "account": "jafarovfayaz@gmail.com",
@@ -206,10 +212,15 @@
         "evidence": "Archive/Correspondence/2026-10-26_student-services-study-plan-reply.json",
         "waiver_approved": false,
         "approved_updated_plan_received": false
+      },
+      "latest_search": {
+        "checked_at": "2026-11-10T15:01:17+04:00",
+        "new_approved_plan_found": false,
+        "evidence": "Archive/Correspondence/2026-11-10_study-status.json"
       }
     },
-    "evidence": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json",
-    "scope": "Учебный Gmail после 5 ноября. Коды четырёх предметов, квитанции и известные отправители. Четыре совпадения, поиск исчерпан.",
+    "evidence": "Archive/Correspondence/2026-11-10_study-status.json",
+    "scope": "Учебный Gmail с 6 ноября по предметам и университетским уведомлениям. Отдельный поиск по финансам и Study Plan после 26 октября. Прямой Outlook не проверялся.",
     "outlook_attempt": {
       "attempted_at": "2026-10-07T13:31:59.360199+04:00",
       "result": "No accessible Outlook tab in connected browser inventory; no Outlook connector available in this chat",
@@ -217,32 +228,24 @@
     },
     "last_check_by_course": {
       "BUS230": {
-        "checked_on": "2026-11-06",
-        "account": "jafarovfayaz@gmail.com",
-        "scope": "Учебный Gmail после 5 ноября. Коды четырёх предметов, квитанции и известные отправители. Четыре совпадения, поиск исчерпан.",
-        "result": "Найденное сообщение зафиксировано в отчёте.",
-        "evidence": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json"
+        "checked_on": "2026-11-10",
+        "scope": "Учебный Gmail с 6 ноября по предметам и университетским уведомлениям. Отдельный поиск по финансам и Study Plan после 26 октября. Прямой Outlook не проверялся.",
+        "evidence": "Archive/Correspondence/2026-11-10_study-status.json"
       },
       "BUS334": {
-        "checked_on": "2026-11-06",
-        "account": "jafarovfayaz@gmail.com",
-        "scope": "Учебный Gmail после 5 ноября. Коды четырёх предметов, квитанции и известные отправители. Четыре совпадения, поиск исчерпан.",
-        "result": "Новых совпадений в поиске нет.",
-        "evidence": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json"
+        "checked_on": "2026-11-10",
+        "scope": "Учебный Gmail с 6 ноября по предметам и университетским уведомлениям. Отдельный поиск по финансам и Study Plan после 26 октября. Прямой Outlook не проверялся.",
+        "evidence": "Archive/Correspondence/2026-11-10_study-status.json"
       },
       "BUS219": {
-        "checked_on": "2026-11-06",
-        "account": "jafarovfayaz@gmail.com",
-        "scope": "Поиск объявления, подтверждение адреса и проверка отправленного письма с индивидуальной формой BUS219.",
-        "result": "Адрес преподавательницы и вложение подтверждены в Gmail Sent.",
-        "evidence": "BUS219/2026-TSD/Correspondence/2026-11-06_peer-evaluation-email-sent.json"
+        "checked_on": "2026-11-10",
+        "scope": "Учебный Gmail с 6 ноября по предметам и университетским уведомлениям. Отдельный поиск по финансам и Study Plan после 26 октября. Прямой Outlook не проверялся.",
+        "evidence": "Archive/Correspondence/2026-11-10_study-status.json"
       },
       "BUS225": {
-        "checked_on": "2026-11-06",
-        "account": "jafarovfayaz@gmail.com",
-        "scope": "Учебный Gmail после 5 ноября. Коды четырёх предметов, квитанции и известные отправители. Четыре совпадения, поиск исчерпан.",
-        "result": "Найденное сообщение зафиксировано в отчёте.",
-        "evidence": "Archive/Correspondence/2026-11-06_evening-submission-recheck.json"
+        "checked_on": "2026-11-10",
+        "scope": "Учебный Gmail с 6 ноября по предметам и университетским уведомлениям. Отдельный поиск по финансам и Study Plan после 26 октября. Прямой Outlook не проверялся.",
+        "evidence": "Archive/Correspondence/2026-11-10_study-status.json"
       }
     },
     "course_checks": {

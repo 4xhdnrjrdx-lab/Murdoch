@@ -1,0 +1,402 @@
+{
+  "lms": {
+    "checked_at": "2026-11-10T14:57:23.812091+04:00",
+    "scope": "Read-only assignment metadata and own submission/gradebook, timed quizzes and relevant visible course forums.",
+    "courses": {
+      "BUS219": {
+        "assignments": [
+          {
+            "name": "Business project report due:  at 23.55pm, 6th of Nov",
+            "id": 126475,
+            "cmid": 3111392,
+            "due": "2026-11-06T19:55:00+04:00",
+            "cutoff": null,
+            "team": false,
+            "submission": {
+              "status": "submitted",
+              "modified": "2026-11-06T17:43:41+04:00",
+              "files": [
+                [
+                  "BUS219 FINAL GROUP REPORT.docx",
+                  762733
+                ]
+              ]
+            },
+            "canedit": true,
+            "gradingstatus": "notgraded",
+            "error": null
+          }
+        ],
+        "quizzes": [
+          {
+            "name": "Quiz 1 due:  by 23:55, 20th of Oct",
+            "cmid": 3111389,
+            "opens": null,
+            "closes": "2026-10-20T19:55:00+04:00",
+            "attempts": [
+              {
+                "state": "finished",
+                "sumgrades": 15,
+                "attempt": 1
+              }
+            ]
+          },
+          {
+            "name": "Quiz 2 due: 23:55, 24th of Nov",
+            "cmid": 3111390,
+            "opens": null,
+            "closes": "2026-11-24T19:55:00+04:00",
+            "attempts": []
+          }
+        ],
+        "published_grades": {
+          "Quiz 1": "10/10"
+        },
+        "forums_checked": [
+          {
+            "name": "Announcements",
+            "cmid": 3111374,
+            "recent_count": 0
+          }
+        ]
+      },
+      "BUS225": {
+        "assignments": [
+          {
+            "name": "Service organisation profile submission (Non assessable item submitted end of Session 4) -One per group",
+            "id": 125038,
+            "cmid": 3076824,
+            "due": "2026-09-18T09:00:00+04:00",
+            "cutoff": "2026-09-25T09:00:00+04:00",
+            "team": true,
+            "submission": {
+              "status": "new",
+              "modified": "2026-10-25T14:39:21+04:00",
+              "files": []
+            },
+            "canedit": false,
+            "gradingstatus": "notgraded",
+            "error": null
+          },
+          {
+            "name": "Video Presentation Submission",
+            "id": 125039,
+            "cmid": 3076825,
+            "due": "2026-10-02T17:00:00+04:00",
+            "cutoff": "2026-10-09T17:00:00+04:00",
+            "team": false,
+            "submission": {
+              "status": "submitted",
+              "modified": "2026-09-26T21:08:52+04:00",
+              "files": []
+            },
+            "canedit": false,
+            "gradingstatus": "graded",
+            "error": null
+          },
+          {
+            "name": "Peer review submission - Individual",
+            "id": 125041,
+            "cmid": 3076827,
+            "due": "2026-11-06T17:00:00+04:00",
+            "cutoff": "2026-11-15T17:00:00+04:00",
+            "team": false,
+            "submission": {
+              "status": "submitted",
+              "modified": "2026-11-06T16:17:08+04:00",
+              "files": [
+                [
+                  "BUS225_Peer_Evaluation_Faiaz_Dzhafarov.docx",
+                  39839
+                ]
+              ]
+            },
+            "canedit": true,
+            "gradingstatus": "notgraded",
+            "error": null
+          },
+          {
+            "name": "Reflective Journal and Service Blueprint - Group submission (one per group)",
+            "id": 125040,
+            "cmid": 3076826,
+            "due": "2026-11-06T17:00:00+04:00",
+            "cutoff": "2026-11-13T17:00:00+04:00",
+            "team": true,
+            "submission": {
+              "status": "submitted",
+              "modified": "2026-11-05T15:54:44+04:00",
+              "files": [
+                [
+                  "BUS225_A2_Group9_Carrefour_ReferencesFixed.docx",
+                  500372
+                ]
+              ]
+            },
+            "canedit": false,
+            "gradingstatus": "notgraded",
+            "error": null
+          }
+        ],
+        "quizzes": [],
+        "published_grades": {
+          "A1": "14/30"
+        },
+        "forums_checked": [
+          {
+            "name": "Announcements",
+            "cmid": 3076814,
+            "recent_count": 0
+          }
+        ]
+      },
+      "BUS230": {
+        "assignments": [
+          {
+            "name": "Assessment 2: Presentation Material (Group) Submission Portal",
+            "id": 124983,
+            "cmid": 3074736,
+            "due": "2026-11-06T19:59:00+04:00",
+            "cutoff": null,
+            "team": true,
+            "submission": {
+              "status": "submitted",
+              "modified": "2026-11-06T18:21:39+04:00",
+              "files": [
+                [
+                  "Bus230 final.pdf",
+                  743252
+                ]
+              ]
+            },
+            "canedit": true,
+            "gradingstatus": "notgraded",
+            "error": null
+          },
+          {
+            "name": "Assessment 1: Essay (Individual) Submission Portal",
+            "id": 124982,
+            "cmid": 3074730,
+            "due": "2026-09-18T19:59:00+04:00",
+            "cutoff": null,
+            "team": false,
+            "submission": {
+              "status": "submitted",
+              "modified": "2026-09-17T18:08:19+04:00",
+              "files": [
+                [
+                  "BUS230Assign1FaiazDzhafarov35553299.docx",
+                  40716
+                ]
+              ]
+            },
+            "canedit": true,
+            "gradingstatus": "graded",
+            "error": null
+          }
+        ],
+        "quizzes": [],
+        "published_grades": {
+          "A1": "23.4/30"
+        },
+        "forums_checked": [
+          {
+            "name": "Team Discussion Forum",
+            "cmid": 3074722,
+            "recent_count": 0
+          }
+        ]
+      },
+      "BUS334": {
+        "assignments": [
+          {
+            "name": "Assignment 4 Supporting materials submission: Data Analysis &amp; Presentation (40%)",
+            "id": 124857,
+            "cmid": 3070561,
+            "due": null,
+            "cutoff": null,
+            "team": false,
+            "submission": {
+              "status": "new",
+              "modified": "2026-11-06T00:46:58+04:00",
+              "files": []
+            },
+            "canedit": true,
+            "gradingstatus": "notgraded",
+            "error": null
+          },
+          {
+            "name": "Peer Evaluation Form Submission (Individual)",
+            "id": 124858,
+            "cmid": 3070562,
+            "due": "2026-11-28T19:55:00+04:00",
+            "cutoff": "2026-11-29T19:55:00+04:00",
+            "team": false,
+            "submission": {
+              "status": "new",
+              "modified": "2026-10-07T12:22:54+04:00",
+              "files": []
+            },
+            "canedit": false,
+            "gradingstatus": "notgraded",
+            "error": null
+          },
+          {
+            "name": "Assignment 1: Engagement (10%)",
+            "id": 124854,
+            "cmid": 3070558,
+            "due": "2026-11-19T13:00:00+04:00",
+            "cutoff": "2026-12-21T13:00:00+04:00",
+            "team": false,
+            "submission": {
+              "status": "new",
+              "modified": "2026-10-07T12:22:55+04:00",
+              "files": []
+            },
+            "canedit": true,
+            "gradingstatus": "notgraded",
+            "error": null
+          },
+          {
+            "name": "Assignment 2 Submission: Questionnaire (20%)",
+            "id": 124855,
+            "cmid": 3070559,
+            "due": "2026-09-20T19:59:00+04:00",
+            "cutoff": "2026-09-23T19:59:00+04:00",
+            "team": false,
+            "submission": {
+              "status": "submitted",
+              "modified": "2026-09-19T00:26:26+04:00",
+              "files": [
+                [
+                  "35553299_Dzhafarov_BUS334_Assignment2_Questionnaire.docx",
+                  40749
+                ]
+              ]
+            },
+            "canedit": false,
+            "gradingstatus": "graded",
+            "error": null
+          },
+          {
+            "name": "Assignment 3 Submission: Data Collection &amp; Preliminary Analysis (30%)",
+            "id": 124856,
+            "cmid": 3070560,
+            "due": "2026-10-25T19:59:00+04:00",
+            "cutoff": "2026-10-28T19:59:00+04:00",
+            "team": false,
+            "submission": {
+              "status": "submitted",
+              "modified": "2026-10-22T17:57:10+04:00",
+              "files": [
+                [
+                  "35553299_Dzhafarov_BUS334_A3_Appendices_Revised.pdf",
+                  475063
+                ],
+                [
+                  "35553299_Dzhafarov_BUS334_A3_Original_Responses.pdf",
+                  130841
+                ],
+                [
+                  "35553299_Dzhafarov_BUS334_A3_Report_Revised.pdf",
+                  519085
+                ]
+              ]
+            },
+            "canedit": false,
+            "gradingstatus": "graded",
+            "error": null
+          }
+        ],
+        "quizzes": [],
+        "published_grades": {
+          "A2": "15/20",
+          "A3": "19/30"
+        },
+        "forums_checked": [
+          {
+            "name": "Announcements",
+            "cmid": 3070548,
+            "recent_count": 0
+          }
+        ]
+      }
+    },
+    "bus230_submitted_file": {
+      "name": "Bus230 final.pdf",
+      "size": 743252,
+      "sha256": "3cc563d36cdad3763e6a176474c30c9dd7a531795bc68ade184b1e80261b351f",
+      "path": "BUS230/2026-TSD/Assignments/A2/Submitted_2026-11-06/Bus230 final.pdf",
+      "pages": 58,
+      "content": "Слайды и страницы с пояснениями в одном PDF. Проверен текст."
+    },
+    "bus230_peer_source": "BUS230/2026-TSD/Correspondence/2026-11-06_peer-and-group-a2-recheck.json"
+  },
+  "study_gmail": {
+    "checked_at": "2026-11-10T15:01:17+04:00",
+    "scope": "Учебный Gmail с 6 ноября по предметам и университетским уведомлениям. Отдельный поиск по финансам и Study Plan после 26 октября. Прямой Outlook не проверялся.",
+    "exam_reminder": {
+      "url": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/1a1bfc7292fb315e",
+      "arrive_minutes_before": 15,
+      "identification": "Физический Murdoch Student ID либо оригинал паспорта."
+    },
+    "exam_timetable_instructions": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/1a1bf76c2da6bbbc",
+    "survey_reminder": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/1a1c3d47caa1f455",
+    "bus334_reminder": {
+      "url": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/1a1c4bddc87126c0",
+      "wednesday_only_list": true,
+      "own_class": "Thursday, Group 1",
+      "own_presentation": "2026-11-12, Room 106, arrival 16:15, session 16:30 Dubai",
+      "own_group_slot": null,
+      "individual_lms": "За 24 часа до выступления. Рабочий ориентир 11 ноября 16:30 Dubai.",
+      "group_email": "Один участник отправляет финальные слайды 12 ноября днём до занятия."
+    },
+    "payment": {
+      "term_code": "2701",
+      "payment_date_on_receipts": "2026-11-05",
+      "total_aed": 29100,
+      "receipts": [
+        {
+          "amount_aed": 21100,
+          "url": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/1a1afa6503679aa3"
+        },
+        {
+          "amount_aed": 2000,
+          "url": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/1a1afa73d32d7972"
+        },
+        {
+          "amount_aed": 6000,
+          "url": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/1a1afa824bdb1090",
+          "description": "Остаток оплаты 12 credit points со скидкой Early Bird 5%."
+        }
+      ],
+      "scope": "Суммы и описание из PDF-квитанций Finance. Текущий баланс, зачисление и выбранные предметы в Student Portal не проверялись."
+    },
+    "study_plan": {
+      "latest_matching_reply": "2026-10-26",
+      "url": "https://mail.google.com/mail/u/?authuser=jafarovfayaz%40gmail.com#all/1a1777e1c9bd36ae",
+      "new_approved_plan_found": false
+    }
+  },
+  "official_exam_timetable": {
+    "url": "https://timetables.murdoch.edu.au/exams/cgi/ex-gen?format=code&semester=2t&year=26",
+    "revision": "2026-10-27 11:15",
+    "checked_on": "2026-11-10",
+    "venue": "Dubai ISC",
+    "BUS219": {
+      "start": "2026-11-28T09:00:00+04:00",
+      "minutes": 120,
+      "book": "closed"
+    },
+    "BUS225": {
+      "start": "2026-11-28T13:30:00+04:00",
+      "minutes": 60,
+      "book": "closed"
+    },
+    "BUS230": {
+      "start": "2026-11-21T13:30:00+04:00",
+      "minutes": 120,
+      "book": "open"
+    },
+    "BUS334": "No Dubai ISC row in the official exam timetable."
+  }
+}

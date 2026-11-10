@@ -139,3 +139,5 @@
 - **6 ноября 2026:** По поручению Faiaz собран его отдельный блок academic notes 13–18 для общего отчёта, по одному абзацу с citations на слайд и семь источников. Все три страницы визуально проверены. В 16:45 Dubai групповой портал A2 new без файлов. [Проверка и файлы](Correspondence/2026-11-06_faiaz-a2-notes-and-status.json).
 
 - 6 ноября Faiaz подтвердил сдачу личной формы. На [снимке Moodle](Correspondence/2026-11-06_peer-submitted-user.png) для Class 2 Group 4 отображается All group members submitted. В 18:21 Dubai отдельный групповой портал презентации A2 оставался пустым. [Проверка](Correspondence/2026-11-06_peer-and-group-a2-recheck.json).
+
+- **10 ноября 2026:** Moodle подтвердил групповую сдачу A2 от 6 ноября 18:21:39 Dubai. Сохранён точный PDF на 58 страниц со слайдами и пояснениями. [Проверка](../../Archive/Correspondence/2026-11-10_study-status.json).

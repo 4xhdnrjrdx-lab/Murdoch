@@ -40,3 +40,5 @@
 6 ноября подготовлен отдельный [блок Faiaz 13–18](Assignments/A2/Faiaz_Academic_Notes_2026-11-06/BUS230_A2_Faiaz_Academic_Notes_Slides_13-18.docx) для объединения командных academic notes. В нём один абзац на слайд с citations и семь записей References. [Проверка 6 ноября](Correspondence/2026-11-06_faiaz-a2-notes-and-status.json) показывает групповой A2 new без файлов в 16:45 Dubai. Срок 6 ноября 19:59 Dubai.
 
 6 ноября Faiaz подтвердил сдачу личной формы. На [снимке Moodle](Correspondence/2026-11-06_peer-submitted-user.png) для Class 2 Group 4 отображается All group members submitted. В 18:21 Dubai отдельный групповой портал презентации A2 оставался пустым. [Проверка](Correspondence/2026-11-06_peer-and-group-a2-recheck.json).
+
+10 ноября проверена и закрыта групповая сдача A2. Группа отправила [Bus230 final.pdf](Assignments/A2/Submitted_2026-11-06/Bus230 final.pdf) 6 ноября в 18:21:39 Dubai. Личная peer assessment также сдана. [Проверка](../../Archive/Correspondence/2026-11-10_study-status.json).

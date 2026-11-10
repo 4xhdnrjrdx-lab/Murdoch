@@ -6,7 +6,7 @@
 
 ## A3: Data Collection & Preliminary Analysis, 30%
 
-Состояние: сдано.
+Состояние: оценено.
 
 - [Текущий сданный отчёт](A3/Revision_2026-10-22/35553299_Dzhafarov_BUS334_A3_Report_Revised.pdf)
 - [Текущее сданное приложение](A3/Revision_2026-10-22/35553299_Dzhafarov_BUS334_A3_Appendices_Revised.pdf)
