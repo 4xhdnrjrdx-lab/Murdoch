@@ -141,3 +141,5 @@
 - 6 ноября Faiaz подтвердил сдачу личной формы. На [снимке Moodle](Correspondence/2026-11-06_peer-submitted-user.png) для Class 2 Group 4 отображается All group members submitted. В 18:21 Dubai отдельный групповой портал презентации A2 оставался пустым. [Проверка](Correspondence/2026-11-06_peer-and-group-a2-recheck.json).
 
 - **10 ноября 2026:** Moodle подтвердил групповую сдачу A2 от 6 ноября 18:21:39 Dubai. Сохранён точный PDF на 58 страниц со слайдами и пояснениями. [Проверка](../../Archive/Correspondence/2026-11-10_study-status.json).
+
+- **19 ноября 2026:** Проверка Moodle: A2 групповая презентация оценена 31/35 (88.57%), Pass; статус изменён на «оценено». В строке peer assessment Class 2 показано 31.00, смысл не пояснён. Экзамен 21 ноября 13:30. [Источник](../../Archive/Correspondence/2026-11-19_lms-status-check.json).

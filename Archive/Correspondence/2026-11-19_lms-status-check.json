@@ -1,0 +1,391 @@
+{
+  "lms": {
+    "checked_at": "2026-11-19T15:27:53.792372+04:00",
+    "scope": "Read-only: own enrolment list, assignment metadata and own submission status, own quiz attempts, own gradebook items, calendar events for the four TSD units. No submissions, messages or edits. Mail not checked in this pass.",
+    "client": "Access/Moodle/moodle.py from an independent GitHub clone (main 366a922); token from the existing local secret file, not stored in Git.",
+    "courses": {
+      "BUS219": {
+        "assignments": [
+          {
+            "name": "Business project report due:  at 23.55pm, 6th of Nov",
+            "id": 126475,
+            "due": "2026-11-06T19:55:00+04:00",
+            "cutoff": null,
+            "team": false,
+            "submission": {
+              "status": "submitted",
+              "modified": "2026-11-06T17:43:00+04:00",
+              "files": [
+                "BUS219 FINAL GROUP REPORT.docx"
+              ]
+            },
+            "gradingstatus": "notgraded",
+            "grade_display": null
+          }
+        ],
+        "quizzes": [
+          {
+            "name": "Quiz 1 due:  by 23:55, 20th of Oct",
+            "id": 111647,
+            "closes": "2026-10-20T19:55:00+04:00",
+            "attempts": [
+              {
+                "attempt": 1,
+                "state": "finished",
+                "finished": "2026-10-18T12:52:00+04:00",
+                "sumgrades": 15
+              }
+            ]
+          },
+          {
+            "name": "Quiz 2 due: 23:55, 24th of Nov",
+            "id": 111648,
+            "closes": "2026-11-24T19:55:00+04:00",
+            "attempts": []
+          }
+        ],
+        "gradebook": [
+          {
+            "item": "Quiz 1 due:  by 23:55, 20th of Oct",
+            "grade": "10.00",
+            "percentage": "100.00 %",
+            "pass_icon": false
+          }
+        ]
+      },
+      "BUS225": {
+        "assignments": [
+          {
+            "name": "Service organisation profile submission (Non assessable item submitted end of Session 4) -One per group",
+            "id": 125038,
+            "due": "2026-09-18T09:00:00+04:00",
+            "cutoff": "2026-09-25T09:00:00+04:00",
+            "team": true,
+            "submission": {
+              "status": "new",
+              "modified": "2026-10-25T14:39:00+04:00",
+              "files": []
+            },
+            "gradingstatus": "notgraded",
+            "grade_display": null
+          },
+          {
+            "name": "Video Presentation Submission",
+            "id": 125039,
+            "due": "2026-10-02T17:00:00+04:00",
+            "cutoff": "2026-10-09T17:00:00+04:00",
+            "team": false,
+            "submission": {
+              "status": "submitted",
+              "modified": "2026-09-26T21:08:00+04:00",
+              "files": []
+            },
+            "gradingstatus": "graded",
+            "grade_display": "14.00 / 30.00"
+          },
+          {
+            "name": "Peer review submission - Individual",
+            "id": 125041,
+            "due": "2026-11-06T17:00:00+04:00",
+            "cutoff": "2026-11-15T17:00:00+04:00",
+            "team": false,
+            "submission": {
+              "status": null,
+              "modified": null,
+              "files": null
+            },
+            "gradingstatus": null,
+            "grade_display": null
+          },
+          {
+            "name": "Reflective Journal and Service Blueprint - Group submission (one per group)",
+            "id": 125040,
+            "due": "2026-11-06T17:00:00+04:00",
+            "cutoff": "2026-11-13T17:00:00+04:00",
+            "team": true,
+            "submission": {
+              "status": "draft",
+              "modified": "2026-11-05T15:54:00+04:00",
+              "files": []
+            },
+            "gradingstatus": "graded",
+            "grade_display": "27.60 / 40.00"
+          }
+        ],
+        "quizzes": [
+          {
+            "name": "Quiz 1 - Services Marketing",
+            "id": 110572,
+            "closes": null,
+            "attempts": []
+          },
+          {
+            "name": "Quiz 2 - Service Consumers",
+            "id": 110573,
+            "closes": null,
+            "attempts": []
+          },
+          {
+            "name": "Quiz 3 - Positioning Services",
+            "id": 110574,
+            "closes": null,
+            "attempts": []
+          },
+          {
+            "name": "Quiz 4 - Service Products",
+            "id": 110575,
+            "closes": null,
+            "attempts": []
+          },
+          {
+            "name": "Quiz 5 - Service Distribution",
+            "id": 110576,
+            "closes": null,
+            "attempts": []
+          },
+          {
+            "name": "Setting Prices and Implementing Revenue Management",
+            "id": 110577,
+            "closes": null,
+            "attempts": []
+          },
+          {
+            "name": "Quiz 7 - Integrated Marketing Communications",
+            "id": 110578,
+            "closes": null,
+            "attempts": []
+          },
+          {
+            "name": "Quiz 8 - Designing service processes",
+            "id": 110579,
+            "closes": null,
+            "attempts": []
+          },
+          {
+            "name": "Quiz 9 - Crafting the Service Environment",
+            "id": 110580,
+            "closes": null,
+            "attempts": []
+          },
+          {
+            "name": "Quiz 10 - Managing People and Customer Service Function",
+            "id": 110581,
+            "closes": null,
+            "attempts": []
+          },
+          {
+            "name": "Quiz 11 - Managing Customer Relationships in Services",
+            "id": 110582,
+            "closes": null,
+            "attempts": []
+          },
+          {
+            "name": "Quiz 12 - Customer Satisfaction and Service Quality",
+            "id": 110583,
+            "closes": null,
+            "attempts": []
+          }
+        ],
+        "gradebook": [
+          {
+            "item": "Video Presentation Submission",
+            "grade": "14.00",
+            "percentage": "46.67 %",
+            "pass_icon": false
+          },
+          {
+            "item": "Reflective Journal and Service Blueprint - Group submission (one per group)",
+            "grade": "27.60",
+            "percentage": "69.00 %",
+            "pass_icon": false
+          }
+        ]
+      },
+      "BUS230": {
+        "assignments": [
+          {
+            "name": "Assessment 2: Presentation Material (Group) Submission Portal",
+            "id": 124983,
+            "due": "2026-11-06T19:59:00+04:00",
+            "cutoff": null,
+            "team": true,
+            "submission": {
+              "status": "submitted",
+              "modified": "2026-11-06T18:21:00+04:00",
+              "files": []
+            },
+            "gradingstatus": "graded",
+            "grade_display": "31.00 / 35.00"
+          },
+          {
+            "name": "Assessment 1: Essay (Individual) Submission Portal",
+            "id": 124982,
+            "due": "2026-09-18T19:59:00+04:00",
+            "cutoff": null,
+            "team": false,
+            "submission": {
+              "status": "submitted",
+              "modified": "2026-09-17T18:08:00+04:00",
+              "files": [
+                "BUS230Assign1FaiazDzhafarov35553299.docx"
+              ]
+            },
+            "gradingstatus": "graded",
+            "grade_display": "23.40 / 30.00"
+          }
+        ],
+        "quizzes": [],
+        "gradebook": [
+          {
+            "item": "Assessment 1: Essay (Individual) Submission Portal",
+            "grade": "23.40",
+            "percentage": "78.00 %",
+            "pass_icon": true
+          },
+          {
+            "item": "Assessment 2: Presentation Material (Group) Submission Portal",
+            "grade": "31.00",
+            "percentage": "88.57 %",
+            "pass_icon": true
+          },
+          {
+            "item": "Assignment 2 peer assessment - Class 2 Wednesday Shahinda Baig",
+            "grade": "31.00",
+            "percentage": "31.00 %",
+            "pass_icon": false
+          },
+          {
+            "item": "category",
+            "grade": "31.00",
+            "percentage": "31.00 %",
+            "pass_icon": false
+          }
+        ]
+      },
+      "BUS334": {
+        "assignments": [
+          {
+            "name": "Assignment 4 Supporting materials submission: Data Analysis & Presentation (40%)",
+            "id": 124857,
+            "due": null,
+            "cutoff": null,
+            "team": false,
+            "submission": {
+              "status": "submitted",
+              "modified": "2026-11-10T18:12:00+04:00",
+              "files": [
+                "Assignment_4_Presentation.pdf"
+              ]
+            },
+            "gradingstatus": "graded",
+            "grade_display": null
+          },
+          {
+            "name": "Peer Evaluation Form Submission (Individual)",
+            "id": 124858,
+            "due": "2026-11-28T19:55:00+04:00",
+            "cutoff": "2026-11-29T19:55:00+04:00",
+            "team": false,
+            "submission": {
+              "status": "new",
+              "modified": "2026-10-07T12:22:00+04:00",
+              "files": []
+            },
+            "gradingstatus": "notgraded",
+            "grade_display": null
+          },
+          {
+            "name": "Assignment 1: Engagement (10%)",
+            "id": 124854,
+            "due": "2026-11-19T13:00:00+04:00",
+            "cutoff": "2026-12-21T13:00:00+04:00",
+            "team": false,
+            "submission": {
+              "status": "new",
+              "modified": "2026-10-07T12:22:00+04:00",
+              "files": []
+            },
+            "gradingstatus": "notgraded",
+            "grade_display": null
+          },
+          {
+            "name": "Assignment 2 Submission: Questionnaire (20%)",
+            "id": 124855,
+            "due": "2026-09-20T19:59:00+04:00",
+            "cutoff": "2026-09-23T19:59:00+04:00",
+            "team": false,
+            "submission": {
+              "status": "submitted",
+              "modified": "2026-09-19T00:26:00+04:00",
+              "files": [
+                "35553299_Dzhafarov_BUS334_Assignment2_Questionnaire.docx"
+              ]
+            },
+            "gradingstatus": "graded",
+            "grade_display": "15.00 / 20.00"
+          },
+          {
+            "name": "Assignment 3 Submission: Data Collection & Preliminary Analysis (30%)",
+            "id": 124856,
+            "due": "2026-10-25T19:59:00+04:00",
+            "cutoff": "2026-10-28T19:59:00+04:00",
+            "team": false,
+            "submission": {
+              "status": "submitted",
+              "modified": "2026-10-22T17:57:00+04:00",
+              "files": [
+                "35553299_Dzhafarov_BUS334_A3_Appendices_Revised.pdf",
+                "35553299_Dzhafarov_BUS334_A3_Original_Responses.pdf",
+                "35553299_Dzhafarov_BUS334_A3_Report_Revised.pdf"
+              ]
+            },
+            "gradingstatus": "graded",
+            "grade_display": "19.00 / 30.00"
+          }
+        ],
+        "quizzes": [],
+        "gradebook": [
+          {
+            "item": "Assignment 2 Submission: Questionnaire (20%)",
+            "grade": "15.00",
+            "percentage": "75.00 %",
+            "pass_icon": false
+          },
+          {
+            "item": "Assignment 3 Submission: Data Collection & Preliminary Analysis (30%)",
+            "grade": "19.00",
+            "percentage": "63.33 %",
+            "pass_icon": false
+          }
+        ]
+      }
+    },
+    "upcoming_calendar": [
+      {
+        "course": "BUS334",
+        "name": "Assignment 1: Engagement (10%) is due",
+        "type": "due",
+        "at": "2026-11-19T13:00:00+04:00"
+      },
+      {
+        "course": "BUS219",
+        "name": "Quiz 2 due: 23:55, 24th of Nov closes",
+        "type": "close",
+        "at": "2026-11-24T19:55:00+04:00"
+      },
+      {
+        "course": "BUS334",
+        "name": "Peer Evaluation Form Submission (Individual) is due",
+        "type": "due",
+        "at": "2026-11-28T19:55:00+04:00"
+      }
+    ],
+    "notes": [
+      "BUS225 PEER (125041) first request returned network_or_response_error; retry succeeded: submitted 2026-11-06T16:17:08+04:00, notgraded.",
+      "BUS225 A2 (125040): individual record draft, team record submitted (group 328823), graded 27.60/40.",
+      "BUS334 A1 Engagement intro: lecturer-only portal, no student submission required.",
+      "BUS334 A4 supporting materials: gradingstatus graded, but no grade value returned to the student.",
+      "BUS230 gradebook item \"Assignment 2 peer assessment - Class 2 Wednesday Shahinda Baig\" shows 31.00 (31.00 %); its meaning relative to A2 is not stated by Moodle."
+    ]
+  }
+}

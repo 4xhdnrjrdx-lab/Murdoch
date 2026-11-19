@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course": "BUS225",
   "period": "2026-TSD",
-  "reviewed_at": "2026-11-06",
+  "reviewed_at": "2026-11-19T15:27:53.792372+04:00",
   "allowed_states": [
     "предложено",
     "согласовано",
@@ -158,9 +158,9 @@
     {
       "id": "A2",
       "title": "Reflective Journal + Service Blueprint, 40%",
-      "status": "сдано",
-      "next_action": "Ждать оценку группового A2. Отдельный личный peer review сдан.",
-      "detail": "4 ноября по прямому запросу Faiaz переработан blueprint в присланной версии Muhammad: одна страница, пять этапов, явные стрелки между уровнями, отдельные IT-системы и базы данных с полями и связями между этапами. F1–F5 согласованы с исходным отчётом. Текст Muhammad и references сохранены; прежняя версия с личным наблюдением Faiaz хранится отдельно без замены. Новый полный комплект: 5 страниц, 1818 слов со схемой без references (1823 по альтернативному подсчёту). Не сдано; проверка группой ещё нужна. По отдельному поручению 4 ноября исправлены только дата Pepper, соответствующая in-text citation и название отчёта MAF; актуальный полный комплект ReferencesFixed, остальные текст и blueprint сохранены. 5 ноября 15:54:44 Dubai Moodle зафиксировал групповую сдачу ReferencesFixed DOCX. 6 ноября скачанный файл совпал по SHA-256 с актуальной версией в GitHub. Индивидуальный draft в API относится к другой записи. Оценка A2 пока не опубликована.",
+      "status": "оценено",
+      "next_action": "Учесть 27.6/40 за A2 при подготовке к экзамену; оценки peer review пока нет.",
+      "detail": "4 ноября по прямому запросу Faiaz переработан blueprint в присланной версии Muhammad: одна страница, пять этапов, явные стрелки между уровнями, отдельные IT-системы и базы данных с полями и связями между этапами. F1–F5 согласованы с исходным отчётом. Текст Muhammad и references сохранены; прежняя версия с личным наблюдением Faiaz хранится отдельно без замены. Новый полный комплект: 5 страниц, 1818 слов со схемой без references (1823 по альтернативному подсчёту). Не сдано; проверка группой ещё нужна. По отдельному поручению 4 ноября исправлены только дата Pepper, соответствующая in-text citation и название отчёта MAF; актуальный полный комплект ReferencesFixed, остальные текст и blueprint сохранены. 5 ноября 15:54:44 Dubai Moodle зафиксировал групповую сдачу ReferencesFixed DOCX. 6 ноября скачанный файл совпал по SHA-256 с актуальной версией в GitHub. Индивидуальный draft в API относится к другой записи. 19 ноября в журнале Moodle опубликовано 27.60/40 (69%); командная запись submitted/graded, индивидуальная запись draft не влияет. Развёрнутый feedback через API не получен.",
       "deadlines": [
         {
           "value": "2026-11-06 17:00 Asia/Dubai",
@@ -313,6 +313,12 @@
           "note": "Групповая запись submitted от 5 ноября 15:54:44 Dubai; сданный ReferencesFixed DOCX совпадает по SHA-256.",
           "path": "../../Archive/Correspondence/2026-11-06_submission-status-check.json",
           "source": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3076826"
+        },
+        {
+          "date": "2026-11-19",
+          "note": "Опубликована оценка 27.60/40 (69%); командная сдача submitted, gradingstatus graded.",
+          "path": "../../Archive/Correspondence/2026-11-19_lms-status-check.json",
+          "source": "Moodle API"
         }
       ],
       "unknown": "Личность загрузчика по этой проверке не установлена. На 6 ноября A2 notgraded. Учебный Gmail не охватывает весь Outlook или WhatsApp.",
@@ -351,13 +357,19 @@
           }
         ],
         "submitted_file_matches_working_copy": true
+      },
+      "grade": {
+        "value": 27.6,
+        "maximum": 40,
+        "source_path": "../../Archive/Correspondence/2026-11-19_lms-status-check.json",
+        "checked_at": "2026-11-19"
       }
     },
     {
       "id": "PEER",
       "title": "Individual peer review",
       "status": "сдано",
-      "next_action": "Дождаться оценки или обратной связи по A2 и peer review.",
+      "next_action": "Дождаться оценки peer review; A2 уже оценён 27.6/40.",
       "detail": "Заполнена официальная индивидуальная форма для проекта Group 9, Class 2. Включены самооценка и оценки двух участников. Moodle подтвердил личную сдачу 6 ноября в 16:17:08 Dubai. Скачанный DOCX совпал с файлом базы по SHA-256.",
       "deadlines": [
         {
@@ -427,6 +439,12 @@
           "note": "Moodle submitted в 16:17:08 Dubai, до 17:00. Получены уведомление Moodle и квитанция Turnitin. DOCX совпал с актуальной формой по SHA-256.",
           "path": "../../Archive/Correspondence/2026-11-06_evening-submission-recheck.json",
           "source": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3076827"
+        },
+        {
+          "date": "2026-11-19",
+          "note": "Личная сдача submitted 6 ноября 16:17 Dubai; notgraded, оценки нет.",
+          "path": "../../Archive/Correspondence/2026-11-19_lms-status-check.json",
+          "source": "Moodle API"
         }
       ],
       "unknown": "Оценка или feedback ещё не опубликованы.",

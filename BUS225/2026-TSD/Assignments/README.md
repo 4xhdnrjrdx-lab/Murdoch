@@ -6,7 +6,7 @@
 
 ## A2: Reflective Journal + Service Blueprint, 40%
 
-Состояние: сдано.
+Состояние: оценено.
 
 - [Подтверждённый сданный группой DOCX](A2/Blueprint_2026-11-04/BUS225_A2_Group9_Carrefour_ReferencesFixed.docx) — Совпадение SHA-256 с Moodle проверено 6 ноября.
 - [Тот же комплект с исправленными references, пять проверенных страниц](A2/Blueprint_2026-11-04/BUS225_A2_Group9_Carrefour_ReferencesFixed.pdf)

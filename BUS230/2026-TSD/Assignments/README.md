@@ -6,7 +6,7 @@
 
 ## A2: Group multimedia manager training presentation, 40%
 
-Состояние: сдано.
+Состояние: оценено.
 
 - [Выбранная сохранённая презентация A2 с Alex и QR](A2/Presentation_Alex_2026-10-27/BUS230Assessment2Class2Group4_2026-10-27_ALEX.pptx) — Единственный выбранный PPTX. Перед LMS-сдачей сверить с фактически показанным файлом; слайды после выступления не менять. Прежние версии — история.
 - [Текущий общий текст выступления](A2/Presentation_Alex_2026-10-27/BUS230_A2_Team_Speaking_Script_EN_ALEX.txt) — Текст для выступления; не заменяет обязательные academic notes.

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "course": "BUS230",
   "period": "2026-TSD",
-  "reviewed_at": "2026-11-10T14:57:23.812091+04:00",
+  "reviewed_at": "2026-11-19T15:27:53.792372+04:00",
   "allowed_states": [
     "предложено",
     "согласовано",
@@ -78,9 +78,9 @@
     {
       "id": "A2",
       "title": "Group multimedia manager training presentation, 40%",
-      "status": "сдано",
-      "next_action": "Дождаться оценки группового A2.",
-      "detail": "Команда выступила 28 октября и отправила презентацию преподавательнице по подтверждению Faiaz. Отдельная групповая сдача в Moodle подтверждена 6 ноября в 18:21:39 Dubai до дедлайна 19:59. Сдан один Bus230 final.pdf, 58 страниц со слайдами и страницами пояснений. Точная копия получена из Moodle 10 ноября и сохранена с SHA-256. PPTX ALEX и прежние Academic Notes хранятся как подготовительные файлы. Объявление Shahinda от 2 ноября содержит требования к показанным слайдам и academic notes. Личная peer assessment сдана отдельно.",
+      "status": "оценено",
+      "next_action": "Учесть 31/35 за A2 в итоговом расчёте; главная задача — экзамен 21 ноября.",
+      "detail": "Команда выступила 28 октября и отправила презентацию преподавательнице по подтверждению Faiaz. Отдельная групповая сдача в Moodle подтверждена 6 ноября в 18:21:39 Dubai до дедлайна 19:59. Сдан один Bus230 final.pdf, 58 страниц со слайдами и страницами пояснений. Точная копия получена из Moodle 10 ноября и сохранена с SHA-256. PPTX ALEX и прежние Academic Notes хранятся как подготовительные файлы. Объявление Shahinda от 2 ноября содержит требования к показанным слайдам и academic notes. Личная peer assessment сдана отдельно. 19 ноября в журнале Moodle опубликовано 31.00/35 (88.57%), отметка Pass. Развёрнутый feedback через API не получен.",
       "deadlines": [
         {
           "value": "2026-11-06 19:59 Asia/Dubai",
@@ -314,6 +314,12 @@
           "note": "Групповая сдача подтверждена. Из Moodle получен исходный PDF с материалами и пояснениями.",
           "path": "../../Archive/Correspondence/2026-11-10_study-status.json",
           "source": "https://moodleprod.murdoch.edu.au/mod/assign/view.php?id=3074736"
+        },
+        {
+          "date": "2026-11-19",
+          "note": "Опубликована оценка 31.00/35 (88.57%), Pass.",
+          "path": "../../Archive/Correspondence/2026-11-19_lms-status-check.json",
+          "source": "Moodle API"
         }
       ],
       "unknown": "Оценка и feedback не опубликованы. Личность загрузчика и точное соответствие PDF записи выступления не проверены.",
@@ -376,6 +382,12 @@
             "path": "Assignments/A2/Submitted_2026-11-06/Bus230 final.pdf"
           }
         ]
+      },
+      "grade": {
+        "value": 31,
+        "maximum": 35,
+        "source_path": "../../Archive/Correspondence/2026-11-19_lms-status-check.json",
+        "checked_at": "2026-11-19"
       }
     },
     {
@@ -383,7 +395,7 @@
       "title": "Peer assessment",
       "status": "сдано",
       "next_action": "Дождаться результата peer assessment.",
-      "detail": "Личная оценка вклада участников Class 2 Wednesday Shahinda Baig, Moodle instance 371 / cmid 3074734. 6 ноября Faiaz подтвердил сдачу и предоставил снимок Class 2 Group 4: All group members submitted, доступна Edit submission. Срок 14 ноября 19:59 Dubai подтверждён API 5 ноября. Первое время отправки в интерфейсе относится к записи группы.",
+      "detail": "Личная оценка вклада участников Class 2 Wednesday Shahinda Baig, Moodle instance 371 / cmid 3074734. 6 ноября Faiaz подтвердил сдачу и предоставил снимок Class 2 Group 4: All group members submitted, доступна Edit submission. Срок 14 ноября 19:59 Dubai подтверждён API 5 ноября. Первое время отправки в интерфейсе относится к записи группы. 19 ноября в журнале по строке peer assessment Class 2 показано 31.00 (31.00 %); смысл значения не подтверждён.",
       "deadlines": [
         {
           "value": "2026-11-14T19:59:00+04:00",
@@ -440,6 +452,12 @@
           "note": "Faiaz подтвердил сдачу. На его снимке Moodle Class 2 Group 4: All group members submitted и Edit submission.",
           "path": "Correspondence/2026-11-06_peer-submitted-user.png",
           "source": "https://moodleprod.murdoch.edu.au/mod/peerwork/view.php?id=3074734"
+        },
+        {
+          "date": "2026-11-19",
+          "note": "В журнале строка «Assignment 2 peer assessment - Class 2 Wednesday Shahinda Baig»: 31.00 (31.00 %). Что именно означает значение (оценка группы через peerwork или отдельный балл), Moodle не поясняет.",
+          "path": "../../Archive/Correspondence/2026-11-19_lms-status-check.json",
+          "source": "Moodle API"
         }
       ],
       "unknown": "Точное время личной отправки Faiaz и итог оценки не установлены.",

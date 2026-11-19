@@ -3,8 +3,8 @@
     "result": "ok",
     "timestamp_precision": "seconds",
     "token_expiry": "unknown",
-    "operation": "Read-only assignment submissions, own visible grades, timed quizzes and course announcements for all four units.",
-    "checked_at": "2026-11-10T14:57:23.812091+04:00",
+    "operation": "Read-only own assignment submissions, own visible grades, timed quizzes and calendar for all four units.",
+    "checked_at": "2026-11-19T15:27:53.792372+04:00",
     "latest_bus230_a2_check": {
       "checked_at": "2026-11-10T14:57:23.812091+04:00",
       "result": "ok",
@@ -12,16 +12,16 @@
       "evidence": "Archive/Correspondence/2026-11-10_study-status.json"
     },
     "evidence": {
-      "BUS230": "Archive/Correspondence/2026-11-10_study-status.json",
-      "BUS334": "BUS334/2026-TSD/Correspondence/2026-11-10_A4-submission-verified.json",
-      "BUS219": "Archive/Correspondence/2026-11-10_study-status.json",
-      "BUS225": "Archive/Correspondence/2026-11-10_study-status.json"
+      "BUS230": "Archive/Correspondence/2026-11-19_lms-status-check.json",
+      "BUS334": "Archive/Correspondence/2026-11-19_lms-status-check.json",
+      "BUS219": "Archive/Correspondence/2026-11-19_lms-status-check.json",
+      "BUS225": "Archive/Correspondence/2026-11-19_lms-status-check.json"
     },
     "last_success_by_course": {
-      "BUS230": "2026-11-10T14:57:23.812091+04:00",
-      "BUS334": "2026-11-10T18:14:46.288337+04:00",
-      "BUS219": "2026-11-10T14:57:23.812091+04:00",
-      "BUS225": "2026-11-10T14:57:23.812091+04:00"
+      "BUS230": "2026-11-19T15:27:53.792372+04:00",
+      "BUS334": "2026-11-19T15:27:53.792372+04:00",
+      "BUS219": "2026-11-19T15:27:53.792372+04:00",
+      "BUS225": "2026-11-19T15:27:53.792372+04:00"
     },
     "successful_account_check": {
       "userid": 257560
