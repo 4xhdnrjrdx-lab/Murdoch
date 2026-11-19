@@ -22,5 +22,7 @@
 
 Состояние: в работе.
 
+- [Шпаргалка для open book экзамена (печать, 9 страниц A4)](A3/CheatSheet/BUS230_Exam_CheatSheet.pdf) — Брать на practice-тест 21 ноября и экзамен 22 ноября. На practice-тесте ответы строить на ней.
+- [Исходник шпаргалки](A3/CheatSheet/BUS230_Exam_CheatSheet.html) — Править здесь, затем пересобрать PDF.
 - [Текущий план подготовки](A3/Preparation/PLAN_RU.md)
 - [Подтверждённый прогресс и точка следующего занятия](A3/Preparation/PROGRESS.json)

@@ -75,3 +75,5 @@ Faiaz в чате описал своё использование Self Checkout
 - 6 ноября в 17:33 Dubai проверена личная сдача peer review от 16:17:08, до срока 17:00. Файл из Moodle побайтово совпал с актуальной формой. Групповой A2 остаётся сданным. [Проверка](../../Archive/Correspondence/2026-11-06_evening-submission-recheck.json).
 
 - **19 ноября 2026:** Проверка Moodle: A2 Reflective Journal + Service Blueprint оценён 27.60/40 (69%); статус изменён на «оценено». Peer review сдан, оценки нет. [Источник](../../Archive/Correspondence/2026-11-19_lms-status-check.json).
+
+- **19 ноября 2026, экзамены:** Передано объявление преподавателя: 28 ноября 13:30 — practice-тест в формате экзамена, реальный экзамен 29 ноября (время не подтверждено). Closed book, шпаргалка не делается. [Источник](../../Archive/Correspondence/2026-11-19_exam-dates-and-practice-rules.json).
